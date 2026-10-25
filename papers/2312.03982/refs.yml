@@ -1,0 +1,3098 @@
+"Brown2020":
+  type: article
+  title: "A fault-tolerant non-clifford gate for the surface code in two dimensions"
+  author: [{name: "Brown, Benjamin J."}]
+  date: 2020
+  parent: {type: periodical, title: "Science Advances", volume: "6"}
+  doi: "10.1126/sciadv.aay4929"
+
+"Yao2017":
+  type: article
+  title: "Discrete Time Crystals: Rigidity, Criticality, and Realizations"
+  author: [{name: "Yao, N. Y. and Potter, A. C. and Potirniche, I. D. and Vishwanath, A."}]
+  date: 2017
+  parent: {type: periodical, title: "Physical Review Letters", volume: "118"}
+  page-range: "030401"
+  doi: "10.1103/PhysRevLett.118.030401"
+
+"Bravyi2016":
+  type: article
+  title: "Improved Classical Simulation of Quantum Circuits Dominated by Clifford Gates"
+  author: [{name: "Bravyi, Sergey and Gosset, David"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "116"}
+  doi: "10.1103/PhysRevLett.116.250501"
+
+"HonciucMenendez":
+  type: misc
+  title: "Implementing fault-tolerant non-Clifford gates using the [[8,3,2]] color code"
+  author: [{name: "Honciuc Menendez, Daniel and Ray, Annie and Vasmer, Michael"}]
+  serial-number: "arXiv:2309.08663v1"
+
+"Ware":
+  type: misc
+  title: "A sharp phase transition in linear cross-entropy benchmarking"
+  author: [{name: "Ware, Brayden and Deshpande, Abhinav and Hangleiter, Dominik and Niroula, Pradeep and Fefferman, Bill and Gorshkov, Alexey V and Gullans, Michael J"}]
+  serial-number: "arXiv:2305.04954v1"
+
+"Hinsche2023":
+  type: article
+  title: "One T Gate Makes Distribution Learning Hard"
+  author: [{name: "Hinsche, M. and Ioannou, M. and Nietner, A. and Haferkamp, J. and Quek, Y. and Hangleiter, D. and Seifert, J.-P. and Eisert, J. and Sweke, R."}]
+  date: 2023
+  parent: {type: periodical, title: "Physical Review Letters", volume: "130"}
+  doi: "10.1103/physrevlett.130.240602"
+
+"Iyer2017":
+  type: article
+  title: "A Small Quantum Computer is Needed to Optimize Fault-Tolerant Protocols"
+  author: [{name: "Iyer, Pavithran and Poulin, David"}]
+  date: 2017
+  parent: {type: periodical, title: "Quantum Science and Technology", volume: "3"}
+  page-range: "030504"
+  doi: "10.1088/2058-9565/aab73c"
+
+"Lengwenus2010":
+  type: article
+  title: "Coherent transport of atomic quantum states in a scalable shift register"
+  author: [{name: "Lengwenus, A. and Kruse, J. and Schlosser, M. and Tichelmann, S. and Birkl, G."}]
+  date: 2010
+  parent: {type: periodical, title: "Physical Review Letters", volume: "105"}
+  page-range: "170502"
+  doi: "10.1103/PHYSREVLETT.105.170502/FIGURES/6/MEDIUM"
+
+"Briegel2009":
+  type: article
+  title: "Measurement-based quantum computation"
+  author: [{name: "Briegel, H. J. and Browne, D. E. and Dür, W. and Raussendorf, R. and Van Den Nest, M."}]
+  date: 2009
+  parent: {type: periodical, title: "Nature Physics", volume: "5"}
+  page-range: "19-26"
+  doi: "10.1038/nphys1157"
+
+"Huggins2020":
+  type: misc
+  title: "Virtual Distillation for Quantum Error Mitigation"
+  author: [{name: "Huggins, William J. and McArdle, Sam and O'Brien, Thomas E. and Lee, Joonho and Rubin, Nicholas C. and Boixo, Sergio and Whaley, K. Birgitta and Babbush, Ryan and McClean, Jarrod R."}]
+  date: 2020
+  serial-number: "arXiv:2011.07064"
+
+"Yao2012":
+  type: article
+  title: "Experimental demonstration of topological error correction"
+  author: [{name: "Yao, Xing-Can and Wang, Tian-Xiong and Chen, Hao-Ze and Gao, Wei-Bo and Fowler, Austin G and Raussendorf, Robert and Chen, Zeng-Bing and Liu, Nai-Le and Lu, Chao-Yang and Deng, You-Jin and Chen, Yu-Ao and Pan, Jian-Wei"}]
+  date: 2012
+  parent: {type: periodical, title: "Nature"}
+  doi: "10.1038/nature10770"
+
+"Graham2022":
+  type: article
+  title: "Multi-qubit entanglement and algorithms on a neutral-atom quantum computer"
+  author: [{name: "Graham, T. M. and Song, Y. and Scott, J. and Poole, C. and Phuttitarn, L. and Jooya, K. and Eichler, P. and Jiang, X. and Marra, A. and Grinkemeyer, B. and Kwon, M. and Ebert, M. and Cherek, J. and Lichtman, M. T. and Gillette, M. and Gilbert, J. and Bowman, D. and Ballance, T. and Campbell, C. and Dahl, E. D. and Crawford, O. and Blunt, N. S. and Rogers, B. and Noel, T. and Saffman, M."}]
+  date: 2022
+  parent: {type: periodical, title: "Nature", volume: "604"}
+  page-range: "457-462"
+  doi: "10.1038/s41586-022-04603-6"
+
+"Lesanovsky2010":
+  type: article
+  title: "Thermalization in a coherently driven ensemble of two-level systems"
+  author: [{name: "Lesanovsky, Igor and Olmos, Beatriz and Garrahan, Juan P."}]
+  date: 2010
+  parent: {type: periodical, title: "Physical Review Letters", volume: "105"}
+  page-range: "100603"
+  doi: "10.1103/PhysRevLett.105.100603"
+
+"Dennis2002":
+  type: article
+  title: "Topological quantum memory"
+  author: [{name: "Dennis, Eric and Kitaev, Alexei and Landahl, Andrew and Preskill, John"}]
+  date: 2002
+  parent: {type: periodical, title: "Journal of Mathematical Physics", volume: "43"}
+  page-range: "4452-4505"
+  doi: "10.1063/1.1499754"
+
+"Shor1997":
+  type: article
+  title: "Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer"
+  author: [{name: "Shor, Peter W."}]
+  date: 1997
+  parent: {type: periodical, title: "SIAM Journal on Computing", volume: "26"}
+  doi: "10.1137/S0097539795293172"
+
+"Brown2019a":
+  type: misc
+  title: "Quantum Gravity in the Lab: Teleportation by Size and Traversable Wormholes"
+  author: [{name: "Brown, Adam R. and Gharibyan, Hrant and Leichenauer, Stefan and Lin, Henry W. and Nezami, Sepehr and Salton, Grant and Susskind, Leonard and Swingle, Brian and Walter, Michael"}]
+  date: 2019
+  serial-number: "arXiv:1911.06314"
+
+"VonKeyserlingk2016":
+  type: article
+  title: "Absolute stability and spatiotemporal long-range order in Floquet systems"
+  author: [{name: "Von Keyserlingk, C. W. and Khemani, Vedika and Sondhi, S. L."}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review B", volume: "94"}
+  page-range: "085112"
+  doi: "10.1103/PhysRevB.94.085112"
+
+"Lienhard2018":
+  type: article
+  title: "Observing the Space- and Time-Dependent Growth of Correlations in Dynamically Tuned Synthetic Ising Models with Antiferromagnetic Interactions"
+  author: [{name: "Lienhard, Vincent and De Léséleuc, Sylvain and Barredo, Daniel and Lahaye, Thierry and Browaeys, Antoine and Schuler, Michael and Henry, Louis Paul and Läuchli, Andreas M."}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review X", volume: "8"}
+  page-range: "021070"
+  doi: "10.1103/PhysRevX.8.021070"
+
+"Benhelm2008":
+  type: article
+  title: "Towards fault-tolerant quantum computing with trapped ions"
+  author: [{name: "Benhelm, Jan and Kirchmair, Gerhard and Roos, Christian F. and Blatt, Rainer"}]
+  date: 2008
+  parent: {type: periodical, title: "Nature Physics", volume: "4"}
+  page-range: "463-466"
+  doi: "10.1038/nphys961"
+
+"Hein2006":
+  type: article
+  title: "Entanglement in Graph States and its Applications"
+  author: [{name: "Hein, M. and Dür, W. and Eisert, J. and Raussendorf, R. and den Nest, M. Van and Briegel, H. -J."}]
+  date: 2006
+  parent: {type: periodical, title: "Proceedings of the International School of Physics \"Enrico Fermi\"", volume: "162"}
+  page-range: "115-218"
+
+"Gottesman2013":
+  type: article
+  title: "Fault-Tolerant Quantum Computation with Constant Overhead"
+  author: [{name: "Gottesman, Daniel"}]
+  date: 2013
+  parent: {type: periodical, title: "Quantum Information and Computation", volume: "14"}
+  page-range: "1338-1372"
+
+"Molmer1999":
+  type: article
+  title: "Multiparticle Entanglement of Hot Trapped Ions"
+  author: [{name: "Molmer, Klaus and Sorensen, Anders"}]
+  date: 1999
+  parent: {type: periodical, title: "Physical Review Letters", volume: "82"}
+  page-range: "1835"
+  doi: "10.1103/PhysRevLett.82.1835"
+
+"Bernien2017":
+  type: article
+  title: "Probing many-body dynamics on a 51-atom quantum simulator"
+  author: [{name: "Bernien, Hannes and Schwartz, Sylvain and Keesling, Alexander and Levine, Harry and Omran, Ahmed and Pichler, Hannes and Choi, Soonwon and Zibrov, Alexander S. and Endres, Manuel and Greiner, Markus and Vuletic, Vladan and Lukin, Mikhail D."}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "551"}
+  page-range: "579-584"
+  doi: "10.1038/nature24622"
+
+"Lin2019":
+  type: article
+  title: "Exact Quantum Many-Body Scar States in the Rydberg-Blockaded Atom Chain"
+  author: [{name: "Lin, Cheng Ju and Motrunich, Olexei I."}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Letters", volume: "122"}
+  page-range: "173401"
+  doi: "10.1103/PhysRevLett.122.173401"
+
+"Mark2020":
+  type: article
+  title: "Exact eigenstates in the Lesanovsky model, proximity to integrability and the PXP model, and approximate scar states"
+  author: [{name: "Mark, Daniel K. and Lin, Cheng Ju and Motrunich, Olexei I."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review B", volume: "101"}
+  page-range: "094308"
+  doi: "10.1103/PhysRevB.101.094308"
+
+"Levine2019":
+  type: article
+  title: "Parallel Implementation of High-Fidelity Multiqubit Gates with Neutral Atoms"
+  author: [{name: "Levine, Harry and Keesling, Alexander and Semeghini, Giulia and Omran, Ahmed and Wang, Tout T. and Ebadi, Sepehr and Bernien, Hannes and Greiner, Markus and Vuletić, Vladan and Pichler, Hannes and Lukin, Mikhail D."}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Letters", volume: "123"}
+  page-range: "170503"
+  doi: "10.1103/PhysRevLett.123.170503"
+
+"Hangleiter2023":
+  type: misc
+  title: "Bell sampling from quantum circuits"
+  author: [{name: "Hangleiter, Dominik and Gullans, Michael J"}]
+  date: 2023
+  serial-number: "arXiv:2306.00083v2"
+
+"Kubica2015b":
+  type: article
+  title: "Unfolding the color code"
+  author: [{name: "Kubica, Aleksander and Yoshida, Beni and Pastawski, Fernando"}]
+  date: 2015
+  parent: {type: periodical, title: "New Journal of Physics", volume: "17"}
+  doi: "10.1088/1367-2630/17/8/083026"
+
+"Andersen2023":
+  type: article
+  title: "Non-Abelian braiding of graph vertices in a superconducting processor"
+  author: [{name: "Andersen, T. I. and Lensky, Y. D. and Kechedzhi, K. and Drozdov, I. K. and Bengtsson, A. and Hong, S. and Morvan, A. and Mi, X. and Opremcak, A. and Acharya, R. and Allen, R. and Ansmann, M. and Arute, F. and Arya, K. and Asfaw, A. and Atalaya, J. and Babbush, R. and Bacon, D. and Bardin, J. C. and Bortoli, G. and Bourassa, A. and Bovaird, J. and Brill, L. and Broughton, M. and Buckley, B. B. and Buell, D. A. and Burger, T. and Burkett, B. and Bushnell, N. and Chen, Z. and Chiaro, B. and Chik, D. and Chou, C. and Cogan, J. and Collins, R. and Conner, P. and Courtney, W. and Crook, A. L. and Curtin, B. and Debroy, D. M. and Del Toro Barba, A. and Demura, S. and Dunsworth, A. and Eppens, D. and Erickson, C. and Faoro, L. and Farhi, E. and Fatemi, R. and Ferreira, V. S. and Burgos, L. F. and Forati, E. and Fowler, A. G. and Foxen, B. and Giang, W. and Gidney, C. and Gilboa, D. and Giustina, M. and Gosula, R. and Dau, A. G. and Gross, J. A. and Habegger, S. and Hamilton, M. C. and Hansen, M. and Harrigan, M. P. and Harrington, S. D. and Heu, P. and Hilton, J. and Hoffmann, M. R. and Huang, T. and Huff, A. and Huggins, W. J. and Ioffe, L. B. and Isakov, S. V. and Iveland, J. and Jeffrey, E. and Jiang, Z. and Jones, C. and Juhas, P. and Kafri, D. and Khattar, T. and Khezri, M. and Kieferová, M. and Kim, S. and Kitaev, A. and Klimov, P. V. and Klots, A. R. and Korotkov, A. N. and Kostritsa, F. and Kreikebaum, J. M. and Landhuis, D. and Laptev, P. and Lau, K. M. and Laws, L. and Lee, J. and Lee, K. W. and Lester, B. J. and Lill, A. T. and Liu, W. and Locharla, A. and Lucero, E. and Malone, F. D. and Martin, O. and McClean, J. R. and McCourt, T. and McEwen, M. and Miao, K. C. and Mieszala, A. and Mohseni, M. and Montazeri, S. and Mount, E. and Movassagh, R. and Mruczkiewicz, W. and Naaman, O. and Neeley, M. and Neill, C. and Nersisyan, A. and Newman, M. and Ng, J. H. and Nguyen, A. and Nguyen, M. and Niu, M. Y. and O'Brien, T. E. and Omonije, S. and Petukhov, A. and Potter, R. and Pryadko, L. P. and Quintana, C. and Rocque, C. and Rubin, N. C. and Saei, N. and Sank, D. and Sankaragomathi, K. and Satzinger, K. J. and Schurkus, H. F. and Schuster, C. and Shearn, M. J. and Shorter, A. and Shutty, N. and Shvarts, V. and Skruzny, J. and Smith, W. C. and Somma, R. and Sterling, G. and Strain, D. and Szalay, M. and Torres, A. and Vidal, G. and Villalonga, B. and Heidweiller, C. V. and White, T. and Woo, B. W.K. and Xing, C. and Yao, Z. J. and Yeh, P. and Yoo, J. and Young, G. and Zalcman, A. and Zhang, Y. and Zhu, N. and Zobrist, N. and Neven, H. and Boixo, S. and Megrant, A. and Kelly, J. and Chen, Y. and Smelyanskiy, V. and Kim, E. A. and Aleiner, I. and Roushan, P."}]
+  date: 2023
+  parent: {type: periodical, title: "Nature", volume: "618"}
+  page-range: "264-269"
+  doi: "10.1038/s41586-023-05954-4"
+
+"Heller1984":
+  type: article
+  title: "Bound-state eigenfunctions of classically chaotic hamiltonian systems: Scars of periodic orbits"
+  author: [{name: "Heller, Eric J."}]
+  date: 1984
+  parent: {type: periodical, title: "Physical Review Letters", volume: "53"}
+  page-range: "1515"
+  doi: "10.1103/PhysRevLett.53.1515"
+
+"Xia2015a":
+  type: article
+  title: "Randomized benchmarking of single-qubit gates in a 2D array of neutral-atom qubits"
+  author: [{name: "Xia, T and Lichtman, M and Maller, K and Carr, A W and Piotrowicz, M J and Isenhower, L and Saffman, M"}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review Letters", volume: "114"}
+  doi: "10.1103/PhysRevLett.114.100503"
+
+"Litinski2022":
+  type: misc
+  title: "Active volume: An architecture for efficient fault-tolerant quantum computers with limited non-local connections"
+  author: [{name: "Litinski, Daniel and Nickerson, Naomi"}]
+  date: 2022
+  serial-number: "arXiv:2211.15465v1"
+
+"Pichler2016":
+  type: article
+  title: "Measurement Protocol for the Entanglement Spectrum of Cold Atoms"
+  author: [{name: "Pichler, Hannes and Zhu, Guanyu and Seif, Alireza and Zoller, Peter and Hafezi, Mohammad"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review X", volume: "6"}
+  page-range: "041033"
+  doi: "10.1103/PhysRevX.6.041033"
+
+"Yarloo":
+  type: misc
+  title: "Homogeneous Floquet time crystal from weak ergodicity breaking"
+  author: [{name: "Yarloo, H and Kopaei, A Emami and Langari, A"}]
+  serial-number: "arXiv:2007.14982v1"
+
+"Haug2023":
+  type: article
+  title: "Scalable Measures of Magic Resource for Quantum Computers"
+  author: [{name: "Haug, Tobias and Kim, M. S."}]
+  date: 2023
+  parent: {type: periodical, title: "PRX Quantum", volume: "4"}
+  page-range: "010301"
+  doi: "10.1103/PRXQuantum.4.010301"
+
+"Higgott2023New":
+  type: article
+  title: "Improved Decoding of Circuit Noise and Fragile Boundaries of Tailored Surface Codes"
+  author: [{name: "Higgott, Oscar and Bohdanowicz, Thomas C. and Kubica, Aleksander and Flammia, Steven T. and Campbell, Earl T."}]
+  date: 2023
+  parent: {type: periodical, title: "Physical Review X", volume: "13"}
+  page-range: "031007"
+  doi: "10.1103/PhysRevX.13.031007"
+
+"Kalinowski2023":
+  type: article
+  title: "Quantum Advantage of Logical Qubits in Random Transversal Circuit Sampling, in preparation"
+  author: [{name: "Marcin Kalinowski, et al."}]
+  date: 2023
+
+"Boixo2018":
+  type: article
+  title: "Characterizing quantum supremacy in near-term devices"
+  author: [{name: "Boixo, Sergio and Isakov, Sergei V. and Smelyanskiy, Vadim N. and Babbush, Ryan and Ding, Nan and Jiang, Zhang and Bremner, Michael J. and Martinis, John M. and Neven, Hartmut"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature Physics", volume: "14"}
+  page-range: "595-600"
+  doi: "10.1038/s41567-018-0124-x"
+
+"Choi2017":
+  type: article
+  title: "Observation of discrete time-crystalline order in a disordered dipolar many-body system"
+  author: [{name: "Choi, Soonwon and Choi, Joonhee and Landig, Renate and Kucsko, Georg and Zhou, Hengyun and Isoya, Junichi and Jelezko, Fedor and Onoda, Shinobu and Sumiya, Hitoshi and Khemani, Vedika and Von Keyserlingk, Curt and Yao, Norman Y. and Demler, Eugene and Lukin, Mikhail D."}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "543"}
+  page-range: "221-225"
+  doi: "10.1038/nature21426"
+
+"Brown2019":
+  type: misc
+  title: "Quantum Gravity in the Lab: Teleportation by Size and Traversable Wormholes"
+  author: [{name: "Brown, Adam R and Gharibyan, Hrant and Leichenauer, Stefan and Lin, Henry W and Nezami, Sepehr and Salton, Grant and Susskind, Leonard and Swingle, Brian and Walter, Michael"}]
+  date: 2019
+  serial-number: "arXiv:1911.06314v1"
+
+"Wang":
+  type: misc
+  title: "Fault-Tolerant One-Bit Addition with the Smallest Interesting Colour Code"
+  author: [{name: "Wang, Yang and Simsek, Selwyn and Gatterman, Thomas M and Gerber, Justin A and Gilmore, Kevin and Gresh, Dan and Hewitt, Nathan and Horst, Chandler V and Matheny, Mitchell and Mengle, Tanner and Neyenhuis, Brian and Criger, Ben"}]
+  serial-number: "arXiv:2309.09893v1"
+
+"Shor1997b":
+  type: article
+  title: "Fault-tolerant quantum computation"
+  author: [{name: "Shor, Peter W."}]
+  date: 1997
+  parent: {type: periodical, title: "Annual Symposium on Foundations of Computer Science - Proceedings"}
+  page-range: "56-65"
+  doi: "10.1142/9789812385253_0008"
+
+"Mandel2003":
+  type: article
+  title: "Coherent Transport of Neutral Atoms in Spin-Dependent Optical Lattice Potentials"
+  author: [{name: "Mandel, Olaf and Greiner, Markus and Widera, Artur and Rom, Tim and Hänsch, Theodor W. and Bloch, Immanuel"}]
+  date: 2003
+  parent: {type: periodical, title: "Physical Review Letters", volume: "91"}
+  page-range: "010407"
+  doi: "10.1103/PHYSREVLETT.91.010407/FIGURES/6/MEDIUM"
+
+"Bravyi2006":
+  type: article
+  title: "Lieb-Robinson Bounds and the Generation of Correlations and Topological Quantum Order"
+  author: [{name: "Bravyi, S. and Hastings, M. B. and Verstraete, F."}]
+  date: 2006
+  parent: {type: periodical, title: "Physical Review Letters", volume: "97"}
+  page-range: "050401"
+  doi: "10.1103/PhysRevLett.97.050401"
+
+"Egan2021":
+  type: article
+  title: "Fault-tolerant control of an error-corrected qubit"
+  author: [{name: "Egan, Laird and Debroy, Dripto M. and Noel, Crystal and Risinger, Andrew and Zhu, Daiwei and Biswas, Debopriyo and Newman, Michael and Li, Muyuan and Brown, Kenneth R. and Cetina, Marko and Monroe, Christopher"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "598"}
+  page-range: "281-286"
+  doi: "10.1038/s41586-021-03928-y"
+
+"Raussendorf2007":
+  type: article
+  title: "Fault-Tolerant Quantum Computation with High Threshold in Two Dimensions"
+  author: [{name: "Raussendorf, Robert and Harrington, Jim"}]
+  date: 2007
+  parent: {type: periodical, title: "Physical Review Letters", volume: "98"}
+  page-range: "190504"
+  doi: "10.1103/PhysRevLett.98.190504"
+
+"Bluvstein2021":
+  type: article
+  title: "Controlling quantum many-body dynamics in driven Rydberg atom arrays"
+  author: [{name: "Bluvstein, D. and Omran, A. and Levine, H. and Keesling, A. and Semeghini, G. and Ebadi, S. and Wang, T. T. and Michailidis, A. A. and Maskara, N. and Ho, W. W. and Choi, S. and Serbyn, M. and Greiner, M. and Vuletić, V. and Lukin, M. D."}]
+  date: 2021
+  parent: {type: periodical, title: "Science", volume: "371"}
+  page-range: "1355-1359"
+  doi: "10.1126/SCIENCE.ABG2530"
+
+"Ryan-Anderson2021a":
+  type: misc
+  title: "Realization of real-time fault-tolerant quantum error correction"
+  author: [{name: "Ryan-Anderson, C and Bohnet, J G and Lee, K and Gresh, D and Hankin, A and Gaebler, J P and Francois, D and Chernoguzov, A and Lucchetti, D and Brown, N C and Gatterman, T M and Halit, S K and Gilmore, K and Gerber, J and Neyenhuis, B and Hayes, D and Stutz, R P"}]
+  date: 2021
+  serial-number: "arXiv:2107.07505"
+
+"Tan":
+  type: misc
+  title: "Compiling Quantum Circuits for Dynamically Field-Programmable Neutral Atoms Array Processors"
+  author: [{name: "Tan, Daniel Bochen and Bluvstein, Dolev and Lukin, Mikhail D and Cong, Jason"}]
+  serial-number: "arXiv:2306.03487v3"
+
+"LeKien2013v2":
+  type: article
+  title: "Dynamical polarizability of atoms in arbitrary light fields: General theory and application to cesium"
+  author: [{name: "Le Kien, Fam and Schneeweiss, Philipp and Rauschenbeutel, Arno"}]
+  date: 2013
+  parent: {type: periodical, title: "European Physical Journal D", volume: "67"}
+  page-range: "92"
+  doi: "10.1140/epjd/e2013-30729-x"
+
+"Wilson2022":
+  type: article
+  title: "Trapping Alkaline Earth Rydberg Atoms Optical Tweezer Arrays"
+  author: [{name: "Wilson, J. T. and Saskin, S. and Meng, Y. and Ma, S. and Dilip, R. and Burgers, A. P. and Thompson, J. D."}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review Letters", volume: "128"}
+  page-range: "033201"
+  doi: "10.1103/PHYSREVLETT.128.033201/FIGURES/4/MEDIUM"
+
+"Eastin2009":
+  type: article
+  title: "Restrictions on transversal encoded quantum gate sets"
+  author: [{name: "Eastin, Bryan and Knill, Emanuel"}]
+  date: 2009
+  parent: {type: periodical, title: "Physical Review Letters", volume: "102"}
+  page-range: "110502"
+  doi: "10.1103/PhysRevLett.102.110502"
+
+"Langen2015":
+  type: article
+  title: "Experimental observation of a generalized Gibbs ensemble"
+  author: [{name: "Langen, Tim and Erne, Sebastian and Geiger, Remi and Rauer, Bernhard and Schweigler, Thomas and Kuhnert, Maximilian and Rohringer, Wolfgang and Mazets, Igor E. and Gasenzer, Thomas and Schmiedmayer, Jörg"}]
+  date: 2015
+  parent: {type: periodical, title: "Science", volume: "348"}
+  page-range: "207-211"
+  doi: "10.1126/science.1257026"
+
+"Shor1997a":
+  type: article
+  title: "Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer"
+  author: [{name: "Shor, Peter W."}]
+  date: 1997
+  parent: {type: periodical, title: "SIAM Journal on Computing", volume: "26"}
+  page-range: "1484-1509"
+  doi: "10.1137/S0097539795293172"
+
+"Susskind1995":
+  type: article
+  title: "The world as a hologram"
+  author: [{name: "Susskind, Leonard"}]
+  date: 1995
+  parent: {type: periodical, title: "Journal of Mathematical Physics", volume: "36"}
+  page-range: "6377-6399"
+  doi: "10.1063/1.531249"
+
+"Deist2036":
+  type: article
+  title: "Mid-Circuit Cavity Measurement in a Neutral Atom Array"
+  author: [{name: "Deist, Emma and Lu, Yue Hui and Ho, Jacquelyn and Pasha, Mary Kate and Zeiher, Johannes and Yan, Zhenjie and Stamper-Kurn, Dan M"}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review Letters", volume: "129"}
+  page-range: "203602"
+  doi: "10.1103/PhysRevLett.129.203602"
+
+"Islam2015":
+  type: article
+  title: "Measuring entanglement entropy in a quantum many-body system"
+  author: [{name: "Islam, Rajibul and Ma, Ruichao and Preiss, Philipp M. and Eric Tai, M. and Lukin, Alexander and Rispoli, Matthew and Greiner, Markus"}]
+  date: 2015
+  parent: {type: periodical, title: "Nature", volume: "528"}
+  page-range: "77-83"
+  doi: "10.1038/nature15750"
+
+"Dordevic2021":
+  type: article
+  title: "Entanglement transport and a nanophotonic interface for atoms in optical tweezers"
+  author: [{name: "Dordević, Tamara and Samutpraphoot, Polnop and Ocola, Paloma L. and Bernien, Hannes and Grinkemeyer, Brandon and Dimitrova, Ivana and Vuletić, Vladan and Lukin, Mikhail D."}]
+  date: 2021
+  parent: {type: periodical, title: "Science", volume: "373"}
+  page-range: "1511-1514"
+  doi: "10.1126/SCIENCE.ABI9917"
+
+"Ozeri2007":
+  type: article
+  title: "Errors in trapped-ion quantum gates due to spontaneous photon scattering"
+  author: [{name: "Ozeri, R and Itano, W M and Blakestad, R B and Britton, J and Chiaverini, J and Jost, J D and Langer, C and Leibfried, D and Reichle, R and Seidelin, S and Wesenberg, J H and Wineland, D J"}]
+  date: 2007
+  parent: {type: periodical, title: "Physical Review A - Atomic, Molecular, and Optical Physics", volume: "75"}
+  doi: "10.1103/PhysRevA.75.042329"
+
+"Saffman2020":
+  type: article
+  title: "Symmetric Rydberg controlled-<math xmlns"
+  author: [{name: "Saffman, M. and Beterov, I. I. and Dalal, A. and Páez, E. J. and Sanders, B. C."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review A", volume: "101"}
+  page-range: "062309"
+  doi: "10.1103/PhysRevA.101.062309"
+
+"Knill2005":
+  type: article
+  title: "Quantum computing with realistically noisy devices"
+  author: [{name: "Knill, E."}]
+  date: 2005
+  parent: {type: periodical, title: "Nature", volume: "434"}
+  page-range: "39-44"
+  doi: "10.1038/nature03350"
+
+"Norcia2019":
+  type: article
+  title: "Seconds-scale coherence on an optical clock transition in a tweezer array"
+  author: [{name: "Norcia, Matthew A. and Young, Aaron W. and Eckner, William J. and Oelker, Eric and Ye, Jun and Kaufman, Adam M."}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "366"}
+  page-range: "93-97"
+  doi: "10.1126/science.aay0644"
+
+"Lesanovsky2012":
+  type: article
+  title: "Interacting Fibonacci anyons in a Rydberg gas"
+  author: [{name: "Lesanovsky, Igor and Katsura, Hosho"}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review A", volume: "86"}
+  page-range: "041601"
+  doi: "10.1103/PhysRevA.86.041601"
+
+"Mukherjee2020a":
+  type: article
+  title: "Collapse and revival of quantum many-body scars via Floquet engineering"
+  author: [{name: "Mukherjee, Bhaskar and Nandy, Sourav and Sen, Arnab and Sen, Diptiman and Sengupta, K."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review B", volume: "101"}
+  page-range: "245107"
+  doi: "10.1103/PhysRevB.101.245107"
+
+"Kubica2015":
+  type: article
+  title: "Unfolding the color code"
+  author: [{name: "Kubica, Aleksander and Yoshida, Beni and Pastawski, Fernando"}]
+  date: 2015
+  parent: {type: periodical, title: "New Journal of Physics", volume: "17"}
+  page-range: "083026"
+  doi: "10.1088/1367-2630/17/8/083026"
+
+"Haegeman2011":
+  type: article
+  title: "Time-dependent variational principle for quantum lattices"
+  author: [{name: "Haegeman, Jutho and Cirac, J. Ignacio and Osborne, Tobias J. and PiÅorn, Iztok and Verschelde, Henri and Verstraete, Frank"}]
+  date: 2011
+  parent: {type: periodical, title: "Physical Review Letters", volume: "107"}
+  page-range: "070601"
+  doi: "10.1103/PhysRevLett.107.070601"
+
+"Periwal2021":
+  type: misc
+  title: "Programmable Interactions and Emergent Geometry in an Atomic Array"
+  author: [{name: "Periwal, Avikar and Cooper, Eric S. and Kunkel, Philipp and Wienand, Julian F. and Davis, Emily J. and Schleier-Smith, Monika"}]
+  date: 2021
+  serial-number: "arXiv:2106.04070"
+
+"Paletta2023":
+  type: misc
+  title: "Robust sparse IQP sampling in constant depth"
+  author: [{name: "Paletta, Louis and Leverrier, Anthony and Sarlette, Alain and Mirrahimi, Mazyar and Vuillot, Christophe"}]
+  date: 2023
+  serial-number: "arXiv:2307.10729v1"
+
+"Gaetan2009":
+  type: article
+  title: "Observation of collective excitation of two individual atoms in the Rydberg blockade regime"
+  author: [{name: "Gaëtan, Alpha and Miroshnychenko, Yevhen and Wilk, Tatjana and Chotia, Amodsen and Viteau, Matthieu and Comparat, Daniel and Pillet, Pierre and Browaeys, Antoine and Grangier, Philippe"}]
+  date: 2009
+  parent: {type: periodical, title: "Nature Physics", volume: "5"}
+  serial-number: "pages115-118"
+  doi: "10.1038/nphys1183"
+
+"Serbyn2013":
+  type: article
+  title: "Local conservation laws and the structure of the many-body localized states"
+  author: [{name: "Serbyn, Maksym and Papić, Z. and Abanin, Dmitry A."}]
+  date: 2013
+  parent: {type: periodical, title: "Physical Review Letters", volume: "111"}
+  doi: "10.1103/PhysRevLett.111.127201"
+
+"Fu2022":
+  type: article
+  title: "High-fidelity entanglement of neutral atoms via a Rydberg-mediated single-modulated-pulse controlled- phase gate"
+  author: [{name: "Fu, Zhuo and Xu, Peng and Sun, Yuan and Liu, Yang Yang and He, Xiao Dong and Li, Xiao and Liu, Min and Li, Run Bing and Wang, Jin and Liu, Liang and Zhan, Ming Sheng"}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review A", volume: "105"}
+  page-range: "42430"
+  doi: "10.1103/PhysRevA.105.042430"
+
+"Fromonteil":
+  type: misc
+  title: "Protocols for Rydberg entangling gates featuring robustness against quasi-static errors"
+  author: [{name: "Fromonteil, Charles and Bluvstein, Dolev and Pichler, Hannes"}]
+  serial-number: "arXiv:2210.08824v1"
+
+"Vandersypen2005":
+  type: article
+  title: "NMR techniques for quantum control and computation"
+  author: [{name: "Vandersypen, L. M. K. and Chuang, I. L."}]
+  date: 2005
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "76"}
+  page-range: "1037"
+  doi: "10.1103/RevModPhys.76.1037"
+
+"McEwen2023":
+  type: misc
+  title: "Relaxing Hardware Requirements for Surface Code Circuits using Time-dynamics"
+  author: [{name: "McEwen, Matt and Bacon, Dave and Gidney, Craig"}]
+  date: 2023
+  serial-number: "arXiv:2302.02192"
+
+"Zhang2017":
+  type: article
+  title: "Observation of a discrete time crystal"
+  author: [{name: "Zhang, J. and Hess, P. W. and Kyprianidis, A. and Becker, P. and Lee, A. and Smith, J. and Pagano, G. and Potirniche, I. D. and Potter, A. C. and Vishwanath, A. and Yao, N. Y. and Monroe, C."}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "543"}
+  page-range: "217-220"
+  doi: "10.1038/nature21413"
+
+"Ponte2015":
+  type: article
+  title: "Periodically driven ergodic and many-body localized quantum systems"
+  author: [{name: "Ponte, Pedro and Chandran, Anushya and Papić, Z and Abanin, Dmitry A"}]
+  date: 2015
+  parent: {type: periodical, title: "Annals of Physics", volume: "353"}
+  page-range: "196-204"
+  doi: "10.1016/j.aop.2014.11.008"
+
+"Scholl2023":
+  type: misc
+  title: "Erasure conversion in a high-fidelity Rydberg quantum simulator"
+  author: [{name: "Scholl, Pascal and Shaw, Adam L. and Tsai, Richard Bing-Shiun and Finkelstein, Ran and Choi, Joonhee and Endres, Manuel"}]
+  date: 2023
+  serial-number: "arXiv:2305.03406"
+
+"Mezher2020":
+  type: article
+  title: "Fault-tolerant quantum speedup from constant depth quantum circuits"
+  author: [{name: "Mezher, Rawad and Ghalbouni, Joe and Dgheim, Joseph and Markham, Damian"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Research", volume: "2"}
+  page-range: "033444"
+  doi: "10.1103/PHYSREVRESEARCH.2.033444/FIGURES/6/MEDIUM"
+
+"Xia2015":
+  type: article
+  title: "Randomized benchmarking of single-qubit gates in a 2D array of neutral-atom qubits"
+  author: [{name: "Xia, T. and Lichtman, M. and Maller, K. and Carr, A. W. and Piotrowicz, M. J. and Isenhower, L. and Saffman, M."}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review Letters", volume: "114"}
+  page-range: "100503"
+  doi: "10.1103/PHYSREVLETT.114.100503/FIGURES/5/MEDIUM"
+
+"Postler2022":
+  type: article
+  title: "Demonstration of fault-tolerant universal quantum gate operations"
+  author: [{name: "Postler, Lukas and Heußen, Sascha and Pogorelov, Ivan and Rispler, Manuel and Feldker, Thomas and Meth, Michael and Marciniak, Christian D and Stricker, Roman and Ringbauer, Martin and Blatt, Rainer and Schindler, Philipp and Müller, Markus and Monz, Thomas"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature", volume: "605"}
+  page-range: "675-680"
+
+"Satzinger2021":
+  type: misc
+  title: "Realizing topologically ordered states on a quantum processor"
+  author: [{name: "Satzinger, K. J. and Liu, Y. and Smith, A. and Knapp, C. and Newman, M. and Jones, C. and Chen, Z. and Quintana, C. and Mi, X. and Dunsworth, A. and Gidney, C. and Aleiner, I. and Arute, F. and Arya, K. and Atalaya, J. and Babbush, R. and Bardin, J. C. and Barends, R. and Basso, J. and Bengtsson, A. and Bilmes, A. and Broughton, M. and Buckley, B. B. and Buell, D. A. and Burkett, B. and Bushnell, N. and Chiaro, B. and Collins, R. and Courtney, W. and Demura, S. and Derk, A. R. and Eppens, D. and Erickson, C. and Farhi, E. and Foaro, L. and Fowler, A. G. and Foxen, B. and Giustina, M. and Greene, A. and Gross, J. A. and Harrigan, M. P. and Harrington, S. D. and Hilton, J. and Hong, S. and Huang, T. and Huggins, W. J. and Ioffe, L. B. and Isakov, S. V. and Jeffrey, E. and Jiang, Z. and Kafri, D. and Kechedzhi, K. and Khattar, T. and Kim, S. and Klimov, P. V. and Korotkov, A. N. and Kostritsa, F. and Landhuis, D. and Laptev, P. and Locharla, A. and Lucero, E. and Martin, O. and McClean, J. R. and McEwen, M. and Miao, K. C. and Mohseni, M. and Montazeri, S. and Mruczkiewicz, W. and Mutus, J. and Naaman, O. and Neeley, M. and Neill, C. and Niu, M. Y. and O'Brien, T. E. and Opremcak, A. and Pató, B. and Petukhov, A. and Rubin, N. C. and Sank, D. and Shvarts, V. and Strain, D. and Szalay, M. and Villalonga, B. and White, T. C. and Yao, Z. and Yeh, P. and Yoo, J. and Zalcman, A. and Neven, H. and Boixo, S. and Megrant, A. and Chen, Y. and Kelly, J. and Smelyanskiy, V. and Kitaev, A. and Knap, M. and Pollmann, F. and Roushan, P."}]
+  date: 2021
+  serial-number: "arXiv:2104.01180"
+
+"Ebadi2020a":
+  type: misc
+  title: "arXiv:2012.12281"
+  author: [{name: "Ebadi, Sepehr and Wang, Tout T. and Levine, Harry and Keesling, Alexander and Semeghini, Giulia and Omran, Ahmed and Bluvstein, Dolev and Samajdar, Rhine and Pichler, Hannes and Ho, Wen Wei and Choi, Soonwon and Sachdev, Subir and Greiner, Markus and Vuletic, Vladan and Lukin, Mikhail D."}]
+  date: 2020
+  serial-number: "arXiv:2012.12281"
+
+"Gottesman2009":
+  type: misc
+  title: "An Introduction to Quantum Error Correction and Fault-Tolerant Quantum Computation"
+  author: [{name: "Gottesman, Daniel"}]
+  date: 2009
+  serial-number: "arXiv:0904.2557"
+
+"Linke2017":
+  type: article
+  title: "Fault-tolerant quantum error detection"
+  author: [{name: "Linke, Norbert M. and Gutierrez, Mauricio and Landsman, Kevin A. and Figgatt, Caroline and Debnath, Shantanu and Brown, Kenneth R. and Monroe, Christopher"}]
+  date: 2017
+  parent: {type: periodical, title: "Science Advances", volume: "3"}
+  doi: "10.1126/sciadv.1701074"
+
+"Kim2022":
+  type: article
+  title: "High-fidelity three-qubit iToffoli gate for fixed-frequency superconducting qubits"
+  author: [{name: "Kim, Yosep and Morvan, Alexis and Nguyen, Long B. and Naik, Ravi K. and Jünger, Christian and Chen, Larry and Kreikebaum, John Mark and Santiago, David I. and Siddiqi, Irfan"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature Physics", volume: "18"}
+  page-range: "783-788"
+  doi: "10.1038/s41567-022-01590-3"
+
+"Nielsen2010":
+  type: article
+  title: "Quantum Computation and Quantum Information: 10th Anniversary Edition"
+  author: [{name: "Nielsen, Michael A. and Chuang, Isaac L."}]
+  date: 2010
+  parent: {type: periodical, title: "Quantum Computation and Quantum Information"}
+  doi: "10.1017/CBO9780511976667"
+
+"Kuriyattil2023":
+  type: article
+  title: "Onset of Scrambling as a Dynamical Transition in Tunable-Range Quantum Circuits"
+  author: [{name: "Kuriyattil, Sridevi and Hashizume, Tomohiro and Bentsen, Gregory and Daley, Andrew J."}]
+  date: 2023
+  parent: {type: periodical, title: "PRX Quantum", volume: "4"}
+  page-range: "030325"
+  doi: "10.1103/PRXQuantum.4.030325"
+
+"Schauss2015a":
+  type: article
+  title: "Crystallization in Ising quantum magnets"
+  author: [{name: "Schauß, P. and Zeiher, J. and Fukuhara, T. and Hild, S. and Cheneau, M. and Macrì, T. and Pohl, T. and Bloch, I. and Gross, C."}]
+  date: 2015
+  parent: {type: periodical, title: "Science", volume: "347"}
+  page-range: "1455-1458"
+  doi: "10.1126/science.1258351"
+
+"Kaufman2016":
+  type: article
+  title: "Quantum thermalization through entanglement in an isolated many-body system"
+  author: [{name: "Kaufman, Adam M. and Tai, M. Eric and Lukin, Alexander and Rispoli, Matthew and Schittko, Robert and Preiss, Philipp M. and Greiner, Markus"}]
+  date: 2016
+  parent: {type: periodical, title: "Science", volume: "353"}
+  page-range: "794-800"
+  doi: "10.1126/science.aaf6725"
+
+"Jurcevic2021":
+  type: article
+  title: "Demonstration of quantum volume 64 on a superconducting quantum computing system"
+  author: [{name: "Jurcevic, Petar and Javadi-Abhari, Ali and Bishop, Lev S. and Lauer, Isaac and Bogorin, Daniela F. and Brink, Markus and Capelluto, Lauren and Günlük, Oktay and Itoko, Toshinari and Kanazawa, Naoki and Kandala, Abhinav and Keefe, George A. and Krsulich, Kevin and Landers, William and Lewandowski, Eric P. and McClure, Douglas T. and Nannicini, Giacomo and Narasgond, Adinath and Nayfeh, Hasan M. and Pritchett, Emily and Rothwell, Mary Beth and Srinivasan, Srikanth and Sundaresan, Neereja and Wang, Cindy and Wei, Ken X. and Wood, Christopher J. and Yau, Jeng Bang and Zhang, Eric J. and Dial, Oliver E. and Chow, Jerry M. and Gambetta, Jay M."}]
+  date: 2021
+  parent: {type: periodical, title: "Quantum Science and Technology", volume: "6"}
+  page-range: "025020"
+  doi: "10.1088/2058-9565/ABE519"
+
+"Shende2009":
+  type: article
+  title: "On the cnot-cost of toffoli gates"
+  author: [{name: "Shende, Vivek V. and Markov, Igor L."}]
+  date: 2009
+  parent: {type: periodical, title: "Quantum Information and Computation", volume: "9"}
+  doi: "10.26421/qic8.5-6-8"
+
+"Beugnon2007":
+  type: article
+  title: "Two-dimensional transport and transfer of a single atomic qubit in optical tweezers"
+  author: [{name: "Beugnon, Jérôme and Tuchendler, Charles and Marion, Harold and Gaëtan, Alpha and Miroshnychenko, Yevhen and Sortais, Yvan R. P. and Lance, Andrew M. and Jones, Matthew P. A. and Messin, Gaétan and Browaeys, Antoine and Grangier, Philippe"}]
+  date: 2007
+  parent: {type: periodical, title: "Nature Physics", volume: "3"}
+  page-range: "696-699"
+  doi: "10.1038/nphys698"
+
+"Pichler2017":
+  type: article
+  title: "Universal photonic quantum computation via time-delayed feedback"
+  author: [{name: "Pichler, Hannes and Choi, Soonwon and Zoller, Peter and Lukin, Mikhail D"}]
+  date: 2017
+  page-range: "11362-11367"
+  doi: "10.1073/pnas.1711003114"
+
+"Gullion1990":
+  type: article
+  title: "New, compensated Carr-Purcell sequences"
+  author: [{name: "Gullion, Terry and Baker, David B. and Conradi, Mark S."}]
+  date: 1990
+  parent: {type: periodical, title: "Journal of Magnetic Resonance (1969)", volume: "89"}
+  page-range: "479-484"
+  doi: "10.1016/0022-2364(90)90331-3"
+
+"Eisert":
+  type: misc
+  title: "Entanglement and tensor network states"
+  author: [{name: "Eisert, Jens"}]
+  date: 2013
+  serial-number: "arXiv:1308.3318v2"
+
+"Thompson2013":
+  type: article
+  title: "Coherence and Raman Sideband Cooling of a Single Atom in an Optical Tweezer"
+  author: [{name: "Thompson, J. D. and Tiecke, T. G. and Zibrov, A. S. and Vuletić, V. and Lukin, M. D."}]
+  date: 2013
+  parent: {type: periodical, title: "Physical Review Letters", volume: "110"}
+  page-range: "133001"
+  doi: "10.1103/PhysRevLett.110.133001"
+
+"Kaufman2012":
+  type: article
+  title: "Cooling a Single Atom in an Optical Tweezer to Its Quantum Ground State"
+  author: [{name: "Kaufman, A. M. and Lester, B. J. and Regal, C. A."}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review X", volume: "2"}
+  page-range: "041014"
+  doi: "10.1103/PhysRevX.2.041014"
+
+"Nielsen2000":
+  type: article
+  title: "Quantum computation and quantum information"
+  author: [{name: "Nielsen, Michael A. and Chuang, Isaac L."}]
+  date: 2000
+  parent: {type: proceedings, title: "Quantum computation and quantum information"}
+  doi: "10.2277/0521635039"
+
+"Xu2021":
+  type: article
+  title: "Fast Preparation and Detection of a Rydberg Qubit Using Atomic Ensembles"
+  author: [{name: "Xu, Wenchao and Venkatramani, Aditya V. and Cantú, Sergio H. and Šumarac, Tamara and Klüsener, Valentin and Lukin, Mikhail D. and Vuletić, Vladan"}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review Letters", volume: "127"}
+  page-range: "050501"
+  doi: "10.1103/PhysRevLett.127.050501"
+
+"Turner2018a":
+  type: article
+  title: "Quantum scarred eigenstates in a Rydberg atom chain: Entanglement, breakdown of thermalization, and stability to perturbations"
+  author: [{name: "Turner, C. J. and Michailidis, A. A. and Abanin, D. A. and Serbyn, M. and Papić, Z."}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review B", volume: "94"}
+  page-range: "155134"
+  doi: "10.1103/PhysRevB.98.155134"
+
+"Picken2018":
+  type: article
+  title: "Entanglement of neutral-atom qubits with long ground-Rydberg coherence times"
+  author: [{name: "Picken, C J and Legaie, R and McDonnell, K and Pritchard, J D"}]
+  date: 2018
+  parent: {type: periodical, title: "Quantum Science and Technology", volume: "4"}
+  page-range: "015011"
+  doi: "10.1088/2058-9565/AAF019"
+
+"Singh2023":
+  type: article
+  title: "Mid-circuit correction of correlated phase errors using an array of spectator qubits"
+  author: [{name: "Singh, K. and Bradley, C. E. and Anand, S. and Ramesh, V. and White, R. and Bernien, H."}]
+  date: 2023
+  parent: {type: periodical, title: "Science", volume: "380"}
+  page-range: "1265-1269"
+  doi: "10.1126/science.ade5337"
+
+"Raussendorf2006":
+  type: article
+  title: "A fault-tolerant one-way quantum computer"
+  author: [{name: "Raussendorf, R. and Harrington, J. and Goyal, K."}]
+  date: 2006
+  parent: {type: periodical, title: "Annals of Physics", volume: "321"}
+  page-range: "2242-2270"
+  doi: "10.1016/J.AOP.2006.01.012"
+
+"Madjarov2020":
+  type: article
+  title: "High-fidelity entanglement and detection of alkaline-earth Rydberg atoms"
+  author: [{name: "Madjarov, Ivaylo S. and Covey, Jacob P. and Shaw, Adam L. and Choi, Joonhee and Kale, Anant and Cooper, Alexandre and Pichler, Hannes and Schkolnik, Vladimir and Williams, Jason R. and Endres, Manuel"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  doi: "10.1038/s41567-020-0903-z"
+
+"Khemani2019":
+  type: article
+  title: "Signatures of integrability in the dynamics of Rydberg-blockaded chains"
+  author: [{name: "Khemani, Vedika and Laumann, Chris R. and Chandran, Anushya"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review B", volume: "99"}
+  page-range: "161101"
+  doi: "10.1103/PhysRevB.99.161101"
+
+"DAlessio2014":
+  type: article
+  title: "Long-time behavior of isolated periodically driven interacting lattice systems"
+  author: [{name: "D'Alessio, Luca and Rigol, Marcos"}]
+  date: 2014
+  parent: {type: periodical, title: "Physical Review X", volume: "4"}
+  doi: "10.1103/PhysRevX.4.041048"
+
+"Burgers2021":
+  type: misc
+  title: "Controlling Rydberg excitations using ion core transitions in alkaline earth atom tweezer arrays"
+  author: [{name: "Burgers, Alex P and Ma, Shuo and Saskin, Sam and Wilson, Jack and Alarcón, Miguel A and Greene, Chris H and Thompson, Jeff D"}]
+  date: 2021
+  serial-number: "arXiv:2110.06902"
+
+"Breuckmann2021":
+  type: article
+  title: "Quantum Low-Density Parity-Check Codes"
+  author: [{name: "Breuckmann, Nikolas P. and Eberhardt, Jens Niklas"}]
+  date: 2021
+  parent: {type: periodical, title: "PRX Quantum", volume: "2"}
+  page-range: "040101"
+  doi: "10.1103/PRXQuantum.2.040101"
+
+"Delfosse2023":
+  type: misc
+  title: "Spacetime codes of Clifford circuits"
+  author: [{name: "Delfosse, Nicolas and Paetznick, Adam"}]
+  date: 2023
+  serial-number: "arXiv:2304.05943v2"
+
+"Iverson2020New":
+  type: article
+  title: "Coherence in logical quantum channels"
+  author: [{name: "Iverson, Joseph K. and Preskill, John"}]
+  date: 2020
+  parent: {type: periodical, title: "New Journal of Physics", volume: "22"}
+  page-range: "073066"
+  doi: "10.1088/1367-2630/ab8e5c"
+
+"Berent2023":
+  type: misc
+  title: "Decoding quantum color codes with MaxSAT"
+  author: [{name: "Berent, Lucas and Burgholzer, Lukas and Derks, Peter-Jan H. S. and Eisert, Jens and Wille, Robert"}]
+  date: 2023
+  serial-number: "arXiv:2303.14237"
+
+"Wilczek2012":
+  type: article
+  title: "Quantum time crystals"
+  author: [{name: "Wilczek, Frank"}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review Letters", volume: "109"}
+  page-range: "160401"
+  doi: "10.1103/PhysRevLett.109.160401"
+
+"Litinski2017":
+  type: article
+  title: "Combining topological hardware and topological software: Color-code quantum computing with topological superconductor networks"
+  author: [{name: "Litinski, Daniel and Kesselring, Markus S. and Eisert, Jens and Von Oppen, Felix"}]
+  date: 2017
+  parent: {type: proceedings, title: "Physical Review X", volume: "7"}
+  doi: "10.1103/PhysRevX.7.031048"
+
+"Semeghini2021a":
+  type: article
+  title: "Probing topological spin liquids on a programmable quantum simulator"
+  author: [{name: "Semeghini, G. and Levine, H. and Keesling, A. and Ebadi, S. and Wang, T. T. and Bluvstein, D. and Verresen, R. and Pichler, H. and Kalinowski, M. and Samajdar, R. and Omran, A. and Sachdev, S. and Vishwanath, A. and Greiner, M. and Vuletić, V. and Lukin, M. D."}]
+  date: 2021
+  parent: {type: periodical, title: "Science", volume: "374"}
+  page-range: "1242-1247"
+  doi: "10.1126/SCIENCE.ABI8794"
+
+"Theis2016":
+  type: article
+  title: "High-fidelity Rydberg-blockade entangling gate using shaped, analytic pulses"
+  author: [{name: "Theis, L S and Motzoi, F and Wilhelm, F K and Saffman, M"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review A", volume: "94"}
+  page-range: "32306"
+  doi: "10.1103/PhysRevA.94.032306"
+
+"Kocharovskaya1986":
+  type: article
+  title: "Population trapping and coherent bleaching of a three-level medium by a periodic train of ultrashort pulses"
+  author: [{name: "Kocharovskaya, A and Khanin, Ya I"}]
+  date: 1986
+  parent: {type: periodical, title: "Phys. JETP", volume: "63"}
+
+"Liu2023":
+  type: article
+  title: "A Survey of Universal Quantum von Neumann Architecture"
+  author: [{name: "Liu, Yuan Ting and Wang, Kai and Liu, Yuan Dong and Wang, Dong Sheng"}]
+  date: 2023
+  parent: {type: periodical, title: "Entropy", volume: "25"}
+  doi: "10.3390/E25081187"
+
+"Beverland2022":
+  type: misc
+  title: "Assessing requirements to scale to practical quantum advantage"
+  author: [{name: "Beverland, M E and Murali, P and Troyer, M and Svore, K M and Hoefler, T and Kliuchnikov, V and Low, G H and Soeken, M and Sundaram, A and Vaschillo, A"}]
+  date: 2022
+  serial-number: "arXiv:2211.07629v1"
+
+"Raussendorf2001":
+  type: article
+  title: "A One-Way Quantum Computer"
+  author: [{name: "Raussendorf, Robert and Briegel, Hans J."}]
+  date: 2001
+  parent: {type: periodical, title: "Physical Review Letters", volume: "86"}
+  page-range: "5188"
+  doi: "10.1103/PhysRevLett.86.5188"
+
+"Campbell2016":
+  type: article
+  title: "The smallest interesting colour code"
+  author: [{name: "Campbell, Earl T."}]
+  date: 2016
+
+"Satzinger2021a":
+  type: article
+  title: "Realizing topologically ordered states on a quantum processor"
+  author: [{name: "Satzinger, K. J. and Liu, Y.-J and Smith, A. and Knapp, C. and Newman, M. and Jones, C. and Chen, Z. and Quintana, C. and Mi, X. and Dunsworth, A. and Gidney, C. and Aleiner, I. and Arute, F. and Arya, K. and Atalaya, J. and Babbush, R. and Bardin, J. C. and Barends, R. and Basso, J. and Bengtsson, A. and Bilmes, A. and Broughton, M. and Buckley, B. B. and Buell, D. A. and Burkett, B. and Bushnell, N. and Chiaro, B. and Collins, R. and Courtney, W. and Demura, S. and Derk, A. R. and Eppens, D. and Erickson, C. and Faoro, L. and Farhi, E. and Fowler, A. G. and Foxen, B. and Giustina, M. and Greene, A. and Gross, J. A. and Harrigan, M. P. and Harrington, S. D. and Hilton, J. and Hong, S. and Huang, T. and Huggins, W. J. and Ioffe, L. B. and Isakov, S. V. and Jeffrey, E. and Jiang, Z. and Kafri, D. and Kechedzhi, K. and Khattar, T. and Kim, S. and Klimov, P. V. and Korotkov, A. N. and Kostritsa, F. and Landhuis, D. and Laptev, P. and Locharla, A. and Lucero, E. and Martin, O. and McClean, J. R. and McEwen, M. and Miao, K. C. and Mohseni, M. and Montazeri, S. and Mruczkiewicz, W. and Mutus, J. and Naaman, O. and Neeley, M. and Neill, C. and Niu, M. Y. and O'Brien, T. E. and Opremcak, A. and Pató, B. and Petukhov, A. and Rubin, N. C. and Sank, D. and Shvarts, V. and Strain, D. and Szalay, M. and Villalonga, B. and White, T. C. and Yao, Z. and Yeh, P. and Yoo, J. and Zalcman, A. and Neven, H. and Boixo, S. and Megrant, A. and Chen, Y. and Kelly, J. and Smelyanskiy, V. and Kitaev, A. and Knap, M. and Pollmann, F. and Roushan, P."}]
+  date: 2021
+  parent: {type: periodical, title: "Science", volume: "374"}
+  page-range: "1237-1241"
+  doi: "10.1126/SCIENCE.ABI8378"
+
+"Ryan-Anderson2021":
+  type: article
+  title: "Realization of Real-Time Fault-Tolerant Quantum Error Correction"
+  author: [{name: "Ryan-Anderson, C. and Bohnet, J. G. and Lee, K. and Gresh, D. and Hankin, A. and Gaebler, J. P. and Francois, D. and Chernoguzov, A. and Lucchetti, D. and Brown, N. C. and Gatterman, T. M. and Halit, S. K. and Gilmore, K. and Gerber, J. A. and Neyenhuis, B. and Hayes, D. and Stutz, R. P."}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review X", volume: "11"}
+  page-range: "041058"
+  doi: "10.1103/PHYSREVX.11.041058/FIGURES/22/MEDIUM"
+
+"Calderbank1996":
+  type: article
+  title: "Good quantum error-correcting codes exist"
+  author: [{name: "Calderbank, A. R. and Shor, Peter W."}]
+  date: 1996
+  parent: {type: periodical, title: "Physical Review A", volume: "54"}
+  page-range: "1098-1105"
+  doi: "10.1103/PhysRevA.54.1098"
+
+"Bravyi2023":
+  type: misc
+  title: "High-threshold and low-overhead fault-tolerant quantum memory"
+  author: [{name: "Bravyi, Sergey and Cross, Andrew W and Gambetta, Jay M and Maslov, Dmitri and Rall, Patrick and Yoder, Theodore J"}]
+  date: 2023
+  serial-number: "arXiv:2308.07915v1"
+
+"Abanin2015":
+  type: article
+  title: "Exponentially Slow Heating in Periodically Driven Many-Body Systems"
+  author: [{name: "Abanin, Dmitry A. and De Roeck, Wojciech and Huveneers, François"}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review Letters", volume: "115"}
+  page-range: "256803"
+  doi: "10.1103/PhysRevLett.115.256803"
+
+"Feynman1982a":
+  type: article
+  title: "Simulating physics with computers"
+  author: [{name: "Feynman, Richard P."}]
+  date: 1982
+  parent: {type: periodical, title: "International Journal of Theoretical Physics", volume: "21"}
+  page-range: "467-488"
+  doi: "10.1007/BF02650179/METRICS"
+
+"Erhard2021":
+  type: article
+  title: "Entangling logical qubits with lattice surgery"
+  author: [{name: "Erhard, Alexander and Poulsen Nautrup, Hendrik and Meth, Michael and Postler, Lukas and Stricker, Roman and Stadler, Martin and Negnevitsky, Vlad and Ringbauer, Martin and Schindler, Philipp and Briegel, Hans J. and Blatt, Rainer and Friis, Nicolai and Monz, Thomas"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "589"}
+  page-range: "220-224"
+  doi: "10.1038/s41586-020-03079-6"
+
+"Larsen2019a":
+  type: article
+  title: "Deterministic generation of a two-dimensional cluster state"
+  author: [{name: "Larsen, Mikkel V. and Guo, Xueshi and Breum, Casper R. and Neergaard-Nielsen, Jonas S. and Andersen, Ulrik L."}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "366"}
+  page-range: "369-372"
+  doi: "10.1126/SCIENCE.AAY4354"
+
+"Singh2021":
+  type: misc
+  title: "A dual-element, two-dimensional atom array with continuous-mode operation"
+  author: [{name: "Singh, Kevin and Anand, Shraddha and Pocklington, Andrew and Kemp, Jordan T. and Bernien, Hannes"}]
+  date: 2021
+  serial-number: "arXiv:2110.05515"
+
+"Carruthers1965":
+  type: article
+  title: "Coherent States and the Forced Quantum Oscillator"
+  author: [{name: "Carruthers, P. and Nieto, M. M."}]
+  date: 1965
+  parent: {type: periodical, title: "American Journal of Physics", volume: "33"}
+  doi: "10.1119/1.1971895"
+
+"Jandura":
+  type: misc
+  title: "Optimizing Rydberg Gates for Logical Qubit Performance"
+  author: [{name: "Jandura, Sven and Thompson, Jeff D and Pupillo, Guido"}]
+  serial-number: "arXiv:2210.06879v2"
+
+"Gaebler2012":
+  type: article
+  title: "Randomized benchmarking of multiqubit gates"
+  author: [{name: "Gaebler, J. P. and Meier, A. M. and Tan, T. R. and Bowler, R. and Lin, Y. and Hanneke, D. and Jost, J. D. and Home, J. P. and Knill, E. and Leibfried, D. and Wineland, D. J."}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review Letters", volume: "108"}
+  doi: "10.1103/PhysRevLett.108.260503"
+
+"Ma2023a":
+  type: article
+  title: "High-fidelity gates and mid-circuit erasure conversion in an atomic qubit"
+  author: [{name: "Ma, Shuo and Liu, Genyue and Peng, Pai and Zhang, Bichen and Jandura, Sven and Claes, Jahan and Burgers, Alex P and Pupillo, Guido and Puri, Shruti and Thompson, Jeff D and Peng, Pai ✉"}]
+  date: 2023
+  parent: {type: periodical, title: "Nature", volume: "622"}
+  page-range: "279-284"
+  doi: "10.1038/s41586-023-06438-1"
+
+"Schauss2012":
+  type: article
+  title: "Observation of spatially ordered structures in a two-dimensional Rydberg gas"
+  author: [{name: "Schauß, Peter and Cheneau, Marc and Endres, Manuel and Fukuhara, Takeshi and Hild, Sebastian and Omran, Ahmed and Pohl, Thomas and Gross, Christian and Kuhr, Stefan and Bloch, Immanuel"}]
+  date: 2012
+  parent: {type: periodical, title: "Nature", volume: "491"}
+  page-range: "87-91"
+  doi: "10.1038/nature11596"
+
+"Saad1988":
+  type: article
+  title: "Topological Properties of Hypercubes"
+  author: [{name: "Saad, Youcef and Schultz, Martin H."}]
+  date: 1988
+  parent: {type: periodical, title: "IEEE Transactions on Computers", volume: "37"}
+  doi: "10.1109/12.2234"
+
+"Haegeman2016":
+  type: article
+  title: "Unifying time evolution and optimization with matrix product states"
+  author: [{name: "Haegeman, Jutho and Lubich, Christian and Oseledets, Ivan and Vandereycken, Bart and Verstraete, Frank"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review B", volume: "94"}
+  page-range: "165116"
+  doi: "10.1103/PhysRevB.94.165116"
+
+"Michailidis2020":
+  type: article
+  title: "Slow Quantum Thermalization and Many-Body Revivals from Mixed Phase Space"
+  author: [{name: "Michailidis, A. A. and Turner, C. J. and Papić, Z. and Abanin, D. A. and Serbyn, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review X", volume: "10"}
+  page-range: "011055"
+  doi: "10.1103/PhysRevX.10.011055"
+
+"Bombin2015":
+  type: article
+  title: "Single-Shot Fault-Tolerant Quantum Error Correction"
+  author: [{name: "Bombín, Héctor"}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review X", volume: "5"}
+  page-range: "031043"
+  doi: "10.1103/PhysRevX.5.031043"
+
+"Supplement":
+  type: article
+  title: "Materials and methods are available as Supplementary Materials."
+
+"Davis2020":
+  type: article
+  title: "Protecting Spin Coherence in a Tunable Heisenberg Model"
+  author: [{name: "Davis, Emily J. and Periwal, Avikar and Cooper, Eric S. and Bentsen, Gregory and Evered, Simon J. and Kirk, Katherine Van and Schleier-Smith, Monika H."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Letters", volume: "125"}
+  page-range: "060402"
+  doi: "10.1103/PhysRevLett.125.060402"
+
+"Norcia2023":
+  type: misc
+  title: "Mid-circuit qubit measurement and rearrangement in a 171 Yb atomic array"
+  author: [{name: "Norcia, M A and Cairncross, W B and Barnes, K and Battaglino, P and Brown, A and Brown, M O and Cassella, K and Chen, C.-A and Coxe, R and Crow, D and Epstein, J and Griger, C and Jones, A M W and Kim, H and Kindem, J M and King, J and Kondov, S S and Kotru, K and Lauigan, J and Li, M and Lu, M and Megidish, E and Marjanovic, J and Mcdonald, M and Mittiga, T and Muniz, J A and Narayanaswami, S and Nishiguchi, C and Notermans, R and Paule, T and Pawlak, K A and Peng, L S and Ryou, A and Smull, A and Stack, D and Stone, M and Sucich, A and Urbanek, M and Van De Veerdonk, R J M and Vendeiro, Z and Wilkason, T and Wu, T.-Y and Xie, X and Zhang, X and Bloom, B J"}]
+  date: 2023
+  serial-number: "arXiv:2305.19119v3"
+
+"Norcia2018a":
+  type: article
+  title: "Microscopic Control and Detection of Ultracold Strontium in Optical-Tweezer Arrays"
+  author: [{name: "Norcia, M. A. and Young, A. W. and Kaufman, A. M."}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review X", volume: "8"}
+  page-range: "041054"
+  doi: "10.1103/PHYSREVX.8.041054/FIGURES/8/MEDIUM"
+
+"Bornet":
+  type: misc
+  title: "Scalable spin squeezing in a dipolar Rydberg atom array"
+  author: [{name: "Bornet, Guillaume and Emperauger, Gabriel and Chen, Cheng and Ye, Bingtian and Block, Maxwell and Bintz, Marcus and Boyd, Jamie A and Barredo, Daniel and Comparin, Tommaso and Mezzacapo, Fabio and Roscilde, Tommaso and Lahaye, Thierry and Yao, Norman Y and Browaeys, Antoine"}]
+  serial-number: "arXiv:2303.08053v1"
+
+"Boller1991":
+  type: article
+  title: "Observation of electromagnetically induced transparency"
+  author: [{name: "Boller, K. J. and Imamolu, A. and Harris, S. E."}]
+  date: 1991
+  parent: {type: periodical, title: "Physical Review Letters", volume: "66"}
+  page-range: "2593"
+  doi: "10.1103/PhysRevLett.66.2593"
+
+"Choi2019":
+  type: article
+  title: "Emergent SU(2) Dynamics and Perfect Quantum Many-Body Scars"
+  author: [{name: "Choi, Soonwon and Turner, Christopher J. and Pichler, Hannes and Ho, Wen Wei and Michailidis, Alexios A. and Papić, Zlatko and Serbyn, Maksym and Lukin, Mikhail D. and Abanin, Dmitry A."}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Letters", volume: "122"}
+  page-range: "220603"
+  doi: "10.1103/PhysRevLett.122.220603"
+
+"Nigg2014":
+  type: article
+  title: "Quantum computations on a topologically encoded qubit"
+  author: [{name: "Nigg, D. and Müller, M. and Martinez, E. A. and Schindler, P. and Hennrich, M. and Monz, T. and Martin-Delgado, M. A. and Blatt, R."}]
+  date: 2014
+  parent: {type: periodical, title: "Science", volume: "345"}
+  page-range: "302-305"
+  doi: "10.1126/SCIENCE.1253742"
+
+"Wright2019":
+  type: article
+  title: "Benchmarking an 11-qubit quantum computer"
+  author: [{name: "Wright, K. and Beck, K. M. and Debnath, S. and Amini, J. M. and Nam, Y. and Grzesiak, N. and Chen, J.-S. and Pisenti, N. C. and Chmielewski, M. and Collins, C. and Hudek, K. M. and Mizrahi, J. and Wong-Campos, J. D. and Allen, S. and Apisdorf, J. and Solomon, P. and Williams, M. and Ducore, A. M. and Blinov, A. and Kreikemeier, S. M. and Chaplin, V. and Keesan, M. and Monroe, C. and Kim, J."}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Communications", volume: "10"}
+  page-range: "1-6"
+  doi: "10.1038/s41467-019-13534-2"
+
+"Olmos2009":
+  type: article
+  title: "Collective Rydberg excitations of an atomic gas confined in a ring lattice"
+  author: [{name: "Olmos, B. and González-Férez, R. and Lesanovsky, I."}]
+  date: 2009
+  parent: {type: periodical, title: "Physical Review A - Atomic, Molecular, and Optical Physics", volume: "79"}
+  page-range: "043419"
+  doi: "10.1103/PhysRevA.79.043419"
+
+"Krinner2022New":
+  type: article
+  title: "Realizing repeated quantum error correction in a distance-three surface code"
+  author: [{name: "Krinner, Sebastian and Lacroix, Nathan and Remm, Ants and Di Paolo, Agustin and Genois, Elie and Leroux, Catherine and Hellings, Christoph and Lazar, Stefania and Swiadek, Francois and Herrmann, Johannes and Norris, Graham J. and Andersen, Christian Kraglund and Müller, Markus and Blais, Alexandre and Eichler, Christopher and Wallraff, Andreas"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature", volume: "605"}
+  page-range: "669-674"
+  doi: "10.1038/s41586-022-04566-8"
+
+"Barnes2022":
+  type: article
+  title: "Assembly and coherent control of a register of nuclear spin qubits"
+  author: [{name: "Barnes, Katrina and Battaglino, Peter and Bloom, Benjamin J. and Cassella, Kayleigh and Coxe, Robin and Crisosto, Nicole and King, Jonathan P. and Kondov, Stanimir S. and Kotru, Krish and Larsen, Stuart C. and Lauigan, Joseph and Lester, Brian J. and McDonald, Mickey and Megidish, Eli and Narayanaswami, Sandeep and Nishiguchi, Ciro and Notermans, Remy and Peng, Lucas S. and Ryou, Albert and Wu, Tsung Yao and Yarwood, Michael"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature Communications", volume: "13"}
+  page-range: "2779"
+  doi: "10.1038/s41467-022-29977-z"
+
+"Bravyi2019":
+  type: article
+  title: "Simulation of quantum circuits by low-rank stabilizer decompositions"
+  author: [{name: "Bravyi, Sergey and Browne, Dan and Calpin, Padraic and Campbell, Earl and Gosset, David and Howard, Mark"}]
+  date: 2019
+  parent: {type: periodical, title: "Quantum", volume: "3"}
+  page-range: "181"
+  doi: "10.22331/q-2019-09-02-181"
+
+"Else2017":
+  type: article
+  title: "Prethermal phases of matter protected by time-translation symmetry"
+  author: [{name: "Else, Dominic V. and Bauer, Bela and Nayak, Chetan"}]
+  date: 2017
+  parent: {type: periodical, title: "Physical Review X", volume: "7"}
+  page-range: "011026"
+  doi: "10.1103/PhysRevX.7.011026"
+
+"Madsen2022":
+  type: article
+  title: "Quantum computational advantage with a programmable photonic processor"
+  author: [{name: "Madsen, Lars S. and Laudenbach, Fabian and Askarani, Mohsen Falamarzi and Rortais, Fabien and Vincent, Trevor and Bulmer, Jacob F.F. and Miatto, Filippo M. and Neuhaus, Leonhard and Helt, Lukas G. and Collins, Matthew J. and Lita, Adriana E. and Gerrits, Thomas and Nam, Sae Woo and Vaidya, Varun D. and Menotti, Matteo and Dhand, Ish and Vernon, Zachary and Quesada, Nicolás and Lavoie, Jonathan"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature", volume: "606"}
+  page-range: "75-81"
+  doi: "10.1038/s41586-022-04725-x"
+
+"Ebadi2020":
+  type: article
+  title: "Quantum Phases of Matter on a 256-Atom Programmable Quantum Simulator, submitted for publication"
+  author: [{name: "Ebadi, Sepehr and Wang, Tout T. and Levine, Harry and Keesling, Alexander and Semeghini, Giulia and Omran, Ahmed and Bluvstein, Dolev and Samajdar, Rhine and Pichler, Hannes and Ho, Wen Wei and Choi, Soonwon and Sachdev, Subir and Greiner, Markus and Vuletic, Vladan and Lukin, Mikhail D."}]
+  date: 2020
+  parent: {type: proceedings, title: "submitted for publication"}
+
+"Tao2023":
+  type: misc
+  title: "High-fidelity detection of large-scale atom arrays in an optical lattice"
+  author: [{name: "Tao, Renhao and Ammenwerth, Maximilian and Gyger, Flavien and Bloch, Immanuel and Zeiher, Johannes"}]
+  date: 2023
+  serial-number: "arXiv:2309.04717v2"
+
+"Campbell2017":
+  type: article
+  title: "A Fermi-degenerate three-dimensional optical lattice clock"
+  author: [{name: "Campbell, S. L. and Hutson, R. B. and Marti, G. E. and Goban, A. and Darkwah Oppong, N. and McNally, R. L. and Sonderhouse, L. and Robinson, J. M. and Zhang, W. and Bloom, B. J. and Ye, J."}]
+  date: 2017
+  parent: {type: periodical, title: "Science", volume: "358"}
+  page-range: "90-94"
+  doi: "10.1126/SCIENCE.AAM5538/SUPPL_FILE/AAM5538_CAMPBELL_SM.PDF"
+
+"Maskara2021a":
+  type: article
+  title: "Discrete Time-Crystalline Order Enabled by Quantum Many-Body Scars: Entanglement Steering via Periodic Driving"
+  author: [{name: "Maskara, N. and Michailidis, A. A. and Ho, W. W. and Bluvstein, D. and Choi, S. and Lukin, M. D. and Serbyn, M."}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review Letters", volume: "127"}
+  page-range: "090602"
+  doi: "10.1103/PHYSREVLETT.127.090602/FIGURES/4/MEDIUM"
+
+"Maller2015":
+  type: article
+  title: "Rydberg-blockade controlled- not gate and entanglement in a two-dimensional array of neutral-atom qubits"
+  author: [{name: "Maller, K M and Lichtman, M T and Xia, T and Sun, Y and Piotrowicz, M J and Carr, A W and Isenhower, L and Saffman, M"}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review A - Atomic, Molecular, and Optical Physics", volume: "92"}
+  page-range: "22336"
+  doi: "10.1103/PhysRevA.92.022336"
+
+"Pan1998":
+  type: article
+  title: "Experimental entanglement swapping: Entangling photons that never interacted"
+  author: [{name: "Pan, Jian Wei and Bouwmeester, Dik and Weinfurter, Harald and Zeilinger, Anton"}]
+  date: 1998
+  parent: {type: periodical, title: "Physical Review Letters", volume: "80"}
+  doi: "10.1103/PhysRevLett.80.3891"
+
+"Mariantoni2011":
+  type: article
+  title: "Implementing the quantum von Neumann architecture with superconducting circuits"
+  author: [{name: "Mariantoni, Matteo and Wang, H. and Yamamoto, T. and Neeley, M. and Bialczak, Radoslaw C. and Chen, Y. and Lenander, M. and Lucero, Erik and O'Connell, A. D. and Sank, D. and Weides, M. and Wenner, J. and Yin, Y. and Zhao, J. and Korotkov, A. N. and Cleland, A. N. and Martinis, John M."}]
+  date: 2011
+  parent: {type: periodical, title: "Science", volume: "334"}
+  page-range: "61-65"
+  doi: "10.1126/SCIENCE.1208517"
+
+"Pizzi":
+  type: misc
+  title: "To heat or not to heat: time crystallinity and finite-size effects in clean Floquet systems"
+  author: [{name: "Pizzi, Andrea and Malz, Daniel and De Tomasi, Giuseppe and Knolle, Johannes and Nunnenkamp, Andreas"}]
+  serial-number: "arXiv:2009.13527v2"
+
+"Jia2020":
+  type: article
+  title: "Chaos on the hypercube"
+  author: [{name: "Jia, Yiyang and Verbaarschot, Jacobus J.M."}]
+  date: 2020
+  parent: {type: periodical, title: "Journal of High Energy Physics", volume: "2020"}
+  page-range: "1-46"
+  doi: "10.1007/JHEP11(2020)154/METRICS"
+
+"Ludlow2015":
+  type: article
+  title: "Optical atomic clocks"
+  author: [{name: "Ludlow, Andrew D. and Boyd, Martin M. and Ye, Jun and Peik, E. and Schmidt, P. O."}]
+  date: 2015
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "87"}
+  page-range: "637"
+  doi: "10.1103/RevModPhys.87.637"
+
+"Aharonov1999":
+  type: article
+  title: "FAULT-TOLERANT QUANTUM COMPUTATION WITH CONSTANT ERROR RATE *"
+  author: [{name: "Aharonov, Dorit and Ben-Or, Michael"}]
+  date: 1999
+  page-range: "1997"
+
+"Cong2022":
+  type: article
+  title: "Hardware-Efficient, Fault-Tolerant Quantum Computation with Rydberg Atoms"
+  author: [{name: "Cong, Iris and Levine, Harry and Keesling, Alexander and Bluvstein, Dolev and Wang, Sheng Tao and Lukin, Mikhail D."}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review X", volume: "12"}
+  page-range: "021049"
+  doi: "10.1103/PHYSREVX.12.021049/FIGURES/16/MEDIUM"
+
+"Wilson2019":
+  type: misc
+  title: "Trapped arrays of alkaline earth Rydberg atoms in optical tweezers"
+  author: [{name: "Wilson, Jack and Saskin, Samuel and Meng, Yijian and Ma, Shuo and Dilip, Rohit and Burgers, Alex and Thompson, Jeff"}]
+  date: 2019
+  serial-number: "arXiv:1912.08754"
+
+"Hartke2022":
+  type: article
+  title: "Quantum register of fermion pairs"
+  author: [{name: "Hartke, Thomas and Oreg, Botond and Jia, Ningyuan and Zwierlein, Martin"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature", volume: "601"}
+  page-range: "537-541"
+  doi: "10.1038/s41586-021-04205-8"
+
+"Huang2022":
+  type: article
+  title: "Quantum advantage in learning from experiments"
+  author: [{name: "Huang, Hsin Yuan and Broughton, Michael and Cotler, Jordan and Chen, Sitan and Li, Jerry and Mohseni, Masoud and Neven, Hartmut and Babbush, Ryan and Kueng, Richard and Preskill, John and McClean, Jarrod R."}]
+  date: 2022
+  parent: {type: periodical, title: "Science", volume: "376"}
+  page-range: "1182-1186"
+  doi: "10.1126/SCIENCE.ABN7293/SUPPL_FILE/SCIENCE.ABN7293_SM.PDF"
+
+"Levine2018":
+  type: article
+  title: "High-Fidelity Control and Entanglement of Rydberg-Atom Qubits"
+  author: [{name: "Levine, Harry and Keesling, Alexander and Omran, Ahmed and Bernien, Hannes and Schwartz, Sylvain and Zibrov, Alexander S. and Endres, Manuel and Greiner, Markus and Vuletić, Vladan and Lukin, Mikhail D."}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review Letters", volume: "121"}
+  page-range: "123603"
+  doi: "10.1103/PhysRevLett.121.123603"
+
+"Ryan-Anderson2022":
+  type: misc
+  title: "Implementing Fault-tolerant Entangling Gates on the Five-qubit Code and the Color Code"
+  author: [{name: "Ryan-Anderson, C. and Brown, N. C. and Allman, M. S. and Arkin, B. and Asa-Attuah, G. and Baldwin, C. and Berg, J. and Bohnet, J. G. and Braxton, S. and Burdick, N. and Campora, J. P. and Chernoguzov, A. and Esposito, J. and Evans, B. and Francois, D. and Gaebler, J. P. and Gatterman, T. M. and Gerber, J. and Gilmore, K. and Gresh, D. and Hall, A. and Hankin, A. and Hostetter, J. and Lucchetti, D. and Mayer, K. and Myers, J. and Neyenhuis, B. and Santiago, J. and Sedlacek, J. and Skripka, T. and Slattery, A. and Stutz, R. P. and Tait, J. and Tobey, R. and Vittorini, G. and Walker, J. and Hayes, D."}]
+  date: 2022
+  serial-number: "arXiv:2208.01863"
+
+"Moudgalya2018":
+  type: article
+  title: "Entanglement of exact excited states of Affleck-Kennedy-Lieb-Tasaki models: Exact results, many-body scars, and violation of the strong eigenstate thermalization hypothesis"
+  author: [{name: "Moudgalya, Sanjay and Regnault, Nicolas and Bernevig, B. Andrei"}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review B", volume: "98"}
+  doi: "10.1103/PhysRevB.98.235156"
+
+"Wan2020":
+  type: misc
+  title: "Fault-tolerant qubit from a constant number of components"
+  author: [{name: "Wan, Kianna and Choi, Soonwon and Kim, Isaac H and Shutty, Noah and Hayden, Patrick"}]
+  date: 2020
+  serial-number: "arXiv:2011.08213v1"
+
+"Yang2016":
+  type: article
+  title: "Coherence Preservation of a Single Neutral Atom Qubit Transferred between Magic-Intensity Optical Traps"
+  author: [{name: "Yang, Jiaheng and He, Xiaodong and Guo, Ruijun and Xu, Peng and Wang, Kunpeng and Sheng, Cheng and Liu, Min and Wang, Jin and Derevianko, Andrei and Zhan, Mingsheng"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "117"}
+  page-range: "123201"
+  doi: "10.1103/PhysRevLett.117.123201"
+
+"Anderson2014":
+  type: article
+  title: "Fault-Tolerant Conversion between the Steane and Reed-Muller Quantum Codes"
+  author: [{name: "Anderson, Jonas T. and Duclos-Cianci, Guillaume and Poulin, David"}]
+  date: 2014
+  parent: {type: periodical, title: "Physical Review Letters", volume: "113"}
+  page-range: "080501"
+  doi: "10.1103/PhysRevLett.113.080501"
+
+"Horsman2012":
+  type: article
+  title: "Surface code quantum computing by lattice surgery"
+  author: [{name: "Horsman, Clare and Fowler, Austin G and Devitt, Simon and Meter, Rodney Van"}]
+  date: 2012
+  parent: {type: periodical, title: "New Journal of Physics", volume: "14"}
+  page-range: "123011"
+  doi: "10.1088/1367-2630/14/12/123011"
+
+"Cohen2021":
+  type: misc
+  title: "Low-overhead fault-tolerant quantum computing using long-range connectivity"
+  author: [{name: "Cohen, Lawrence Z. and Kim, Isaac H. and Bartlett, Stephen D. and Brown, Benjamin J."}]
+  date: 2021
+  serial-number: "arXiv:2110.10794"
+
+"Pogorelov2021":
+  type: article
+  title: "Compact Ion-Trap Quantum Computing Demonstrator"
+  author: [{name: "Pogorelov, I. and Feldker, T. and Marciniak, Ch D. and Postler, L. and Jacob, G. and Krieglsteiner, O. and Podlesnic, V. and Meth, M. and Negnevitsky, V. and Stadler, M. and Höfer, B. and Wächter, C. and Lakhmanskiy, K. and Blatt, R. and Schindler, P. and Monz, T."}]
+  date: 2021
+  parent: {type: periodical, title: "PRX Quantum", volume: "2"}
+  page-range: "020343"
+  doi: "10.1103/PRXQUANTUM.2.020343/FIGURES/19/MEDIUM"
+
+"Saad1989":
+  type: article
+  title: "Data communication in hypercubes"
+  author: [{name: "Saad, Youcef and Schultz, Martin H."}]
+  date: 1989
+  parent: {type: periodical, title: "Journal of Parallel and Distributed Computing", volume: "6"}
+  doi: "10.1016/0743-7315(89)90045-2"
+
+"Mizuta2020":
+  type: article
+  title: "Exact Floquet Quantum Many-Body Scars under Rydberg Blockade"
+  author: [{name: "Mizuta, Kaoru and Takasan, Kazuaki and Kawakami, Norio"}]
+  date: 2020
+  parent: {type: proceedings, title: "arXiv"}
+  doi: "10.1103/physrevresearch.2.033284"
+
+"Arute2019":
+  type: article
+  title: "Quantum supremacy using a programmable superconducting processor"
+  author: [{name: "Arute, Frank and Arya, Kunal and Babbush, Ryan and Bacon, Dave and Bardin, Joseph C. and Barends, Rami and Biswas, Rupak and Boixo, Sergio and Brandao, Fernando G.S.L. and Buell, David A. and Burkett, Brian and Chen, Yu and Chen, Zijun and Chiaro, Ben and Collins, Roberto and Courtney, William and Dunsworth, Andrew and Farhi, Edward and Foxen, Brooks and Fowler, Austin and Gidney, Craig and Giustina, Marissa and Graff, Rob and Guerin, Keith and Habegger, Steve and Harrigan, Matthew P. and Hartmann, Michael J. and Ho, Alan and Hoffmann, Markus and Huang, Trent and Humble, Travis S. and Isakov, Sergei V. and Jeffrey, Evan and Jiang, Zhang and Kafri, Dvir and Kechedzhi, Kostyantyn and Kelly, Julian and Klimov, Paul V. and Knysh, Sergey and Korotkov, Alexander and Kostritsa, Fedor and Landhuis, David and Lindmark, Mike and Lucero, Erik and Lyakh, Dmitry and Mandrà, Salvatore and McClean, Jarrod R. and McEwen, Matthew and Megrant, Anthony and Mi, Xiao and Michielsen, Kristel and Mohseni, Masoud and Mutus, Josh and Naaman, Ofer and Neeley, Matthew and Neill, Charles and Niu, Murphy Yuezhen and Ostby, Eric and Petukhov, Andre and Platt, John C. and Quintana, Chris and Rieffel, Eleanor G. and Roushan, Pedram and Rubin, Nicholas C. and Sank, Daniel and Satzinger, Kevin J. and Smelyanskiy, Vadim and Sung, Kevin J. and Trevithick, Matthew D. and Vainsencher, Amit and Villalonga, Benjamin and White, Theodore and Yao, Z. Jamie and Yeh, Ping and Zalcman, Adam and Neven, Hartmut and Martinis, John M."}]
+  date: 2019
+  parent: {type: periodical, title: "Nature", volume: "574"}
+  page-range: "505-510"
+  doi: "10.1038/s41586-019-1666-5"
+
+"Pastawski2015":
+  type: article
+  title: "Holographic quantum error-correcting codes: toy models for the bulk/boundary correspondence"
+  author: [{name: "Pastawski, Fernando and Yoshida, Beni and Harlow, Daniel and Preskill, John"}]
+  date: 2015
+  parent: {type: periodical, title: "Journal of High Energy Physics", volume: "2015"}
+  page-range: "149"
+  doi: "10.1007/JHEP06(2015)149"
+
+"Giovannetti2004":
+  type: article
+  title: "Quantum-enhanced measurements: Beating the standard quantum limit"
+  author: [{name: "Giovannetti, Vittorio and Lloyd, Seth and Maccone, Lorenzo"}]
+  date: 2004
+  parent: {type: periodical, title: "Science", volume: "306"}
+  page-range: "1330-1336"
+  doi: "10.1126/science.1104149"
+
+"Graham2023":
+  type: misc
+  title: "Mid-circuit measurements on a neutral atom quantum processor"
+  author: [{name: "Graham, T M and Phuttitarn, L and Chinnarasu, R and Song, Y and Poole, C and Jooya, K and Scott, J and Scott, A and Eichler, P and Saffman, M"}]
+  date: 2023
+  serial-number: "arXiv:2303.10051v2"
+
+"Majer2007":
+  type: article
+  title: "Coupling superconducting qubits via a cavity bus"
+  author: [{name: "Majer, J. and Chow, J. M. and Gambetta, J. M. and Koch, Jens and Johnson, B. R. and Schreier, J. A. and Frunzio, L. and Schuster, D. I. and Houck, A. A. and Wallraff, A. and Blais, A. and Devoret, M. H. and Girvin, S. M. and Schoelkopf, R. J."}]
+  date: 2007
+  parent: {type: periodical, title: "Nature", volume: "449"}
+  page-range: "443-447"
+  doi: "10.1038/nature06184"
+
+"Kim2023":
+  type: article
+  title: "Evidence for the utility of quantum computing before fault tolerance"
+  author: [{name: "Kim, Youngseok and Eddins, Andrew and Anand, Sajant and Wei, Ken Xuan and van den Berg, Ewout and Rosenblatt, Sami and Nayfeh, Hasan and Wu, Yantao and Zaletel, Michael and Temme, Kristan and Kandala, Abhinav"}]
+  date: 2023
+  parent: {type: periodical, title: "Nature", volume: "618"}
+  page-range: "500-505"
+  doi: "10.1038/s41586-023-06096-3"
+
+"Ho2019":
+  type: article
+  title: "Periodic Orbits, Entanglement, and Quantum Many-Body Scars in Constrained Models: Matrix Product State Approach"
+  author: [{name: "Ho, Wen Wei and Choi, Soonwon and Pichler, Hannes and Lukin, Mikhail D."}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Letters", volume: "122"}
+  page-range: "040603"
+  doi: "10.1103/PhysRevLett.122.040603"
+
+"Mukherjee2020":
+  type: article
+  title: "Collapse and revival of quantum many-body scars via Floquet engineering"
+  author: [{name: "Mukherjee, Bhaskar and Nandy, Sourav and Sen, Arnab and Sen, Diptiman and Sengupta, K."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review B", volume: "101"}
+  page-range: "245107"
+  doi: "10.1103/PhysRevB.101.245107"
+
+"Egan2020":
+  type: misc
+  title: "Fault-Tolerant Operation of a Quantum Error-Correction Code"
+  author: [{name: "Egan, Laird and Debroy, Dripto M. and Noel, Crystal and Risinger, Andrew and Zhu, Daiwei and Biswas, Debopriyo and Newman, Michael and Li, Muyuan and Brown, Kenneth R. and Cetina, Marko and Monroe, Christopher"}]
+  date: 2020
+  serial-number: "arXiv:2009.11482"
+
+"Brydges2019":
+  type: article
+  title: "Probing Rényi entanglement entropy via randomized measurements"
+  author: [{name: "Brydges, Tiff and Elben, Andreas and Jurcevic, Petar and Vermersch, Benoît and Maier, Christine and Lanyon, Ben P. and Zoller, Peter and Blatt, Rainer and Roos, Christian F."}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "364"}
+  page-range: "260-263"
+  doi: "10.1126/SCIENCE.AAU4963"
+
+"Else2020":
+  type: article
+  title: "Long-Lived Interacting Phases of Matter Protected by Multiple Time-Translation Symmetries in Quasiperiodically Driven Systems"
+  author: [{name: "Else, Dominic V. and Ho, Wen Wei and Dumitrescu, Philipp T."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review X", volume: "10"}
+  page-range: "021032"
+  doi: "10.1103/PhysRevX.10.021032"
+
+"Aliferis2006":
+  type: article
+  title: "Quantum accuracy threshold for concatenated distance-3 codes"
+  author: [{name: "Aliferis, Panos and Gottesman, Daniel and Preskill, John"}]
+  date: 2006
+  parent: {type: periodical, title: "Quantum Information and Computation", volume: "6"}
+  page-range: "97-165"
+  doi: "10.26421/qic6.2-1"
+
+"Steane1997":
+  type: article
+  title: "Active stabilization, quantum computation, and quantum state synthesis"
+  author: [{name: "Steane, A. M."}]
+  date: 1997
+  parent: {type: periodical, title: "Physical Review Letters", volume: "78"}
+  page-range: "2252"
+  doi: "10.1103/PhysRevLett.78.2252"
+
+"Bluvstein2022":
+  type: article
+  title: "A quantum processor based on coherent transport of entangled atom arrays"
+  author: [{name: "Bluvstein, Dolev and Levine, Harry and Semeghini, Giulia and Wang, Tout T. and Ebadi, Sepehr and Kalinowski, Marcin and Keesling, Alexander and Maskara, Nishad and Pichler, Hannes and Greiner, Markus and Vuletić, Vladan and Lukin, Mikhail D."}]
+  date: 2022
+  parent: {type: periodical, title: "Nature", volume: "604"}
+  page-range: "451-456"
+  doi: "10.1038/s41586-022-04592-6"
+
+"Abanin2019":
+  type: article
+  title: "Colloquium: Many-body localization, thermalization, and entanglement"
+  author: [{name: "Abanin, Dmitry A. and Altman, Ehud and Bloch, Immanuel and Serbyn, Maksym"}]
+  date: 2019
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "91"}
+  page-range: "021001"
+  doi: "10.1103/RevModPhys.91.021001"
+
+"Goto2016":
+  type: article
+  title: "Minimizing resource overheads for fault-tolerant preparation of encoded states of the Steane code"
+  author: [{name: "Goto, Hayato"}]
+  date: 2016
+  parent: {type: periodical, title: "Scientific Reports", volume: "6"}
+  page-range: "19578"
+  doi: "10.1038/srep19578"
+
+"Pompili2021":
+  type: article
+  title: "Realization of a multinode quantum network of remote solid-state qubits"
+  author: [{name: "Pompili, M. and Hermans, S. L.N. and Baier, S. and Beukers, H. K.C. and Humphreys, P. C. and Schouten, R. N. and Vermeulen, R. F.L. and Tiggelman, M. J. and dos Santos Martins, L. and Dirkse, B. and Wehner, S. and Hanson, R."}]
+  date: 2021
+  parent: {type: periodical, title: "Science", volume: "372"}
+  page-range: "259-264"
+  doi: "10.1126/SCIENCE.ABG1919/SUPPL_FILE/ABG1919_POMPILI_SM.PDF"
+
+"Huang2020":
+  type: article
+  title: "Predicting many properties of a quantum system from very few measurements"
+  author: [{name: "Huang, Hsin Yuan and Kueng, Richard and Preskill, John"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "1050-1057"
+  doi: "10.1038/s41567-020-0932-7"
+
+"Saffman2016":
+  type: article
+  title: "Quantum computing with atomic qubits and Rydberg interactions: Progress and challenges"
+  author: [{name: "Saffman, M."}]
+  date: 2016
+  parent: {type: proceedings, title: "Journal of Physics B: Atomic, Molecular and Optical Physics", volume: "49"}
+  doi: "10.1088/0953-4075/49/20/202001"
+
+"Patterson2018":
+  type: article
+  title: "Computer Organization and Design: The Hardware Software Interface - RISC-V Edition"
+  author: [{name: "Patterson, David A. and Hennessy, John L."}]
+  date: 2018
+  parent: {type: proceedings, title: "Elsevier"}
+
+"Sekino2008New":
+  type: article
+  title: "Fast scramblers"
+  author: [{name: "Sekino, Yasuhiro and Susskind, L."}]
+  date: 2008
+  parent: {type: periodical, title: "Journal of High Energy Physics", volume: "2008"}
+  doi: "10.1088/1126-6708/2008/10/065"
+
+"Schwartz2016":
+  type: article
+  title: "Deterministic generation of a cluster state of entangled photons"
+  author: [{name: "Schwartz, I. and Cogan, D. and Schmidgall, E. R. and Don, Y. and Gantz, L. and Kenneth, O. and Lindner, N. H. and Gershoni, D."}]
+  date: 2016
+  parent: {type: periodical, title: "Science", volume: "354"}
+  page-range: "434-437"
+  doi: "10.1126/SCIENCE.AAH4758"
+
+"Berkooz2023":
+  type: misc
+  title: "Parisi's hypercube, Fock-space fluxes, and the microscopics of near-AdS2/near-CFT1 duality"
+  author: [{name: "Berkooz, Micha and Jia, Yiyang and Silberstein, Navot"}]
+  date: 2023
+  serial-number: "arXiv:2310.12335"
+
+"Fan2020":
+  type: article
+  title: "Discrete time crystal in a finite chain of Rydberg atoms without disorder"
+  author: [{name: "Fan, Chu Hui and Rossini, D. and Zhang, Han Xiao and Wu, Jin Hui and Artoni, M. and La Rocca, G. C."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review A", volume: "101"}
+  page-range: "013417"
+  doi: "10.1103/PhysRevA.101.013417"
+
+"Bremner2016":
+  type: article
+  title: "Average-Case Complexity Versus Approximate Simulation of Commuting Quantum Computations"
+  author: [{name: "Bremner, Michael J. and Montanaro, Ashley and Shepherd, Dan J."}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "117"}
+  page-range: "080501"
+  doi: "10.1103/PhysRevLett.117.080501"
+
+"Baldwin2020":
+  type: article
+  title: "Subspace benchmarking high-fidelity entangling operations with trapped ions"
+  author: [{name: "Baldwin, C. H. and Bjork, B. J. and Gaebler, J. P. and Hayes, D. and Stack, D."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Research", volume: "2"}
+  page-range: "013317"
+  doi: "10.1103/PHYSREVRESEARCH.2.013317/FIGURES/4/MEDIUM"
+
+"Couvert2008":
+  type: article
+  title: "Optimal transport of ultracold atoms in the non-adiabatic regime"
+  author: [{name: "Couvert, A. and Kawalec, T. and Reinaudi, G. and Guéry-Odelin, D."}]
+  date: 2008
+  parent: {type: periodical, title: "EPL", volume: "83"}
+  doi: "10.1209/0295-5075/83/13001"
+
+"Yang2020":
+  type: article
+  title: "Cooling and entangling ultracold atoms in optical lattices"
+  author: [{name: "Yang, Bing and Sun, Hui and Huang, Chun Jiong and Wang, Han Yi and Deng, Youjin and Dai, Han Ning and Yuan, Zhen Sheng and Pan, Jian Wei"}]
+  date: 2020
+  parent: {type: periodical, title: "Science", volume: "369"}
+  page-range: "550-553"
+  doi: "10.1126/SCIENCE.AAZ6801/SUPPL_FILE/AAZ6801_YANG_SM.PDF"
+
+"Vasmer":
+  type: article
+  title: "Morphing Quantum Codes"
+  author: [{name: "Vasmer, Michael and Kubica, Aleksander"}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review Applied", volume: "10"}
+  page-range: "030319"
+  doi: "10.1103/PRXQuantum.3.030319"
+
+"Jaksch2000":
+  type: article
+  title: "Fast quantum gates for neutral atoms"
+  author: [{name: "Jaksch, D. and Cirac, J. I. and Zoller, P. and Rolston, S. L. and Côté, R. and Lukin, M. D."}]
+  date: 2000
+  parent: {type: periodical, title: "Physical Review Letters", volume: "85"}
+  page-range: "2208-2211"
+  doi: "10.1103/PhysRevLett.85.2208"
+
+"Gao":
+  type: misc
+  title: "Limitations of Linear Cross-Entropy as a Measure for Quantum Advantage"
+  author: [{name: "Gao, Xun and Kalinowski, Marcin and Chou, Chi-Ning and Lukin, Mikhail D and Barak, Boaz and Choi, Soonwon"}]
+  serial-number: "arXiv:2112.01657v1"
+
+"Schauss2015":
+  type: article
+  title: "Crystallization in Ising quantum magnets"
+  author: [{name: "Schauß, P. and Zeiher, J. and Fukuhara, T. and Hild, S. and Cheneau, M. and Macrì, T. and Pohl, T. and Bloch, I. and Gross, C."}]
+  date: 2015
+  parent: {type: periodical, title: "Science", volume: "347"}
+  page-range: "1455-1458"
+  doi: "10.1126/science.1258351"
+
+"Cirac2000":
+  type: article
+  title: "A scalable quantum computer with ions in an array of microtraps"
+  author: [{name: "Cirac, J. I. and Zoller, P."}]
+  date: 2000
+  parent: {type: periodical, title: "Nature", volume: "404"}
+  page-range: "579-581"
+  doi: "10.1038/35007021"
+
+"Fowler2012":
+  type: article
+  title: "Surface codes: Towards practical large-scale quantum computation"
+  author: [{name: "Fowler, Austin G. and Mariantoni, Matteo and Martinis, John M. and Cleland, Andrew N."}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review A", volume: "86"}
+  page-range: "032324"
+  doi: "10.1103/PhysRevA.86.032324"
+
+"Nandi2010":
+  type: article
+  title: "The quantum Gaussian well"
+  author: [{name: "Nandi, Saikat"}]
+  date: 2010
+  parent: {type: periodical, title: "Citation: American Journal of Physics", volume: "78"}
+  page-range: "1341"
+  doi: "10.1119/1.3474665"
+
+"Wu2022":
+  type: article
+  title: "Erasure conversion for fault-tolerant quantum computing in alkaline earth Rydberg atom arrays"
+  author: [{name: "Wu, Yue and Kolkowitz, Shimon and Puri, Shruti and Thompson, Jeff D."}]
+  date: 2022
+  parent: {type: periodical, title: "Nature Communications", volume: "13"}
+  page-range: "1-7"
+  doi: "10.1038/s41467-022-32094-6"
+
+"Brandl2017":
+  type: misc
+  title: "A Quantum von Neumann Architecture for Large-Scale Quantum Computing"
+  author: [{name: "Brandl, Matthias F"}]
+  date: 2017
+  serial-number: "arXiv:1702.02583v3"
+
+"Zhong2020":
+  type: article
+  title: "Quantum computational advantage using photons"
+  author: [{name: "Zhong, Han-Sen and Wang, Hui and Deng, Yu-Hao and Chen, Ming-Cheng and Peng, Li-Chao and Luo, Yi-Han and Qin, Jian and Wu, Dian and Ding, Xing and Hu, Yi and Hu, Peng and Yang, Xiao-Yan and Zhang, Wei-Jun and Li, Hao and Li, Yuxuan and Jiang, Xiao and Gan, Lin and Yang, Guangwen and You, Lixing and Wang, Zhen and Li, Li and Liu, Nai-Le and Lu, Chao-Yang and Pan, Jian-Wei"}]
+  date: 2020
+  parent: {type: periodical, title: "Science", volume: "370"}
+  page-range: "1460-1463"
+  doi: "10.1126/science.abe8770"
+
+"Greenberger1989":
+  type: article
+  title: "Going Beyond Bell's Theorem"
+  author: [{name: "Greenberger, Daniel M. and Horne, Michael A. and Zeilinger, Anton"}]
+  date: 1989
+  parent: {type: proceedings, title: "Bell's Theorem, Quantum Theory and Conceptions of the Universe"}
+  doi: "10.1007/978-94-017-0849-4_10"
+
+"Cain2023":
+  type: article
+  title: "Correlated decoding of logical qubit algorithms with transversal gates, in preparation"
+  author: [{name: "Madelyn Cain, et al."}]
+  date: 2023
+
+"Mukherjee2020b":
+  type: article
+  title: "Dynamics of the vacuum state in a periodically driven Rydberg chain"
+  author: [{name: "Mukherjee, Bhaskar and Sen, Arnab and Sen, Diptiman and Sengupta, K"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review B", volume: "102"}
+  page-range: "075123"
+  doi: "10.1103/PhysRevB.102.075123"
+
+"Kubica2015a":
+  type: article
+  title: "Universal transversal gates with color codes: A simplified approach"
+  author: [{name: "Kubica, Aleksander and Beverland, Michael E."}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review A", volume: "91"}
+  page-range: "032330"
+  doi: "10.1103/PhysRevA.91.032330"
+
+"Maldacena2016":
+  type: article
+  title: "A bound on chaos"
+  author: [{name: "Maldacena, Juan and Shenker, Stephen H. and Stanford, Douglas"}]
+  date: 2016
+  parent: {type: periodical, title: "Journal of High Energy Physics", volume: "2016"}
+  page-range: "106"
+  doi: "10.1007/JHEP08(2016)106"
+
+"Lundblad2010":
+  type: article
+  title: "Experimental observation of magic-wavelength behavior of <span class"
+  author: [{name: "Lundblad, N. and Schlosser, M. and Porto, J. V."}]
+  date: 2010
+  parent: {type: periodical, title: "Physical Review A", volume: "81"}
+  page-range: "031611"
+  doi: "10.1103/PhysRevA.81.031611"
+
+"Monz2011":
+  type: article
+  title: "14-qubit entanglement: Creation and coherence"
+  author: [{name: "Monz, Thomas and Schindler, Philipp and Barreiro, Julio T. and Chwalla, Michael and Nigg, Daniel and Coish, William A. and Harlander, Maximilian and Hänsel, Wolfgang and Hennrich, Markus and Blatt, Rainer"}]
+  date: 2011
+  parent: {type: periodical, title: "Physical Review Letters", volume: "106"}
+  page-range: "130506"
+  doi: "10.1103/PhysRevLett.106.130506"
+
+"Srakaew2023":
+  type: article
+  title: "A subwavelength atomic array switched by a single Rydberg atom"
+  author: [{name: "Srakaew, Kritsana and Weckesser, Pascal and Hollerith, Simon and Wei, David and Adler, Daniel and Bloch, Immanuel and Zeiher, Johannes"}]
+  date: 2023
+  parent: {type: periodical, title: "Nature Physics"}
+  doi: "10.1038/s41567-023-01959-y"
+
+"Sahay2023":
+  type: misc
+  title: "High threshold codes for neutral atom qubits with biased erasure errors"
+  author: [{name: "Sahay, Kaavya and Jin, Junlan and Claes, Jahan and Thompson, Jeff D and Puri, Shruti"}]
+  date: 2023
+  serial-number: "arXiv:2302.03063v1"
+
+"Luitz2020":
+  type: article
+  title: "Prethermalization without Temperature"
+  author: [{name: "Luitz, David J. and Moessner, Roderich and Sondhi, S. L. and Khemani, Vedika"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review X", volume: "10"}
+  page-range: "021046"
+  doi: "10.1103/PhysRevX.10.021046"
+
+"Hashizume2021":
+  type: article
+  title: "Deterministic Fast Scrambling with Neutral Atom Arrays"
+  author: [{name: "Hashizume, Tomohiro and Bentsen, Gregory S. and Weber, Sebastian and Daley, Andrew J."}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review Letters", volume: "126"}
+  page-range: "200603"
+  doi: "10.1103/PhysRevLett.126.200603"
+
+"Hilder2021":
+  type: misc
+  title: "Fault-tolerant parity readout on a shuttling-based trapped-ion quantum computer"
+  author: [{name: "Hilder, Janine and Pijn, Daniel and Onishchenko, Oleksiy and Stahl, Alexander and Orth, Maximilian and Lekitsch, Björn and Rodriguez-Blanco, Andrea and Müller, Markus and Schmidt-Kaler, Ferdinand and Poschinger, Ulrich"}]
+  date: 2021
+  serial-number: "arXiv:2107.06368"
+
+"Abanin2017":
+  type: article
+  title: "Effective Hamiltonians, prethermalization, and slow energy absorption in periodically driven many-body systems"
+  author: [{name: "Abanin, Dmitry A. and De Roeck, Wojciech and Ho, Wen Wei and Huveneers, François"}]
+  date: 2017
+  parent: {type: periodical, title: "Physical Review B", volume: "95"}
+  doi: "10.1103/PhysRevB.95.014112"
+
+"Cummins2003":
+  type: article
+  title: "Tackling systematic errors in quantum logic gates with composite rotations"
+  author: [{name: "Cummins, Holly K. and Llewellyn, Gavin and Jones, Jonathan A."}]
+  date: 2003
+  parent: {type: periodical, title: "Physical Review A", volume: "67"}
+  page-range: "042308"
+  doi: "10.1103/PhysRevA.67.042308"
+
+"Guardado-Sanchez2018":
+  type: article
+  title: "Probing the Quench Dynamics of Antiferromagnetic Correlations in a 2D Quantum Ising Spin System"
+  author: [{name: "Guardado-Sanchez, Elmer and Brown, Peter T. and Mitra, Debayan and Devakul, Trithep and Huse, David A. and Schauß, Peter and Bakr, Waseem S."}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review X", volume: "8"}
+  page-range: "021069"
+  doi: "10.1103/PhysRevX.8.021069"
+
+"Wu2021":
+  type: article
+  title: "Strong Quantum Computational Advantage Using a Superconducting Quantum Processor"
+  author: [{name: "Wu, Yulin and Bao, Wan Su and Cao, Sirui and Chen, Fusheng and Chen, Ming Cheng and Chen, Xiawei and Chung, Tung Hsun and Deng, Hui and Du, Yajie and Fan, Daojin and Gong, Ming and Guo, Cheng and Guo, Chu and Guo, Shaojun and Han, Lianchen and Hong, Linyin and Huang, He Liang and Huo, Yong Heng and Li, Liping and Li, Na and Li, Shaowei and Li, Yuan and Liang, Futian and Lin, Chun and Lin, Jin and Qian, Haoran and Qiao, Dan and Rong, Hao and Su, Hong and Sun, Lihua and Wang, Liangyuan and Wang, Shiyu and Wu, Dachao and Xu, Yu and Yan, Kai and Yang, Weifeng and Yang, Yang and Ye, Yangsen and Yin, Jianghan and Ying, Chong and Yu, Jiale and Zha, Chen and Zhang, Cha and Zhang, Haibin and Zhang, Kaili and Zhang, Yiming and Zhao, Han and Zhao, Youwei and Zhou, Liang and Zhu, Qingling and Lu, Chao Yang and Peng, Cheng Zhi and Zhu, Xiaobo and Pan, Jian Wei"}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review Letters", volume: "127"}
+  page-range: "180501"
+  doi: "10.1103/PhysRevLett.127.180501"
+
+"Beverland2021":
+  type: article
+  title: "Cost of Universality: A Comparative Study of the Overhead of State Distillation and Code Switching with Color Codes"
+  author: [{name: "Beverland, Michael E. and Kubica, Aleksander and Svore, Krysta M."}]
+  date: 2021
+  parent: {type: periodical, title: "PRX Quantum", volume: "2"}
+  page-range: "020341"
+  doi: "10.1103/PRXQuantum.2.020341"
+
+"Hayden2007":
+  type: article
+  title: "Black holes as mirrors: Quantum information in random subsystems"
+  author: [{name: "Hayden, Patrick and Preskill, John"}]
+  date: 2007
+  parent: {type: periodical, title: "Journal of High Energy Physics", volume: "2007"}
+  page-range: "120"
+  doi: "10.1088/1126-6708/2007/09/120"
+
+"Saffman2010":
+  type: article
+  title: "Quantum information with Rydberg atoms"
+  author: [{name: "Saffman, M and Walker, T G and Mølmer, K"}]
+  date: 2010
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "82"}
+  page-range: "2313-2363"
+  doi: "10.1103/RevModPhys.82.2313"
+
+"Li2020":
+  type: article
+  title: "Quantum Supremacy Circuit Simulation on Sunway TaihuLight"
+  author: [{name: "Li, Riling and Wu, Bujiao and Ying, Mingsheng and Sun, Xiaoming and Yang, Guangwen"}]
+  date: 2020
+  parent: {type: periodical, title: "IEEE Transactions on Parallel and Distributed Systems", volume: "31"}
+  page-range: "805-816"
+  doi: "10.1109/TPDS.2019.2947511"
+
+"Viszlai":
+  type: misc
+  title: "An Architecture for Improved Surface Code Connectivity in Neutral Atoms"
+  author: [{name: "Viszlai, Joshua and Lin, Sophia Fuhui and Dangwal, Siddharth and Baker, Jonathan M and Chong, Frederic T"}]
+  serial-number: "arXiv:2309.13507v1"
+
+"Gottesman1997":
+  type: article
+  title: "Stabilizer Codes and Quantum Error Correction"
+  author: [{name: "Gottesman, Daniel"}]
+  date: 1997
+
+"Scholl2023a":
+  type: article
+  title: "Erasure conversion in a high-fidelity Rydberg quantum simulator"
+  author: [{name: "Scholl, Pascal and Shaw, Adam L and Bing-Shiun Tsai, Richard and Finkelstein, Ran and Choi, Joonhee and Endres, Manuel"}]
+  date: 2023
+  parent: {type: periodical, title: "Nature", volume: "622"}
+  page-range: "273-278"
+  doi: "10.1038/s41586-023-06516-4"
+
+"Schuster2021":
+  type: misc
+  title: "Many-body quantum teleportation via operator spreading in the traversable wormhole protocol"
+  author: [{name: "Schuster, Thomas and Kobrin, Bryce and Gao, Ping and Cong, Iris and Khabiboulline, Emil T. and Linke, Norbert M. and Lukin, Mikhail D. and Monroe, Christopher and Yoshida, Beni and Yao, Norman Y."}]
+  date: 2021
+  serial-number: "arXiv:2102.00010"
+
+"Jandura2022":
+  type: article
+  title: "Time-Optimal Two- And Three-Qubit Gates for Rydberg Atoms"
+  author: [{name: "Jandura, Sven and Pupillo, Guido"}]
+  date: 2022
+  parent: {type: periodical, title: "Quantum", volume: "6"}
+  page-range: "712"
+  doi: "10.22331/Q-2022-05-13-712"
+
+"Yao2020":
+  type: article
+  title: "Classical discrete time crystals"
+  author: [{name: "Yao, Norman Y. and Nayak, Chetan and Balents, Leon and Zaletel, Michael P."}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "438-447"
+  doi: "10.1038/s41567-019-0782-3"
+
+"Bombin2015a":
+  type: article
+  title: "Gauge color codes: optimal transversal gates and gauge fixing in topological stabilizer codes"
+  author: [{name: "Bombín, Héctor"}]
+  date: 2015
+  parent: {type: periodical, title: "New Journal of Physics", volume: "17"}
+  page-range: "083002"
+  doi: "10.1088/1367-2630/17/8/083002"
+
+"Magesan2012":
+  type: article
+  title: "Efficient measurement of quantum gate error by interleaved randomized benchmarking"
+  author: [{name: "Magesan, Easwar and Gambetta, Jay M. and Johnson, B. R. and Ryan, Colm A. and Chow, Jerry M. and Merkel, Seth T. and Da Silva, Marcus P. and Keefe, George A. and Rothwell, Mary B. and Ohki, Thomas A. and Ketchen, Mark B. and Steffen, M."}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review Letters", volume: "109"}
+  doi: "10.1103/PhysRevLett.109.080505"
+
+"Schine2021":
+  type: misc
+  title: "Long-lived Bell states in an array of optical clock qubits"
+  author: [{name: "Schine, Nathan and Young, Aaron W and Eckner, William J and Martin, Michael J and Kaufman, Adam M"}]
+  date: 2021
+  serial-number: "arXiv:2111.14653"
+
+"Young2022":
+  type: article
+  title: "Tweezer-programmable 2D quantum walks in a Hubbard-regime lattice"
+  author: [{name: "Young, Aaron W. and Eckner, William J. and Schine, Nathan and Childs, Andrew M. and Kaufman, Adam M."}]
+  date: 2022
+  parent: {type: periodical, title: "Science", volume: "377"}
+  page-range: "885-889"
+  doi: "10.1126/science.abo0608"
+
+"Gidney2021a":
+  type: article
+  title: "Stim: a fast stabilizer circuit simulator"
+  author: [{name: "Gidney, Craig"}]
+  date: 2021
+  parent: {type: periodical, title: "Quantum", volume: "5"}
+  page-range: "497"
+  doi: "10.22331/q-2021-07-06-497"
+
+"Saskin2019":
+  type: article
+  title: "Narrow-line cooling and imaging of Ytterbium atoms in an optical tweezer array"
+  author: [{name: "Saskin, S. and Wilson, J. T. and Grinkemeyer, B. and Thompson, J. D."}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Letters", volume: "122"}
+  page-range: "143002"
+  doi: "10.1103/PhysRevLett.122.143002"
+
+"Chen2019":
+  type: misc
+  title: "Machine learning logical gates for quantum error correction"
+  author: [{name: "Chen, Hongxiang and Vasmer, Michael and Breuckmann, Nikolas P and Grant, Edward"}]
+  date: 2019
+  serial-number: "arXiv:1912.10063"
+
+"Morvan2023":
+  type: misc
+  title: "Phase transition in Random Circuit Sampling"
+  author: [{name: "Morvan, A. and Villalonga, B. and Mi, X. and Mandrà, S. and Bengtsson, A. and Klimov, P. V. and Chen, Z. and Hong, S. and Erickson, C. and Drozdov, I. K. and Chau, J. and Laun, G. and Movassagh, R. and Asfaw, A. and Brand ao, L. T. A. N. and Peralta, R. and Abanin, D. and Acharya, R. and Allen, R. and Andersen, T. I. and Anderson, K. and Ansmann, M. and Arute, F. and Arya, K. and Atalaya, J. and Bardin, J. C. and Bilmes, A. and Bortoli, G. and Bourassa, A. and Bovaird, J. and Brill, L. and Broughton, M. and Buckley, B. B. and Buell, D. A. and Burger, T. and Burkett, B. and Bushnell, N. and Campero, J. and Chang, H. S. and Chiaro, B. and Chik, D. and Chou, C. and Cogan, J. and Collins, R. and Conner, P. and Courtney, W. and Crook, A. L. and Curtin, B. and Debroy, D. M. and Barba, A. Del Toro and Demura, S. and Di Paolo, A. and Dunsworth, A. and Faoro, L. and Farhi, E. and Fatemi, R. and Ferreira, V. S. and Burgos, L. Flores and Forati, E. and Fowler, A. G. and Foxen, B. and Garcia, G. and Genois, E. and Giang, W. and Gidney, C. and Gilboa, D. and Giustina, M. and Gosula, R. and Dau, A. Grajales and Gross, J. A. and Habegger, S. and Hamilton, M. C. and Hansen, M. and Harrigan, M. P. and Harrington, S. D. and Heu, P. and Hoffmann, M. R. and Huang, T. and Huff, A. and Huggins, W. J. and Ioffe, L. B. and Isakov, S. V. and Iveland, J. and Jeffrey, E. and Jiang, Z. and Jones, C. and Juhas, P. and Kafri, D. and Khattar, T. and Khezri, M. and Kieferová, M. and Kim, S. and Kitaev, A. and Klots, A. R. and Korotkov, A. N. and Kostritsa, F. and Kreikebaum, J. M. and Landhuis, D. and Laptev, P. and Lau, K. -M. and Laws, L. and Lee, J. and Lee, K. W. and Lensky, Y. D. and Lester, B. J. and Lill, A. T. and Liu, W. and Locharla, A. and Malone, F. D. and Martin, O. and Martin, S. and McClean, J. R. and McEwen, M. and Miao, K. C. and Mieszala, A. and Montazeri, S. and Mruczkiewicz, W. and Naaman, O. and Neeley, M. and Neill, C. and Nersisyan, A. and Newman, M. and Ng, J. H. and Nguyen, A. and Nguyen, M. and Niu, M. Yuezhen and O'Brien, T. E. and Omonije, S. and Opremcak, A. and Petukhov, A. and Potter, R. and Pryadko, L. P. and Quintana, C. and Rhodes, D. M. and Rocque, C. and Roushan, P. and Rubin, N. C. and Saei, N. and Sank, D. and Sankaragomathi, K. and Satzinger, K. J. and Schurkus, H. F. and Schuster, C. and Shearn, M. J. and Shorter, A. and Shutty, N. and Shvarts, V. and Sivak, V. and Skruzny, J. and Smith, W. C. and Somma, R. D. and Sterling, G. and Strain, D. and Szalay, M. and Thor, D. and Torres, A. and Vidal, G. and Heidweiller, C. Vollgraff and White, T. and Woo, B. W. K. and Xing, C. and Yao, Z. J. and Yeh, P. and Yoo, J. and Young, G. and Zalcman, A. and Zhang, Y. and Zhu, N. and Zobrist, N. and Rieffel, E. G. and Biswas, R. and Babbush, R. and Bacon, D. and Hilton, J. and Lucero, E. and Neven, H. and Megrant, A. and Kelly, J. and Aleiner, I. and Smelyanskiy, V. and Kechedzhi, K. and Chen, Y. and Boixo, S."}]
+  date: 2023
+  serial-number: "arXiv:2304.11119"
+
+"Serbyn2013a":
+  type: article
+  title: "Universal slow growth of entanglement in interacting strongly disordered systems"
+  author: [{name: "Serbyn, Maksym and Papić, Z. and Abanin, Dmitry A."}]
+  date: 2013
+  parent: {type: periodical, title: "Physical Review Letters", volume: "110"}
+  page-range: "260601"
+  doi: "10.1103/PhysRevLett.110.260601"
+
+"Wu2019":
+  type: article
+  title: "Stern–Gerlach detection of neutral-atom qubits in a state-dependent optical lattice"
+  author: [{name: "Wu, Tsung-Yao and Kumar, Aishwarya and Giraldo, Felipe and Weiss, David S."}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Physics", volume: "15"}
+  page-range: "538-542"
+  doi: "10.1038/s41567-019-0478-8"
+
+"Kitaev2003":
+  type: article
+  title: "Fault-tolerant quantum computation by anyons"
+  author: [{name: "Kitaev, A. Yu"}]
+  date: 2003
+  parent: {type: periodical, title: "Annals of Physics", volume: "303"}
+  page-range: "2-30"
+  doi: "10.1016/S0003-4916(02)00018-0"
+
+"Ozeri2005":
+  type: article
+  title: "Hyperfine coherence in the presence of spontaneous photon scattering"
+  author: [{name: "Ozeri, R and Langer, C and Jost, J D and Demarco, B and Ben-Kish, A and Blakestad, B R and Britton, J and Chiaverini, J and Itano, W M and Hume, D B and Leibfried, D and Rosenband, T and Schmidt, P O and Wineland, D J"}]
+  date: 2005
+  parent: {type: periodical, title: "Physical Review Letters", volume: "95"}
+  doi: "10.1103/PhysRevLett.95.030403"
+
+"Wimperis1994":
+  type: article
+  title: "Broadband, Narrowband, and Passband Composite Pulses for Use in Advanced NMR Experiments"
+  author: [{name: "Wimperis, Stephen"}]
+  date: 1994
+  parent: {type: periodical, title: "Journal of Magnetic Resonance, Series A", volume: "109"}
+  page-range: "221-231"
+  doi: "10.1006/JMRA.1994.1159"
+
+"Lam2021":
+  type: article
+  title: "Demonstration of Quantum Brachistochrones between Distant States of an Atom"
+  author: [{name: "Lam, Manolo R. and Peter, Natalie and Groh, Thorsten and Alt, Wolfgang and Robens, Carsten and Meschede, Dieter and Negretti, Antonio and Montangero, Simone and Calarco, Tommaso and Alberti, Andrea"}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review X", volume: "11"}
+  page-range: "011035"
+  doi: "10.1103/PHYSREVX.11.011035/FIGURES/8/MEDIUM"
+
+"Ates2012":
+  type: article
+  title: "Thermalization of a strongly interacting closed spin system: From coherent many-body dynamics to a Fokker-Planck equation"
+  author: [{name: "Ates, C. and Garrahan, J. P. and Lesanovsky, I."}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review Letters", volume: "108"}
+  page-range: "110603"
+  doi: "10.1103/PhysRevLett.108.110603"
+
+"MacHado2020":
+  type: article
+  title: "Long-Range Prethermal Phases of Nonequilibrium Matter"
+  author: [{name: "MacHado, Francisco and Else, Dominic V. and Kahanamoku-Meyer, Gregory D. and Nayak, Chetan and Yao, Norman Y."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review X", volume: "10"}
+  page-range: "011043"
+  doi: "10.1103/PhysRevX.10.011043"
+
+"Pan2022":
+  type: article
+  title: "Simulation of Quantum Circuits Using the Big-Batch Tensor Network Method"
+  author: [{name: "Pan, Feng and Zhang, Pan"}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review Letters", volume: "128"}
+  page-range: "030501"
+  doi: "10.1103/PhysRevLett.128.030501"
+
+"Shepherd2009":
+  type: article
+  title: "Temporally unstructured quantum computation"
+  author: [{name: "Shepherd, Dan and Bremner, Michael J."}]
+  date: 2009
+  parent: {type: periodical, title: "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences", volume: "465"}
+  doi: "10.1098/rspa.2008.0443"
+
+"Hutzler2017":
+  type: article
+  title: "Eliminating light shifts for single atom trapping"
+  author: [{name: "Hutzler, Nicholas R. and Liu, Lee R. and Yu, Yichao and Ni, Kang Kuen"}]
+  date: 2017
+  parent: {type: periodical, title: "New Journal of Physics", volume: "19"}
+  page-range: "023007"
+  doi: "10.1088/1367-2630/aa5a3b"
+
+"Michailidis2020b":
+  type: article
+  title: "Stabilizing two-dimensional quantum scars by deformation and synchronization"
+  author: [{name: "Michailidis, A. A. and Turner, C. J. and Papić, Z. and Abanin, D. A. and Serbyn, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Research", volume: "2"}
+  page-range: "022065"
+  doi: "10.1103/PhysRevResearch.2.022065"
+
+"Wilk2010":
+  type: article
+  title: "Entanglement of Two Individual Neutral Atoms Using Rydberg Blockade"
+  author: [{name: "Wilk, T. and Gaëtan, A. and Evellin, C. and Wolters, J. and Miroshnychenko, Y. and Grangier, P. and Browaeys, A."}]
+  date: 2010
+  parent: {type: periodical, title: "Physical Review Letters", volume: "104"}
+  page-range: "010502"
+  doi: "10.1103/PhysRevLett.104.010502"
+
+"Bennett1997":
+  type: article
+  title: "Strengths and weaknesses of quantum computing"
+  author: [{name: "Bennett, Charles H. and Bernstein, Ethan and Brassard, Gilles and Vazirani, Umesh"}]
+  date: 1997
+  parent: {type: periodical, title: "SIAM Journal on Computing", volume: "26"}
+  doi: "10.1137/S0097539796300933"
+
+"Souza2012a":
+  type: article
+  title: "Robust dynamical decoupling"
+  author: [{name: "Souza, Alexandre M. and Álvarez, Gonzalo A. and Suter, Dieter"}]
+  date: 2012
+  parent: {type: periodical, title: "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences", volume: "370"}
+  page-range: "4748-4769"
+  doi: "10.1098/RSTA.2011.0355"
+
+"Barends2014":
+  type: article
+  title: "Superconducting quantum circuits at the surface code threshold for fault tolerance"
+  author: [{name: "Barends, R. and Kelly, J. and Megrant, A. and Veitia, A. and Sank, D. and Jeffrey, E. and White, T. C. and Mutus, J. and Fowler, A. G. and Campbell, B. and Chen, Y. and Chen, Z. and Chiaro, B. and Dunsworth, A. and Neill, C. and O'Malley, P. and Roushan, P. and Vainsencher, A. and Wenner, J. and Korotkov, A. N. and Cleland, A. N. and Martinis, John M."}]
+  date: 2014
+  parent: {type: periodical, title: "Nature", volume: "508"}
+  page-range: "500-503"
+  doi: "10.1038/nature13171"
+
+"Phillips2001":
+  type: article
+  title: "Storage of Light in Atomic Vapor"
+  author: [{name: "Phillips, D. F. and Fleischhauer, A. and Mair, A. and Walsworth, R. L. and Lukin, M. D."}]
+  date: 2001
+  parent: {type: periodical, title: "Physical Review Letters", volume: "86"}
+  page-range: "783"
+  doi: "10.1103/PhysRevLett.86.783"
+
+"DAlessio2016":
+  type: article
+  title: "From quantum chaos and eigenstate thermalization to statistical mechanics and thermodynamics"
+  author: [{name: "D'Alessio, Luca and Kafri, Yariv and Polkovnikov, Anatoli and Rigol, Marcos"}]
+  date: 2016
+  parent: {type: proceedings, title: "Advances in Physics", volume: "65"}
+  doi: "10.1080/00018732.2016.1198134"
+
+"Cai2021":
+  type: misc
+  title: "Resource-efficient Purification-based Quantum Error Mitigation"
+  author: [{name: "Cai, Zhenyu"}]
+  date: 2021
+  serial-number: "arXiv:2107.07279"
+
+"Carruthers2005":
+  type: article
+  title: "Coherent States and the Forced Quantum Oscillator"
+  author: [{name: "Carruthers, P. and Nieto, M. M."}]
+  date: 2005
+  parent: {type: periodical, title: "American Journal of Physics", volume: "33"}
+  page-range: "537"
+  doi: "10.1119/1.1971895"
+
+"Khemani2016":
+  type: article
+  title: "Phase Structure of Driven Quantum Systems"
+  author: [{name: "Khemani, Vedika and Lazarides, Achilleas and Moessner, Roderich and Sondhi, S. L."}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "116"}
+  page-range: "250401"
+  doi: "10.1103/PhysRevLett.116.250401"
+
+"Raussendorf2003":
+  type: article
+  title: "Measurement-based quantum computation on cluster states"
+  author: [{name: "Raussendorf, Robert and Browne, Daniel E. and Briegel, Hans J."}]
+  date: 2003
+  parent: {type: periodical, title: "Physical Review A", volume: "68"}
+  page-range: "022312"
+  doi: "10.1103/PhysRevA.68.022312"
+
+"Bremner2011":
+  type: article
+  title: "Classical simulation of commuting quantum computations implies collapse of the polynomial hierarchy"
+  author: [{name: "Bremner, Michael J. and Jozsa, Richard and Shepherd, Dan J."}]
+  date: 2011
+  parent: {type: proceedings, title: "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences", volume: "467"}
+  doi: "10.1098/rspa.2010.0301"
+
+"Chamberland2020":
+  type: article
+  title: "Triangular color codes on trivalent graphs with flag qubits"
+  author: [{name: "Chamberland, Christopher and Kubica, Aleksander and Yoder, Theodore J. and Zhu, Guanyu"}]
+  date: 2020
+  parent: {type: periodical, title: "New Journal of Physics", volume: "22"}
+  page-range: "023019"
+  doi: "10.1088/1367-2630/ab68fd"
+
+"Huse2014":
+  type: article
+  title: "Phenomenology of fully many-body-localized systems"
+  author: [{name: "Huse, David A. and Nandkishore, Rahul and Oganesyan, Vadim"}]
+  date: 2014
+  parent: {type: periodical, title: "Physical Review B - Condensed Matter and Materials Physics", volume: "90"}
+  page-range: "174202"
+  doi: "10.1103/PhysRevB.90.174202"
+
+"Sillanpaa2007":
+  type: article
+  title: "Coherent quantum state storage and transfer between two phase qubits via a resonant cavity"
+  author: [{name: "Sillanpää, Mika A. and Park, Jae I. and Simmonds, Raymond W."}]
+  date: 2007
+  parent: {type: periodical, title: "Nature", volume: "449"}
+  page-range: "438-442"
+  doi: "10.1038/nature06124"
+
+"Bothwell2021":
+  type: misc
+  title: "Resolving the gravitational redshift within a millimeter atomic sample"
+  author: [{name: "Bothwell, Tobias and Kennedy, Colin J and Aeppli, Alexander and Kedar, Dhruv and Robinson, John M and Oelker, Eric and Staron, Alexander and Ye, Jun"}]
+  date: 2021
+  serial-number: "arXiv:2109.12238"
+
+"Saffman2020a":
+  type: article
+  title: "Symmetric rydberg controlled- z gates with adiabatic pulses"
+  author: [{name: "Saffman, M and Beterov, I I and Dalal, A and Páez, E J and Sanders, B C"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review A", volume: "101"}
+  page-range: "62309"
+  doi: "10.1103/PhysRevA.101.062309"
+
+"Eckner2023":
+  type: misc
+  title: "Realizing spin squeezing with Rydberg interactions in a programmable optical clock"
+  author: [{name: "Eckner, William J and Darkwah Oppong, Nelson and Cao, Alec and Young, Aaron W and Milner, William R and Robinson, John M and Ye, Jun and Kaufman, Adam M"}]
+  date: 2023
+  serial-number: "arXiv:2303.08078v1"
+
+"Kuhr2005":
+  type: article
+  title: "Analysis of dephasing mechanisms in a standing-wave dipole trap"
+  author: [{name: "Kuhr, S. and Alt, W. and Schrader, D. and Dotsenko, I. and Miroshnychenko, Y. and Rauschenbeutel, A. and Meschede, D."}]
+  date: 2005
+  parent: {type: periodical, title: "Physical Review A", volume: "72"}
+  page-range: "023406"
+  doi: "10.1103/PhysRevA.72.023406"
+
+"Abanin2017a":
+  type: article
+  title: "A Rigorous Theory of Many-Body Prethermalization for Periodically Driven and Closed Quantum Systems"
+  author: [{name: "Abanin, Dmitry and De Roeck, Wojciech and Ho, Wen Wei and Huveneers, François"}]
+  date: 2017
+  parent: {type: periodical, title: "Communications in Mathematical Physics", volume: "354"}
+  page-range: "809-827"
+  doi: "10.1007/s00220-017-2930-x"
+
+"Gottesman2022":
+  type: misc
+  title: "Opportunities and Challenges in Fault-Tolerant Quantum Computation"
+  author: [{name: "Gottesman, Daniel"}]
+  date: 2022
+  serial-number: "arXiv:2210.15844"
+
+"Abobeih2021":
+  type: misc
+  title: "Fault-tolerant operation of a logical qubit in a diamond quantum processor"
+  author: [{name: "Abobeih, M. H. and Wang, Y. and Randall, J. and Loenen, S. J. H. and Bradley, C. E. and Markham, M. and Twitchen, D. J. and Terhal, B. M. and Taminiau, T. H."}]
+  date: 2021
+  serial-number: "arXiv:2108.01646"
+
+"Bremner2017New":
+  type: article
+  title: "Achieving quantum supremacy with sparse and noisy commuting quantum computations"
+  author: [{name: "Bremner, Michael J. and Montanaro, Ashley and Shepherd, Dan J."}]
+  date: 2017
+  parent: {type: periodical, title: "Quantum", volume: "1"}
+  page-range: "8"
+  doi: "10.22331/q-2017-04-25-8"
+
+"Brown2016":
+  type: article
+  title: "Fault-tolerant error correction with the gauge color code"
+  author: [{name: "Brown, Benjamin J. and Nickerson, Naomi H. and Browne, Dan E."}]
+  date: 2016
+  parent: {type: periodical, title: "Nature Communications", volume: "7"}
+  page-range: "1-8"
+  doi: "10.1038/ncomms12302"
+
+"Turner2018":
+  type: article
+  title: "Weak ergodicity breaking from quantum many-body scars"
+  author: [{name: "Turner, C. J. and Michailidis, A. A. and Abanin, D. A. and Serbyn, M. and Papić, Z."}]
+  date: 2018
+  parent: {type: periodical, title: "Nature Physics", volume: "14"}
+  page-range: "745-749"
+  doi: "10.1038/s41567-018-0137-5"
+
+"Ma2022":
+  type: article
+  title: "Universal Gate Operations on Nuclear Spin Qubits in an Optical Tweezer Array of Yb 171 Atoms"
+  author: [{name: "Ma, Shuo and Burgers, Alex P. and Liu, Genyue and Wilson, Jack and Zhang, Bichen and Thompson, Jeff D."}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review X", volume: "12"}
+  page-range: "021028"
+  doi: "10.1103/PHYSREVX.12.021028/FIGURES/7/MEDIUM"
+
+"Isenhower2010":
+  type: article
+  title: "Demonstration of a neutral atom controlled-nOT quantum gate"
+  author: [{name: "Isenhower, L. and Urban, E. and Zhang, X. L. and Gill, A. T. and Henage, T. and Johnson, T. A. and Walker, T. G. and Saffman, M."}]
+  date: 2010
+  parent: {type: periodical, title: "Physical Review Letters", volume: "104"}
+  page-range: "010503"
+  doi: "10.1103/PHYSREVLETT.104.010503/FIGURES/4/MEDIUM"
+
+"Gidney2021":
+  type: article
+  title: "How to factor 2048 bit RSA integers in 8 hours using 20 million noisy qubits"
+  author: [{name: "Gidney, Craig and Ekerå, Martin"}]
+  date: 2021
+  parent: {type: periodical, title: "Quantum", volume: "5"}
+  page-range: "433"
+  doi: "10.22331/Q-2021-04-15-433"
+
+"Cooper2018":
+  type: article
+  title: "Alkaline-Earth Atoms in Optical Tweezers"
+  author: [{name: "Cooper, Alexandre and Covey, Jacob P. and Madjarov, Ivaylo S. and Porsev, Sergey G. and Safronova, Marianna S. and Endres, Manuel"}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review X", volume: "8"}
+  page-range: "041055"
+  doi: "10.1103/PhysRevX.8.041055"
+
+"Evered2023":
+  type: misc
+  title: "High-fidelity parallel entangling gates on a neutral atom quantum computer"
+  author: [{name: "Evered, Simon J and Bluvstein, Dolev and Kalinowski, Marcin and Ebadi, Sepehr and Manovitz, Tom and Zhou, Hengyun and Li, Sophie H and Geim, Alexandra A and Wang, Tout T and Maskara, Nishad and Levine, Harry and Semeghini, Giulia and Greiner, Markus and Vuleti´cvuleti´c, Vladan and Lukin, Mikhail D"}]
+  date: 2023
+  serial-number: "arXiv:2304.05420v1"
+
+"Tana":
+  type: misc
+  title: "Compiling Quantum Circuits for Dynamically Field-Programmable Neutral Atoms Array Processors"
+  author: [{name: "Tan, Daniel Bochen and Bluvstein, Dolev and Lukin, Mikhail D and Cong, Jason"}]
+  serial-number: "arXiv:2306.03487v3"
+
+"Schreiber2015":
+  type: article
+  title: "Observation of many-body localization of interacting fermions in a quasirandom optical lattice"
+  author: [{name: "Schreiber, Michael and Hodgman, Sean S. and Bordia, Pranjal and Lüschen, Henrik P. and Fischer, Mark H. and Vosk, Ronen and Altman, Ehud and Schneider, Ulrich and Bloch, Immanuel"}]
+  date: 2015
+  parent: {type: periodical, title: "Science", volume: "349"}
+  page-range: "842-845"
+  doi: "10.1126/science.aaa7432"
+
+"Koczor2021":
+  type: article
+  title: "Exponential Error Suppression for Near-Term Quantum Devices"
+  author: [{name: "Koczor, Bálint"}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review X", volume: "11"}
+  page-range: "031057"
+  doi: "10.1103/PhysRevX.11.031057"
+
+"Quantum2023":
+  type: article
+  title: "Suppressing quantum errors by scaling a surface code logical qubit"
+  author: [{name: "Quantum, Google"}]
+  date: 2023
+  parent: {type: periodical, title: "Nature", volume: "614"}
+  page-range: "676-681"
+  doi: "10.1038/s41586-022-05434-1"
+
+"Zheng2021":
+  type: misc
+  title: "High precision differential clock comparisons with a multiplexed optical lattice clock"
+  author: [{name: "Zheng, Xin and Dolde, Jonathan and Lochab, Varun and Merriman, Brett N. and Li, Haoran and Kolkowitz, Shimon"}]
+  date: 2021
+  serial-number: "arXiv:2109.12237"
+
+"Feynman1982":
+  type: article
+  title: "Simulating physics with computers"
+  author: [{name: "Feynman, Richard P."}]
+  date: 1982
+  parent: {type: periodical, title: "International Journal of Theoretical Physics", volume: "21"}
+  doi: "10.1007/BF02650179"
+
+"Fendley2004":
+  type: article
+  title: "Competing density-wave orders in a one-dimensional hard-boson model"
+  author: [{name: "Fendley, Paul and Sengupta, K. and Sachdev, Subir"}]
+  date: 2004
+  parent: {type: periodical, title: "Physical Review B", volume: "69"}
+  page-range: "075106"
+  doi: "10.1103/PhysRevB.69.075106"
+
+"Hong":
+  type: misc
+  title: "Long-range-enhanced surface codes"
+  author: [{name: "Hong, Yifan and Marinelli, Matteo and Kaufman, Adam M and Lucas, Andrew"}]
+  serial-number: "arXiv:2309.11719v2"
+
+"Bravyi2018New":
+  type: article
+  title: "Correcting coherent errors with surface codes"
+  author: [{name: "Bravyi, Sergey and Englbrecht, Matthias and König, Robert and Peard, Nolan"}]
+  date: 2018
+  parent: {type: periodical, title: "npj Quantum Information", volume: "4"}
+  page-range: "55"
+  doi: "10.1038/s41534-018-0106-y"
+
+"Norcia2018":
+  type: article
+  title: "Microscopic Control and Detection of Ultracold Strontium in Optical-Tweezer Arrays"
+  author: [{name: "Norcia, M. A. and Young, A. W. and Kaufman, A. M."}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review X", volume: "8"}
+  page-range: "041054"
+  doi: "10.1103/PhysRevX.8.041054"
+
+"Levine2021":
+  type: article
+  title: "Dispersive optics for scalable Raman driving of hyperfine qubits"
+  author: [{name: "Levine, Harry and Bluvstein, Dolev and Keesling, Alexander and Wang, Tout T. and Semeghini, Giulia and Ebadi, Sepehr and Omran, Ahmed and Greiner, Markus and Vuletić, Vladan and Lukin, Mikhail D."}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review A", volume: "105"}
+  page-range: "032618"
+
+"Souza2012":
+  type: article
+  title: "Robust dynamical decoupling"
+  author: [{name: "Souza, Alexandre M. and Lvarez, Gonzalo A. and Suter, Dieter"}]
+  date: 2012
+  parent: {type: periodical, title: "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences", volume: "370"}
+  page-range: "4748-4769"
+  doi: "10.1098/RSTA.2011.0355"
+
+"Srednicki1994":
+  type: article
+  title: "Chaos and quantum thermalization"
+  author: [{name: "Srednicki, Mark"}]
+  date: 1994
+  parent: {type: periodical, title: "Physical Review E", volume: "50"}
+  page-range: "888"
+  doi: "10.1103/PhysRevE.50.888"
+
+"Yang2016a":
+  type: article
+  title: "Coherence Preservation of a Single Neutral Atom Qubit Transferred between Magic-Intensity Optical Traps"
+  author: [{name: "Yang, Jiaheng and He, Xiaodong and Guo, Ruijun and Xu, Peng and Wang, Kunpeng and Sheng, Cheng and Liu, Min and Wang, Jin and Derevianko, Andrei and Zhan, Mingsheng"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "117"}
+  page-range: "123201"
+  doi: "10.1103/PHYSREVLETT.117.123201/FIGURES/5/MEDIUM"
+
+"Maeda2007":
+  type: article
+  title: "Topological fault-tolerance in cluster state quantum computation"
+  author: [{name: "Maeda, Kiyotaka and Takahashi, Masashi and Shi, Yu and Waks, Edo and Raussendorf, R and Harrington, J and Goyal, K"}]
+  date: 2007
+  parent: {type: periodical, title: "New Journal of Physics", volume: "9"}
+  page-range: "199"
+  doi: "10.1088/1367-2630/9/6/199"
+
+"Isenhower2010a":
+  type: article
+  title: "Demonstration of a neutral atom controlled-nOT quantum gate"
+  author: [{name: "Isenhower, L. and Urban, E. and Zhang, X. L. and Gill, A. T. and Henage, T. and Johnson, T. A. and Walker, T. G. and Saffman, M."}]
+  date: 2010
+  parent: {type: periodical, title: "Physical Review Letters", volume: "104"}
+  page-range: "010503"
+  doi: "10.1103/PhysRevLett.104.010503"
+
+"Chen2021":
+  type: article
+  title: "Exponential suppression of bit or phase errors with cyclic error correction"
+  author: [{name: "Chen, Zijun and Satzinger, Kevin J. and Atalaya, Juan and Korotkov, Alexander N. and Dunsworth, Andrew and Sank, Daniel and Quintana, Chris and McEwen, Matt and Barends, Rami and Klimov, Paul V. and Hong, Sabrina and Jones, Cody and Petukhov, Andre and Kafri, Dvir and Demura, Sean and Burkett, Brian and Gidney, Craig and Fowler, Austin G. and Paler, Alexandru and Putterman, Harald and Aleiner, Igor and Arute, Frank and Arya, Kunal and Babbush, Ryan and Bardin, Joseph C. and Bengtsson, Andreas and Bourassa, Alexandre and Broughton, Michael and Buckley, Bob B. and Buell, David A. and Bushnell, Nicholas and Chiaro, Benjamin and Collins, Roberto and Courtney, William and Derk, Alan R. and Eppens, Daniel and Erickson, Catherine and Farhi, Edward and Foxen, Brooks and Giustina, Marissa and Greene, Ami and Gross, Jonathan A. and Harrigan, Matthew P. and Harrington, Sean D. and Hilton, Jeremy and Ho, Alan and Huang, Trent and Huggins, William J. and Ioffe, L. B. and Isakov, Sergei V. and Jeffrey, Evan and Jiang, Zhang and Kechedzhi, Kostyantyn and Kim, Seon and Kitaev, Alexei and Kostritsa, Fedor and Landhuis, David and Laptev, Pavel and Lucero, Erik and Martin, Orion and McClean, Jarrod R. and McCourt, Trevor and Mi, Xiao and Miao, Kevin C. and Mohseni, Masoud and Montazeri, Shirin and Mruczkiewicz, Wojciech and Mutus, Josh and Naaman, Ofer and Neeley, Matthew and Neill, Charles and Newman, Michael and Niu, Murphy Yuezhen and O'Brien, Thomas E. and Opremcak, Alex and Ostby, Eric and Pató, Bálint and Redd, Nicholas and Roushan, Pedram and Rubin, Nicholas C. and Shvarts, Vladimir and Strain, Doug and Szalay, Marco and Trevithick, Matthew D. and Villalonga, Benjamin and White, Theodore and Yao, Z. Jamie and Yeh, Ping and Yoo, Juhwan and Zalcman, Adam and Neven, Hartmut and Boixo, Sergio and Smelyanskiy, Vadim and Chen, Yu and Megrant, Anthony and Kelly, Julian"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "595"}
+  page-range: "383-387"
+  doi: "10.1038/s41586-021-03588-y"
+
+"Cotler2019":
+  type: article
+  title: "Quantum Virtual Cooling"
+  author: [{name: "Cotler, Jordan and Choi, Soonwon and Lukin, Alexander and Gharibyan, Hrant and Grover, Tarun and Tai, M. Eric and Rispoli, Matthew and Schittko, Robert and Preiss, Philipp M. and Kaufman, Adam M. and Greiner, Markus and Pichler, Hannes and Hayden, Patrick"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review X", volume: "9"}
+  page-range: "031013"
+  doi: "10.1103/PhysRevX.9.031013"
+
+"Bouland2019":
+  type: article
+  title: "On the complexity and verification of quantum random circuit sampling"
+  author: [{name: "Bouland, Adam and Fefferman, Bill and Nirkhe, Chinmay and Vazirani, Umesh"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Physics", volume: "15"}
+  page-range: "159-163"
+  doi: "10.1038/s41567-018-0318-2"
+
+"BonillaAtaides2021":
+  type: article
+  title: "The XZZX surface code"
+  author: [{name: "Bonilla Ataides, J. Pablo and Tuckett, David K. and Bartlett, Stephen D. and Flammia, Steven T. and Brown, Benjamin J."}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Communications", volume: "12"}
+  page-range: "1-12"
+  doi: "10.1038/s41467-021-22274-1"
+
+"Bolt2016":
+  type: article
+  title: "Foliated Quantum Error-Correcting Codes"
+  author: [{name: "Bolt, A. and Duclos-Cianci, G. and Poulin, D. and Stace, T. M."}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "117"}
+  page-range: "070501"
+  doi: "10.1103/PhysRevLett.117.070501"
+
+"Huang2020a":
+  type: article
+  title: "Predicting many properties of a quantum system from very few measurements"
+  author: [{name: "Huang, Hsin Yuan and Kueng, Richard and Preskill, John"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "1050-1057"
+  doi: "10.1038/s41567-020-0932-7"
+
+"Evered2023a":
+  type: article
+  title: "High-fidelity parallel entangling gates on a neutral-atom quantum computer"
+  author: [{name: "Evered, Simon J and Bluvstein, Dolev and Kalinowski, Marcin and Ebadi, Sepehr and Manovitz, Tom and Zhou, Hengyun and Li, Sophie H and Geim, Alexandra A and Wang, Tout T and Maskara, Nishad and Levine, Harry and Semeghini, Giulia and Greiner, Markus and Vuletić, Vladan and Lukin, Mikhail D and John, Harvard and Paulson, A and Kalinowski, Marcin ✉"}]
+  date: 2023
+  parent: {type: periodical, title: "Nature", volume: "622"}
+  page-range: "268-272"
+  doi: "10.1038/s41586-023-06481-y"
+
+"Flammia2011":
+  type: article
+  title: "Direct fidelity estimation from few Pauli measurements"
+  author: [{name: "Flammia, Steven T. and Liu, Yi Kai"}]
+  date: 2011
+  parent: {type: periodical, title: "Physical Review Letters", volume: "106"}
+  page-range: "230501"
+  doi: "10.1103/PhysRevLett.106.230501"
+
+"Landsman2019":
+  type: article
+  title: "Verified quantum information scrambling"
+  author: [{name: "Landsman, K. A. and Figgatt, C. and Schuster, T. and Linke, N. M. and Yoshida, B. and Yao, N. Y. and Monroe, C."}]
+  date: 2019
+  parent: {type: periodical, title: "Nature", volume: "567"}
+  doi: "10.1038/s41586-019-0952-6"
+
+"Rubio-Abadal2020":
+  type: article
+  title: "Floquet Prethermalization in a Bose-Hubbard System"
+  author: [{name: "Rubio-Abadal, Antonio and Ippoliti, Matteo and Hollerith, Simon and Wei, David and Rui, Jun and Sondhi, S. L. and Khemani, Vedika and Gross, Christian and Bloch, Immanuel"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review X", volume: "10"}
+  doi: "10.1103/PhysRevX.10.021044"
+
+"Labuhn2016":
+  type: article
+  title: "Tunable two-dimensional arrays of single Rydberg atoms for realizing quantum Ising models"
+  author: [{name: "Labuhn, Henning and Barredo, Daniel and Ravets, Sylvain and De Léséleuc, Sylvain and Macrì, Tommaso and Lahaye, Thierry and Browaeys, Antoine"}]
+  date: 2016
+  parent: {type: periodical, title: "Nature", volume: "534"}
+  page-range: "667-670"
+  doi: "10.1038/nature18274"
+
+"Cong":
+  type: misc
+  title: "Hardware-Efficient, Fault-Tolerant Quantum Computation with Rydberg Atoms"
+  author: [{name: "Cong, Iris and Wang, Sheng-Tao and Levine, Harry and Keesling, Alexander and Lukin, Mikhail D"}]
+  date: 2021
+  serial-number: "arXiv:2105.13501"
+
+"Monz2009":
+  type: article
+  title: "Realization of the quantum Toffoli gate with trapped ions"
+  author: [{name: "Monz, T and Kim, K and Hänsel, W and Riebe, M and Villar, A S and Schindler, P and Chwalla, M and Hennrich, M and Blatt, R"}]
+  date: 2009
+  parent: {type: periodical, title: "Physical Review Letters", volume: "102"}
+  doi: "10.1103/PhysRevLett.102.040501"
+
+"Semeghini2021":
+  type: misc
+  title: "Probing Topological Spin Liquids on a Programmable Quantum Simulator"
+  author: [{name: "Semeghini, Giulia and Levine, Harry and Keesling, Alexander and Ebadi, Sepehr and Wang, Tout T. and Bluvstein, Dolev and Verresen, Ruben and Pichler, Hannes and Kalinowski, Marcin and Samajdar, Rhine and Omran, Ahmed and Sachdev, Subir and Vishwanath, Ashvin and Greiner, Markus and Vuletic, Vladan and Lukin, Mikhail D."}]
+  date: 2021
+  serial-number: "arXiv:2104.04119"
+
+"Ebadi2021":
+  type: article
+  title: "Quantum phases of matter on a 256-atom programmable quantum simulator"
+  author: [{name: "Ebadi, Sepehr and Wang, Tout T. and Levine, Harry and Keesling, Alexander and Semeghini, Giulia and Omran, Ahmed and Bluvstein, Dolev and Samajdar, Rhine and Pichler, Hannes and Ho, Wen Wei and Choi, Soonwon and Sachdev, Subir and Greiner, Markus and Vuletić, Vladan and Lukin, Mikhail D."}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "595"}
+  page-range: "227-232"
+  doi: "10.1038/s41586-021-03582-4"
+
+"Scholl2021":
+  type: article
+  title: "Quantum simulation of 2D antiferromagnets with hundreds of Rydberg atoms"
+  author: [{name: "Scholl, Pascal and Schuler, Michael and Williams, Hannah J. and Eberharter, Alexander A. and Barredo, Daniel and Schymik, Kai Niklas and Lienhard, Vincent and Henry, Louis Paul and Lang, Thomas C. and Lahaye, Thierry and Läuchli, Andreas M. and Browaeys, Antoine"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "595"}
+  page-range: "233-238"
+  doi: "10.1038/s41586-021-03585-1"
+
+"Quantum":
+  type: misc
+  title: "Phase transition in Random Circuit Sampling"
+  author: [{name: "Quantum, Google"}]
+  serial-number: "arXiv:2304.11119v1"
+
+"Shor1996":
+  type: article
+  title: "Fault-tolerant quantum computation"
+  author: [{name: "Shor, Peter W."}]
+  date: 1996
+  parent: {type: proceedings, title: "Annual Symposium on Foundations of Computer Science - Proceedings"}
+  page-range: "56-65"
+
+"Steane1996":
+  type: article
+  title: "Multiple-particle interference and quantum error correction"
+  author: [{name: "Steane, Andrew"}]
+  date: 1996
+  parent: {type: periodical, title: "Proceedings of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences", volume: "452"}
+  page-range: "2551-2577"
+  doi: "10.1098/RSPA.1996.0136"
+
+"Landahl2011":
+  type: misc
+  title: "Fault-tolerant quantum computing with color codes"
+  author: [{name: "Landahl, Andrew J and Anderson, Jonas T and Rice, Patrick R"}]
+  date: 2011
+  serial-number: "arXiv:1108.5738v1"
+
+"Preskill2018":
+  type: article
+  title: "Quantum Computing in the NISQ era and beyond"
+  author: [{name: "Preskill, John"}]
+  date: 2018
+  parent: {type: periodical, title: "Quantum", volume: "2"}
+  page-range: "79"
+  doi: "10.22331/q-2018-08-06-79"
+
+"Rigol2008":
+  type: article
+  title: "Thermalization and its mechanism for generic isolated quantum systems"
+  author: [{name: "Rigol, Marcos and Dunjko, Vanja and Olshanii, Maxim"}]
+  date: 2008
+  parent: {type: periodical, title: "Nature", volume: "452"}
+  page-range: "854-858"
+  doi: "10.1038/nature06838"
+
+"Nandkishore2015":
+  type: article
+  title: "Many-body localization and thermalization in quantum statistical mechanics"
+  author: [{name: "Nandkishore, Rahul and Huse, David A."}]
+  date: 2015
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "6"}
+  page-range: "15-38"
+  doi: "10.1146/annurev-conmatphys-031214-014726"
+
+"Smith2016":
+  type: article
+  title: "Many-body localization in a quantum simulator with programmable random disorder"
+  author: [{name: "Smith, J. and Lee, A. and Richerme, P. and Neyenhuis, B. and Hess, P. W. and Hauke, P. and Heyl, M. and Huse, D. A. and Monroe, C."}]
+  date: 2016
+  parent: {type: periodical, title: "Nature Physics", volume: "12"}
+  page-range: "907-911"
+  doi: "10.1038/nphys3783"
+
+"Kalinowski":
+  type: misc
+  title: "Non-Abelian Floquet Spin Liquids in a Digital Rydberg Simulator"
+  author: [{name: "Kalinowski, Marcin and Maskara, Nishad and Lukin, Mikhail D"}]
+  serial-number: "arXiv:2211.00017v1"
+
+"Reichle2006":
+  type: article
+  title: "Transport dynamics of single ions in segmented microstructured Paul trap arrays"
+  author: [{name: "Reichle, R. and Leibfried, D. and Blakestad, R. B. and Britton, J. and Jost, J. D. and Knill, E. and Langer, C. and Ozeri, R. and Seidelin, S. and Wineland, D. J."}]
+  date: 2006
+  parent: {type: periodical, title: "Fortschritte der Physik", volume: "54"}
+  doi: "10.1002/prop.200610326"
+
+"Shor1995":
+  type: article
+  title: "Scheme for reducing decoherence in quantum computer memory"
+  author: [{name: "Shor, Peter W."}]
+  date: 1995
+  parent: {type: periodical, title: "Physical Review A", volume: "52"}
+  serial-number: "R2493"
+  doi: "10.1103/PhysRevA.52.R2493"
+
+"Xu":
+  type: misc
+  title: "Constant-Overhead Fault-Tolerant Quantum Computation with Reconfigurable Atom Arrays"
+  author: [{name: "Xu, Qian and Pablo, J and Ataides, Bonilla and Pattison, Christopher A and Raveendran, Nithin and Bluvstein, Dolev and Wurtz, Jonathan and Vasi´cvasi´c, Bane and Lukin, Mikhail D and Jiang, Liang and Zhou, Hengyun"}]
+  serial-number: "arXiv:2308.08648v1"
+
+"Lis2023":
+  type: misc
+  title: "Mid-circuit operations using the omg-architecture in neutral atom arrays"
+  author: [{name: "Lis, Joanna W. and Senoo, Aruku and McGrew, William F. and Rönchen, Felix and Jenkins, Alec and Kaufman, Adam M."}]
+  date: 2023
+  serial-number: "arXiv:2305.19266"
+
+"Self2022":
+  type: misc
+  title: "Protecting Expressive Circuits with a Quantum Error Detection Code"
+  author: [{name: "Self, Chris N and Benedetti, Marcello and Amaro, David"}]
+  date: 2022
+  serial-number: "arXiv:2211.06703v1"
+
+"Noiri2022":
+  type: article
+  title: "Fast universal quantum gate above the fault-tolerance threshold in silicon"
+  author: [{name: "Noiri, Akito and Takeda, Kenta and Nakajima, Takashi and Kobayashi, Takashi and Sammak, Amir and Scappucci, Giordano and Tarucha, Seigo"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature", volume: "601"}
+  doi: "10.1038/s41586-021-04182-y"
+
+"Hastings2021":
+  type: misc
+  title: "Dynamically Generated Logical Qubits"
+  author: [{name: "Hastings, Matthew B. and Haah, Jeongwan"}]
+  date: 2021
+  serial-number: "arXiv:2107.02194"
+
+"Fowler2010":
+  type: article
+  title: "Surface Code Quantum Communication"
+  author: [{name: "Fowler, Austin G. and Wang, David S. and Hill, Charles D. and Ladd, Thaddeus D. and Meter, Rodney Van and Hollenberg, Lloyd C. L."}]
+  date: 2010
+  parent: {type: periodical, title: "Physical Review Letters", volume: "104"}
+  page-range: "180503"
+  doi: "10.1103/PhysRevLett.104.180503"
+
+"Periwal2021a":
+  type: article
+  title: "Programmable interactions and emergent geometry in an array of atom clouds"
+  author: [{name: "Periwal, Avikar and Cooper, Eric S. and Kunkel, Philipp and Wienand, Julian F. and Davis, Emily J. and Schleier-Smith, Monika"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "600"}
+  page-range: "630-635"
+  doi: "10.1038/s41586-021-04156-0"
+
+"Jenkins2022":
+  type: article
+  title: "Ytterbium Nuclear-Spin Qubits in an Optical Tweezer Array"
+  author: [{name: "Jenkins, Alec and Lis, Joanna W. and Senoo, Aruku and McGrew, William F. and Kaufman, Adam M."}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review X", volume: "12"}
+  page-range: "021027"
+  doi: "10.1103/PHYSREVX.12.021027/FIGURES/13/MEDIUM"
+
+"Pino2021":
+  type: article
+  title: "Demonstration of the trapped-ion quantum CCD computer architecture"
+  author: [{name: "Pino, J. M. and Dreiling, J. M. and Figgatt, C. and Gaebler, J. P. and Moses, S. A. and Allman, M. S. and Baldwin, C. H. and Foss-Feig, M. and Hayes, D. and Mayer, K. and Ryan-Anderson, C. and Neyenhuis, B."}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "592"}
+  page-range: "209-213"
+  doi: "10.1038/s41586-021-03318-4"
+
+"Mizuta2020a":
+  type: article
+  title: "Exact Floquet quantum many-body scars under Rydberg blockade"
+  author: [{name: "Mizuta, Kaoru and Takasan, Kazuaki and Kawakami, Norio"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Research", volume: "2"}
+  page-range: "033284"
+  doi: "10.1103/PhysRevResearch.2.033284"
+
+"Bergschneider2018":
+  type: article
+  title: "Spin-resolved single-atom imaging of Li 6 in free space"
+  author: [{name: "Bergschneider, Andrea and Klinkhamer, Vincent M. and Becher, Jan Hendrik and Klemt, Ralf and Zürn, Gerhard and Preiss, Philipp M. and Jochim, Selim"}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review A", volume: "97"}
+  doi: "10.1103/PhysRevA.97.063613"
+
+"Ma2023":
+  type: misc
+  title: "High-fidelity gates with mid-circuit erasure conversion in a metastable neutral atom qubit"
+  author: [{name: "Ma, Shuo and Liu, Genyue and Peng, Pai and Zhang, Bichen and Jandura, Sven and Claes, Jahan and Burgers, Alex P and Pupillo, Guido and Puri, Shruti and Thompson, Jeff D"}]
+  date: 2023
+  serial-number: "arXiv:2305.05493v1"
+
+"Daley2012":
+  type: article
+  title: "Measuring Entanglement Growth in Quench Dynamics of Bosons in an Optical Lattice"
+  author: [{name: "Daley, A. J. and Pichler, H. and Schachenmayer, J. and Zoller, P."}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review Letters", volume: "109"}
+  page-range: "020505"
+  doi: "10.1103/PhysRevLett.109.020505"
+
+"Toth2005":
+  type: article
+  title: "Entanglement detection in the stabilizer formalism"
+  author: [{name: "Tóth, Géza and Gühne, Otfried"}]
+  date: 2005
+  parent: {type: periodical, title: "Physical Review A", volume: "72"}
+  page-range: "022340"
+  doi: "10.1103/PhysRevA.72.022340"
+
+"Pohl2010":
+  type: article
+  title: "Dynamical crystallization in the dipole blockade of ultracold atoms"
+  author: [{name: "Pohl, T. and Demler, E. and Lukin, M. D."}]
+  date: 2010
+  parent: {type: periodical, title: "Physical Review Letters", volume: "104"}
+  page-range: "043002"
+  doi: "10.1103/PhysRevLett.104.043002"
+
+"Else2016":
+  type: article
+  title: "Floquet Time Crystals"
+  author: [{name: "Else, Dominic V. and Bauer, Bela and Nayak, Chetan"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "117"}
+  page-range: "090402"
+  doi: "10.1103/PhysRevLett.117.090402"
+
+"M-ller2008":
+  type: article
+  title: "Quantum gates and multiparticle entanglement by Rydberg excitation blockade and adiabatic passage"
+  author: [{name: "Møller, Ditte and Madsen, Lars Bojer and Mølmer, Klaus"}]
+  date: 2008
+  parent: {type: periodical, title: "Physical Review Letters", volume: "100"}
+  doi: "10.1103/PhysRevLett.100.170504"
+
+"Wolfowicz2016":
+  type: article
+  title: "Pulse Techniques for Quantum Information Processing Spin Qubits"
+  author: [{name: "Wolfowicz, Gary and Morton, John J L"}]
+  date: 2016
+  page-range: "1515-1528"
+  doi: "10.1002/9780470034590.emrstm1521"
+
+"Heinzen1994":
+  type: article
+  title: "Spin relaxation of optically trapped atoms by light scattering"
+  author: [{name: "Heinzen, D. J. and Miller, J. D. and Matthews, M. R. and Cline, R. A."}]
+  date: 1994
+  parent: {type: periodical, title: "Optics Letters", volume: "19"}
+  page-range: "207-209"
+  doi: "10.1364/OL.19.000207"
+
+"Hangleiter2018":
+  type: article
+  title: "Anticoncentration theorems for schemes showing a quantum speedup"
+  author: [{name: "Hangleiter, D. and Bermejo-Vega, J. and Schwarz, M. and Eisert, J."}]
+  date: 2018
+  parent: {type: periodical, title: "Quantum", volume: "2"}
+  page-range: "65"
+  doi: "10.22331/q-2018-05-22-65"
+
+"Shea2020":
+  type: article
+  title: "Submillisecond, nondestructive, time-resolved quantum-state readout of a single, trapped neutral atom"
+  author: [{name: "Shea, Margaret E. and Baker, Paul M. and Joseph, James A. and Kim, Jungsang and Gauthier, Daniel J."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review A", volume: "102"}
+  page-range: "053101"
+  doi: "10.1103/PhysRevA.102.053101"
+
+"Choi2016":
+  type: article
+  title: "Exploring the many-body localization transition in two dimensions"
+  author: [{name: "Choi, Jae Yoon and Hild, Sebastian and Zeiher, Johannes and Schauß, Peter and Rubio-Abadal, Antonio and Yefsah, Tarik and Khemani, Vedika and Huse, David A. and Bloch, Immanuel and Gross, Christian"}]
+  date: 2016
+  parent: {type: periodical, title: "Science", volume: "352"}
+  page-range: "1547-1552"
+  doi: "10.1126/science.aaf8834"
+
+"DeLeseleuc2019":
+  type: article
+  title: "Observation of a symmetry-protected topological phase of interacting bosons with Rydberg atoms"
+  author: [{name: "De Léséleuc, Sylvain and Lienhard, Vincent and Scholl, Pascal and Barredo, Daniel and Weber, Sebastian and Lang, Nicolai and Büchler, Hans Peter and Lahaye, Thierry and Browaeys, Antoine"}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "365"}
+  page-range: "775-780"
+  doi: "10.1126/science.aav9105"
+
+"Vidal2003":
+  type: article
+  title: "Efficient classical simulation of slightly entangled quantum computations"
+  author: [{name: "Vidal, Guifré"}]
+  date: 2003
+  parent: {type: periodical, title: "Physical Review Letters", volume: "91"}
+  page-range: "147902"
+  doi: "10.1103/PhysRevLett.91.147902"
+
+"Maskara2021":
+  type: misc
+  title: "Discrete time-crystalline order enabled by quantum many-body scars: entanglement steering via periodic driving"
+  author: [{name: "Maskara, Nishad and Michailidis, Alexios A and Ho, Wen Wei and Bluvstein, Dolev and Choi, Soonwon and Lukin, Mikhail D and Serbyn, Maksym"}]
+  date: 2021
+  serial-number: "arXiv:2102.13160"
+
+"Huang2021":
+  type: article
+  title: "Between Shor and Steane: A Unifying Construction for Measuring Error Syndromes"
+  author: [{name: "Huang, Shilin and Brown, Kenneth R."}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review Letters", volume: "127"}
+  doi: "10.1103/PhysRevLett.127.090505"
+
+"Gottesman1998":
+  type: article
+  title: "Theory of fault-tolerant quantum computation"
+  author: [{name: "Gottesman, Daniel"}]
+  date: 1998
+  parent: {type: periodical, title: "Physical Review A", volume: "57"}
+  doi: "10.1103/PhysRevA.57.127"
+
+"Mi2021":
+  type: article
+  title: "Information scrambling in quantum circuits"
+  author: [{name: "Mi, Xiao and Roushan, Pedram and Quintana, Chris and Mandrà, Salvatore and Marshall, Jeffrey and Neill, Charles and Arute, Frank and Arya, Kunal and Atalaya, Juan and Babbush, Ryan and Bardin, Joseph C. and Barends, Rami and Basso, Joao and Bengtsson, Andreas and Boixo, Sergio and Bourassa, Alexandre and Broughton, Michael and Buckley, Bob B. and Buell, David A. and Burkett, Brian and Bushnell, Nicholas and Chen, Zijun and Chiaro, Benjamin and Collins, Roberto and Courtney, William and Demura, Sean and Derk, Alan R. and Dunsworth, Andrew and Eppens, Daniel and Erickson, Catherine and Farhi, Edward and Fowler, Austin G. and Foxen, Brooks and Gidney, Craig and Giustina, Marissa and Gross, Jonathan A. and Harrigan, Matthew P. and Harrington, Sean D. and Hilton, Jeremy and Ho, Alan and Hong, Sabrina and Huang, Trent and Huggins, William J. and Ioffe, L. B. and Isakov, Sergei V. and Jeffrey, Evan and Jiang, Zhang and Jones, Cody and Kafri, Dvir and Kelly, Julian and Kim, Seon and Kitaev, Alexei and Klimov, Paul V. and Korotkov, Alexander N. and Kostritsa, Fedor and Landhuis, David and Laptev, Pavel and Lucero, Erik and Martin, Orion and McClean, Jarrod R. and McCourt, Trevor and McEwen, Matt and Megrant, Anthony and Miao, Kevin C. and Mohseni, Masoud and Montazeri, Shirin and Mruczkiewicz, Wojciech and Mutus, Josh and Naaman, Ofer and Neeley, Matthew and Newman, Michael and Niu, Murphy Yuezhen and O'Brien, Thomas E. and Opremcak, Alex and Ostby, Eric and Pato, Balint and Petukhov, Andre and Redd, Nicholas and Rubin, Nicholas C. and Sank, Daniel and Satzinger, Kevin J. and Shvarts, Vladimir and Strain, Doug and Szalay, Marco and Trevithick, Matthew D. and Villalonga, Benjamin and White, Theodore and Yao, Z. Jamie and Yeh, Ping and Zalcman, Adam and Neven, Hartmut and Aleiner, Igor and Kechedzhi, Kostyantyn and Smelyanskiy, Vadim and Chen, Yu"}]
+  date: 2021
+  parent: {type: periodical, title: "Science", volume: "374"}
+  page-range: "1479-1483"
+  doi: "10.1126/science.abg5029"
+
+"Urban2009":
+  type: article
+  title: "Observation of Rydberg blockade between two atoms"
+  author: [{name: "Urban, E. and Johnson, T. A. and Henage, T. and Isenhower, L. and Yavuz, D. D. and Walker, T. G. and Saffman, M."}]
+  date: 2009
+  parent: {type: periodical, title: "Nature Physics", volume: "5"}
+  page-range: "110-114"
+  doi: "10.1038/nphys1178"
+
+"Larsen2019":
+  type: article
+  title: "Deterministic generation of a two-dimensional cluster state"
+  author: [{name: "Larsen, Mikkel V. and Guo, Xueshi and Breum, Casper R. and Neergaard-Nielsen, Jonas S. and Andersen, Ulrik L."}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "366"}
+  page-range: "369-372"
+  doi: "10.1126/SCIENCE.AAY4354"
+
+"Barredo2016":
+  type: article
+  title: "An atom-by-atom assembler of defect-free arbitrary two-dimensional atomic arrays"
+  author: [{name: "Barredo, Daniel and De Léséleuc, Sylvain and Lienhard, Vincent and Lahaye, Thierry and Browaeys, Antoine"}]
+  date: 2016
+  parent: {type: periodical, title: "Science", volume: "354"}
+  page-range: "1021-1023"
+  doi: "10.1126/science.aah3778"
+
+"Aaronson2004":
+  type: article
+  title: "Improved simulation of stabilizer circuits"
+  author: [{name: "Aaronson, Scott and Gottesman, Daniel"}]
+  date: 2004
+  parent: {type: periodical, title: "Physical Review A", volume: "70"}
+  page-range: "052328"
+  doi: "10.1103/PhysRevA.70.052328"
+
+"GurobiOptimization2023":
+  type: article
+  title: "Gurobi Optimizer Reference Manual"
+  author: [{name: "Gurobi Optimization, LLC"}]
+  date: 2023
+
+"Wang2003":
+  type: article
+  title: "Confinement-Higgs transition in a disordered gauge theory and the accuracy threshold for quantum memory"
+  author: [{name: "Wang, Chenyang and Harrington, Jim and Preskill, John"}]
+  date: 2003
+  parent: {type: periodical, title: "Annals of Physics", volume: "303"}
+  page-range: "31-58"
+  doi: "10.1016/S0003-4916(02)00019-2"
+
+"Monroe2014":
+  type: article
+  title: "Large-scale modular quantum-computer architecture with atomic memory and photonic interconnects"
+  author: [{name: "Monroe, C. and Raussendorf, R. and Ruthven, A. and Brown, K. R. and Maunz, P. and Duan, L.-M. and Kim, J."}]
+  date: 2014
+  parent: {type: periodical, title: "Physical Review A", volume: "89"}
+  page-range: "022317"
+  doi: "10.1103/PhysRevA.89.022317"

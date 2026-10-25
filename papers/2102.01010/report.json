@@ -1,0 +1,11 @@
+{
+ "paper": "2102.01010",
+ "tikz": 0,
+ "bib": true,
+ "compiled": true,
+ "after_polish": true,
+ "latexblock": {
+  "before": 0,
+  "after": 0
+ }
+}

@@ -1,0 +1,6 @@
+{
+ "paper": "2101.02464",
+ "tikz": 0,
+ "bib": true,
+ "last_errors": "error: unknown variable: moreover\n    \u250c\u2500 \\\\?\\E:\\phys\\papers\\2101.02464\\main.typ:949:115\n    \u2502\n949 \u2502 $ \"\ud835\udd3c\" [ o_i ] = \"tr\" ( O cal(E) ( | x_i chevron.r chevron.l x_i | ) = f_(\"\u2130\") ( x_i ) quad upright(\"and), upright(\"moreover\"), upright(\") quad lr(|o_i|) lt.eq 1 upright(\" with probability one\") , $<eq:target-fct-thm1>\n    \u2502                                                                                                                    ^^^^^^^^\n    \u2502\n    = hint: if you meant to display multiple letters as is, try adding spaces between each letter: `m o r e o v e r`\n    = hint: or if you meant to display this as text, try placing it in quotes: `\"moreover\"`\n\n"
+}

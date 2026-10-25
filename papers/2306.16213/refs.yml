@@ -1,0 +1,1302 @@
+"2016PhRvL.116f1102A":
+  type: article
+  title: ""
+  author: [{name: "B. P. Abbott, R. Abbott, T. D. Abbott, et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "116"}
+  page-range: "061102"
+  doi: "10.1103/PhysRevLett.116.061102"
+
+"aaa-23_cosmo":
+  type: article
+  title: ""
+  author: [{name: "A. Afzal, et al."}]
+  date: 2023
+  parent: {type: periodical, title: "in preparation"}
+  doi: "10.3847/2041-8213/acdc91"
+
+"aaa-23_smbhb":
+  type: article
+  title: ""
+  author: [{name: "G. Agazie, et al."}]
+  date: 2023
+  parent: {type: periodical, title: "in preparation"}
+
+"aaa-23":
+  type: article
+  title: ""
+  author: [{name: "G. Agazie, et al."}]
+  date: 2023
+  parent: {type: periodical, title: "in preparation"}
+  doi: "10.3847/2041-8213/acda9a"
+
+"aaa-23_noise":
+  type: article
+  title: ""
+  author: [{name: "G. Agazie, et al."}]
+  date: 2023
+  parent: {type: periodical, title: "in preparation"}
+  doi: "10.3847/2041-8213/acda88"
+
+"aab-19":
+  type: article
+  title: ""
+  author: [{name: "K. Aggarwal, Z. Arzoumanian, P. T. Baker, et al."}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J.", volume: "880"}
+  page-range: "116"
+  doi: "10.3847/1538-4357/ab2236"
+
+"Akaike1998":
+  type: article
+  title: ""
+  author: [{name: "Akaike, H."}]
+  date: 1998
+  parent: {type: periodical, title: "Information Theory and an Extension of the Maximum Likelihood Principle, ed. E. Parzen, K. Tanabe, and G. Kitagawa (New York, NY: Springer New York), 199–213"}
+  doi: "10.1007/978-1-4612-1694-0_15"
+
+"aab-20":
+  type: article
+  title: ""
+  author: [{name: "M. F. Alam, Z. Arzoumanian, P. T. Baker, et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Astrophys. J. Suppl.", volume: "252"}
+  page-range: "4"
+  doi: "10.3847/1538-4365/abc6a0"
+
+"12yr_wideband":
+  type: article
+  title: ""
+  author: [{name: "M. F. Alam, Z. Arzoumanian, P. T. Baker, et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Astrophys. J. Suppl.", volume: "252"}
+  page-range: "5"
+  doi: "10.3847/1538-4365/abc6a1"
+
+"2023PhRvD.107d3018A":
+  type: article
+  title: ""
+  author: [{name: "Allen, B."}]
+  date: 2023
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "107"}
+  page-range: "043018"
+  doi: "10.1103/PhysRevD.107.043018"
+
+"2022arXiv220807230A":
+  type: misc
+  title: ""
+  author: [{name: "Allen, B. and Romano, J. D."}]
+  date: 2022
+  serial-number: "arXiv:2208.07230"
+
+"abc-2009":
+  type: article
+  title: ""
+  author: [{name: "Anholm, M. and Ballmer, S. and Creighton, J. D. E. and Price, L. R. and Siemens, X."}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "79"}
+  page-range: "084030"
+  doi: "10.1103/PhysRevD.79.084030"
+
+"2022MNRAS.510.4873A":
+  type: article
+  title: ""
+  author: [{name: "J. Antoniadis, Z. Arzoumanian, S. Babak, et al."}]
+  date: 2022
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "510"}
+  page-range: "4873"
+  doi: "10.1093/mnras/stab3418"
+
+"epta23":
+  type: article
+  title: ""
+  author: [{name: "J. Antoniadis, et al."}]
+  date: 2023
+  parent: {type: periodical, title: "in preparation"}
+
+"2002ApJ...567L...9A":
+  type: article
+  title: ""
+  author: [{name: "Armitage, P. J. and Natarajan, P."}]
+  date: 2002
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "567"}
+  serial-number: "L9"
+  doi: "10.1086/339770"
+
+"abb-15":
+  type: article
+  title: ""
+  author: [{name: "Z. Arzoumanian, A. Brazier, S. Burke-Spolaor, et al."}]
+  date: 2015
+  parent: {type: periodical, title: "Astrophys. J.", volume: "813"}
+  page-range: "65"
+  doi: "10.1088/0004-637X/813/1/65"
+
+"abb-16":
+  type: article
+  title: ""
+  author: [{name: "Z. Arzoumanian, A. Brazier, S. Burke-Spolaor, et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Astrophys. J.", volume: "821"}
+  page-range: "13"
+  doi: "10.3847/0004-637X/821/1/13"
+
+"abb-18b":
+  type: article
+  title: ""
+  author: [{name: "Z. Arzoumanian, P. T. Baker, A. Brazier, et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J.", volume: "859"}
+  page-range: "47"
+  doi: "10.3847/1538-4357/aabd3b"
+
+"abb-20":
+  type: article
+  title: ""
+  author: [{name: "Z. Arzoumanian, P. T. Baker, H. Blumer, et al."}]
+  date: 2020
+  parent: {type: periodical, title: "The Astrophysical Journal Letters", volume: "905"}
+  serial-number: "L34"
+  doi: "10.3847/2041-8213/abd401"
+
+"2021ApJ...923L..22A":
+  type: article
+  title: ""
+  author: [{name: "Z. Arzoumanian, P. T. Baker, H. Blumer, et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "923"}
+  serial-number: "L22"
+  doi: "10.3847/2041-8213/ac401c"
+
+"2023arXiv230103608A":
+  type: misc
+  title: ""
+  author: [{name: "Z. Arzoumanian, P. T. Baker, L. Blecha, et al."}]
+  date: 2023
+  serial-number: "arXiv:2301.03608"
+
+"2022ApJ...935..167A":
+  type: article
+  title: ""
+  author: [{name: "Astropy Collaboration, A. M. Price-Whelan, P. L. Lim, et al."}]
+  date: 2022
+  parent: {type: periodical, title: "Astrophys. J.", volume: "935"}
+  page-range: "167"
+  doi: "10.3847/1538-4357/ac7c74"
+
+"1982Natur.300..615B":
+  type: article
+  title: ""
+  author: [{name: "Backer, D. C. and Kulkarni, S. R. and Heiles, C. and Davis, M. M. and Goss, W. M."}]
+  date: 1982
+  parent: {type: periodical, title: "Nature", volume: "300"}
+  page-range: "615"
+  doi: "10.1038/300615a0"
+
+"2022JCAP...11..009B":
+  type: article
+  title: ""
+  author: [{name: "N. Bartolo, D. Bertacca, R. Caldwell, et al."}]
+  date: 2022
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "2022"}
+  page-range: "009"
+  doi: "10.1088/1475-7516/2022/11/009"
+
+"2022ApJ...941..119B":
+  type: article
+  title: ""
+  author: [{name: "Bécsy, B. and Cornish, N. J. and Kelley, L. Z."}]
+  date: 2022
+  parent: {type: periodical, title: "Astrophys. J.", volume: "941"}
+  page-range: "119"
+  doi: "10.3847/1538-4357/aca1b2"
+
+"bbr80":
+  type: article
+  title: ""
+  author: [{name: "Begelman, M. C. and Blandford, R. D. and Rees, M. J."}]
+  date: 1980
+  parent: {type: periodical, title: "Nature", volume: "287"}
+  page-range: "307"
+  doi: "10.1038/287307a0"
+
+"blumenthal84":
+  type: article
+  title: ""
+  author: [{name: "Blumenthal, G. R. and Faber, S. M. and Primack, J. R. and Rees, M. J."}]
+  date: 1984
+  parent: {type: periodical, title: "Nature", volume: "311"}
+  page-range: "517"
+  doi: "10.1038/311517a0"
+
+"stc-19":
+  type: article
+  title: ""
+  author: [{name: "S. Burke-Spolaor, S. R. Taylor, M. Charisi, et al."}]
+  date: 2019
+  parent: {type: periodical, title: "Astron. Astrophys. Rev.", volume: "27"}
+  page-range: "5"
+  doi: "10.1007/s00159-019-0115-7"
+
+"2018CQGra..35p3001C":
+  type: article
+  title: ""
+  author: [{name: "Caprini, C. and Figueroa, D. G."}]
+  date: 2018
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "35"}
+  page-range: "163001"
+  doi: "10.1088/1361-6382/aac608"
+
+"cc95":
+  type: article
+  title: ""
+  author: [{name: "Carlin, B. P. and Chib, S."}]
+  date: 1995
+  parent: {type: periodical, title: "Journal of the Royal Statistical Society. Series B (Methodological)", volume: "57"}
+  page-range: "473"
+
+"Chalumeau-2022":
+  type: article
+  title: ""
+  author: [{name: "A. Chalumeau, S. Babak, A. Petiteau, et al."}]
+  date: 2022
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "509"}
+  page-range: "5538"
+  doi: "10.1093/mnras/stab3283"
+
+"ccs-2015":
+  type: article
+  title: ""
+  author: [{name: "S. J. Chamberlin, J. D. E. Creighton, X. Siemens, et al."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "91"}
+  page-range: "044048"
+  doi: "10.1103/PhysRevD.91.044048"
+
+"epta_dr2_gwb":
+  type: article
+  title: ""
+  author: [{name: "S. Chen, R. N. Caballero, Y. J. Guo, et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "508"}
+  page-range: "4970"
+  doi: "10.1093/mnras/stab2833"
+
+"cordes2013":
+  type: article
+  title: ""
+  author: [{name: "Cordes, J. M."}]
+  date: 2013
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "30"}
+  page-range: "224002"
+  doi: "10.1088/0264-9381/30/22/224002"
+
+"cornish2015bayeswave":
+  type: article
+  title: ""
+  author: [{name: "Cornish, N. J. and Littenberg, T. B."}]
+  date: 2015
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "32"}
+  page-range: "135012"
+
+"cs16":
+  type: article
+  title: ""
+  author: [{name: "Cornish, N. J. and Sampson, L."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "93"}
+  page-range: "104047"
+  doi: "10.1103/PhysRevD.93.104047"
+
+"Cornish:2013aba":
+  type: article
+  title: ""
+  author: [{name: "Cornish, N. J. and Sesana, A."}]
+  date: 2013
+  parent: {type: periodical, title: "Class. Quant. Grav.", volume: "30"}
+  page-range: "224005"
+  doi: "10.1088/0264-9381/30/22/224005"
+
+"Demorest2007":
+  type: article
+  title: ""
+  author: [{name: "Demorest, P. B."}]
+  date: 2007
+  parent: {type: periodical, title: "PhD thesis, University of California, Berkeley"}
+
+"dfg-13":
+  type: article
+  title: ""
+  author: [{name: "P. B. Demorest, R. D. Ferdman, M. E. Gonzalez, et al."}]
+  date: 2013
+  parent: {type: periodical, title: "ApJ", volume: "762"}
+  page-range: "94"
+  doi: "10.1088/0004-637X/762/2/94"
+
+"dcl-16":
+  type: article
+  title: ""
+  author: [{name: "G. Desvignes, R. N. Caballero, L. Lentati, et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "458"}
+  page-range: "3341"
+  doi: "10.1093/mnras/stw483"
+
+"det79":
+  type: article
+  title: ""
+  author: [{name: "Detweiler, S."}]
+  date: 1979
+  parent: {type: periodical, title: "Astrophys. J.", volume: "234"}
+  page-range: "1100"
+  doi: "10.1086/157593"
+
+"dickey1971":
+  type: article
+  title: ""
+  author: [{name: "Dickey, J. M."}]
+  date: 1971
+  parent: {type: periodical, title: "The Annals of Mathematical Statistics", volume: "42"}
+  page-range: "204"
+
+"2021Univ....7..398D":
+  type: article
+  title: ""
+  author: [{name: "Domènech, G."}]
+  date: 2021
+  parent: {type: periodical, title: "Universe", volume: "7"}
+  page-range: "398"
+  doi: "10.3390/universe7110398"
+
+"DuPlain2008":
+  type: article
+  title: ""
+  author: [{name: "R. DuPlain, S. Ransom, P. Demorest, et al."}]
+  date: 2008
+  parent: {type: proceedings, title: "Proc. SPIE, Advanced Software and Control for Astronomy II", volume: "7019"}
+  serial-number: "70191D"
+  doi: "10.1117/12.790003"
+
+"einstein1916approximative":
+  type: article
+  title: ""
+  author: [{name: "Einstein, A."}]
+  date: 1916
+  parent: {type: periodical, title: "Sitzungsber. Preuss. Akad. Wiss. Berlin (Math. Phys.)", volume: "1916"}
+  page-range: "1"
+
+"ptmcmc":
+  type: article
+  title: ""
+  author: [{name: "Ellis, J. and van Haasteren, R."}]
+  date: 2017
+  parent: {type: periodical, title: "jellis18/PTMCMCSampler: Official Release"}
+  doi: "10.5281/zenodo.1037579"
+
+"enterprise":
+  type: misc
+  title: "ENTERPRISE: Enhanced Numerical Toolbox Enabling a Robust PulsaR Inference SuitE"
+  author: [{name: "Ellis, J. A. and Vallisneri, M. and Taylor, S. R. and Baker, P. T."}]
+  date: 2019
+  serial-number: "arXiv:1912.015"
+
+"en07":
+  type: article
+  title: ""
+  author: [{name: "Enoki, M. and Nagashima, M."}]
+  date: 2007
+  parent: {type: periodical, title: "Progress of Theoretical Physics", volume: "117"}
+  page-range: "241"
+  doi: "10.1143/PTP.117.241"
+
+"1975GReGr...6..439E":
+  type: article
+  title: ""
+  author: [{name: "Estabrook, F. B. and Wahlquist, H. D."}]
+  date: 1975
+  parent: {type: periodical, title: "General Relativity and Gravitation", volume: "6"}
+  page-range: "439"
+  doi: "10.1007/BF00762449"
+
+"Ford2010":
+  type: article
+  title: ""
+  author: [{name: "Ford, J. M. and Demorest, P. and Ransom, S."}]
+  date: 2010
+  parent: {type: proceedings, title: "Proc. SPIE, Software and Cyberinfrastructure for Astronomy", volume: "7740"}
+  serial-number: "77400A"
+  doi: "10.1117/12.857666"
+
+"fb90":
+  type: article
+  title: ""
+  author: [{name: "Foster, R. S. and Backer, D. C."}]
+  date: 1990
+  parent: {type: periodical, title: "Astrophys. J.", volume: "361"}
+  page-range: "300"
+  doi: "10.1086/169195"
+
+"grtm14":
+  type: article
+  title: ""
+  author: [{name: "Gair, J. and Romano, J. D. and Taylor, S. and Mingarelli, C. M. F."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "90"}
+  page-range: "082001"
+  doi: "10.1103/PhysRevD.90.082001"
+
+"gelman2013bayesian":
+  type: article
+  title: ""
+  author: [{name: "A. Gelman, J. Carlin, H. Stern, et al."}]
+  date: 2013
+  parent: {type: periodical, title: "Bayesian Data Analysis, Third Edition, Chapman and Hall/CRC Texts in Statistical Science (Taylor and Francis)"}
+
+"gelman1998simulating":
+  type: article
+  title: ""
+  author: [{name: "Gelman, A. and Meng, X.-L."}]
+  date: 1998
+  parent: {type: periodical, title: "Statistical science"}
+  page-range: "163"
+  doi: "10.1214/ss/1028905934"
+
+"gelman_bayes_pvals":
+  type: article
+  title: ""
+  author: [{name: "Gelman, A. and Meng, X.-L. and Stern, H."}]
+  date: 1996
+  parent: {type: periodical, title: "Statistica Sinica", volume: "6"}
+  page-range: "733"
+
+"gelmanrubin1992":
+  type: article
+  title: ""
+  author: [{name: "Gelman, A. and Rubin, D. B."}]
+  date: 1992
+  parent: {type: periodical, title: "Statistical Science", volume: "7"}
+  page-range: "457"
+
+"g01":
+  type: article
+  title: ""
+  author: [{name: "Godsill, S. J."}]
+  date: 2001
+  parent: {type: periodical, title: "Journal of Computational and Graphical Statistics", volume: "10"}
+  page-range: "230"
+
+"ppta_dr2_gwb":
+  type: article
+  title: ""
+  author: [{name: "B. Goncharov, R. M. Shannon, D. J. Reardon, et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "917"}
+  serial-number: "L19"
+  doi: "10.3847/2041-8213/ac17f4"
+
+"goncharov-21a":
+  type: article
+  title: ""
+  author: [{name: "B. Goncharov, D. J. Reardon, R. M. Shannon, et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "502"}
+  page-range: "478"
+  doi: "10.1093/mnras/staa3411"
+
+"gts-22":
+  type: article
+  title: ""
+  author: [{name: "B. Goncharov, E. Thrane, R. M. Shannon, et al."}]
+  date: 2022
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "932"}
+  serial-number: "L22"
+  doi: "10.3847/2041-8213/ac76bb"
+
+"guzzetti2016gravitational":
+  type: article
+  title: ""
+  author: [{name: "Guzzetti, M. C. and Bartolo, N. and Liguori, M. and Matarrese, S."}]
+  date: 2016
+  parent: {type: periodical, title: "La Rivista del Nuovo Cimento", volume: "39"}
+  page-range: "399"
+  doi: "10.1393/ncr/i2016-10127-1"
+
+"harris2020array":
+  type: article
+  title: ""
+  author: [{name: "C. R. Harris, K. J. Millman, S. J. van der Walt, et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Nature", volume: "585"}
+  page-range: "357"
+  doi: "10.1038/s41586-020-2649-2"
+
+"hazboun-2023GX2":
+  type: misc
+  title: ""
+  author: [{name: "Hazboun, J. and Meyers, P. M. and Romano, J. D. and Siemens, X. and Archibald, A. M."}]
+  date: 2023
+  serial-number: "arXiv:2305.01116"
+
+"hasasia":
+  type: article
+  title: ""
+  author: [{name: "Hazboun, J. and Romano, J. and Smith, T."}]
+  date: 2019
+  parent: {type: periodical, title: "The Journal of Open Source Software", volume: "4"}
+  page-range: "1775"
+  doi: "10.21105/joss.01775"
+
+"Hazboun:2019vhv":
+  type: article
+  title: ""
+  author: [{name: "Hazboun, J. S. and Romano, J. D. and Smith, T. L."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "100"}
+  page-range: "104028"
+  doi: "10.1103/PhysRevD.100.104028"
+
+"hazboun:2020a":
+  type: article
+  title: ""
+  author: [{name: "J. S. Hazboun, J. Simon, S. R. Taylor, et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "890"}
+  page-range: "108"
+  doi: "10.3847/1538-4357/ab68db"
+
+"2022ApJ...929...39H":
+  type: article
+  title: ""
+  author: [{name: "J. S. Hazboun, J. Simon, D. R. Madison, et al."}]
+  date: 2022
+  parent: {type: periodical, title: "Astrophys. J.", volume: "929"}
+  page-range: "39"
+  doi: "10.3847/1538-4357/ac5829"
+
+"heck2019quantifying":
+  type: article
+  title: ""
+  author: [{name: "Heck, D. W. and Overstall, A. M. and Gronau, Q. F. and Wagenmakers, E.-J."}]
+  date: 2019
+  parent: {type: periodical, title: "Statistics and Computing", volume: "29"}
+  page-range: "631"
+  doi: "10.1007/s11222-018-9828-0"
+
+"hee15":
+  type: article
+  title: ""
+  author: [{name: "Hee, S. and Handley, W. J. and Hobson, M. P. and Lasenby, A. N."}]
+  date: 2015
+  parent: {type: periodical, title: "Monthly Notices of the Royal Astronomical Society", volume: "455"}
+  page-range: "2461"
+  doi: "10.1093/mnras/stv2217"
+
+"hd83":
+  type: article
+  title: ""
+  author: [{name: "Hellings, R. W. and Downs, G. S."}]
+  date: 1983
+  parent: {type: periodical, title: "ApJL", volume: "265"}
+  serial-number: "L39"
+  doi: "10.1086/183954"
+
+"Hinton2016":
+  type: article
+  title: ""
+  author: [{name: "Hinton, S. R."}]
+  date: 2016
+  parent: {type: periodical, title: "The Journal of Open Source Software", volume: "1"}
+  page-range: "00045"
+  doi: "10.21105/joss.00045"
+
+"tempo2":
+  type: misc
+  title: "Tempo2: Pulsar Timing Package"
+  author: [{name: "Hobbs, G. and Edwards, R."}]
+  date: 2012
+  serial-number: "arXiv:1210.015"
+
+"2012MNRAS.427.2780H":
+  type: article
+  title: ""
+  author: [{name: "G. Hobbs, W. Coles, R. N. Manchester, et al."}]
+  date: 2012
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "427"}
+  page-range: "2780"
+  doi: "10.1111/j.1365-2966.2012.21946.x"
+
+"2020MNRAS.491.5951H":
+  type: article
+  title: ""
+  author: [{name: "G. Hobbs, L. Guo, R. N. Caballero, et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "491"}
+  page-range: "5951"
+  doi: "10.1093/mnras/stz3071"
+
+"HourihaneMeyers2022":
+  type: article
+  title: ""
+  author: [{name: "Hourihane, S. and Meyers, P. and Johnson, A. and Chatziioannou, K. and Vallisneri, M."}]
+  date: 2023
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "107"}
+  page-range: "084045"
+  doi: "10.1103/PhysRevD.107.084045"
+
+"1975ApJ...195L..51H":
+  type: article
+  title: ""
+  author: [{name: "Hulse, R. A. and Taylor, J. H."}]
+  date: 1975
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "195"}
+  serial-number: "L51"
+  doi: "10.1086/181708"
+
+"matplotlib":
+  type: article
+  title: ""
+  author: [{name: "Hunter, J. D."}]
+  date: 2007
+  parent: {type: periodical, title: "Computing in Science and Engineering", volume: "9"}
+  page-range: "90"
+  doi: "10.1109/MCSE.2007.55"
+
+"jb03":
+  type: article
+  title: ""
+  author: [{name: "Jaffe, A. H. and Backer, D. C."}]
+  date: 2003
+  parent: {type: periodical, title: "Astrophysical Journal", volume: "583"}
+  page-range: "616"
+  doi: "10.1086/345443"
+
+"2006ApJ...653.1571J":
+  type: article
+  title: ""
+  author: [{name: "F. A. Jenet, G. B. Hobbs, W. van Straten, et al."}]
+  date: 2006
+  parent: {type: periodical, title: "Astrophys. J.", volume: "653"}
+  page-range: "1571"
+  doi: "10.1086/508702"
+
+"code_review":
+  type: article
+  title: ""
+  author: [{name: "A. Johnson, et al."}]
+  date: 2023
+  parent: {type: periodical, title: "in preparation"}
+
+"jml-2017":
+  type: article
+  title: ""
+  author: [{name: "M. L. Jones, M. A. McLaughlin, M. T. Lam, et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J.", volume: "841"}
+  page-range: "125"
+  doi: "10.3847/1538-4357/aa73df"
+
+"InPTA":
+  type: article
+  title: ""
+  author: [{name: "B. C. Joshi, P. Arumugasamy, M. Bagchi, et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Journal of Astrophysics and Astronomy", volume: "39"}
+  page-range: "51"
+  doi: "10.1007/s12036-018-9549-y"
+
+"kpm-22":
+  type: article
+  title: ""
+  author: [{name: "A. R. Kaiser, N. S. Pol, M. A. McLaughlin, et al."}]
+  date: 2022
+  parent: {type: periodical, title: "Astrophys. J.", volume: "938"}
+  page-range: "115"
+  doi: "10.3847/1538-4357/ac86cc"
+
+"1994ApJ...428..713K":
+  type: article
+  title: ""
+  author: [{name: "Kaspi, V. M. and Taylor, J. H. and Ryba, M. F."}]
+  date: 1994
+  parent: {type: periodical, title: "Astrophys. J.", volume: "428"}
+  page-range: "713"
+  doi: "10.1086/174280"
+
+"holodeck":
+  type: article
+  title: ""
+  author: [{name: "L. Z. Kelley, et al."}]
+  date: 2023
+  parent: {type: periodical, title: "in preparation"}
+
+"2014JCAP...02..019K":
+  type: article
+  title: ""
+  author: [{name: "Khmelnitsky, A. and Rubakov, V."}]
+  date: 2014
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "2014"}
+  page-range: "019"
+  doi: "10.1088/1475-7516/2014/02/019"
+
+"Kluyver2016jupyter":
+  type: article
+  title: ""
+  author: [{name: "T. Kluyver, B. Ragan-Kelley, F. Pérez, et al."}]
+  date: 2016
+  parent: {type: proceedings, title: "Positioning and Power in Academic Publishing: Players, Agents and Agendas, ed. F. Loizides and B. Schmidt, IOS Press, 87 – 90"}
+
+"lcc-2017":
+  type: article
+  title: ""
+  author: [{name: "M. T. Lam, J. M. Cordes, S. Chatterjee, et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J.", volume: "834"}
+  page-range: "35"
+  doi: "10.3847/1538-4357/834/1/35"
+
+"leg-2018":
+  type: article
+  title: ""
+  author: [{name: "M. T. Lam, J. A. Ellis, G. Grillo, et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J.", volume: "861"}
+  page-range: "132"
+  doi: "10.3847/1538-4357/aac770"
+
+"2023arXiv230315442L":
+  type: misc
+  title: ""
+  author: [{name: "Lamb, W. G. and Taylor, S. R. and van Haasteren, R."}]
+  date: 2023
+  serial-number: "arXiv:2303.15442"
+
+"CPTA":
+  type: article
+  title: ""
+  author: [{name: "Lee, K. J."}]
+  date: 2016
+  parent: {type: proceedings, title: "Astronomical Society of the Pacific Conference Series, Frontiers in Radio Astronomy and FAST Early Sciences Symposium 2015, ed. L. Qain and D. Li", volume: "502"}
+  page-range: "19"
+
+"lentati-2013":
+  type: article
+  title: ""
+  author: [{name: "L. Lentati, P. Alexander, M. P. Hobson, et al."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "87"}
+  page-range: "104021"
+  doi: "10.1103/PhysRevD.87.104021"
+
+"2021ApJ...911...45L":
+  type: article
+  title: ""
+  author: [{name: "J. Luo, S. Ransom, P. Demorest, et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Astrophys. J.", volume: "911"}
+  page-range: "45"
+  doi: "10.3847/1538-4357/abe62f"
+
+"1998AJ....115.2285M":
+  type: article
+  title: ""
+  author: [{name: "J. Magorrian, S. Tremaine, D. Richstone, et al."}]
+  date: 1998
+  parent: {type: periodical, title: "Astron. J.", volume: "115"}
+  page-range: "2285"
+  doi: "10.1086/300353"
+
+"2013PASA...30...17M":
+  type: article
+  title: ""
+  author: [{name: "R. N. Manchester, G. Hobbs, M. Bailes, et al."}]
+  date: 2013
+  parent: {type: periodical, title: "Publ. Astron. Soc. Aust.", volume: "30"}
+  serial-number: "e017"
+  doi: "10.1017/pasa.2012.017"
+
+"2013ApJ...764..184M":
+  type: article
+  title: ""
+  author: [{name: "McConnell, N. J. and Ma, C.-P."}]
+  date: 2013
+  parent: {type: periodical, title: "Astrophys. J.", volume: "764"}
+  page-range: "184"
+  doi: "10.1088/0004-637X/764/2/184"
+
+"m13":
+  type: article
+  title: ""
+  author: [{name: "McLaughlin, M. A."}]
+  date: 2013
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "30"}
+  page-range: "224008"
+  doi: "10.1088/0264-9381/30/22/224008"
+
+"2014ApJ...789..156M":
+  type: article
+  title: ""
+  author: [{name: "McWilliams, S. T. and Ostriker, J. P. and Pretorius, F."}]
+  date: 2014
+  parent: {type: periodical, title: "Astrophys. J.", volume: "789"}
+  page-range: "156"
+  doi: "10.1088/0004-637X/789/2/156"
+
+"mm05":
+  type: article
+  title: ""
+  author: [{name: "Merritt, D. and Milosavljević, M."}]
+  date: 2005
+  parent: {type: periodical, title: "Living Reviews in Relativity", volume: "8"}
+  page-range: "8"
+  doi: "10.12942/lrr-2005-8"
+
+"meyers-23":
+  type: misc
+  title: ""
+  author: [{name: "Meyers, P. M. and Chatziioannou, K. and Vallisneri, M. and Chua, A. J. K."}]
+  date: 2023
+  serial-number: "arXiv:2306.05559"
+
+"mm03":
+  type: article
+  title: ""
+  author: [{name: "Milosavljević, M. and Merritt, D."}]
+  date: 2003
+  parent: {type: periodical, title: "Astrophys. J.", volume: "596"}
+  page-range: "860"
+  doi: "10.1086/378086"
+
+"2018JPhCo...2j5002M":
+  type: article
+  title: ""
+  author: [{name: "Mingarelli, C. M. F. and Mingarelli, A. B."}]
+  date: 2018
+  parent: {type: periodical, title: "Journal of Physics Communications", volume: "2"}
+  page-range: "105002"
+  doi: "10.1088/2399-6528/aae06d"
+
+"2014PhRvD..90f2011M":
+  type: article
+  title: ""
+  author: [{name: "Mingarelli, C. M. F. and Sidery, T."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "90"}
+  page-range: "062011"
+  doi: "10.1103/PhysRevD.90.062011"
+
+"2013PhRvD..88f2005M":
+  type: article
+  title: ""
+  author: [{name: "Mingarelli, C. M. F. and Sidery, T. and Mandel, I. and Vecchio, A."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "88"}
+  page-range: "062005"
+  doi: "10.1103/PhysRevD.88.062005"
+
+"2017NatAs...1..886M":
+  type: article
+  title: ""
+  author: [{name: "C. M. F. Mingarelli, T. J. W. Lazio, A. Sesana, et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Nature Astronomy", volume: "1"}
+  page-range: "886"
+  doi: "10.1038/s41550-017-0299-6"
+
+"nay-23":
+  type: misc
+  title: ""
+  author: [{name: "Nay, J. and Boddy, K. K. and Smith, T. L. and Mingarelli, C. M. F."}]
+  date: 2023
+  serial-number: "arXiv:2306.06168"
+
+"ogata1989monte":
+  type: article
+  title: ""
+  author: [{name: "Ogata, Y."}]
+  date: 1989
+  parent: {type: periodical, title: "Numerische Mathematik", volume: "55"}
+  page-range: "137"
+  doi: "10.1007/BF01406511"
+
+"2021AJ....161..105P":
+  type: article
+  title: ""
+  author: [{name: "Park, R. S. and Folkner, W. M. and Williams, J. G. and Boggs, D. H."}]
+  date: 2021
+  parent: {type: periodical, title: "Astron. J.", volume: "161"}
+  page-range: "105"
+  doi: "10.3847/1538-3881/abd414"
+
+"pdd-19":
+  type: article
+  title: ""
+  author: [{name: "B. B. P. Perera, M. E. DeCesar, P. B. Demorest, et al."}]
+  date: 2019
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "490"}
+  page-range: "4666"
+  doi: "10.1093/mnras/stz2857"
+
+"petit2022":
+  type: article
+  title: ""
+  author: [{name: "Petit, G."}]
+  date: 2022
+  parent: {type: periodical, title: "personal communication"}
+
+"p01":
+  type: article
+  title: ""
+  author: [{name: "Phinney, E. S."}]
+  date: 2001
+  parent: {type: periodical, title: "arXiv e-prints, astro"}
+  doi: "10.48550/arXiv.astro-ph/0108028"
+
+"1956AcPP...15..389P":
+  type: article
+  title: ""
+  author: [{name: "Pirani, F. A. E."}]
+  date: 1956
+  parent: {type: periodical, title: "Acta Physica Polonica", volume: "15"}
+  page-range: "389"
+  doi: "10.1007/s10714-009-0787-9"
+
+"2009GReGr..41.1215P":
+  type: article
+  title: ""
+  author: [{name: "Pirani, F. A. E."}]
+  date: 2009
+  parent: {type: periodical, title: "General Relativity and Gravitation", volume: "41"}
+  page-range: "1215"
+  doi: "10.1007/s10714-009-0787-9"
+
+"ptr2022":
+  type: article
+  title: ""
+  author: [{name: "Pol, N. and Taylor, S. R. and Romano, J. D."}]
+  date: 2022
+  parent: {type: periodical, title: "Astrophys. J.", volume: "940"}
+  page-range: "173"
+  doi: "10.3847/1538-4357/ac9836"
+
+"astro4cast":
+  type: article
+  title: ""
+  author: [{name: "N. S. Pol, S. R. Taylor, L. Z. Kelley, et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "911"}
+  serial-number: "L34"
+  doi: "10.3847/2041-8213/abf2c9"
+
+"rr95":
+  type: article
+  title: ""
+  author: [{name: "Rajagopal, M. and Romani, R. W."}]
+  date: 1995
+  parent: {type: periodical, title: "Astrophys. J.", volume: "446"}
+  page-range: "543"
+  doi: "10.1086/175813"
+
+"ransom-19":
+  type: article
+  title: ""
+  author: [{name: "S. Ransom, A. Brazier, S. Chatterjee, et al."}]
+  date: 2019
+  parent: {type: periodical, title: "Bull. Am. Astron. Soc.", volume: "51"}
+  page-range: "195"
+
+"ppta23":
+  type: article
+  title: ""
+  author: [{name: "D. J. Reardon, et al."}]
+  date: 2023
+  parent: {type: periodical, title: "in preparation"}
+
+"r19":
+  type: article
+  title: ""
+  author: [{name: "Roebber, E."}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J.", volume: "876"}
+  page-range: "55"
+  doi: "10.3847/1538-4357/ab100e"
+
+"2017ApJ...835...21R":
+  type: article
+  title: ""
+  author: [{name: "Roebber, E. and Holder, G."}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J.", volume: "835"}
+  page-range: "21"
+  doi: "10.3847/1538-4357/835/1/21"
+
+"romani1989timing":
+  type: article
+  title: ""
+  author: [{name: "Romani, R. W."}]
+  date: 1989
+  parent: {type: proceedings, title: "Timing Neutron Stars, ed. H. Ögelman and E. P. J. Heuvel (Springer), 113–117"}
+
+"romano-2021":
+  type: article
+  title: ""
+  author: [{name: "Romano, J. D. and Hazboun, J. S. and Siemens, X. and Archibald, A. M."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "063027"
+  doi: "10.1103/PhysRevD.103.063027"
+
+"rsg2015":
+  type: article
+  title: ""
+  author: [{name: "Rosado, P. A. and Sesana, A. and Gair, J."}]
+  date: 2015
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "451"}
+  page-range: "2417"
+  doi: "10.1093/mnras/stv1098"
+
+"scm2015":
+  type: article
+  title: ""
+  author: [{name: "Sampson, L. and Cornish, N. J. and McWilliams, S. T."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "91"}
+  page-range: "084055"
+  doi: "10.1103/PhysRevD.91.084055"
+
+"sv2023":
+  type: misc
+  title: ""
+  author: [{name: "Sardesai, S. C. and Vigeland, S. J."}]
+  date: 2023
+  serial-number: "arXiv:2303.09615"
+
+"saz78":
+  type: article
+  title: ""
+  author: [{name: "Sazhin, M. V."}]
+  date: 1978
+  parent: {type: periodical, title: "Sov. Astron.", volume: "22"}
+  page-range: "36"
+
+"2013MNRAS.433L...1S":
+  type: article
+  title: ""
+  author: [{name: "Sesana, A."}]
+  date: 2013
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "433"}
+  serial-number: "L1"
+  doi: "10.1093/mnrasl/slt034"
+
+"shm-04":
+  type: article
+  title: ""
+  author: [{name: "Sesana, A. and Haardt, F. and Madau, P. and Volonteri, M."}]
+  date: 2004
+  parent: {type: periodical, title: "Astrophys. J.", volume: "611"}
+  page-range: "623"
+  doi: "10.1086/422185"
+
+"2008MNRAS.390..192S":
+  type: article
+  title: ""
+  author: [{name: "Sesana, A. and Vecchio, A. and Colacino, C. N."}]
+  date: 2008
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "390"}
+  page-range: "192"
+  doi: "10.1111/j.1365-2966.2008.13682.x"
+
+"Siemens:2013zla":
+  type: article
+  title: ""
+  author: [{name: "Siemens, X. and Ellis, J. and Jenet, F. and Romano, J. D."}]
+  date: 2013
+  parent: {type: periodical, title: "Class. Quant. Grav.", volume: "30"}
+  page-range: "224015"
+  doi: "10.1088/0264-9381/30/22/224015"
+
+"2023MNRAS.518.1802S":
+  type: article
+  title: ""
+  author: [{name: "L. Speri, N. K. Porayko, M. Falxa, et al."}]
+  date: 2023
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "518"}
+  page-range: "1802"
+  doi: "10.1093/mnras/stac3237"
+
+"1990PhRvL..65..285S":
+  type: article
+  title: ""
+  author: [{name: "Stinebring, D. R. and Ryba, M. F. and Taylor, J. H. and Romani, R. W."}]
+  date: 1990
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "65"}
+  page-range: "285"
+  doi: "10.1103/PhysRevLett.65.285"
+
+"1979Natur.277..437T":
+  type: article
+  title: ""
+  author: [{name: "Taylor, J. H. and Fowler, L. A. and McCulloch, P. M."}]
+  date: 1979
+  parent: {type: periodical, title: "Nature", volume: "277"}
+  page-range: "437"
+  doi: "10.1038/277437a0"
+
+"taylor2021nanohertz":
+  type: article
+  title: ""
+  author: [{name: "Taylor, S. R."}]
+  date: 2021
+  parent: {type: periodical, title: "Nanohertz Gravitational Wave Astronomy (Boca Raton, FL: CRC Press)"}
+
+"enterprise_ext":
+  type: article
+  title: ""
+  author: [{name: "Taylor, S. R. and Baker, P. T. and Hazboun, J. S. and Simon, J. J. and Vigeland, S. J."}]
+  date: 2018
+  parent: {type: periodical, title: "enterprise extensions"}
+
+"2013PhRvD..88h4001T":
+  type: article
+  title: ""
+  author: [{name: "Taylor, S. R. and Gair, J. R."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "88"}
+  page-range: "084001"
+  doi: "10.1103/PhysRevD.88.084001"
+
+"tlb-17":
+  type: article
+  title: ""
+  author: [{name: "S. R. Taylor, L. Lentati, S. Babak, et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "95"}
+  page-range: "042002"
+  doi: "10.1103/PhysRevD.95.042002"
+
+"2022PhRvD.105h4049T":
+  type: article
+  title: ""
+  author: [{name: "Taylor, S. R. and Simon, J. and Schult, L. and Pol, N. and Lamb, W. G."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "105"}
+  page-range: "084049"
+  doi: "10.1103/PhysRevD.105.084049"
+
+"2020PhRvD.102h4039T":
+  type: article
+  title: ""
+  author: [{name: "Taylor, S. R. and van Haasteren, R. and Sesana, A."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "102"}
+  page-range: "084039"
+  doi: "10.1103/PhysRevD.102.084039"
+
+"thk-2016":
+  type: article
+  title: ""
+  author: [{name: "C. Tiburzi, G. Hobbs, M. Kerr, et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "455"}
+  page-range: "4339"
+  doi: "10.1093/mnras/stv2143"
+
+"Tomczak-2014":
+  type: article
+  title: ""
+  author: [{name: "A. R. Tomczak, R. F. Quadri, K.-V. H. Tran, et al."}]
+  date: 2014
+  parent: {type: periodical, title: "Astrophys. J.", volume: "783"}
+  page-range: "85"
+  doi: "10.1088/0004-637X/783/2/85"
+
+"libstempo":
+  type: misc
+  title: "libstempo: Python wrapper for Tempo2"
+  author: [{name: "Vallisneri, M."}]
+  date: 2020
+  serial-number: "arXiv:2002.017"
+
+"2020ApJ...893..112V":
+  type: article
+  title: ""
+  author: [{name: "M. Vallisneri, S. R. Taylor, J. Simon, et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "893"}
+  page-range: "112"
+  doi: "10.3847/1538-4357/ab7b67"
+
+"2009MNRAS.395.1005V":
+  type: article
+  title: ""
+  author: [{name: "van Haasteren, R. and Levin, Y. and McDonald, P. and Lu, T."}]
+  date: 2009
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "395"}
+  page-range: "1005"
+  doi: "10.1111/j.1365-2966.2009.14590.x"
+
+"2014PhRvD..90j4012V":
+  type: article
+  title: ""
+  author: [{name: "van Haasteren, R. and Vallisneri, M."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "90"}
+  page-range: "104012"
+  doi: "10.1103/PhysRevD.90.104012"
+
+"vgs21":
+  type: article
+  title: ""
+  author: [{name: "Vehtari, A. and Gelman, A. and Simpson, D. and Carpenter, B. and Bürkner, P.-C."}]
+  date: 2021
+  parent: {type: periodical, title: "Bayesian Analysis", volume: "16"}
+  page-range: "667"
+  doi: "10.1214/20-BA1221"
+
+"vite18":
+  type: article
+  title: ""
+  author: [{name: "Vigeland, S. J. and Islo, K. and Taylor, S. R. and Ellis, J. A."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "98"}
+  page-range: "044003"
+  doi: "10.1103/PhysRevD.98.044003"
+
+"2020SciPy-NMeth":
+  type: article
+  title: ""
+  author: [{name: "P. Virtanen, R. Gommers, T. E. Oliphant, et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Methods", volume: "17"}
+  page-range: "261"
+  doi: "10.1038/s41592-019-0686-2"
+
+"wilcox2012introduction":
+  type: article
+  title: ""
+  author: [{name: "Wilcox, R."}]
+  date: 2012
+  parent: {type: periodical, title: "Introduction to Robust Estimation and Hypothesis Testing, Statistical Modeling and Decision Science (Elsevier Science)"}
+
+"wl03":
+  type: article
+  title: ""
+  author: [{name: "Wyithe, J. S. B. and Loeb, A."}]
+  date: 2003
+  parent: {type: periodical, title: "Astrophys. J.", volume: "590"}
+  page-range: "691"
+  doi: "10.1086/375187"
+
+"cpta23":
+  type: article
+  title: ""
+  author: [{name: "H. Xu, S. Chen, Y. Gio, et al."}]
+  date: 2023
+  parent: {type: periodical, title: "in preparation"}
+
+"zhs-22":
+  type: article
+  title: ""
+  author: [{name: "A. Zic, G. Hobbs, R. M. Shannon, et al."}]
+  date: 2022
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc., 516, 410,"}
+  doi: "10.1093/mnras/stac2100"

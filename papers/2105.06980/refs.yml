@@ -1,0 +1,2704 @@
+"xpsi":
+  type: misc
+  title: "X-PSI: X-ray Pulse Simulation and Inference"
+  author: [{name: "Riley, Thomas Edward"}]
+  date: 2021
+  serial-number: "ascl:2102.005"
+
+"zenodo":
+  type: article
+  title: "A NICER View of the Massive Pulsar PSR J0740+6620 Informed by Radio Timing and XMM-Newton Spectroscopy: Nested Samples for Millisecond Pulsar Parameter Estimation"
+  author: [{name: "Riley, T. E. and Watts, A. L. and Ray, P. S. and others"}]
+  date: 2021
+  doi: "10.5281/zenodo.4697625"
+
+"Fonseca20":
+  type: article
+  title: "Refined Mass and Geometric Measurements of the High-Mass PSR J0740+6620"
+  author: [{name: "Fonseca, Emmanuel and Cromartie, H. Thankful and Pennucci, Timothy T. and Ray, Paul S. and Kirichenko, Aida Yu. and Ransom, Scott M. and Demorest, Paul B. and Stairs, Ingrid H. and Arzoumanian, Zaven and Guillemot, Lucas and Parthasarathy, Aditya and Kerr, Matthew and Cognard, Ismael and Baker, Paul T. and Blumer, Harsha and Brook, Paul R. and DeCesar, Megan and Dolch, Timothy and Dong, F. Adam and Ferrara, Elizabeth C. and Fiore, William and Garver-Daniels, Nathaniel and Good, Deborah C. and Jennings, Ross and Jones, Megan L. and Kaspi, Victoria M. and Lam, Michael T. and Lorimer, Duncan R. and Luo, Jing and McEwen, Alexander and McKee, James W. and McLaughlin, Maura A. and McMann, Natasha and Meyers, Bradley W. and Naidu, Arun and Ng, Cherry and Nice, David J. and Pol, Nihan and Radovan, Henri A. and Shapiro-Albert, Brent and Tan, Chia Min and Tendulkar, Shriharsh P. and Swiggum, Joseph K. and Wahl, Haley M. and Zhu, Weiwei"}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2104.00880"
+
+"FonsecaZen21":
+  type: article
+  title: "Refined Mass and Geometric Measurements of the High-Mass PSR J0740+6620: Probability Density Functions and their Credible Intervals"
+  author: [{name: "Fonseca, E. and Cromartie, H. T. and Pennucci, T. T. and Ray, P. S. and Kirichenko, A. Yu. and Ransom, S. M. and Demorest, P. B. and Stairs, I. H. and Arzoumanian, Z. and Guillemot, L. and Parthasarathy, A. and Kerr, M. and Cognard, I. and Baker, P. T. and Blumer, H. and Brook, P. R. and DeCesar, M. and Dolch, T. and Dong, F. A. and Ferrara, E. C. and Fiore, W. and Garver-Daniels, N. and Good, D. C. and Jennings, R. and Jones, M. L. and Kaspi, V. M. and Lam, M. T. and Lorimer, D. R. and Luo, J. and McEwen, A. and McKee, J. W. and McLaughlin, M. A. and McMann, N. and Meyers, B. W. and Naidu, A. and Ng, C. and Nice, D. J. and Pol, N. and Radovan, H. A. and Shapiro-Albert, B. and Tan, C. M. and Tendulkar, S. P. and Swiggum, J. K. and Wahl, H. M. and Zhu, W. W."}]
+  date: 2021
+  doi: "10.5281/zenodo.4773599"
+
+"Bilby":
+  type: article
+  title: "BILBY: A User-friendly Bayesian Inference Library for Gravitational-wave Astronomy"
+  author: [{name: "Ashton, Gregory and Hübner, Moritz and Lasky, Paul D. and Talbot, Colm and Ackley, Kendall and Biscoveanu, Sylvia and Chu, Qi and Divakarla, Atul and Easter, Paul J. and Goncharov, Boris and Hernandez Vivanco, Francisco and Harms, Jan and Lower, Marcus E. and Meadors, Grant D. and Melchor, Denyz and Payne, Ethan and Pitkin, Matthew D. and Powell, Jade and Sarin, Nikhil and Smith, Rory J. E. and Thrane, Eric"}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J. Suppl. Ser.", volume: "241"}
+  page-range: "27"
+  doi: "10.3847/1538-4365/ab06fc"
+
+"Wolff20":
+  type: article
+  title: "NICER Detection of Thermal X-ray Pulsations from the Massive Millisecond Pulsars PSR J0740+6620 and PSR J1614-2230"
+  author: [{name: "Wolff, M. T. and Guillot, S. and Bogdanov, S. and Ray, P. S. and Kerr, M. and Arzoumanian, Z. and Gendreau, K. C. and Miller, M. C. and Dittmann, A. J. and Ho, W. C. G. and Guillemot, L. and Cognard, I. and Theureau, G. and Wood, K. S."}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2105.06978"
+
+"IMJ0740":
+  type: article
+  title: "The Radius of PSR J0740+6620 from NICER and XMM-Newton Data"
+  author: [{name: "Miller, M. C. and Lamb, F. K. and Dittmann, A. J. and Bogdanov, S. and Arzoumanian, Z. and Gendreau, K. C. and Guillot, S. and Ho, W. C. G. and Lattimer, J. M. and Loewenstein, M. and Morsink, S. M. and Ray, P. S. and Wolff, M. T. and Baker, C. L. and Cazeau, T. and Manthripragada, S. and Markwardt, C. B. and Okajima, T. and Pollard, S. and Cognard, I. and Cromartie, H. T. and Fonseca, E. and Guillemot, L. and Kerr, M. and Parthasarathy, A. and Pennucci, T. T. and Ransom, S. and Stairs, I."}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2105.06979"
+
+"3C50":
+  type: article
+  title: "An Empirical Background Model for the NICER X-ray Timing Instrument"
+  author: [{name: "Remillard, Ronald A. and Loewenstein, Michael and Steiner, James F. and Prigozhin, Gregory Y. and LaMarr, Beverly and Enoto, Teruaki and Gendreau, Keith C. and Arzoumanian, Zaven and Markwardt, Craig and Basak, Arkadip and Stevens, Abigail L. and Ray, Paul S. and Altamirano, Diego and Buisson, Douglas J. K."}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2105.09901"
+
+"Antoniadis16":
+  type: article
+  title: "The millisecond pulsar mass distribution: Evidence for bimodality and constraints on the maximum neutron star mass"
+  author: [{name: "Antoniadis, John and Tauris, Thomas M. and Ozel, Feryal and Barr, Ewan and Champion, David J. and Freire, Paulo C. C."}]
+  date: 2016
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1605.01665"
+
+"Hogg2012":
+  type: article
+  title: "Data analysis recipes: Probability calculus for inference"
+  author: [{name: "Hogg, David W."}]
+  date: 2012
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1205.4446"
+
+"Hogg2020":
+  type: article
+  title: "Data Analysis Recipes: Products of multivariate Gaussians in Bayesian inferences"
+  author: [{name: "Hogg, David W. and Price-Whelan, Adrian M. and Leistedt, Boris"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2005.14199"
+
+"Gelman2013":
+  type: article
+  title: "Bayesian Data Analysis, Third Edition"
+  author: [{name: "Gelman, A. and Carlin, J.B. and Stern, H.S. and Dunson, D.B. and Vehtari, A. and Rubin, D.B."}]
+  date: 2013
+
+"Kondratyev20":
+  type: article
+  title: "Three-dimensional heat transfer effects in external layers of a magnetized neutron star"
+  author: [{name: "Kondratyev, Ilya A. and Moiseenko, Sergey G. and Bisnovatyi-Kogan, Gennady S. and Glushikhina, Maria V."}]
+  date: 2020
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "497"}
+  page-range: "2883-2892"
+  doi: "10.1093/mnras/staa2154"
+
+"deGrandis20":
+  type: article
+  title: "Three-dimensional Modeling of the Magnetothermal Evolution of Neutron Stars: Method and Test Cases"
+  author: [{name: "De Grandis, Davide and Turolla, Roberto and Wood, Toby S. and Zane, Silvia and Taverna, Roberto and Gourgouliatos, Konstantinos N."}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "903"}
+  page-range: "40"
+  doi: "10.3847/1538-4357/abb6f9"
+
+"riley_thesis":
+  type: article
+  title: "Neutron star parameter estimation from a NICER perspective"
+  author: [{name: "Riley, Thomas E."}]
+  date: 2019
+
+"riley19c":
+  type: article
+  title: "A NICER View of PSR J0030+0451: Nested Samples for Millisecond Pulsar Parameter Estimation"
+  author: [{name: "Riley, T. E. and Watts, A. L. and Bogdanov, S. and Ray, P. S. and Ludlam, R. M. and Guillot, S. and Arzoumanian, Z. and Baker, C. L. and Bilous, A. V. and Chakrabarty, D. and Gendreau, K. C. and Harding, A. K. and Ho, W. C. G. and Lattimer, J. M. and Morsink, S. M. and Strohmayer, T. E."}]
+  date: 2019
+  doi: "10.5281/zenodo.3386449"
+
+"riley19a":
+  type: article
+  title: "A NICER View of PSR J0030+0451: Millisecond Pulsar Parameter Estimation."
+  author: [{name: "Riley, T. E. and Watts, A. L. and Bogdanov, S. and Ray, P. S. and Ludlam, R. M. and Guillot, S. and Arzoumanian, Z. and Baker, C. L. and Bilous, A. V. and Chakrabarty, D. and Gendreau, K. C. and Harding, A. K. and Ho, W. C. G. and Lattimer, J. M. and Morsink, S. M. and Strohmayer, T. E."}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "887"}
+  serial-number: "L21"
+  doi: "10.3847/2041-8213/ab481c"
+
+"raaijmakers19":
+  type: article
+  title: "A NICER View of PSR J0030+0451: Implications for the Dense Matter Equation of State."
+  author: [{name: "Raaijmakers, G. and Riley, T. E. and Watts, A. L. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "887"}
+  serial-number: "L22"
+  doi: "10.3847/2041-8213/ab451a"
+
+"raaijmakers20":
+  type: article
+  title: "Constraining the Dense Matter Equation of State with Joint Analysis of NICER and LIGO/Virgo Measurements"
+  author: [{name: "Raaijmakers, G. and Greif, S. K. and Riley, T. E. and Hinderer, T. and Hebeler, K. and Schwenk, A. and Watts, A. L. and Nissanke, S. and Guillot, S. and Lattimer, J. M. and Ludlam, R. M."}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "893"}
+  serial-number: "L21"
+  doi: "10.3847/2041-8213/ab822f"
+
+"bilous19":
+  type: article
+  title: "A NICER View of PSR J0030+0451 in the Context of Modern Pulsar Magnetospheres."
+  author: [{name: "Bilous, A. V. and Watts, A. L. and Harding, A. K. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "887"}
+  serial-number: "L23"
+  doi: "10.3847/2041-8213/ab53e7"
+
+"Miller16":
+  type: article
+  title: "The Case for PSR J1614-2230 as a NICER Target"
+  author: [{name: "Miller, M. Coleman"}]
+  date: 2016
+  parent: {type: periodical, title: "Astrophys. J.", volume: "822"}
+  page-range: "27"
+  doi: "10.3847/0004-637X/822/1/27"
+
+"Akmal98":
+  type: article
+  title: "Equation of state of nucleon matter and neutron star structure"
+  author: [{name: "Akmal, A. and Pandharipande, V. R. and Ravenhall, D. G."}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "58"}
+  page-range: "1804-1828"
+  doi: "10.1103/PhysRevC.58.1804"
+
+"Stergioulas95":
+  type: article
+  title: "Comparing Models of Rapidly Rotating Relativistic Stars Constructed by Two Numerical Methods"
+  author: [{name: "Stergioulas, Nikolaos and Friedman, John L."}]
+  date: 1995
+  parent: {type: periodical, title: "Astrophys. J.", volume: "444"}
+  page-range: "306"
+  doi: "10.1086/175605"
+
+"miller19":
+  type: article
+  title: "PSR J0030+0451 Mass and Radius from NICER Data and the Implications for the Properties of Neutron Star Matter."
+  author: [{name: "Miller, M. C. and Lamb, F. K. and Dittmann, A. J. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "887"}
+  serial-number: "L24"
+  doi: "10.3847/2041-8213/ab50c5"
+
+"bogdanov19a":
+  type: article
+  title: "Constraining the Neutron Star Mass-Radius Relation and Dense Matter Equation of State with NICER I: the Millisecond Pulsar X-ray Data Set"
+  author: [{name: "Bogdanov, S. and Guillot, S. and Ray, P. S. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "887"}
+  serial-number: "L25"
+  doi: "10.3847/2041-8213/ab53eb"
+
+"bogdanov19b":
+  type: article
+  title: "Constraining the Neutron Star Mass-Radius Relation and Dense Matter Equation of State with NICER II: Modeling Emission from Hot Spots on a Rapidly Rotating Neutron Star"
+  author: [{name: "Bogdanov, S. and Lamb, F. K. and Mahmoodifar, S. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "887"}
+  serial-number: "L26"
+  doi: "10.3847/2041-8213/ab5968"
+
+"Bogdanov19c":
+  type: article
+  title: "Constraining the Neutron Star Mass-Radius Relation and Dense Matter Equation of State with NICER. III. Model Description and Verification of Parameter Estimation Codes"
+  author: [{name: "Bogdanov, Slavko and Dittmann, Alexander J. and Ho, Wynn C. G. and Lamb, Frederick K. and Mahmoodifar, Simin and Miller, M. Coleman and Morsink, Sharon M. and Riley, Thomas E. and Strohmayer, Tod E. and Watts, Anna L. and Choudhury, Devarshi and Guillot, Sebastien and Harding, Alice K. and Ray, Paul S. and Wadiasingh, Zorawar and Wolff, Michael T. and Markwardt, Craig B. and Arzoumanian, Zaven and Gendreau, Keith C."}]
+  date: 2021
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "914"}
+  serial-number: "L15"
+  doi: "10.3847/2041-8213/abfb79"
+
+"bogdanov_slavko_2019_3524457":
+  type: article
+  title: "Constraining the Neutron Star Mass-Radius Relation and Dense Matter Equation of State with NICER. I. The Millisecond Pulsar X-Ray Data Set"
+  author: [{name: "Bogdanov, Slavko and Guillot, Sebastien and Ray, Paul S. and Wolff, Michael, T. and Chakrabarty, Deepto and Ho, Wynn C. G. and Kerr, Matthew and Lamb, Frederick K. and Lommen, Andrea and Ludlam, Renee M. and Milburn, Reilly and Montano, Sergio and Miller, M. Coleman and Baubock, Michi and Ozel, Feryal and Psaltis, Dimitrios and Remillard, Ronald A. and Riley, Thomas E. and Steiner, James F. and Strohmayer, Tod E. and Watts, Anna L. and Wood, Kent S. and Zeldes, Jesse and Enoto, Teruaki and Okajima, Takashi and Kellogg, James W. and Baker, Charles and Markwardt, Craig B. and Arzoumanian, Zaven and Gendreau, Keith C."}]
+  date: 2019
+  doi: "10.5281/zenodo.3524457"
+
+"riley19b":
+  type: article
+  title: "X-PSI: A prototype open-source package for neutron star X-ray Pulsation Simulation and Inference"
+  author: [{name: "Riley, T. E. and Watts, A. L."}]
+  date: 2019
+  parent: {type: periodical, title: "X-PSI: A prototype open-source package for neutron star X-ray Pulsation Simulation and Inference."}
+
+"Python2007":
+  type: article
+  title: "Python for Scientific Computing"
+  author: [{name: "T. E. Oliphant"}]
+  date: 2007
+  parent: {type: periodical, title: "Computing in Science Engineering", volume: "9"}
+  page-range: "10-20"
+  doi: "10.1109/MCSE.2007.58"
+
+"Zdunik13":
+  type: article
+  title: "Maximum mass of neutron stars and strange neutron-star cores"
+  author: [{name: "Zdunik, J. L. and Haensel, P."}]
+  date: 2013
+  parent: {type: periodical, title: "Astronomy and Astrophysics", volume: "551"}
+  serial-number: "A61"
+  doi: "10.1051/0004-6361/201220697"
+
+"Abbott19":
+  type: article
+  title: "Properties of the Binary Neutron Star Merger GW170817"
+  author: [{name: "Abbott, B. P. and Abbott, R. and Abbott, T. D. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review X", volume: "9"}
+  page-range: "011001"
+  doi: "10.1103/PhysRevX.9.011001"
+
+"cython2011":
+  type: article
+  title: "Cython: The Best of Both Worlds"
+  author: [{name: "S. Behnel and R. Bradshaw and C. Citro and L. Dalcin and D. S. Seljebotn and K. Smith"}]
+  date: 2011
+  parent: {type: periodical, title: "Computing in Science Engineering", volume: "13"}
+  page-range: "31-39"
+  doi: "10.1109/MCSE.2010.118"
+
+"Numpy2011":
+  type: article
+  title: "The NumPy Array: A Structure for Efficient Numerical Computation"
+  author: [{name: "S. van der Walt and S. C. Colbert and G. Varoquaux"}]
+  date: 2011
+  parent: {type: periodical, title: "Computing in Science Engineering", volume: "13"}
+  page-range: "22-30"
+  doi: "10.1109/MCSE.2011.37"
+
+"mpi4py":
+  type: article
+  title: "MPI for Python: Performance improvements and MPI-2 extensions"
+  author: [{name: "Lisandro Dalcín and Rodrigo Paz and Mario Storti and Jorge D'Elía"}]
+  date: 2008
+  parent: {type: periodical, title: "Journal of Parallel and Distributed Computing", volume: "68"}
+  page-range: "655-662"
+  doi: "10.1016/j.jpdc.2007.09.005"
+
+"Scipy":
+  type: article
+  title: "SciPy: Open source scientific tools for Python"
+  author: [{name: "Eric Jones and Travis Oliphant and Pearu Peterson and others"}]
+  date: 2001
+
+"IPython2007":
+  type: article
+  title: "IPython: A System for Interactive Scientific Computing"
+  author: [{name: "F. Perez and B. E. Granger"}]
+  date: 2007
+  parent: {type: periodical, title: "Computing in Science Engineering", volume: "9"}
+  page-range: "21-29"
+  doi: "10.1109/MCSE.2007.53"
+
+"Hunter:2007":
+  type: article
+  title: "Matplotlib: A 2D graphics environment"
+  author: [{name: "Hunter, J. D."}]
+  date: 2007
+  parent: {type: periodical, title: "Computing in Science & Engineering", volume: "9"}
+  page-range: "90-95"
+  doi: "10.1109/MCSE.2007.55"
+
+"matplotlibv2":
+  type: article
+  title: "matplotlib/matplotlib v2.2.2"
+  author: [{name: "Michael Droettboom and Thomas A Caswell and John Hunter and Eric Firing and Jens Hedegaard Nielsen and Antony Lee and Elliott Sales de Andrade and Nelle Varoquaux and David Stansby and Benjamin Root and Phil Elson and Darren Dale and Jae-Joon Lee and Ryan May and Jouni K. Seppänen and Jody Klymak and Damon McDougall and Andrew Straw and Paul Hobson and cgohlke and Tony S Yu and Eric Ma and Adrien F. Vincent and Steven Silvester and Charlie Moad and Jan Katins and Nikita Kniazev and Tim Hoffmann and Federico Ariza and Peter Würtz"}]
+  date: 2018
+  doi: "10.5281/zenodo.1202077"
+
+"Gough:2009":
+  type: article
+  title: "GNU Scientific Library Reference Manual - Third Edition"
+  author: [{name: "Gough, Brian"}]
+  date: 2009
+
+"Kluyver:2016aa":
+  type: article
+  title: "Jupyter Notebooks -- a publishing format for reproducible computational workflows"
+  author: [{name: "Thomas Kluyver and Benjamin Ragan-Kelley and Fernando Pérez and Brian Granger and Matthias Bussonnier and Jonathan Frederic and Kyle Kelley and Jessica Hamrick and Jason Grout and Sylvain Corlay and Paul Ivanov and Damián Avila and Safia Abdalla and Carol Willing"}]
+  date: 2016
+  parent: {type: proceedings, title: "Positioning and Power in Academic Publishing: Players, Agents and Agendas"}
+  serial-number: "87 - 90"
+
+"openmp":
+  type: article
+  title: "OpenMP: an industry standard API for shared-memory programming"
+  author: [{name: "Dagum, Leonardo and Menon, Ramesh"}]
+  date: 1998
+  parent: {type: periodical, title: "Computational Science & Engineering, IEEE", volume: "5"}
+  page-range: "46-55"
+
+"Lewis19":
+  type: article
+  title: "GetDist: a Python package for analysing Monte Carlo samples"
+  author: [{name: "Lewis, Antony"}]
+  date: 2019
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1910.13970"
+
+"MPI":
+  type: article
+  title: "MPI: A Message-Passing Interface Standard"
+  author: [{name: "Forum, Message P"}]
+  date: 1994
+
+"fgivenx":
+  type: article
+  title: "fgivenx: Functional Posterior Plotter"
+  author: [{name: "Will Handley"}]
+  date: 2018
+  parent: {type: periodical, title: "The Journal of Open Source Software", volume: "3"}
+  page-range: "849"
+  doi: "10.21105/joss.00849"
+
+"higson2019diagnostic":
+  type: article
+  title: "nestcheck: diagnostic tests for nested sampling calculations"
+  author: [{name: "Higson, Edward and Handley, Will and Hobson, Mike and Lasenby, Anthony"}]
+  date: 2019
+  parent: {type: periodical, title: "Monthly Notices of the Royal Astronomical Society", volume: "483"}
+  page-range: "2044-2056"
+  doi: "10.1093/mnras/sty3090"
+
+"higson2018sampling":
+  type: article
+  title: "Sampling Errors in Nested Sampling Parameter Estimation"
+  author: [{name: "Higson, Edward and Handley, Will and Hobson, Mike and Lasenby, Anthony"}]
+  date: 2018
+  parent: {type: periodical, title: "Bayesian Analysis", volume: "13"}
+  page-range: "873-896"
+  doi: "10.1214/17-BA1075"
+
+"higson2018nestcheck":
+  type: article
+  title: "nestcheck: error analysis, diagnostic tests and plots for nested sampling calculations"
+  author: [{name: "Higson, Edward"}]
+  date: 2018
+  parent: {type: periodical, title: "Journal of Open Source Software", volume: "3"}
+  page-range: "916"
+  doi: "10.21105/joss.00916"
+
+"astropy2013":
+  type: article
+  title: "Astropy: A community Python package for astronomy"
+  author: [{name: "Astropy Collaboration and Robitaille, Thomas P. and Tollerud, Erik J. and Greenfield, Perry and Droettboom, Michael and Bray, Erik and Aldcroft, Tom and Davis, Matt and Ginsburg, Adam and Price-Whelan, Adrian M. and Kerzendorf, Wolfgang E. and Conley, Alexander and Crighton, Neil and Barbary, Kyle and Muna, Demitri and Ferguson, Henry and Grollier, Frédéric and Parikh, Madhura M. and Nair, Prasanth H. and Unther, Hans M. and Deil, Christoph and Woillez, Julien and Conseil, Simon and Kramer, Roban and Turner, James E. H. and Singer, Leo and Fox, Ryan and Weaver, Benjamin A. and Zabalza, Victor and Edwards, Zachary I. and Azalee Bostroem, K. and Burke, D. J. and Casey, Andrew R. and Crawford, Steven M. and Dencheva, Nadia and Ely, Justin and Jenness, Tim and Labrie, Kathleen and Lim, Pey Lian and Pierfederici, Francesco and Pontzen, Andrew and Ptak, Andy and Refsdal, Brian and Servillat, Mathieu and Streicher, Ole"}]
+  date: 2013
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "558"}
+  serial-number: "A33"
+  doi: "10.1051/0004-6361/201322068"
+
+"astropy2018":
+  type: article
+  title: "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package"
+  author: [{name: "Astropy Collaboration and Price-Whelan, A. M. and Sipőcz, B. M. and Günther, H. M. and Lim, P. L. and Crawford, S. M. and Conseil, S. and Shupe, D. L. and Craig, M. W. and Dencheva, N. and Ginsburg, A. and Vand erPlas, J. T. and Bradley, L. D. and Pérez-Suárez, D. and de Val-Borro, M. and Aldcroft, T. L. and Cruz, K. L. and Robitaille, T. P. and Tollerud, E. J. and Ardelean, C. and Babej, T. and Bach, Y. P. and Bachetti, M. and Bakanov, A. V. and Bamford, S. P. and Barentsen, G. and Barmby, P. and Baumbach, A. and Berry, K. L. and Biscani, F. and Boquien, M. and Bostroem, K. A. and Bouma, L. G. and Brammer, G. B. and Bray, E. M. and Breytenbach, H. and Buddelmeijer, H. and Burke, D. J. and Calderone, G. and Cano Rodríguez, J. L. and Cara, M. and Cardoso, J. V. M. and Cheedella, S. and Copin, Y. and Corrales, L. and Crichton, D. and D'Avella, D. and Deil, C. and Depagne, É. and Dietrich, J. P. and Donath, A. and Droettboom, M. and Earl, N. and Erben, T. and Fabbro, S. and Ferreira, L. A. and Finethy, T. and Fox, R. T. and Garrison, L. H. and Gibbons, S. L. J. and Goldstein, D. A. and Gommers, R. and Greco, J. P. and Greenfield, P. and Groener, A. M. and Grollier, F. and Hagen, A. and Hirst, P. and Homeier, D. and Horton, A. J. and Hosseinzadeh, G. and Hu, L. and Hunkeler, J. S. and Ivezić, Ž. and Jain, A. and Jenness, T. and Kanarek, G. and Kendrew, S. and Kern, N. S. and Kerzendorf, W. E. and Khvalko, A. and King, J. and Kirkby, D. and Kulkarni, A. M. and Kumar, A. and Lee, A. and Lenz, D. and Littlefair, S. P. and Ma, Z. and Macleod, D. M. and Mastropietro, M. and McCully, C. and Montagnac, S. and Morris, B. M. and Mueller, M. and Mumford, S. J. and Muna, D. and Murphy, N. A. and Nelson, S. and Nguyen, G. H. and Ninan, J. P. and Nöthe, M. and Ogaz, S. and Oh, S. and Parejko, J. K. and Parley, N. and Pascual, S. and Patil, R. and Patil, A. A. and Plunkett, A. L. and Prochaska, J. X. and Rastogi, T. and Reddy Janga, V. and Sabater, J. and Sakurikar, P. and Seifert, M. and Sherbert, L. E. and Sherwood-Taylor, H. and Shih, A. Y. and Sick, J. and Silbiger, M. T. and Singanamalla, S. and Singer, L. P. and Sladen, P. H. and Sooley, K. A. and Sornarajah, S. and Streicher, O. and Teuben, P. and Thomas, S. W. and Tremblay, G. R. and Turner, J. E. H. and Terrón, V. and van Kerkwijk, M. H. and de la Vega, A. and Watkins, L. L. and Weaver, B. A. and Whitmore, J. B. and Woillez, J. and Zabalza, V. and Astropy Contributors"}]
+  date: 2018
+  parent: {type: periodical, title: "Astron. J.", volume: "156"}
+  page-range: "123"
+  doi: "10.3847/1538-3881/aabc4f"
+
+"Brewer2018":
+  type: article
+  title: "DNest4: Diffusive Nested Sampling in C++ and Python"
+  author: [{name: "Brendon Brewer and Daniel Foreman-Mackey"}]
+  date: 2018
+  parent: {type: periodical, title: "Journal of Statistical Software, Articles", volume: "86"}
+  page-range: "1-33"
+  doi: "10.18637/jss.v086.i07"
+
+"Athena13":
+  type: article
+  title: "The Hot and Energetic Universe: A White Paper presenting the science theme motivating the Athena+ mission"
+  author: [{name: "Nandra, Kirpal and Barret, Didier and Barcons, Xavier and Fabian, Andy and den Herder, Jan-Willem and Piro, Luigi and Watson, Mike and Adami, Christophe and Aird, James and Afonso, Jose Manuel"}]
+  date: 2013
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1306.2307"
+
+"Igoshev16":
+  type: article
+  title: "Distance and luminosity probability distributions derived from parallax and flux with their measurement errors. With application to the millisecond pulsar PSR J0218+4232"
+  author: [{name: "Igoshev, Andrei and Verbunt, Frank and Cator, Eric"}]
+  date: 2016
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "591"}
+  serial-number: "A123"
+  doi: "10.1051/0004-6361/201527471"
+
+"Abbott17":
+  type: article
+  title: "GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral"
+  author: [{name: "Abbott, B. P. and Abbott, R. and Abbott, T. D. and Acernese, F. and Ackley, K. and Adams, C. and Adams, T. and Addesso, P. and Adhikari, R. X. and Adya, V. B."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "119"}
+  page-range: "161101"
+  doi: "10.1103/PhysRevLett.119.161101"
+
+"LIGO_161218_catalog":
+  type: article
+  title: "GWTC-1: A Gravitational-Wave Transient Catalog of Compact Binary Mergers Observed by LIGO and Virgo during the First and Second Observing Runs"
+  author: [{name: "Abbott, B. P. and Abbott, R. and Abbott, T. D. and Abraham, S. and Acernese, F. and Ackley, K. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review X", volume: "9"}
+  page-range: "031040"
+  doi: "10.1103/PhysRevX.9.031040"
+
+"Abbott18":
+  type: article
+  title: "GW170817: Measurements of Neutron Star Radii and Equation of State"
+  author: [{name: "Abbott, B. P. and Abbott, R. and Abbott, T. D. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "161101"
+  doi: "10.1103/PhysRevLett.121.161101"
+
+"Alford16":
+  type: article
+  title: "Characteristics of hybrid compact stars with a sharp hadron-quark interface"
+  author: [{name: "Alford, Mark G. and Han, Sophia"}]
+  date: 2016
+  parent: {type: periodical, title: "European Physical Journal A", volume: "52"}
+  page-range: "62"
+  doi: "10.1140/epja/i2016-16062-9"
+
+"Alford17":
+  type: article
+  title: "Compact Stars with Sequential QCD Phase Transitions"
+  author: [{name: "Alford, Mark and Sedrakian, Armen"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "119"}
+  page-range: "161104"
+  doi: "10.1103/PhysRevLett.119.161104"
+
+"AlGendy2014":
+  type: article
+  title: "Universality of the Acceleration due to Gravity on the Surface of a Rapidly Rotating Neutron Star"
+  author: [{name: "AlGendy, M. and Morsink, S. M."}]
+  date: 2014
+  parent: {type: periodical, title: "ApJ", volume: "791"}
+  page-range: "78"
+  doi: "10.1088/0004-637X/791/2/78"
+
+"Annala18":
+  type: article
+  title: "Gravitational-Wave Constraints on the Neutron-Star-Matter Equation of State"
+  author: [{name: "Annala, Eemeli and Gorda, Tyler and Kurkela, Aleksi and Vuorinen, Aleksi"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "120"}
+  page-range: "172703"
+  doi: "10.1103/PhysRevLett.120.172703"
+
+"Annala20":
+  type: article
+  title: "Evidence for quark-matter cores in massive neutron stars"
+  author: [{name: "Annala, Eemeli and Gorda, Tyler and Kurkela, Aleksi and Nättilä, Joonas and Vuorinen, Aleksi"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "907-910"
+  doi: "10.1038/s41567-020-0914-9"
+
+"Antoniadis13":
+  type: article
+  title: "A Massive Pulsar in a Compact Relativistic Binary"
+  author: [{name: "Antoniadis, John and Freire, Paulo C. C. and Wex, Norbert and Tauris, Thomas M. and Lynch, Ryan S. and van Kerkwijk, Marten H. and Kramer, Michael and Bassa, Cees and Dhillon, Vik S. and Driebe, Thomas and Hessels, Jason W. T. and Kaspi, Victoria M. and Kondratiev, Vladislav I. and Langer, Norbert and Marsh, Thomas R. and McLaughlin, Maura A. and Pennucci, Timothy T. and Ransom, Scott M. and Stairs, Ingrid H. and van Leeuwen, Joeri and Verbiest, Joris P. W. and Whelan, David G."}]
+  date: 2013
+  parent: {type: periodical, title: "Science", volume: "340"}
+  page-range: "448"
+  doi: "10.1126/science.1233232"
+
+"Ardeljan05":
+  type: article
+  title: "Magnetorotational supernovae"
+  author: [{name: "Ardeljan, N. V. and Bisnovatyi-Kogan, G. S. and Moiseenko, S. G."}]
+  date: 2005
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "359"}
+  page-range: "333-344"
+  doi: "10.1111/j.1365-2966.2005.08888.x"
+
+"Arzoumanian14":
+  type: article
+  title: "The neutron star interior composition explorer (NICER): mission definition"
+  author: [{name: "Arzoumanian, Z. and Gendreau, K. C. and Baker, C. L. and Cazeau, T. and Hestnes, P. and Kellogg, J. W. and Kenyon, S. J. and Kozon, R. P. and Liu, K.-C. and Manthripragada, S. S. and Markwardt, C. B. and Mitchell, A. L. and Mitchell, J. W. and Monroe, C. A. and Okajima, T. and Pollard, S. E. and Powers, D. F. and Savadkin, B. J. and Winternitz, L. B. and Chen, P. T. and Wright, M. R. and Foster, R. and Prigozhin, G. and Remillard, R. and Doty, J."}]
+  date: 2014
+  parent: {type: proceedings, title: "Space Telescopes and Instrumentation 2014: Ultraviolet to Gamma Ray", volume: "9144"}
+  page-range: "914420"
+  doi: "10.1117/12.2056811"
+
+"nanograv11":
+  type: article
+  title: "The NANOGrav 11-year Data Set: High-precision Timing of 45 Millisecond Pulsars"
+  author: [{name: "Arzoumanian, Zaven and Brazier, Adam and Burke-Spolaor, Sarah and Chamberlin, Sydney and Chatterjee, Shami and Christy, Brian and Cordes, James M. and Cornish, Neil J. and Crawford, Fronefield and Thankful Cromartie, H. and Crowter, Kathryn and DeCesar, Megan E. and Demorest, Paul B. and Dolch, Timothy and Ellis, Justin A. and Ferdman, Robert D. and Ferrara, Elizabeth C. and Fonseca, Emmanuel and Garver-Daniels, Nathan and Gentile, Peter A. and Halmrast, Daniel and Huerta, E. A. and Jenet, Fredrick A. and Jessup, Cody and Jones, Glenn and Jones, Megan L. and Kaplan, David L. and Lam, Michael T. and Lazio, T. Joseph W. and Levin, Lina and Lommen, Andrea and Lorimer, Duncan R. and Luo, Jing and Lynch, Ryan S. and Madison, Dustin and Matthews, Allison M. and McLaughlin, Maura A. and McWilliams, Sean T. and Mingarelli, Chiara and Ng, Cherry and Nice, David J. and Pennucci, Timothy T. and Ransom, Scott M. and Ray, Paul S. and Siemens, Xavier and Simon, Joseph and Spiewak, Renée and Stairs, Ingrid H. and Stinebring, Daniel R. and Stovall, Kevin and Swiggum, Joseph K. and Taylor, Stephen R. and Vallisneri, Michele and van Haasteren, Rutger and Vigeland, Sarah J. and Zhu, Weiwei and NANOGrav Collaboration"}]
+  date: 2018
+  parent: {type: periodical, title: "The Astrophysical Journal Supplement Series", volume: "235"}
+  page-range: "37"
+  doi: "10.3847/1538-4365/aab5b0"
+
+"OP":
+  type: article
+  title: "Updated opacities from the Opacity Project"
+  author: [{name: "Badnell, N. R. and Bautista, M. A. and Butler, K. and Delahaye, F. and Mendoza, C. and Palmeri, P. and Zeippen, C. J. and Seaton, M. J."}]
+  date: 2005
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "360"}
+  page-range: "458-464"
+  doi: "10.1111/j.1365-2966.2005.08991.x"
+
+"Baillot19":
+  type: article
+  title: "New Constraints on the Nuclear Equation of State from the Thermal Emission of Neutron Stars in Quiescent Low-mass X-Ray Binaries"
+  author: [{name: "Baillot d'Etivaux, Nicolas and Guillot, Sebastien and Margueron, Jérôme and Webb, Natalie and Catelan, Márcio and Reisenegger, Andreas"}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J.", volume: "887"}
+  page-range: "48"
+  doi: "10.3847/1538-4357/ab4f6c"
+
+"Barnard82":
+  type: article
+  title: "Pair production and pulsar cutoff in magnetized neutron stars with nondipolar magnetic geometry"
+  author: [{name: "Barnard, J. J. and Arons, J."}]
+  date: 1982
+  parent: {type: periodical, title: "Astrophys. J.", volume: "254"}
+  page-range: "713-734"
+  doi: "10.1086/159784"
+
+"Baubock13":
+  type: article
+  title: "Relations between Neutron-star Parameters in the Hartle-Thorne Approximation"
+  author: [{name: "Bauböck, M. and Berti, E. and Psaltis, D. and Özel, F."}]
+  date: 2013
+  parent: {type: periodical, title: "ApJ", volume: "777"}
+  page-range: "68"
+  doi: "10.1088/0004-637X/777/1/68"
+
+"Baubock15":
+  type: article
+  title: "Rotational Corrections to Neutron-star Radius Measurements from Thermal Spectra"
+  author: [{name: "Bauböck, Michi and Özel, Feryal and Psaltis, Dimitrios and Morsink, Sharon M."}]
+  date: 2015
+  parent: {type: periodical, title: "Astrophys. J.", volume: "799"}
+  page-range: "22"
+  doi: "10.1088/0004-637X/799/1/22"
+
+"Baubock19":
+  type: article
+  title: "Atmospheric Structure and Radiation Pattern for Neutron-star Polar Caps Heated by Magnetospheric Return Currents"
+  author: [{name: "Bauböck, Michi and Psaltis, Dimitrios and Özel, Feryal"}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J.", volume: "872"}
+  page-range: "162"
+  doi: "10.3847/1538-4357/aafe08"
+
+"Baym18":
+  type: article
+  title: "From hadrons to quarks in neutron stars: a review"
+  author: [{name: "Baym, G. and Hatsuda, T. and Kojo, T. and Powell, P. D. and Song, Y. and Takatsuka, T."}]
+  date: 2018
+  parent: {type: periodical, title: "Reports on Progress in Physics", volume: "81"}
+  page-range: "056902"
+  doi: "10.1088/1361-6633/aaae14"
+
+"Becker00":
+  type: article
+  title: "X-Rays from the Nearby Solitary Millisecond Pulsar PSR J0030+0451: The Final ROSAT Observations"
+  author: [{name: "Becker, Werner and Trümper, Joachim and Lommen, Andrea N. and Backer, Donald C."}]
+  date: 2000
+  parent: {type: periodical, title: "Astrophys. J.", volume: "545"}
+  page-range: "1015-1019"
+  doi: "10.1086/317839"
+
+"Bildsten92":
+  type: article
+  title: "The Fate of Accreted CNO Elements in Neutron Star Atmospheres: X-Ray Bursts and Gamma-Ray Lines"
+  author: [{name: "Bildsten, Lars and Salpeter, Edwin E. and Wasserman, Ira"}]
+  date: 1992
+  parent: {type: periodical, title: "Astrophys. J.", volume: "384"}
+  page-range: "143"
+  doi: "10.1086/170860"
+
+"Blaes92":
+  type: article
+  title: "On the Evolution of Slowly Accreting Neutron Stars"
+  author: [{name: "Blaes, O. M. and Blandford, R. D. and Madau, P. and Yan, L."}]
+  date: 1992
+  parent: {type: periodical, title: "Astrophys. J.", volume: "399"}
+  page-range: "634"
+  doi: "10.1086/171955"
+
+"Bogdanov07":
+  type: article
+  title: "Constraints on Neutron Star Properties from X-Ray Observations of Millisecond Pulsars"
+  author: [{name: "Bogdanov, S. and Rybicki, G. B. and Grindlay, J. E."}]
+  date: 2007
+  parent: {type: periodical, title: "Astrophys. J.", volume: "670"}
+  page-range: "668-676"
+  doi: "10.1086/520793"
+
+"Bogdanov08":
+  type: article
+  title: "Thermal X-Rays from Millisecond Pulsars: Constraining the Fundamental Properties of Neutron Stars"
+  author: [{name: "Bogdanov, S. and Grindlay, J. E. and Rybicki, G. B."}]
+  date: 2008
+  parent: {type: periodical, title: "Astrophys. J.", volume: "689"}
+  page-range: "407-415"
+  doi: "10.1086/592341"
+
+"Bogdanov09":
+  type: article
+  title: "Deep XMM-Newton Spectroscopic and Timing Observations of the Isolated Radio Millisecond Pulsar PSR J0030+0451"
+  author: [{name: "Bogdanov, S. and Grindlay, J. E."}]
+  date: 2009
+  parent: {type: periodical, title: "Astrophys. J.", volume: "703"}
+  page-range: "1557-1564"
+  doi: "10.1088/0004-637X/703/2/1557"
+
+"Bogdanov13":
+  type: article
+  title: "The Nearest Millisecond Pulsar Revisited with XMM-Newton: Improved Mass-radius Constraints for PSR J0437-4715"
+  author: [{name: "Bogdanov, S."}]
+  date: 2013
+  parent: {type: periodical, title: "Astrophys. J.", volume: "762"}
+  page-range: "96"
+  doi: "10.1088/0004-637X/762/2/96"
+
+"Bogdanov16":
+  type: article
+  title: "Neutron Star Mass–Radius Constraints of the Quiescent Low-mass X-Ray Binaries X7 and X5 in the Globular Cluster 47 Tuc"
+  author: [{name: "Bogdanov, S. and Heinke, C. O. and Özel, F. and Güver, T."}]
+  date: 2016
+  parent: {type: periodical, title: "Astrophys. J.", volume: "831"}
+  page-range: "184"
+  doi: "10.3847/0004-637X/831/2/184"
+
+"PyMultiNest":
+  type: article
+  title: "X-ray spectral modelling of the AGN obscuring region in the CDFS: Bayesian model selection and catalogue"
+  author: [{name: "Buchner, J. and Georgakakis, A. and Nandra, K. and Hsu, L. and Rangel, C. and Brightman, M. and Merloni, A. and Salvato, M. and Donley, J. and Kocevski, D."}]
+  date: 2014
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "564"}
+  serial-number: "A125"
+  doi: "10.1051/0004-6361/201322971"
+
+"Burwitz01":
+  type: article
+  title: "The Chandra LETGS high resolution X-ray spectrum of the isolated neutron star RX J1856.5-3754"
+  author: [{name: "Burwitz, V. and Zavlin, V. E. and Neuhäuser, R. and Predehl, P. and Trümper, J. and Brinkman, A. C."}]
+  date: 2001
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "379"}
+  serial-number: "L35-L38"
+  doi: "10.1051/0004-6361:20011304"
+
+"Cackett08":
+  type: article
+  title: "Relativistic Iron Emission Lines in Neutron Star Low-Mass X-Ray Binaries as Probes of Neutron Star Radii"
+  author: [{name: "Cackett, Edward M. and Miller, Jon M. and Bhattacharyya, Sudip and Grindlay, Jonathan E. and Homan, Jeroen and van der Klis, Michiel and Miller, M. Coleman and Strohmayer, Tod E. and Wijnands, Rudy"}]
+  date: 2008
+  parent: {type: periodical, title: "Astrophys. J.", volume: "674"}
+  page-range: "415-420"
+  doi: "10.1086/524936"
+
+"Cackett10":
+  type: article
+  title: "Relativistic Lines and Reflection from the Inner Accretion Disks Around Neutron Stars"
+  author: [{name: "Cackett, Edward M. and Miller, Jon M. and Ballantyne, David R. and Barret, Didier and Bhattacharyya, Sudip and Boutelier, Martin and Miller, M. Coleman and Strohmayer, Tod E. and Wijnands, Rudy"}]
+  date: 2010
+  parent: {type: periodical, title: "Astrophys. J.", volume: "720"}
+  page-range: "205-225"
+  doi: "10.1088/0004-637X/720/1/205"
+
+"Cadeau07":
+  type: article
+  title: "Light Curves for Rapidly Rotating Neutron Stars"
+  author: [{name: "Cadeau, C. and Morsink, S. M. and Leahy, D. and Campbell, S. S."}]
+  date: 2007
+  parent: {type: periodical, title: "ApJ", volume: "654"}
+  page-range: "458-469"
+  doi: "10.1086/509103"
+
+"Carney18":
+  type: article
+  title: "Comparing two models for measuring the neutron star equation of state from gravitational-wave signals"
+  author: [{name: "Carney, Matthew F. and Wade, Leslie E. and Irwin, Burke S."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "98"}
+  page-range: "063004"
+  doi: "10.1103/PhysRevD.98.063004"
+
+"Carson19":
+  type: article
+  title: "Constraining nuclear matter parameters with GW170817"
+  author: [{name: "Carson, Zack and Steiner, Andrew W. and Yagi, Kent"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "99"}
+  page-range: "043010"
+  doi: "10.1103/PhysRevD.99.043010"
+
+"Castillo17":
+  type: article
+  title: "Magnetic field evolution and equilibrium configurations in neutron star cores: the effect of ambipolar diffusion"
+  author: [{name: "Castillo, F. and Reisenegger, A. and Valdivia, J. A."}]
+  date: 2017
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "471"}
+  page-range: "507-522"
+  doi: "10.1093/mnras/stx1604"
+
+"Cavecchi13":
+  type: article
+  title: "Flame propagation on the surfaces of rapidly rotating neutron stars during Type I X-ray bursts"
+  author: [{name: "Cavecchi, Yuri and Watts, Anna L. and Braithwaite, Jonathan and Levin, Yuri"}]
+  date: 2013
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "434"}
+  page-range: "3526-3541"
+  doi: "10.1093/mnras/stt1273"
+
+"Cerutti17":
+  type: article
+  title: "Electrodynamics of Pulsar Magnetospheres"
+  author: [{name: "Cerutti, Benoît and Beloborodov, Andrei M."}]
+  date: 2017
+  parent: {type: periodical, title: "Space Sci. Rev.", volume: "207"}
+  page-range: "111-136"
+  doi: "10.1007/s11214-016-0315-7"
+
+"Chambers19":
+  type: article
+  title: "Burning in the Tail: Implications for a Burst Oscillation Model"
+  author: [{name: "Chambers, Frank R. N. and Watts, Anna L. and Keek, Laurens and Cavecchi, Yuri and Garcia, Ferran"}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J.", volume: "871"}
+  page-range: "61"
+  doi: "10.3847/1538-4357/aaf501"
+
+"Chang03":
+  type: article
+  title: "Diffusive Nuclear Burning in Neutron Star Envelopes"
+  author: [{name: "Chang, Philip and Bildsten, Lars"}]
+  date: 2003
+  parent: {type: periodical, title: "Astrophys. J.", volume: "585"}
+  page-range: "464-474"
+  doi: "10.1086/345551"
+
+"Chang04":
+  type: article
+  title: "Evolution of Young Neutron Star Envelopes"
+  author: [{name: "Chang, Philip and Bildsten, Lars"}]
+  date: 2004
+  parent: {type: periodical, title: "Astrophys. J.", volume: "605"}
+  page-range: "830-839"
+  doi: "10.1086/382271"
+
+"OPLIB":
+  type: article
+  title: "A New Generation of Los Alamos Opacity Tables"
+  author: [{name: "Colgan, J. and Kilcrease, D. P. and Magee, N. H. and Sherrill, M. E. and Abdallah, Jr., J. and Hakel, P. and Fontes, C. J. and Guzik, J. A. and Mussack, K. A."}]
+  date: 2016
+  parent: {type: periodical, title: "Astrophys. J.", volume: "817"}
+  page-range: "116"
+  doi: "10.3847/0004-637X/817/2/116"
+
+"Cook94":
+  type: article
+  title: "Rapidly Rotating Neutron Stars in General Relativity: Realistic Equations of State"
+  author: [{name: "Cook, Gregory B. and Shapiro, Stuart L. and Teukolsky, Saul A."}]
+  date: 1994
+  parent: {type: periodical, title: "Astrophys. J.", volume: "424"}
+  page-range: "823"
+  doi: "10.1086/173934"
+
+"Cromartie19":
+  type: article
+  title: "Relativistic Shapiro delay measurements of an extremely massive millisecond pulsar"
+  author: [{name: "Cromartie, H. T. and Fonseca, E. and Ransom, S. M. and Demorest, P. B. and Arzoumanian, Z. and Blumer, H. and Brook, P. R. and DeCesar, M. E. and Dolch, T. and Ellis, J. A. and Ferdman, R. D. and Ferrara, E. C. and Garver-Daniels, N. and Gentile, P. A. and Jones, M. L. and Lam, M. T. and Lorimer, D. R. and Lynch, R. S. and McLaughlin, M. A. and Ng, C. and Nice, D. J. and Pennucci, T. T. and Spiewak, R. and Stairs, I. H. and Stovall, K. and Swiggum, J. K. and Zhu, W. W."}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Astronomy", volume: "4"}
+  page-range: "72-76"
+  doi: "10.1038/s41550-019-0880-2"
+
+"De18":
+  type: article
+  title: "Tidal Deformabilities and Radii of Neutron Stars from the Observation of GW170817"
+  author: [{name: "De, Soumi and Finstad, Daniel and Lattimer, James M. and Brown, Duncan A. and Berger, Edo and Biwer, Christopher M."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "091102"
+  doi: "10.1103/PhysRevLett.121.091102"
+
+"Degenaar15":
+  type: article
+  title: "A NuSTAR observation of disc reflection from close to the neutron star in 4U 1608-52."
+  author: [{name: "Degenaar, N. and Miller, J. M. and Chakrabarty, D. and Harrison, F. A. and Kara, E. and Fabian, A. C."}]
+  date: 2015
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "451"}
+  serial-number: "L85-L89"
+  doi: "10.1093/mnrasl/slv072"
+
+"Demorest10":
+  type: article
+  title: "A two-solar-mass neutron star measured using Shapiro delay"
+  author: [{name: "Demorest, P. B. and Pennucci, T. and Ransom, S. M. and Roberts, M. S. E. and Hessels, J. W. T."}]
+  date: 2010
+  parent: {type: periodical, title: "Nature", volume: "467"}
+  page-range: "1081-1083"
+  doi: "10.1038/nature09466"
+
+"Drago14":
+  type: article
+  title: "Can very compact and very massive neutron stars both exist?"
+  author: [{name: "Drago, Alessandro and Lavagno, Andrea and Pagliara, Giuseppe"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "89"}
+  page-range: "043014"
+  doi: "10.1103/PhysRevD.89.043014"
+
+"Drake02":
+  type: article
+  title: "Is RX J1856.5-3754 a Quark Star?"
+  author: [{name: "Drake, J. J. and Marshall, H. L. and Dreizler, S. and Freeman, P. E. and Fruscione, A. and Juda, M. and Kashyap, V. and Nicastro, F. and Pease, D. O. and Wargelin, B. J. and Werner, K."}]
+  date: 2002
+  parent: {type: periodical, title: "Astrophys. J.", volume: "572"}
+  page-range: "996-1001"
+  doi: "10.1086/340368"
+
+"Durant12":
+  type: article
+  title: "The Spectrum of the Recycled PSR J0437-4715 and Its White Dwarf Companion"
+  author: [{name: "Durant, M. and Kargaltsev, O. and Pavlov, G. G. and Kowalski, P. M. and Posselt, B. and van Kerkwijk, M. H. and Kaplan, D. L."}]
+  date: 2012
+  parent: {type: periodical, title: "Astrophys. J.", volume: "746"}
+  page-range: "6"
+  doi: "10.1088/0004-637X/746/1/6"
+
+"Dyks04":
+  type: article
+  title: "Rotational Sweepback of Magnetic Field Lines in Geometric Models of Pulsar Radio Emission"
+  author: [{name: "Dyks, J. and Harding, A. K."}]
+  date: 2004
+  parent: {type: periodical, title: "Astrophys. J.", volume: "614"}
+  page-range: "869-880"
+  doi: "10.1086/423707"
+
+"Fabian89":
+  type: article
+  title: "X-ray fluorescence from the inner disc in Cygnus X-1."
+  author: [{name: "Fabian, A. C. and Rees, M. J. and Stella, L. and White, N. E."}]
+  date: 1989
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "238"}
+  page-range: "729-736"
+  doi: "10.1093/mnras/238.3.729"
+
+"Fabian00":
+  type: article
+  title: "Broad Iron Lines in Active Galactic Nuclei"
+  author: [{name: "Fabian, A. C. and Iwasawa, K. and Reynolds, C. S. and Young, A. J."}]
+  date: 2000
+  parent: {type: periodical, title: "Publ. Astron. Soc. Pac.", volume: "112"}
+  page-range: "1145-1161"
+  doi: "10.1086/316610"
+
+"MultiNest_2008":
+  type: article
+  title: "Multimodal nested sampling: an efficient and robust alternative to Markov Chain Monte Carlo methods for astronomical data analyses"
+  author: [{name: "Feroz, F. and Hobson, M. P."}]
+  date: 2008
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "384"}
+  page-range: "449-463"
+  doi: "10.1111/j.1365-2966.2007.12353.x"
+
+"MultiNest_2009":
+  type: article
+  title: "MULTINEST: an efficient and robust Bayesian inference tool for cosmology and particle physics"
+  author: [{name: "Feroz, F. and Hobson, M. P. and Bridges, M."}]
+  date: 2009
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "398"}
+  page-range: "1601-1614"
+  doi: "10.1111/j.1365-2966.2009.14548.x"
+
+"MultiNest_2013":
+  type: article
+  title: "Importance Nested Sampling and the MultiNest Algorithm"
+  author: [{name: "Feroz, F. and Hobson, M. P. and Cameron, E. and Pettitt, A. N."}]
+  date: 2013
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1306.2144"
+
+"Galloway08":
+  type: article
+  title: "Thermonuclear (Type I) X-Ray Bursts Observed by the Rossi X-Ray Timing Explorer"
+  author: [{name: "Galloway, Duncan K. and Muno, Michael P. and Hartman, Jacob M. and Psaltis, Dimitrios and Chakrabarty, Deepto"}]
+  date: 2008
+  parent: {type: periodical, title: "Astrophys. J. Suppl. Ser.", volume: "179"}
+  page-range: "360-422"
+  doi: "10.1086/592044"
+
+"Garcia18":
+  type: article
+  title: "Thermal convection in rotating spherical shells: Temperature-dependent internal heat generation using the example of triple-α burning in neutron stars"
+  author: [{name: "Garcia, F. and Chambers, F. R. N. and Watts, A. L."}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review Fluids", volume: "3"}
+  page-range: "123501"
+  doi: "10.1103/PhysRevFluids.3.123501"
+
+"Gendreau16":
+  type: article
+  title: "The Neutron star Interior Composition Explorer (NICER): design and development"
+  author: [{name: "Gendreau, K. C. and Arzoumanian, Z. and Adkins, P. W. and others"}]
+  date: 2016
+  parent: {type: proceedings, title: "Space Telescopes and Instrumentation 2016: Ultraviolet to Gamma Ray", volume: "9905"}
+  serial-number: "99051H"
+  doi: "10.1117/12.2231304"
+
+"Gil84":
+  type: article
+  title: "Geometry of the emission region of PSR 0950+08."
+  author: [{name: "Gil, J. and Gronkowski, P. and Rudnicki, W."}]
+  date: 1984
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "132"}
+  page-range: "312-316"
+
+"Gonzalez19":
+  type: article
+  title: "Neutron star radius measurement from the ultraviolet and soft X-ray thermal emission of PSR J0437-4715"
+  author: [{name: "González-Caniulef, Denis and Guillot, Sebastien and Reisenegger, Andreas"}]
+  date: 2019
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "490"}
+  page-range: "5848-5859"
+  doi: "10.1093/mnras/stz2941"
+
+"Gourgouliatos18":
+  type: article
+  title: "Magnetic Axis Drift and Magnetic Spot Formation in Neutron Stars with Toroidal Fields"
+  author: [{name: "Gourgouliatos, Konstantinos N. and Hollerbach, Rainer"}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J.", volume: "852"}
+  page-range: "21"
+  doi: "10.3847/1538-4357/aa9d93"
+
+"Gralla17":
+  type: article
+  title: "Inclined Pulsar Magnetospheres in General Relativity: Polar Caps for the Dipole, Quadrudipole, and Beyond"
+  author: [{name: "Gralla, Samuel E. and Lupsasca, Alexandru and Philippov, Alexander"}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J.", volume: "851"}
+  page-range: "137"
+  doi: "10.3847/1538-4357/aa978d"
+
+"Greif19":
+  type: article
+  title: "Equation of state sensitivities when inferring neutron star and dense matter properties"
+  author: [{name: "Greif, S. K. and Raaijmakers, G. and Hebeler, K. and Schwenk, A. and Watts, A. L."}]
+  date: 2019
+  parent: {type: periodical, title: "MNRAS", volume: "485"}
+  page-range: "5363-5376"
+  doi: "10.1093/mnras/stz654"
+
+"Grenier15":
+  type: article
+  title: "Gamma-ray pulsars: A gold mine"
+  author: [{name: "Grenier, Isabelle A. and Harding, Alice K."}]
+  date: 2015
+  parent: {type: periodical, title: "Comptes Rendus Physique", volume: "16"}
+  page-range: "641-660"
+  doi: "10.1016/j.crhy.2015.08.013"
+
+"Guillot16a":
+  type: article
+  title: "Neutron stars in globular clusters as tests of nuclear physics"
+  author: [{name: "Guillot, S."}]
+  date: 2016
+  parent: {type: periodical, title: "Mem. Soc. Astron. Ital.", volume: "87"}
+  page-range: "521"
+
+"Guillot16b":
+  type: article
+  title: "TheNuSTARview of the non-thermal emission from PSR J0437−4715"
+  author: [{name: "Guillot, S. and Kaspi, V. M. and Archibald, R. F. and Bachetti, M. and Flynn, C. and Jankowski, F. and Bailes, M. and Boggs, S. and Christensen, F. E. and Craig, W. W. and Hailey, C. A. and Harrison, F. A. and Stern, D. and Zhang, W. W."}]
+  date: 2016
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "463"}
+  page-range: "2612-2622"
+  doi: "10.1093/mnras/stw2194"
+
+"Guillot14":
+  type: article
+  title: "Rejecting Proposed Dense Matter Equations of State with Quiescent Low-mass X-Ray Binaries"
+  author: [{name: "Guillot, S. and Rutledge, R. E."}]
+  date: 2014
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "796"}
+  serial-number: "L3"
+  doi: "10.1088/2041-8205/796/1/L3"
+
+"Guillot13":
+  type: article
+  title: "Measurement of the Radius of Neutron Stars with High Signal-to-noise Quiescent Low-mass X-Ray Binaries in Globular Clusters"
+  author: [{name: "Guillot, S. and Servillat, M. and Webb, N. A. and Rutledge, R. E."}]
+  date: 2013
+  parent: {type: periodical, title: "Astrophys. J.", volume: "772"}
+  page-range: "7"
+  doi: "10.1088/0004-637X/772/1/7"
+
+"Guillot11":
+  type: article
+  title: "Neutron Star Radius Measurement with the Quiescent Low-mass X-ray Binary U24 in NGC 6397"
+  author: [{name: "Guillot, S. and Rutledge, R. E. and Brown, E. F."}]
+  date: 2011
+  parent: {type: periodical, title: "Astrophys. J.", volume: "732"}
+  serial-number: "88-+"
+  doi: "10.1088/0004-637X/732/2/88"
+
+"Guver13":
+  type: article
+  title: "The Mass and the Radius of the Neutron Star in the Transient Low-mass X-Ray Binary SAX J1748.9-2021"
+  author: [{name: "Güver, T. and Özel, F."}]
+  date: 2013
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "765"}
+  serial-number: "L1"
+  doi: "10.1088/2041-8205/765/1/L1"
+
+"Guver12":
+  type: article
+  title: "Systematic Uncertainties in the Spectroscopic Measurements of Neutron-star Masses and Radii from Thermonuclear X-Ray Bursts. I. Apparent Radii"
+  author: [{name: "Güver, T. and Psaltis, D. and Özel, F."}]
+  date: 2012
+  parent: {type: periodical, title: "Astrophys. J.", volume: "747"}
+  page-range: "76"
+  doi: "10.1088/0004-637X/747/1/76"
+
+"Hamaguchi19":
+  type: article
+  title: "NICER calibration overview and details"
+  author: [{name: "Hamaguchi, K. and the NICER Calibration Team"}]
+  date: 2019
+  parent: {type: proceedings, title: "14th Workshop of International Astronomical Consortium for High Energy Calibration"}
+
+"Harding01":
+  type: article
+  title: "Pulsar Polar Cap Heating and Surface Thermal X-Ray Emission. I. Curvature Radiation Pair Fronts"
+  author: [{name: "Harding, Alice K. and Muslimov, Alexander G."}]
+  date: 2001
+  parent: {type: periodical, title: "Astrophys. J.", volume: "556"}
+  page-range: "987-1001"
+  doi: "10.1086/321589"
+
+"Harding11":
+  type: article
+  title: "Pulsar Pair Cascades in Magnetic Fields with Offset Polar Caps"
+  author: [{name: "Harding, Alice K. and Muslimov, Alex G."}]
+  date: 2011
+  parent: {type: periodical, title: "Astrophys. J.", volume: "743"}
+  page-range: "181"
+  doi: "10.1088/0004-637X/743/2/181"
+
+"Harrison75":
+  type: article
+  title: "Acceleration of pulsars by asymmetric radiation."
+  author: [{name: "Harrison, E. R. and Tademaru, E."}]
+  date: 1975
+  parent: {type: periodical, title: "Astrophys. J.", volume: "201"}
+  page-range: "447-461"
+  doi: "10.1086/153907"
+
+"Hartle1967":
+  type: article
+  title: "Slowly Rotating Relativistic Stars. I. Equations of Structure"
+  author: [{name: "Hartle, J. B."}]
+  date: 1967
+  parent: {type: periodical, title: "Astrophys. J.", volume: "150"}
+  page-range: "1005"
+  doi: "10.1086/149400"
+
+"HT1968":
+  type: article
+  title: "Slowly Rotating Relativistic Stars. II. Models for Neutron Stars and Supermassive Stars"
+  author: [{name: "Hartle, J. B. and Thorne, K. S."}]
+  date: 1968
+  parent: {type: periodical, title: "ApJ", volume: "153"}
+  page-range: "807"
+  doi: "10.1086/149707"
+
+"Hebeler10":
+  type: article
+  title: "Constraints on Neutron Star Radii Based on Chiral Effective Field Theory Interactions"
+  author: [{name: "Hebeler, K. and Lattimer, J. M. and Pethick, C. J. and Schwenk, A."}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "105"}
+  page-range: "161102"
+  doi: "10.1103/PhysRevLett.105.161102"
+
+"Hebeler13":
+  type: article
+  title: "Equation of State and Neutron Star Properties Constrained by Nuclear Physics and Observation"
+  author: [{name: "Hebeler, K. and Lattimer, J. M. and Pethick, C. J. and Schwenk, A."}]
+  date: 2013
+  parent: {type: periodical, title: "Astrophys. J.", volume: "773"}
+  page-range: "11"
+  doi: "10.1088/0004-637X/773/1/11"
+
+"Hebeler15":
+  type: article
+  title: "Nuclear Forces and Their Impact on Neutron-Rich Nuclei and Neutron-Rich Matter"
+  author: [{name: "Hebeler, K. and Holt, J. D. and Menéndez, J. and Schwenk, A."}]
+  date: 2015
+  parent: {type: periodical, title: "Annual Review of Nuclear and Particle Science", volume: "65"}
+  page-range: "457-484"
+  doi: "10.1146/annurev-nucl-102313-025446"
+
+"Heinke06":
+  type: article
+  title: "A Hydrogen Atmosphere Spectral Model Applied to the Neutron Star X7 in the Globular Cluster 47 Tucanae"
+  author: [{name: "Heinke, C. O. and Rybicki, G. B. and Narayan, R. and Grindlay, J. E."}]
+  date: 2006
+  parent: {type: periodical, title: "Astrophys. J.", volume: "644"}
+  page-range: "1090-1103"
+  doi: "10.1086/503701"
+
+"Heyl04":
+  type: article
+  title: "r-Modes on Rapidly Rotating, Relativistic Stars. I. Do Type I Bursts Excite Modes in the Neutron Star Ocean?"
+  author: [{name: "Heyl, Jeremy S."}]
+  date: 2004
+  parent: {type: periodical, title: "Astrophys. J.", volume: "600"}
+  page-range: "939-945"
+  doi: "10.1086/379966"
+
+"Heinke14":
+  type: article
+  title: "Improved mass and radius constraints for quiescent neutron stars in ω Cen and NGC 6397"
+  author: [{name: "Heinke, C. O. and Cohn, H. N. and Lugger, P. M. and Webb, N. A. and Ho, W. C. G. and Anderson, J. and Campana, S. and Bogdanov, S. and Haggard, D. and Cool, A. M. and Grindlay, J. E."}]
+  date: 2014
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "444"}
+  page-range: "443-456"
+  doi: "10.1093/mnras/stu1449"
+
+"Ho01":
+  type: article
+  title: "Atmospheres and spectra of strongly magnetized neutron stars"
+  author: [{name: "Ho, Wynn C. G. and Lai, Dong"}]
+  date: 2001
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "327"}
+  page-range: "1081-1096"
+  doi: "10.1046/j.1365-8711.2001.04801.x"
+
+"Ho07":
+  type: article
+  title: "Magnetic hydrogen atmosphere models and the neutron star RX J1856.5-3754"
+  author: [{name: "Ho, W. C. G. and Kaplan, D. L. and Chang, P. and van Adelsberg, M. and Potekhin, A. Y."}]
+  date: 2007
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "375"}
+  page-range: "821-830"
+  doi: "10.1111/j.1365-2966.2006.11376.x"
+
+"Ho09":
+  type: article
+  title: "A neutron star with a carbon atmosphere in the Cassiopeia A supernova remnant"
+  author: [{name: "Ho, W. C. G. and Heinke, C. O."}]
+  date: 2009
+  parent: {type: periodical, title: "Nature", volume: "462"}
+  page-range: "71-73"
+  doi: "10.1038/nature08525"
+
+"Hobbs06":
+  type: article
+  title: "TEMPO2, a new pulsar-timing package - I. An overview"
+  author: [{name: "Hobbs, G. B. and Edwards, R. T. and Manchester, R. N."}]
+  date: 2006
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "369"}
+  page-range: "655-672"
+  doi: "10.1111/j.1365-2966.2006.10302.x"
+
+"Ibanez15":
+  type: article
+  title: "Stability of toroidal magnetic fields in stellar interiors"
+  author: [{name: "Ibáñez-Mejía, J. C. and Braithwaite, J."}]
+  date: 2015
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "578"}
+  serial-number: "A5"
+  doi: "10.1051/0004-6361/201424469"
+
+"Johnson14":
+  type: article
+  title: "Constraints on the Emission Geometries and Spin Evolution of Gamma-Ray Millisecond Pulsars"
+  author: [{name: "Johnson, T. J. and Venter, C. and Harding, A. K. and Guillemot, L. and Smith, D. A. and Kramer, M. and Çelik, Ö. and den Hartog, P. R. and Ferrara, E. C. and Hou, X. and Lande, J. and Ray, P. S."}]
+  date: 2014
+  parent: {type: periodical, title: "The Astrophysical Journal Supplement Series", volume: "213"}
+  page-range: "6"
+  doi: "10.1088/0067-0049/213/1/6"
+
+"OPAL":
+  type: article
+  title: "Updated Opal Opacities"
+  author: [{name: "Iglesias, C. A. and Rogers, F. J."}]
+  date: 1996
+  parent: {type: periodical, title: "Astrophys. J.", volume: "464"}
+  page-range: "943"
+  doi: "10.1086/177381"
+
+"Kajava14":
+  type: article
+  title: "The influence of accretion geometry on the spectral evolution during thermonuclear (type I) X-ray bursts"
+  author: [{name: "Kajava, J. J. E. and Nättilä, J. and Latvala, O.-M. and Pursiainen, M. and Poutanen, J. and Suleimanov, V. F. and Revnivtsev, M. G. and Kuulkers, E. and Galloway, D. K."}]
+  date: 2014
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "445"}
+  page-range: "4218-4234"
+  doi: "10.1093/mnras/stu2073"
+
+"KassRaft95":
+  type: article
+  title: "Bayes Factors"
+  author: [{name: "Robert E. Kass and Adrian E. Raftery"}]
+  date: 1995
+  parent: {type: periodical, title: "Journal of the American Statistical Association", volume: "90"}
+  page-range: "773-795"
+
+"Kijak03":
+  type: article
+  title: "Radio emission altitude in pulsars"
+  author: [{name: "Kijak, J. and Gil, J."}]
+  date: 2003
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "397"}
+  page-range: "969-972"
+  doi: "10.1051/0004-6361:20021583"
+
+"Kramer09":
+  type: article
+  title: "TOPICAL REVIEW: The double pulsar system: a unique laboratory for gravity"
+  author: [{name: "Kramer, M and Wex, N"}]
+  date: 2009
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "26"}
+  page-range: "073001"
+  doi: "10.1088/0264-9381/26/7/073001"
+
+"kullback1951":
+  type: article
+  title: "On Information and Sufficiency"
+  author: [{name: "Kullback, S. and Leibler, R. A."}]
+  date: 1951
+  parent: {type: periodical, title: "Ann. Math. Statist.", volume: "22"}
+  page-range: "79-86"
+  doi: "10.1214/aoms/1177729694"
+
+"Kumar19":
+  type: article
+  title: "Inferring neutron star properties from GW170817 with universal relations"
+  author: [{name: "Kumar, Bharat and Landry, Philippe"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "99"}
+  page-range: "123026"
+  doi: "10.1103/PhysRevD.99.123026"
+
+"Kurkela14":
+  type: article
+  title: "Constraining Neutron Star Matter with Quantum Chromodynamics"
+  author: [{name: "Kurkela, Aleksi and Fraga, Eduardo S. and Schaffner-Bielich, Jürgen and Vuorinen, Aleksi"}]
+  date: 2014
+  parent: {type: periodical, title: "Astrophys. J.", volume: "789"}
+  page-range: "127"
+  doi: "10.1088/0004-637X/789/2/127"
+
+"Landry19":
+  type: article
+  title: "Nonparametric inference of the neutron star equation of state from gravitational wave observations"
+  author: [{name: "Landry, Philippe and Essick, Reed"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "99"}
+  page-range: "084049"
+  doi: "10.1103/PhysRevD.99.084049"
+
+"Lattimer16":
+  type: article
+  title: "The equation of state of hot, dense matter and neutron stars"
+  author: [{name: "Lattimer, J. M. and Prakash, M."}]
+  date: 2016
+  parent: {type: periodical, title: "Physics Reports", volume: "621"}
+  page-range: "127-164"
+  doi: "10.1016/j.physrep.2015.12.005"
+
+"Lattimer14":
+  type: article
+  title: "Neutron Star Masses and Radii from Quiescent Low-mass X-Ray Binaries"
+  author: [{name: "Lattimer, J. M. and Steiner, A. W."}]
+  date: 2014
+  parent: {type: periodical, title: "Astrophys. J.", volume: "784"}
+  page-range: "123"
+  doi: "10.1088/0004-637X/784/2/123"
+
+"Lee11":
+  type: article
+  title: "Accounting for Calibration Uncertainties in X-ray Analysis: Effective Areas in Spectral Fitting"
+  author: [{name: "Lee, H. and Kashyap, V. L. and van Dyk, D. A. and Connors, A. and Drake, J. J. and Izem, R. and Meng, X.-L. and Min, S. and Park, T. and Ratzlaff, P. and Siemiginowska, A. and Zezas, A."}]
+  date: 2011
+  parent: {type: periodical, title: "Astrophys. J.", volume: "731"}
+  page-range: "126"
+  doi: "10.1088/0004-637X/731/2/126"
+
+"Li19":
+  type: article
+  title: "Implications from GW170817 for Δ-isobar Admixed Hypernuclear Compact Stars"
+  author: [{name: "Li, Jia Jie and Sedrakian, Armen"}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J.", volume: "874"}
+  serial-number: "L22"
+  doi: "10.3847/2041-8213/ab1090"
+
+"Lim18":
+  type: article
+  title: "Neutron Star Tidal Deformabilities Constrained by Nuclear Theory and Experiment"
+  author: [{name: "Lim, Yeunhwan and Holt, Jeremy W."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "062701"
+  doi: "10.1103/PhysRevLett.121.062701"
+
+"Lindblom18":
+  type: article
+  title: "Causal representations of neutron-star equations of state"
+  author: [{name: "Lindblom, Lee"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "97"}
+  page-range: "123019"
+  doi: "10.1103/PhysRevD.97.123019"
+
+"Lo13":
+  type: article
+  title: "Determining Neutron Star Masses and Radii Using Energy-resolved Waveforms of X-Ray Burst Oscillations"
+  author: [{name: "Lo, K. H. and Miller, M. C. and Bhattacharyya, S. and Lamb, F. K."}]
+  date: 2013
+  parent: {type: periodical, title: "ApJ", volume: "776"}
+  page-range: "19"
+  doi: "10.1088/0004-637X/776/1/19"
+
+"Lockhart19":
+  type: article
+  title: "X-ray light curves from realistic polar cap models: inclined pulsar magnetospheres and multipole fields"
+  author: [{name: "Lockhart, Will and Gralla, Samuel E. and Özel, Feryal and Psaltis, Dimitrios"}]
+  date: 2019
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "490"}
+  page-range: "1774-1783"
+  doi: "10.1093/mnras/stz2524"
+
+"Lommen00":
+  type: article
+  title: "New Pulsars from an Arecibo Drift Scan Search"
+  author: [{name: "Lommen, Andrea N. and Zepka, Alex and Backer, Donald C. and McLaughlin, Maura and Cordes, James M. and Arzoumanian, Zaven and Xilouris, Kiriaki"}]
+  date: 2000
+  parent: {type: periodical, title: "Astrophys. J.", volume: "545"}
+  page-range: "1007-1014"
+  doi: "10.1086/317841"
+
+"Lommen06":
+  type: article
+  title: "The Parallax and Proper Motion of PSR J0030+0451"
+  author: [{name: "Lommen, Andrea N. and Kipphorn, Richard A. and Nice, David J. and Splaver, Eric M. and Stairs, Ingrid H. and Backer, Donald C."}]
+  date: 2006
+  parent: {type: periodical, title: "Astrophys. J.", volume: "642"}
+  page-range: "1012-1017"
+  doi: "10.1086/501067"
+
+"Long07":
+  type: article
+  title: "Accretion to stars with non-dipole magnetic fields"
+  author: [{name: "Long, M. and Romanova, M. M. and Lovelace, R. V. E."}]
+  date: 2007
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "374"}
+  page-range: "436-444"
+  doi: "10.1111/j.1365-2966.2006.11192.x"
+
+"Long08":
+  type: article
+  title: "Three-dimensional simulations of accretion to stars with complex magnetic fields"
+  author: [{name: "Long, M. and Romanova, M. M. and Lovelace, R. V. E."}]
+  date: 2008
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "386"}
+  page-range: "1274-1284"
+  doi: "10.1111/j.1365-2966.2008.13124.x"
+
+"Ludlam17":
+  type: article
+  title: "A Hard Look at the Neutron Stars and Accretion Disks in 4U 1636-53, GX 17+2, and 4U 1705-44 with NuStar"
+  author: [{name: "Ludlam, R. M. and Miller, J. M. and Bachetti, M. and Barret, D. and Bostrom, A. C. and Cackett, E. M. and Degenaar, N. and Di Salvo, T. and Natalucci, L. and Tomsick, J. A. and Paerels, F. and Parker, M. L."}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J.", volume: "836"}
+  page-range: "140"
+  doi: "10.3847/1538-4357/836/1/140"
+
+"Ludlam18":
+  type: article
+  title: "Detection of Reflection Features in the Neutron Star Low-mass X-Ray Binary Serpens X-1 with NICER"
+  author: [{name: "Ludlam, R. M. and Miller, J. M. and Arzoumanian, Z. and Bult, P. M. and Cackett, E. M. and Chakrabarty, D. and Dauser, T. and Enoto, T. and Fabian, A. C. and García, J. A. and Gendreau, K. C. and Guillot, S. and Homan, J. and Jaisawal, G. K. and Keek, L. and La Marr, B. and Malacaria, C. and Markwardt, C. B. and Steiner, J. F. and Strohmayer, T. E."}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "858"}
+  serial-number: "L5"
+  doi: "10.3847/2041-8213/aabee6"
+
+"Malik18":
+  type: article
+  title: "GW170817: Constraining the nuclear matter equation of state from the neutron star tidal deformability"
+  author: [{name: "Malik, Tuhin and Alam, N. and Fortin, M. and Providência, C. and Agrawal, B. K. and Jha, T. K. and Kumar, Bharat and Patra, S. K."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "98"}
+  page-range: "035804"
+  doi: "10.1103/PhysRevC.98.035804"
+
+"Margueron18a":
+  type: article
+  title: "Equation of state for dense nucleonic matter from metamodeling. I. Foundational aspects"
+  author: [{name: "Margueron, J. and Hoffmann Casali, R. and Gulminelli, F."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "97"}
+  page-range: "025805"
+  doi: "10.1103/PhysRevC.97.025805"
+
+"Margueron18b":
+  type: article
+  title: "Equation of state for dense nucleonic matter from metamodeling. II. Predictions for neutron star properties"
+  author: [{name: "Margueron, J. and Hoffmann Casali, R. and Gulminelli, F."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "97"}
+  page-range: "025806"
+  doi: "10.1103/PhysRevC.97.025806"
+
+"McNeilForbes19":
+  type: article
+  title: "Constraining the neutron-matter equation of state with gravitational waves"
+  author: [{name: "Forbes, Michael McNeil and Bose, Sukanta and Reddy, Sanjay and Zhou, Dake and Mukherjee, Arunava and De, Soumi"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "100"}
+  page-range: "083010"
+  doi: "10.1103/PhysRevD.100.083010"
+
+"Melatos01":
+  type: article
+  title: "Hydromagnetic Structure of a Neutron Star Accreting at Its Polar Caps"
+  author: [{name: "Melatos, A. and Phinney, E. S."}]
+  date: 2001
+  parent: {type: periodical, title: "Publ. Astron. Soc. Aust.", volume: "18"}
+  page-range: "421-430"
+  doi: "10.1071/AS01056"
+
+"MillerJM13":
+  type: article
+  title: "Constraints on the Neutron Star and Inner Accretion Flow in Serpens X-1 Using NuSTAR"
+  author: [{name: "Miller, J. M. and Parker, M. L. and Fuerst, F. and Bachetti, M. and Barret, D. and Grefenstette, B. W. and Tendulkar, S. and Harrison, F. A. and Boggs, S. E. and Chakrabarty, D. and Christensen, F. E. and Craig, W. W. and Fabian, A. C. and Hailey, C. J. and Natalucci, L. and Paerels, F. and Rana, V. and Stern, D. K. and Tomsick, J. A. and Zhang, W. W."}]
+  date: 2013
+  parent: {type: periodical, title: "Astrophys. J.", volume: "779"}
+  serial-number: "L2"
+  doi: "10.1088/2041-8205/779/1/L2"
+
+"Miller98":
+  type: article
+  title: "Bounds on the Compactness of Neutron Stars from Brightness Oscillations during X-Ray Bursts"
+  author: [{name: "Miller, M. C. and Lamb, F. K."}]
+  date: 1998
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "499"}
+  serial-number: "L37-L40"
+  doi: "10.1086/311335"
+
+"Miller13":
+  type: article
+  title: "Astrophysical Constraints on Dense Matter in Neutron Stars"
+  author: [{name: "Miller, M. Coleman"}]
+  date: 2013
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1312.0029"
+
+"Miller15":
+  type: article
+  title: "Determining Neutron Star Properties by Fitting Oblate-star Waveform Models to X-Ray Burst Oscillations"
+  author: [{name: "Miller, M. C. and Lamb, F. K."}]
+  date: 2015
+  parent: {type: periodical, title: "Astrophysical Journal", volume: "808"}
+  page-range: "31"
+  doi: "10.1088/0004-637X/808/1/31"
+
+"Mitchell15":
+  type: article
+  title: "Instability of magnetic equilibria in barotropic stars"
+  author: [{name: "Mitchell, J. P. and Braithwaite, J. and Reisenegger, A. and Spruit, H. and Valdivia, J. A. and Langer, N."}]
+  date: 2015
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "447"}
+  page-range: "1213-1223"
+  doi: "10.1093/mnras/stu2514"
+
+"Montana19":
+  type: article
+  title: "Constraining twin stars with GW170817"
+  author: [{name: "Montaña, Glòria and Tolós, Laura and Hanauske, Matthias and Rezzolla, Luciano"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "99"}
+  page-range: "103009"
+  doi: "10.1103/PhysRevD.99.103009"
+
+"Morsink2007":
+  type: article
+  title: "The Oblate Schwarzschild Approximation for Light Curves of Rapidly Rotating Neutron Stars"
+  author: [{name: "Morsink, S. M. and Leahy, D. A. and Cadeau, C. and Braga, J."}]
+  date: 2007
+  parent: {type: periodical, title: "Astrophys. J.", volume: "663"}
+  page-range: "1244-1251"
+  doi: "10.1086/518648"
+
+"Most18":
+  type: article
+  title: "New Constraints on Radii and Tidal Deformabilities of Neutron Stars from GW170817"
+  author: [{name: "Most, Elias R. and Weih, Lukas R. and Rezzolla, Luciano and Schaffner-Bielich, Jürgen"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "120"}
+  page-range: "261103"
+  doi: "10.1103/PhysRevLett.120.261103"
+
+"Nattila16":
+  type: article
+  title: "Equation of state constraints for the cold dense matter inside neutron stars using the cooling tail method"
+  author: [{name: "Nättilä, J. and Steiner, A. W. and Kajava, J. J. E. and Suleimanov, V. F. and Poutanen, J."}]
+  date: 2016
+  parent: {type: periodical, title: "Astronomy & Astrophysics", volume: "591"}
+  serial-number: "A25"
+  doi: "10.1051/0004-6361/201527416"
+
+"Nattila17":
+  type: article
+  title: "Neutron star mass and radius measurements from atmospheric model fits to X-ray burst cooling tail spectra"
+  author: [{name: "Nättilä, J. and Miller, M. C. and Steiner, A. W. and Kajava, J. J. E. and Suleimanov, V. F. and Poutanen, J."}]
+  date: 2017
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "608"}
+  serial-number: "A31"
+  doi: "10.1051/0004-6361/201731082"
+
+"Nattila18":
+  type: article
+  title: "Radiation from rapidly rotating oblate neutron stars"
+  author: [{name: "Nättilä, J. and Pihajoki, P."}]
+  date: 2018
+  parent: {type: periodical, title: "Astronomy & Astrophysics", volume: "615"}
+  serial-number: "A50"
+  doi: "10.1051/0004-6361/201630261"
+
+"Obergaulinger17":
+  type: article
+  title: "Evolution of the surface magnetic field of rotating proto-neutron stars"
+  author: [{name: "Obergaulinger, M. and Aloy, M. Á."}]
+  date: 2017
+  parent: {type: proceedings, title: "Journal of Physics Conference Series", volume: "932"}
+  page-range: "012043"
+  doi: "10.1088/1742-6596/932/1/012043"
+
+"Oertel17":
+  type: article
+  title: "Equations of state for supernovae and compact stars"
+  author: [{name: "Oertel, M. and Hempel, M. and Klähn, T. and Typel, S."}]
+  date: 2017
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "89"}
+  page-range: "015007"
+  doi: "10.1103/RevModPhys.89.015007"
+
+"Ozel09":
+  type: article
+  title: "Reconstructing the neutron-star equation of state from astrophysical measurements"
+  author: [{name: "Özel, F. and Psaltis, D."}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "80"}
+  page-range: "103003"
+  doi: "10.1103/PhysRevD.80.103003"
+
+"Ozel16":
+  type: article
+  title: "The Dense Matter Equation of State from Neutron Star Radius and Mass Measurements"
+  author: [{name: "Özel, F. and Psaltis, D. and Güver, T. and Baym, G. and Heinke, C. and Guillot, S."}]
+  date: 2016
+  parent: {type: periodical, title: "ApJ", volume: "820"}
+  page-range: "28"
+  doi: "10.3847/0004-637X/820/1/28"
+
+"Ozel16b":
+  type: article
+  title: "Masses, Radii, and the Equation of State of Neutron Stars"
+  author: [{name: "Özel, Feryal and Freire, Paulo"}]
+  date: 2016
+  parent: {type: periodical, title: "Annu. Rev. Astron. Astrophys.", volume: "54"}
+  page-range: "401-440"
+  doi: "10.1146/annurev-astro-081915-023322"
+
+"Patruno12":
+  type: article
+  title: "Accreting Millisecond X-Ray Pulsars"
+  author: [{name: "Patruno, A. and Watts, A. L."}]
+  date: 2012
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1206.2727"
+
+"Payne04":
+  type: article
+  title: "Burial of the polar magnetic field of an accreting neutron star - I. Self-consistent analytic and numerical equilibria"
+  author: [{name: "Payne, D. J. B. and Melatos, A."}]
+  date: 2004
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "351"}
+  page-range: "569-584"
+  doi: "10.1111/j.1365-2966.2004.07798.x"
+
+"Pechenick83":
+  type: article
+  title: "Hot spots on neutron stars - The near-field gravitational lens"
+  author: [{name: "Pechenick, K. R. and Ftaclas, C. and Cohen, J. M."}]
+  date: 1983
+  parent: {type: periodical, title: "ApJ", volume: "274"}
+  page-range: "846-857"
+  doi: "10.1086/161498"
+
+"Philippov15a":
+  type: article
+  title: "Ab Initio Pulsar Magnetosphere: Three-dimensional Particle-in-cell Simulations of Oblique Pulsars"
+  author: [{name: "Philippov, Alexander A. and Spitkovsky, Anatoly and Cerutti, Benoit"}]
+  date: 2015
+  parent: {type: periodical, title: "Astrophys. J.", volume: "801"}
+  serial-number: "L19"
+  doi: "10.1088/2041-8205/801/1/L19"
+
+"Philippov15":
+  type: article
+  title: "Ab Initio Pulsar Magnetosphere: The Role of General Relativity"
+  author: [{name: "Philippov, Alexander A. and Cerutti, Benoît and Tchekhovskoy, Alexander and Spitkovsky, Anatoly"}]
+  date: 2015
+  parent: {type: periodical, title: "Astrophys. J.", volume: "815"}
+  serial-number: "L19"
+  doi: "10.1088/2041-8205/815/2/L19"
+
+"Philippov18":
+  type: article
+  title: "Ab-initio Pulsar Magnetosphere: Particle Acceleration in Oblique Rotators and High-energy Emission Modeling"
+  author: [{name: "Philippov, Alexander A. and Spitkovsky, Anatoly"}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J.", volume: "855"}
+  page-range: "94"
+  doi: "10.3847/1538-4357/aaabbc"
+
+"Piro05":
+  type: article
+  title: "Surface Modes on Bursting Neutron Stars and X-Ray Burst Oscillations"
+  author: [{name: "Piro, Anthony L. and Bildsten, Lars"}]
+  date: 2005
+  parent: {type: periodical, title: "Astrophys. J.", volume: "629"}
+  page-range: "438-450"
+  doi: "10.1086/430777"
+
+"Pons02":
+  type: article
+  title: "Toward a Mass and Radius Determination of the Nearby Isolated Neutron Star RX J185635-3754"
+  author: [{name: "Pons, J. A. and Walter, F. M. and Lattimer, J. M. and Prakash, M. and Neuhäuser, R. and An, P."}]
+  date: 2002
+  parent: {type: periodical, title: "Astrophys. J.", volume: "564"}
+  page-range: "981-1006"
+  doi: "10.1086/324296"
+
+"Poutanen03":
+  type: article
+  title: "On the nature of the X-ray emission from the accreting millisecond pulsar SAX J1808.4-3658"
+  author: [{name: "Poutanen, J. and Gierliński, M."}]
+  date: 2003
+  parent: {type: periodical, title: "MNRAS", volume: "343"}
+  page-range: "1301-1311"
+  doi: "10.1046/j.1365-8711.2003.06773.x"
+
+"Poutanen06":
+  type: article
+  title: "Pulse profiles of millisecond pulsars and their Fourier amplitudes"
+  author: [{name: "Poutanen, J. and Beloborodov, A. M."}]
+  date: 2006
+  parent: {type: periodical, title: "MNRAS", volume: "373"}
+  page-range: "836-844"
+  doi: "10.1111/j.1365-2966.2006.11088.x"
+
+"Psaltis14a":
+  type: article
+  title: "Pulse Profiles from Spinning Neutron Stars in the Hartle-Thorne Approximation"
+  author: [{name: "Psaltis, D. and Özel, F."}]
+  date: 2014
+  parent: {type: periodical, title: "ApJ", volume: "792"}
+  page-range: "87"
+  doi: "10.1088/0004-637X/792/2/87"
+
+"Psaltis14b":
+  type: article
+  title: "Prospects for Measuring Neutron-star Masses and Radii with X-Ray Pulse Profile Modeling"
+  author: [{name: "Psaltis, D. and Özel, F. and Chakrabarty, D."}]
+  date: 2014
+  parent: {type: periodical, title: "ApJ", volume: "787"}
+  page-range: "136"
+  doi: "10.1088/0004-637X/787/2/136"
+
+"Raaijmakers18":
+  type: article
+  title: "A pitfall of piecewise-polytropic equation of state inference"
+  author: [{name: "Raaijmakers, G. and Riley, T. E. and Watts, A. L."}]
+  date: 2018
+  parent: {type: periodical, title: "MNRAS", volume: "478"}
+  page-range: "2177-2192"
+  doi: "10.1093/mnras/sty1052"
+
+"Radhakrishnan69":
+  type: article
+  title: "Magnetic Poles and the Polarization Structure of Pulsar Radiation"
+  author: [{name: "Radhakrishnan, V. and Cooke, D. J."}]
+  date: 1969
+  parent: {type: periodical, title: "Astrophysical Letters", volume: "3"}
+  page-range: "225"
+
+"Radice18":
+  type: article
+  title: "Viscous-dynamical Ejecta from Binary Neutron Star Mergers"
+  author: [{name: "Radice, David and Perego, Albino and Hotokezaka, Kenta and Bernuzzi, Sebastiano and Fromm, Steven A. and Roberts, Luke F."}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "869"}
+  serial-number: "L35"
+  doi: "10.3847/2041-8213/aaf053"
+
+"Raithel16":
+  type: article
+  title: "From Neutron Star Observables to the Equation of State. I. An Optimal Parametrization"
+  author: [{name: "Raithel, Carolyn A. and Özel, Feryal and Psaltis, Dimitrios"}]
+  date: 2016
+  parent: {type: periodical, title: "Astrophys. J.", volume: "831"}
+  page-range: "44"
+  doi: "10.3847/0004-637X/831/1/44"
+
+"Raithel17":
+  type: article
+  title: "From Neutron Star Observables to the Equation of State. II. Bayesian Inference of Equation of State Pressures"
+  author: [{name: "Raithel, C. A. and Özel, F. and Psaltis, D."}]
+  date: 2017
+  parent: {type: periodical, title: "ApJ", volume: "844"}
+  page-range: "156"
+  doi: "10.3847/1538-4357/aa7a5a"
+
+"Pavlov97":
+  type: article
+  title: "Mass-to-Radius Ratio for the Millisecond Pulsar J0437-4715"
+  author: [{name: "Pavlov, G. G. and Zavlin, V. E."}]
+  date: 1997
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "490"}
+  serial-number: "L91-L94"
+  doi: "10.1086/311007"
+
+"Rangelov17":
+  type: article
+  title: "Hubble Space Telescope Detection of the Millisecond Pulsar J2124-3358 and its Far-ultraviolet Bow Shock Nebula"
+  author: [{name: "Rangelov, B. and Pavlov, G. G. and Kargaltsev, O. and Reisenegger, A. and Guillot, S. and van Kerkwijk, M. H. and Reyes, C."}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J.", volume: "835"}
+  page-range: "264"
+  doi: "10.3847/1538-4357/835/2/264"
+
+"Ray19":
+  type: article
+  title: "STROBE-X: X-ray Timing and Spectroscopy on Dynamical Timescales from Microseconds to Years"
+  author: [{name: "Ray, Paul S. and Arzoumanian, Zaven and Ballantyne, David and Bozzo, Enrico and Brandt, Soren and Brenneman, Laura and Chakrabarty, Deepto and Christophersen, Marc and DeRosa, Alessand ra and Feroci, Marco and Gendreau, Keith and Goldstein, Adam and Hartmann, Dieter and Hernanz, Margarita and Jenke, Peter and Kara, Erin and Maccarone, Tom and McDonald, Michael and Nowak, Michael and Phlips, Bernard and Remillard, Ron and Stevens, Abigail and Tomsick, John and Watts, Anna and Wilson-Hodge, Colleen and Wood, Kent and Zane, Silvia and Ajello, Marco and Alston, Will and Altamirano, Diego and Antoniou, Vallia and Arur, Kavitha and Ashton, Dominic and Auchettl, Katie and Ayres, Tom and Bachetti, Matteo and Balokovic, Mislav and Baring, Matthew and Baykal, Altan and Begelman, Mitch and Bhat, Narayana and Bogdanov, Slavko and Briggs, Michael and Bulbul, Esra and Bult, Petrus and Burns, Eric and Cackett, Ed and Campana, Riccardo and Caspi, Amir and Cavecchi, Yuri and Chenevez, Jerome and Cherry, Mike and Corbet, Robin and Corcoran, Michael and Corsi, Alessandra and Degenaar, Nathalie and Drake, Jeremy and Eikenberry, Steve and Enoto, Teruaki and Fragile, Chris and Fuerst, Felix and Gandhi, Poshak and Garcia, Javier and Goldstein, Adam and Gonzalez, Anthony and Grefenstette, Brian and Grinberg, Victoria and Grossan, Bruce and Guillot, Sebastien and Guver, Tolga and Haggard, Daryl and Heinke, Craig and Heinz, Sebastian and Hemphill, Paul and Homan, Jeroen and Hui, Michelle and Huppenkothen, Daniela and Ingram, Adam and Irwin, Jimmy and Jaisawal, Gaurava and Jaodand, Amruta and Kalemci, Emrah and Kaplan, David and Keek, Laurens and Kennea, Jamie and Kerr, Matthew and van der Klis, Michiel and Kocevski, Daniel and Koss, Mike and Kowalski, Adam and Lai, Dong and Lamb, Fred and Laycock, Silas and Lazio, Joseph and Lazzati, Davide and Longcope, Dana and Loewenstein, Michael and Maitra, Dipankair and Majid, Walid and Maksym, W. Peter and Malacaria, Christian and Margutti, Raffaella and Martindale, Adrian and McHardy, Ian and Meyer, Manuel and Middleton, Matt and Miller, Jon and Miller, Cole and Motta, Sara and Neilsen, Joey and Nelson, Tommy and Noble, Scott and O'Brien, Paul and Osborne, Julian and Osten, Rachel and Ozel, Feryal and Palliyaguru, Nipuni and Pasham, Dheeraj and Patruno, Alessandro and Pelassa, Vero and Petropoulou, Maria and Pilia, Maura and Pohl, Martin and Pooley, David and Prescod-Weinstein, Chanda and Psaltis, Dimitrios and Raaijmakers, Geert and Reynolds, Chris and Riley, Thomas E. and Salvesen, Greg and Santangelo, Andrea and Scaringi, Simone and Schanne, Stephane and Schnittman, Jeremy and Smith, David and Smith, Krista Lynne and Snios, Bradford and Steiner, Andrew and Steiner, Jack and Stella, Luigi and Strohmayer, Tod and Sun, Ming and Tauris, Thomas and Taylor, Corbin and Tohuvavohu, Aaron and Vacchi, Andrea and Vasilopoulos, Georgios and Veledina, Alexandra and Walsh, Jonelle and Weinberg, Nevin and Wilkins, Dan and Willingale, Richard and Wilms, Joern and Winter, Lisa and Wolff, Michael and in 't Zand, Jean and Zezas, Andreas and Zhang, Bing and Zoghbi, Abdu"}]
+  date: 2019
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1903.03035"
+
+"Read09":
+  type: article
+  title: "Constraints on a phenomenologically parametrized neutron-star equation of state"
+  author: [{name: "Read, Jocelyn S. and Lackey, Benjamin D. and Owen, Benjamin J. and Friedman, John L."}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "79"}
+  page-range: "124032"
+  doi: "10.1103/PhysRevD.79.124032"
+
+"Reardon16":
+  type: article
+  title: "Timing analysis for 20 millisecond pulsars in the Parkes Pulsar Timing Array"
+  author: [{name: "Reardon, D. J. and Hobbs, G. and Coles, W. and Levin, Y. and Keith, M. J. and Bailes, M. and Bhat, N. D. R. and Burke-Spolaor, S. and Dai, S. and Kerr, M. and Lasky, P. D. and Manchester, R. N. and Osłowski, S. and Ravi, V. and Shannon, R. M. and van Straten, W. and Toomey, L. and Wang, J. and Wen, L. and You, X. P. and Zhu, X. -J."}]
+  date: 2016
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "455"}
+  page-range: "1751-1769"
+  doi: "10.1093/mnras/stv2395"
+
+"Reed21":
+  type: article
+  title: "Implications of PREX-2 on the Equation of State of Neutron-Rich Matter"
+  author: [{name: "Reed, Brendan T. and Fattoyev, F. J. and Horowitz, C. J. and Piekarewicz, J."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "172503"
+  doi: "10.1103/PhysRevLett.126.172503"
+
+"Reisenegger09":
+  type: article
+  title: "Stable magnetic equilibria and their evolution in the upper main sequence, white dwarfs, and neutron stars"
+  author: [{name: "Reisenegger, A."}]
+  date: 2009
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "499"}
+  page-range: "557-566"
+  doi: "10.1051/0004-6361/200810895"
+
+"Riley18":
+  type: article
+  title: "On parametrized cold dense matter equation-of-state inference"
+  author: [{name: "Riley, T. E. and Raaijmakers, G. and Watts, A. L."}]
+  date: 2018
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "478"}
+  page-range: "1093-1131"
+  doi: "10.1093/mnras/sty1051"
+
+"Romani90":
+  type: article
+  title: "A unified model of neutron-star magnetic fields"
+  author: [{name: "Romani, Roger W."}]
+  date: 1990
+  parent: {type: periodical, title: "Nature", volume: "347"}
+  page-range: "741-743"
+  doi: "10.1038/347741a0"
+
+"Salmi18":
+  type: article
+  title: "Bayesian parameter constraints for neutron star masses and radii using X-ray timing observations of accretion-powered millisecond pulsars"
+  author: [{name: "Salmi, T. and Nättilä, J. and Poutanen, J."}]
+  date: 2018
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "618"}
+  serial-number: "A161"
+  doi: "10.1051/0004-6361/201833348"
+
+"Shaw18":
+  type: article
+  title: "The radius of the quiescent neutron star in the globular cluster M13"
+  author: [{name: "Shaw, A. W. and Heinke, C. O. and Steiner, A. W. and Campana, S. and Cohn, H. N. and Ho, W. C. G. and Lugger, P. M. and Servillat, M."}]
+  date: 2018
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "476"}
+  page-range: "4713-4718"
+  doi: "10.1093/mnras/sty582"
+
+"Shlens14":
+  type: article
+  title: "Notes on Kullback-Leibler Divergence and Likelihood"
+  author: [{name: "Jonathon Shlens"}]
+  date: 2014
+  parent: {type: periodical, title: "CoRR", volume: "abs/1404.2000"}
+
+"Silva20":
+  type: article
+  title: "Surface of rapidly-rotating neutron stars: Implications to neutron star parameter estimation"
+  author: [{name: "Silva, Hector O. and Pappas, George and Yunes, Nicolás and Yagi, Kent"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "063038"
+  doi: "10.1103/PhysRevD.103.063038"
+
+"skilling2006":
+  type: article
+  title: "Nested sampling for general Bayesian computation"
+  author: [{name: "Skilling, John"}]
+  date: 2006
+  parent: {type: periodical, title: "Bayesian Anal.", volume: "1"}
+  page-range: "833-859"
+  doi: "10.1214/06-BA127"
+
+"Spitkovsky02":
+  type: article
+  title: "Propagation of Thermonuclear Flames on Rapidly Rotating Neutron Stars: Extreme Weather during Type I X-Ray Bursts"
+  author: [{name: "Spitkovsky, Anatoly and Levin, Yuri and Ushomirsky, Greg"}]
+  date: 2002
+  parent: {type: periodical, title: "Astrophys. J.", volume: "566"}
+  page-range: "1018-1038"
+  doi: "10.1086/338040"
+
+"Steiner10":
+  type: article
+  title: "The Equation of State from Observed Masses and Radii of Neutron Stars"
+  author: [{name: "Steiner, A. W. and Lattimer, J. M. and Brown, E. F."}]
+  date: 2010
+  parent: {type: periodical, title: "ApJ", volume: "722"}
+  page-range: "33-54"
+
+"Steiner13":
+  type: article
+  title: "The Neutron Star Mass-Radius Relation and the Equation of State of Dense Matter"
+  author: [{name: "Steiner, A. W. and Lattimer, J. M. and Brown, E. F."}]
+  date: 2013
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "765"}
+  serial-number: "L5"
+  doi: "10.1088/2041-8205/765/1/L5"
+
+"Steiner18":
+  type: article
+  title: "Constraining the mass and radius of neutron stars in globular clusters"
+  author: [{name: "Steiner, A. W. and Heinke, C. O. and Bogdanov, S. and Li, C. K. and Ho, W. C. G. and Bahramian, A. and Han, S."}]
+  date: 2018
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "476"}
+  page-range: "421-435"
+  doi: "10.1093/mnras/sty215"
+
+"Stevens16":
+  type: article
+  title: "Neutron Star Mass-Radius Constraints Using Evolutionary Optimization"
+  author: [{name: "Stevens, A. L. and Fiege, J. D. and Leahy, D. A. and Morsink, S. M."}]
+  date: 2016
+  parent: {type: periodical, title: "Astrophys. J.", volume: "833"}
+  page-range: "244"
+  doi: "10.3847/1538-4357/833/2/244"
+
+"Strobel99":
+  type: article
+  title: "Properties of non-rotating and rapidly rotating protoneutron stars"
+  author: [{name: "Strobel, K. and Schaab, Ch. and Weigel, M. K."}]
+  date: 1999
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "350"}
+  page-range: "497-512"
+
+"Suleimanov11b":
+  type: article
+  title: "A Neutron Star Stiff Equation of State Derived from Cooling Phases of the X-Ray Burster 4U 1724-307"
+  author: [{name: "Suleimanov, V. and Poutanen, J. and Revnivtsev, M. and Werner, K."}]
+  date: 2011
+  parent: {type: periodical, title: "Astrophys. J.", volume: "742"}
+  page-range: "122"
+  doi: "10.1088/0004-637X/742/2/122"
+
+"Suleimanov11":
+  type: article
+  title: "X-ray bursting neutron star atmosphere models: spectra and color corrections"
+  author: [{name: "Suleimanov, V. and Poutanen, J. and Werner, K."}]
+  date: 2011
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "527"}
+  serial-number: "A139"
+  doi: "10.1051/0004-6361/201015845"
+
+"Suleimanov17":
+  type: article
+  title: "Basic parameters of the helium-accreting X-ray bursting neutron star in 4U 1820-30"
+  author: [{name: "Suleimanov, Valery F. and Kajava, Jari J. E. and Molkov, Sergey V. and Nättilä, Joonas and Lutovinov, Alexand er A. and Werner, Klaus and Poutanen, Juri"}]
+  date: 2017
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "472"}
+  page-range: "3905-3913"
+  doi: "10.1093/mnras/stx2234"
+
+"Tews17":
+  type: article
+  title: "Symmetry Parameter Constraints from a Lower Bound on Neutron-matter Energy"
+  author: [{name: "Tews, Ingo and Lattimer, James M. and Ohnishi, Akira and Kolomeitsev, Evgeni E."}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J.", volume: "848"}
+  page-range: "105"
+  doi: "10.3847/1538-4357/aa8db9"
+
+"Tews18":
+  type: article
+  title: "Critical examination of constraints on the equation of state of dense matter obtained from GW170817"
+  author: [{name: "Tews, I. and Margueron, J. and Reddy, S."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "98"}
+  page-range: "045804"
+  doi: "10.1103/PhysRevC.98.045804"
+
+"Tews18b":
+  type: article
+  title: "Constraining the Speed of Sound inside Neutron Stars with Chiral Effective Field Theory Interactions and Observations"
+  author: [{name: "Tews, I. and Carlson, J. and Gandolfi, S. and Reddy, S."}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J.", volume: "860"}
+  page-range: "149"
+  doi: "10.3847/1538-4357/aac267"
+
+"Timokhin13":
+  type: article
+  title: "Current flow and pair creation at low altitude in rotation-powered pulsars' force-free magnetospheres: space charge limited flow"
+  author: [{name: "Timokhin, A. N. and Arons, J."}]
+  date: 2013
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "429"}
+  page-range: "20-54"
+  doi: "10.1093/mnras/sts298"
+
+"vanDoesburgh18":
+  type: article
+  title: "The highest frequency kHz QPOs in neutron star low-mass X-ray binaries"
+  author: [{name: "van Doesburgh, Marieke and van der Klis, Michiel and Morsink, Sharon M."}]
+  date: 2018
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "479"}
+  page-range: "426-434"
+  doi: "10.1093/mnras/sty1404"
+
+"vehtari2012":
+  type: article
+  title: "A survey of Bayesian predictive methods for model assessment, selection and comparison"
+  author: [{name: "Vehtari, Aki and Ojanen, Janne"}]
+  date: 2012
+  parent: {type: periodical, title: "Statist. Surv.", volume: "6"}
+  page-range: "142-228"
+  doi: "10.1214/12-SS102"
+
+"Vigano13":
+  type: article
+  title: "Unifying the observational diversity of isolated neutron stars via magneto-thermal evolution models"
+  author: [{name: "Viganò, D. and Rea, N. and Pons, J. A. and Perna, R. and Aguilera, D. N. and Miralles, J. A."}]
+  date: 2013
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "434"}
+  page-range: "123-141"
+  doi: "10.1093/mnras/stt1008"
+
+"Vincent18":
+  type: article
+  title: "Accurate Ray-tracing of Realistic Neutron Star Atmospheres for Constraining Their Parameters"
+  author: [{name: "Vincent, F. H. and Bejger, M. and Różańska, A. and Straub, O. and Paumard, T. and Fortin, M. and Madej, J. and Majczyna, A. and Gourgoulhon, E. and Haensel, P. and Zdunik, L. and Beldycki, B."}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J.", volume: "855"}
+  page-range: "116"
+  doi: "10.3847/1538-4357/aab0a3"
+
+"Watts12":
+  type: article
+  title: "Thermonuclear Burst Oscillations"
+  author: [{name: "Watts, Anna L."}]
+  date: 2012
+  parent: {type: periodical, title: "Annu. Rev. Astron. Astrophys.", volume: "50"}
+  page-range: "609-640"
+  doi: "10.1146/annurev-astro-040312-132617"
+
+"Watts16":
+  type: article
+  title: "Colloquium: Measuring the neutron star equation of state using x-ray timing"
+  author: [{name: "Watts, A. L. and Andersson, N. and Chakrabarty, D. and Feroci, M. and Hebeler, K. and Israel, G. and Lamb, F. K. and Miller, M. C. and Morsink, S. and Özel, F. and Patruno, A. and Poutanen, J. and Psaltis, D. and Schwenk, A. and Steiner, A. W. and Stella, L. and Tolos, L. and van der Klis, M."}]
+  date: 2016
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "88"}
+  page-range: "021001"
+  doi: "10.1103/RevModPhys.88.021001"
+
+"Watts19":
+  type: article
+  title: "Dense matter with eXTP"
+  author: [{name: "Watts, Anna L. and Yu, WenFei and Poutanen, Juri and Zhang, Shu and Bhattacharyya, Sudip and Bogdanov, Slavko and Ji, Long and Patruno, Alessandro and Riley, Thomas E. and Bakala, Pavel and Baykal, Altan and Bernardini, Federico and Bombaci, Ignazio and Brown, Edward and Cavecchi, Yuri and Chakrabarty, Deepto and Chenevez, Jérôme and Degenaar, Nathalie and Del Santo, Melania and Di Salvo, Tiziana and Doroshenko, Victor and Falanga, Maurizio and Ferdman, Robert D. and Feroci, Marco and Gambino, Angelo F. and Ge, MingYu and Greif, Svenja K. and Guillot, Sebastien and Gungor, Can and Hartmann, Dieter H. and Hebeler, Kai and Heger, Alexander and Homan, Jeroen and Iaria, Rosario and Zand, Jean in't. and Kargaltsev, Oleg and Kurkela, Aleksi and Lai, XiaoYu and Li, Ang and Li, XiangDong and Li, ZhaoSheng and Linares, Manuel and Lu, FangJun and Mahmoodifar, Simin and Méndez, Mariano and Coleman Miller, M. and Morsink, Sharon and Nättilä, Joonas and Possenti, Andrea and Prescod-Weinstein, Chanda and Qu, JinLu and Riggio, Alessandro and Salmi, Tuomo and Sanna, Andrea and Santangelo, Andrea and Schatz, Hendrik and Schwenk, Achim and Song, LiMing and Šrámková, Eva and Stappers, Benjamin and Stiele, Holger and Strohmayer, Tod and Tews, Ingo and Tolos, Laura and Török, Gabriel and Tsang, David and Urbanec, Martin and Vacchi, Andrea and Xu, RenXin and Xu, YuPeng and Zane, Silvia and Zhang, GuoBao and Zhang, ShuangNan and Zhang, WenDa and Zheng, ShiJie and Zhou, Xia"}]
+  date: 2019
+  parent: {type: periodical, title: "Science China Physics, Mechanics, and Astronomy", volume: "62"}
+  page-range: "29503"
+  doi: "10.1007/s11433-017-9188-4"
+
+"Watts19b":
+  type: article
+  title: "Constraining the neutron star equation of state using pulse profile modeling"
+  author: [{name: "Watts, Anna L."}]
+  date: 2019
+  parent: {type: proceedings, title: "American Institute of Physics Conference Series", volume: "2127"}
+  page-range: "020008"
+  doi: "10.1063/1.5117798"
+
+"Webb07":
+  type: article
+  title: "Constraining the Equation of State of Supranuclear Dense Matter from XMM-Newton Observations of Neutron Stars in Globular Clusters"
+  author: [{name: "Webb, N. A. and Barret, D."}]
+  date: 2007
+  parent: {type: periodical, title: "Astrophys. J.", volume: "671"}
+  page-range: "727-733"
+  doi: "10.1086/522877"
+
+"Weih19":
+  type: article
+  title: "Optimal Neutron-star Mass Ranges to Constrain the Equation of State of Nuclear Matter with Electromagnetic and Gravitational-wave Observations"
+  author: [{name: "Weih, L. R. and Most, E. R. and Rezzolla, L."}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J.", volume: "881"}
+  page-range: "73"
+  doi: "10.3847/1538-4357/ab2edd"
+
+"wilkinson11":
+  type: article
+  title: "Pulse-phase-resolved spectroscopy of continuum and reflection in SAX J1808.4-3658"
+  author: [{name: "Wilkinson, Tony and Patruno, Alessandro and Watts, Anna and Uttley, Philip"}]
+  date: 2011
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "410"}
+  page-range: "1513-1520"
+  doi: "10.1111/j.1365-2966.2010.17532.x"
+
+"Wilms2000":
+  type: article
+  title: "On the Absorption of X-Rays in the Interstellar Medium"
+  author: [{name: "Wilms, J. and Allen, A. and McCray, R."}]
+  date: 2000
+  parent: {type: periodical, title: "Astrophys. J.", volume: "542"}
+  page-range: "914-924"
+  doi: "10.1086/317016"
+
+"Xu14":
+  type: article
+  title: "A Fully Bayesian Method for Jointly Fitting Instrumental Calibration and X-Ray Spectral Models"
+  author: [{name: "Xu, J. and van Dyk, D. A. and Kashyap, V. L. and Siemiginowska, A. and Connors, A. and Drake, J. and Meng, X.-L. and Ratzlaff, P. and Yu, Y."}]
+  date: 2014
+  parent: {type: periodical, title: "Astrophys. J.", volume: "794"}
+  page-range: "97"
+  doi: "10.1088/0004-637X/794/2/97"
+
+"Zavlin96":
+  type: article
+  title: "Model neutron star atmospheres with low magnetic fields. I. Atmospheres in radiative equilibrium."
+  author: [{name: "Zavlin, V. E. and Pavlov, G. G. and Shibanov, Y. A."}]
+  date: 1996
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "315"}
+  page-range: "141-152"
+
+"Zhang19":
+  type: article
+  title: "The enhanced X-ray Timing and Polarimetry mission—eXTP"
+  author: [{name: "Zhang, ShuangNan and Santangelo, Andrea and Feroci, Marco and Xu, YuPeng and Lu, FangJun and Chen, Yong and Feng, Hua and Zhang, Shu and Brandt, Søren and Hernanz, Margarita and Baldini, Luca and Bozzo, Enrico and Campana, Riccardo and De Rosa, Alessandra and Dong, YongWei and Evangelista, Yuri and Karas, Vladimir and Meidinger, Norbert and Meuris, Aline and Nand ra, Kirpal and Pan, Teng and Pareschi, Giovanni and Orleanski, Piotr and Huang, QiuShi and Schanne, Stephane and Sironi, Giorgia and Spiga, Daniele and Svoboda, Jiri and Tagliaferri, Gianpiero and Tenzer, Christoph and Vacchi, Andrea and Zane, Silvia and Walton, Dave and Wang, ZhanShan and Winter, Berend and Wu, Xin and in't Zand, Jean J. M. and Ahangarianabhari, Mahdi and Ambrosi, Giovanni and Ambrosino, Filippo and Barbera, Marco and Basso, Stefano and Bayer, Jörg and Bellazzini, Ronaldo and Bellutti, Pierluigi and Bertucci, Bruna and Bertuccio, Giuseppe and Borghi, Giacomo and Cao, XueLei and Cadoux, Franck and Campana, Riccardo and Ceraudo, Francesco and Chen, TianXiang and Chen, YuPeng and Chevenez, Jerome and Civitani, Marta and Cui, Wei and Cui, WeiWei and Dauser, Thomas and Del Monte, Ettore and Di Cosimo, Sergio and Diebold, Sebastian and Doroshenko, Victor and Dovciak, Michal and Du, YuanYuan and Ducci, Lorenzo and Fan, QingMei and Favre, Yannick and Fuschino, Fabio and Gálvez, José Luis and Gao, Min and Ge, MingYu and Gevin, Olivier and Grassi, Marco and Gu, QuanYing and Gu, YuDong and Han, DaWei and Hong, Bin and Hu, Wei and Ji, Long and Jia, ShuMei and Jiang, WeiChun and Kennedy, Thomas and Kreykenbohm, Ingo and Kuvvetli, Irfan and Labanti, Claudio and Latronico, Luca and Li, Gang and Li, MaoShun and Li, Xian and Li, Wei and Li, ZhengWei and Limousin, Olivier and Liu, HongWei and Liu, XiaoJing and Lu, Bo and Luo, Tao and Macera, Daniele and Malcovati, Piero and Martindale, Adrian and Michalska, Malgorzata and Meng, Bin and Minuti, Massimo and Morbidini, Alfredo and Muleri, Fabio and Paltani, Stephane and Perinati, Emanuele and Picciotto, Antonino and Piemonte, Claudio and Qu, JinLu and Rachevski, Alexandre and Rashevskaya, Irina and Rodriguez, Jerome and Schanz, Thomas and Shen, ZhengXiang and Sheng, LiZhi and Song, JiangBo and Song, LiMing and Sgro, Carmelo and Sun, Liang and Tan, Ying and Uttley, Phil and Wang, Bo and Wang, DianLong and Wang, GuoFeng and Wang, Juan and Wang, LangPing and Wang, YuSa and Watts, Anna L. and Wen, XiangYang and Wilms, Jörn and Xiong, ShaoLin and Yang, JiaWei and Yang, Sheng and Yang, YanJi and Yu, Nian and Zhang, WenDa and Zampa, Gianluigi and Zampa, Nicola and Zdziarski, Andrzej A. and Zhang, AiMei and Zhang, ChengMo and Zhang, Fan and Zhang, Long and Zhang, Tong and Zhang, Yi and Zhang, XiaoLi and Zhang, ZiLiang and Zhao, BaoSheng and Zheng, ShiJie and Zhou, YuPeng and Zorzi, Nicola and Zwart, J. Frans"}]
+  date: 2019
+  parent: {type: periodical, title: "Science China Physics, Mechanics, and Astronomy", volume: "62"}
+  page-range: "29502"
+  doi: "10.1007/s11433-018-9309-2"
+
+"Beronya19":
+  type: article
+  title: "The ultracool helium-atmosphere white dwarf companion of PSR J0740+6620?"
+  author: [{name: "Beronya, D. M. and Karpova, A. V. and Kirichenko, A. Yu and Zharikov, S. V. and Zyuzin, D. A. and Shibanov, Yu A. and Cabrera-Lavers, A."}]
+  date: 2019
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "485"}
+  page-range: "3715-3720"
+  doi: "10.1093/mnras/stz607"
+
+"Arzoumanian18":
+  type: article
+  title: "The NANOGrav 11-year Data Set: High-precision Timing of 45 Millisecond Pulsars"
+  author: [{name: "Arzoumanian, Zaven and Brazier, Adam and Burke-Spolaor, Sarah and Chamberlin, Sydney and Chatterjee, Shami and Christy, Brian and Cordes, James M. and Cornish, Neil J. and Crawford, Fronefield and Thankful Cromartie, H. and Crowter, Kathryn and DeCesar, Megan E. and Demorest, Paul B. and Dolch, Timothy and Ellis, Justin A. and Ferdman, Robert D. and Ferrara, Elizabeth C. and Fonseca, Emmanuel and Garver-Daniels, Nathan and Gentile, Peter A. and Halmrast, Daniel and Huerta, E. A. and Jenet, Fredrick A. and Jessup, Cody and Jones, Glenn and Jones, Megan L. and Kaplan, David L. and Lam, Michael T. and Lazio, T. Joseph W. and Levin, Lina and Lommen, Andrea and Lorimer, Duncan R. and Luo, Jing and Lynch, Ryan S. and Madison, Dustin and Matthews, Allison M. and McLaughlin, Maura A. and McWilliams, Sean T. and Mingarelli, Chiara and Ng, Cherry and Nice, David J. and Pennucci, Timothy T. and Ransom, Scott M. and Ray, Paul S. and Siemens, Xavier and Simon, Joseph and Spiewak, Renée and Stairs, Ingrid H. and Stinebring, Daniel R. and Stovall, Kevin and Swiggum, Joseph K. and Taylor, Stephen R. and Vallisneri, Michele and van Haasteren, Rutger and Vigeland, Sarah J. and Zhu, Weiwei and NANOGrav Collaboration"}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J. Suppl. Ser.", volume: "235"}
+  page-range: "37"
+  doi: "10.3847/1538-4365/aab5b0"
+
+"He2013":
+  type: article
+  title: "The Correlation between Dispersion Measure and X-Ray Column Density from Radio Pulsars"
+  author: [{name: "He, C. and Ng, C. -Y. and Kaspi, V. M."}]
+  date: 2013
+  parent: {type: periodical, title: "Astrophys. J.", volume: "768"}
+  page-range: "64"
+  doi: "10.1088/0004-637X/768/1/64"
+
+"Martino2017":
+  type: article
+  title: "Effective sample size for importance sampling based on discrepancy measures"
+  author: [{name: "Luca Martino and Víctor Elvira and Francisco Louzada"}]
+  date: 2017
+  parent: {type: periodical, title: "Signal Processing", volume: "131"}
+  serial-number: "386 - 401"
+  doi: "https://doi.org/10.1016/j.sigpro.2016.08.025"
+
+"HbkPulsAstro":
+  type: article
+  title: "Handbook of Pulsar Astronomy"
+  author: [{name: "Lorimer, D. R. and Kramer, M."}]
+  date: 2004
+
+"Tolos20":
+  type: article
+  title: "Strangeness in nuclei and neutron stars"
+  author: [{name: "Tolos, L. and Fabbietti, L."}]
+  date: 2020
+  parent: {type: periodical, title: "Progress in Particle and Nuclear Physics", volume: "112"}
+  page-range: "103770"
+  doi: "10.1016/j.ppnp.2020.103770"
+
+"Hebeler21":
+  type: article
+  title: "Three-nucleon forces: Implementation and applications to atomic nuclei and dense matter"
+  author: [{name: "Hebeler, Kai"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rep.", volume: "890"}
+  page-range: "1-116"
+  doi: "10.1016/j.physrep.2020.08.009"
+
+"Fattoyev20":
+  type: article
+  title: "GW190814: Impact of a 2.6 solar mass neutron star on the nucleonic equations of state"
+  author: [{name: "Fattoyev, F. J. and Horowitz, C. J. and Piekarewicz, J. and Reed, Brendan"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "102"}
+  page-range: "065805"
+  doi: "10.1103/PhysRevC.102.065805"
+
+"HanS20":
+  type: article
+  title: "On the Minimum Radius of Very Massive Neutron Stars"
+  author: [{name: "Han, Sophia and Prakash, Madappa"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "899"}
+  page-range: "164"
+  doi: "10.3847/1538-4357/aba3c7"
+
+"XieWJ20":
+  type: article
+  title: "Bayesian Inference of the Symmetry Energy of Superdense Neutron-rich Matter from Future Radius Measurements of Massive Neutron Stars"
+  author: [{name: "Xie, Wen-Jie and Li, Bao-An"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "899"}
+  page-range: "4"
+  doi: "10.3847/1538-4357/aba271"
+
+"XieWJ20c":
+  type: article
+  title: "Bayesian inference of the dense-matter equation of state encapsulating a first-order hadron-quark phase transition from observables of canonical neutron stars"
+  author: [{name: "Xie, Wen-Jie and Li, Bao-An"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "103"}
+  page-range: "035802"
+  doi: "10.1103/PhysRevC.103.035802"
+
+"Essick20":
+  type: article
+  title: "Direct astrophysical tests of chiral effective field theory at supranuclear densities"
+  author: [{name: "Essick, Reed and Tews, Ingo and Landry, Philippe and Reddy, Sanjay and Holz, Daniel E."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "102"}
+  page-range: "055803"
+  doi: "10.1103/PhysRevC.102.055803"
+
+"Essick21":
+  type: article
+  title: "Astrophysical Constraints on the Symmetry Energy and the Neutron Skin of ²⁰⁸Pb with Minimal Modeling Assumptions"
+  author: [{name: "Essick, Reed and Tews, Ingo and Landry, Philippe and Schwenk, Achim"}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2102.10074"
+
+"Dietrich20":
+  type: article
+  title: "Multimessenger constraints on the neutron-star equation of state and the Hubble constant"
+  author: [{name: "Dietrich, Tim and Coughlin, Michael W. and Pang, Peter T. H. and Bulla, Mattia and Heinzel, Jack and Issa, Lina and Tews, Ingo and Antier, Sarah"}]
+  date: 2020
+  parent: {type: periodical, title: "Science", volume: "370"}
+  page-range: "1450-1453"
+  doi: "10.1126/science.abb4317"
+
+"Jiang20":
+  type: article
+  title: "PSR J0030+0451, GW170817, and the Nuclear Data: Joint Constraints on Equation of State and Bulk Properties of Neutron Stars"
+  author: [{name: "Jiang, Jin-Liang and Tang, Shao-Peng and Wang, Yuan-Zhu and Fan, Yi-Zhong and Wei, Da-Ming"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "892"}
+  page-range: "55"
+  doi: "10.3847/1538-4357/ab77cf"
+
+"ZhangNB20":
+  type: article
+  title: "Constraints on the Muon Fraction and Density Profile in Neutron Stars"
+  author: [{name: "Zhang, Nai-Bo and Li, Bao-An"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "893"}
+  page-range: "61"
+  doi: "10.3847/1538-4357/ab7dbc"
+
+"Christian20":
+  type: article
+  title: "Twin Stars and the Stiffness of the Nuclear Equation of State: Ruling Out Strong Phase Transitions below 1.7 n₀ with the New NICER Radius Measurements"
+  author: [{name: "Christian, Jan-Erik and Schaffner-Bielich, Jürgen"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "894"}
+  serial-number: "L8"
+  doi: "10.3847/2041-8213/ab8af4"
+
+"YangJ20":
+  type: article
+  title: "Covariant Density Functional Theory in Nuclear Physics and Astrophysics"
+  author: [{name: "Yang, Junjie and Piekarewicz, J."}]
+  date: 2020
+  parent: {type: periodical, title: "Annual Review of Nuclear and Particle Science", volume: "70"}
+  page-range: "21-41"
+  doi: "10.1146/annurev-nucl-101918-023608"
+
+"Chatziioannou20":
+  type: article
+  title: "Neutron-star tidal deformability and equation-of-state constraints"
+  author: [{name: "Chatziioannou, Katerina"}]
+  date: 2020
+  parent: {type: periodical, title: "General Relativity and Gravitation", volume: "52"}
+  page-range: "109"
+  doi: "10.1007/s10714-020-02754-3"
+
+"Metzger19":
+  type: article
+  title: "Kilonovae"
+  author: [{name: "Metzger, Brian D."}]
+  date: 2019
+  parent: {type: periodical, title: "Living Reviews in Relativity", volume: "23"}
+  page-range: "1"
+  doi: "10.1007/s41114-019-0024-0"
+
+"Maselli20":
+  type: article
+  title: "Constraining three-nucleon forces with multimessenger data"
+  author: [{name: "Maselli, Andrea and Sabatucci, Andrea and Benhar, Omar"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "103"}
+  page-range: "065804"
+  doi: "10.1103/PhysRevC.103.065804"
+
+"AlMamun21":
+  type: article
+  title: "Combining Electromagnetic and Gravitational-Wave Constraints on Neutron-Star Masses and Radii"
+  author: [{name: "Al-Mamun, Mohammad and Steiner, Andrew W. and Nättilä, Joonas and Lange, Jacob and O'Shaughnessy, Richard and Tews, Ingo and Gandolfi, Stefano and Heinke, Craig and Han, Sophia"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "061101"
+  doi: "10.1103/PhysRevLett.126.061101"
+
+"LiA20":
+  type: article
+  title: "Constraints from LIGO/Virgo and NICER on quark star equation of state"
+  author: [{name: "Li, Ang and Jiang, Jin-Liang and Tang, Shao-Peng and Miao, Zhi-Qiang and Zhou, En-Ping and Xu, Ren-Xin"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2009.12571"
+
+"Tang20":
+  type: article
+  title: "Constraint on phase transition with the multimessenger data of neutron stars"
+  author: [{name: "Tang, Shao-Peng and Jiang, Jin-Liang and Gao, Wei-Hong and Fan, Yi-Zhong and Wei, Da-Ming"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "063026"
+  doi: "10.1103/PhysRevD.103.063026"
+
+"Landry20":
+  type: article
+  title: "Nonparametric constraints on neutron star matter with existing and upcoming gravitational wave and pulsar observations"
+  author: [{name: "Landry, Philippe and Essick, Reed and Chatziioannou, Katerina"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "101"}
+  page-range: "123007"
+  doi: "10.1103/PhysRevD.101.123007"
+
+"LimY20":
+  type: article
+  title: "Revisiting constraints on the maximum neutron star mass in light of GW190814"
+  author: [{name: "Lim, Yeunhwan and Bhattacharya, Anirban and Holt, Jeremy W. and Pati, Debdeep"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2007.06526"
+
+"Traversi20":
+  type: article
+  title: "Bayesian Inference of Dense Matter Equation of State within Relativistic Mean Field Models Using Astrophysical Measurements"
+  author: [{name: "Traversi, Silvia and Char, Prasanta and Pagliara, Giuseppe"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "897"}
+  page-range: "165"
+  doi: "10.3847/1538-4357/ab99c1"
+
+"Zimmerman20":
+  type: article
+  title: "Measuring Nuclear Matter Parameters with NICER and LIGO/Virgo"
+  author: [{name: "Zimmerman, Josef and Carson, Zack and Schumacher, Kristen and Steiner, Andrew W. and Yagi, Kent"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2002.03210"
+
+"Blaschke20":
+  type: article
+  title: "Was GW170817 a Canonical Neutron Star Merger? Bayesian Analysis with a Third Family of Compact Stars"
+  author: [{name: "Blaschke, David and Ayriyan, Alexander and Alvarez-Castillo, David Edwin and Grigorian, Hovik"}]
+  date: 2020
+  parent: {type: periodical, title: "Universe", volume: "6"}
+  page-range: "81"
+  doi: "10.3390/universe6060081"
+
+"Alvarez20b":
+  type: article
+  title: "Studying the Landau Mass Parameter of the Extended σ-ω Model for Neutron Star Matter"
+  author: [{name: "Alvarez-Castillo, David and Ayriyan, A. and Barnaföldi, G. G. and Pósfay, P."}]
+  date: 2020
+  parent: {type: periodical, title: "Physics of Particles and Nuclei", volume: "51"}
+  page-range: "725-729"
+  doi: "10.1134/S1063779620040073"
+
+"Tews20b":
+  type: article
+  title: "On the Nature of GW190814 and Its Impact on the Understanding of Supranuclear Matter"
+  author: [{name: "Tews, Ingo and Pang, Peter T. H. and Dietrich, Tim and Coughlin, Michael W. and Antier, Sarah and Bulla, Mattia and Heinzel, Jack and Issa, Lina"}]
+  date: 2021
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "908"}
+  serial-number: "L1"
+  doi: "10.3847/2041-8213/abdaae"
+
+"Biswas20":
+  type: article
+  title: "Towards mitigation of apparent tension between nuclear physics and astrophysical observations by improved modeling of neutron star matter"
+  author: [{name: "Biswas, Bhaskar and Char, Prasanta and Nandi, Rana and Bose, Sukanta"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "103015"
+  doi: "10.1103/PhysRevD.103.103015"
+
+"Suvorov20":
+  type: article
+  title: "Recycled pulsars with multipolar magnetospheres from accretion-induced magnetic burial"
+  author: [{name: "Suvorov, A. G. and Melatos, A."}]
+  date: 2020
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "499"}
+  page-range: "3243-3254"
+  doi: "10.1093/mnras/staa3132"
+
+"ChenAY20":
+  type: article
+  title: "A Numerical Model for the Multiwavelength Lightcurves of PSR J0030+0451"
+  author: [{name: "Chen, Alexander Y. and Yuan, Yajie and Vasilopoulos, Georgios"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "893"}
+  serial-number: "L38"
+  doi: "10.3847/2041-8213/ab85c5"
+
+"Kalapotharakos20":
+  type: article
+  title: "The Multipolar Magnetic Field of the Millisecond Pulsar PSR J0030+0451"
+  author: [{name: "Kalapotharakos, Constantinos and Wadiasingh, Zorawar and Harding, Alice K. and Kazanas, Demosthenes"}]
+  date: 2021
+  parent: {type: periodical, title: "Astrophys. J.", volume: "907"}
+  page-range: "63"
+  doi: "10.3847/1538-4357/abcec0"
+
+"Margalit17":
+  type: article
+  title: "Constraining the Maximum Mass of Neutron Stars from Multi-messenger Observations of GW170817"
+  author: [{name: "Margalit, Ben and Metzger, Brian D."}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "850"}
+  serial-number: "L19"
+  doi: "10.3847/2041-8213/aa991c"
+
+"Shibata19":
+  type: article
+  title: "Constraint on the maximum mass of neutron stars using GW170817 event"
+  author: [{name: "Shibata, Masaru and Zhou, Enping and Kiuchi, Kenta and Fujibayashi, Sho"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "100"}
+  page-range: "023015"
+  doi: "10.1103/PhysRevD.100.023015"
+
+"Ruiz18":
+  type: article
+  title: "GW170817, general relativistic magnetohydrodynamic simulations, and the neutron star maximum mass"
+  author: [{name: "Ruiz, Milton and Shapiro, Stuart L. and Tsokaros, Antonios"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "97"}
+  page-range: "021501"
+  doi: "10.1103/PhysRevD.97.021501"
+
+"Rezzolla18":
+  type: article
+  title: "Using Gravitational-wave Observations and Quasi-universal Relations to Constrain the Maximum Mass of Neutron Stars"
+  author: [{name: "Rezzolla, Luciano and Most, Elias R. and Weih, Lukas R."}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "852"}
+  serial-number: "L25"
+  doi: "10.3847/2041-8213/aaa401"
+
+"Schertler00":
+  type: article
+  title: "Quark phases in neutron stars and a third family of compact stars as signature for phase transitions¹"
+  author: [{name: "Schertler, K. and Greiner, C. and Schaffner-Bielich, J. and Thoma2, M. H."}]
+  date: 2000
+  parent: {type: periodical, title: "Nucl. Phys. A", volume: "677"}
+  page-range: "463-490"
+  doi: "10.1016/S0375-9474(00)00305-5"
+
+"Gal20":
+  type: article
+  title: "New precision measurement of the neutral weak form factor of ²⁰⁸Pb"
+  author: [{name: "Gal, C."}]
+  date: 2020
+  parent: {type: proceedings, title: "presented on behalf of the PREX Collaboration at the 2020 Meeting of the Division of Nuclear Physics of the American Physical Society", volume: ""}
+
+"Abbott20":
+  type: article
+  title: "GW190814: Gravitational Waves from the Coalescence of a 23 Solar Mass Black Hole with a 2.6 Solar Mass Compact Object"
+  author: [{name: "Abbott, R. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "896"}
+  serial-number: "L44"
+  doi: "10.3847/2041-8213/ab960f"
+
+"Sedrakian20":
+  type: article
+  title: "Confronting GW190814 with hyperonization in dense matter and hypernuclear compact stars"
+  author: [{name: "Sedrakian, Armen and Weber, Fridolin and Li, Jia Jie"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "102"}
+  page-range: "041301"
+  doi: "10.1103/PhysRevD.102.041301"
+
+"Godzieba20":
+  type: article
+  title: "On the Maximum Mass of Neutron Stars and GW190814"
+  author: [{name: "Godzieba, Daniel A. and Radice, David and Bernuzzi, Sebastiano"}]
+  date: 2021
+  parent: {type: periodical, title: "Astrophys. J.", volume: "908"}
+  page-range: "122"
+  doi: "10.3847/1538-4357/abd4dd"
+
+"Tsokaros20":
+  type: article
+  title: "GW190814: Spin and Equation of State of a Neutron Star Companion"
+  author: [{name: "Tsokaros, Antonios and Ruiz, Milton and Shapiro, Stuart L."}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "905"}
+  page-range: "48"
+  doi: "10.3847/1538-4357/abc421"
+
+"TanH20":
+  type: article
+  title: "Neutron Star Equation of State in Light of GW190814"
+  author: [{name: "Tan, Hung and Noronha-Hostler, Jacquelyn and Yunes, Nico"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "261104"
+  doi: "10.1103/PhysRevLett.125.261104"
+
+"HuangK20":
+  type: article
+  title: "The Possibility of the Secondary Object in GW190814 as a Neutron Star"
+  author: [{name: "Huang, Kaixuan and Hu, Jinniu and Zhang, Ying and Shen, Hong"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "904"}
+  page-range: "39"
+  doi: "10.3847/1538-4357/abbb37"
+
+"Drischler20b":
+  type: article
+  title: "Limiting masses and radii of neutron stars and their implications"
+  author: [{name: "Drischler, Christian and Han, Sophia and Lattimer, James M. and Prakash, Madappa and Reddy, Sanjay and Zhao, Tianqi"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "103"}
+  page-range: "045808"
+  doi: "10.1103/PhysRevC.103.045808"
+
+"Zhang20":
+  type: article
+  title: "GW190814's Secondary Component with Mass 2.50-2.67 M☉ as a Superfast Pulsar"
+  author: [{name: "Zhang, Nai-Bo and Li, Bao-An"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "902"}
+  page-range: "38"
+  doi: "10.3847/1538-4357/abb470"
+
+"Dexheimer20":
+  type: article
+  title: "GW190814 as a massive rapidly rotating neutron star with exotic degrees of freedom"
+  author: [{name: "Dexheimer, V. and Gomes, R. O. and Klähn, T. and Han, S. and Salinas, M."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "103"}
+  page-range: "025808"
+  doi: "10.1103/PhysRevC.103.025808"
+
+"Sivia06":
+  type: article
+  title: "Data Analysis - A Bayesian Tutorial"
+  author: [{name: "Sivia, D. S. and Skilling, J."}]
+  date: 2006
+
+"Adhikari21":
+  type: article
+  title: "An Accurate Determination of the Neutron Skin Thickness of ²⁰⁸Pb through Parity-Violation in Electron Scattering"
+  author: [{name: "Adhikari, D. and Albataineh, H. and Androic, D. and Aniol, K. and Armstrong, D. S. and Averett, T. and Barcus, S. and Bellini, V. and Beminiwattha, R. S. and Benesch, J. F. and Bhatt, H. and Bhatta Pathak, D. and Bhetuwal, D. and Blaikie, B. and Campagna, Q. and Camsonne, A. and Chen, Y. and Clarke, C. and Cornejo, J. C. and Covrig Dusa, S. and Datta, P. and Deshpande, A. and Dutta, D. and Feldman, C. and Fuchey, E. and Gal, C. and Gaskell, D. and Gautam, T. and Ayerbe Gayoso, C. and Gericke, M. and Ghosh, C. and Halilovic, I. and Hansen, J. -O. and Hauenstein, F. and Henry, W. and Horowitz, C. J. and Jantzi, C. and Jian, S. and Johnston, S. and Jones, D. C. and Karki, B. and Katugampola, S. and Keppel, C. and King, P. M. and King, D. E. and Knauss, M. and Kumar, K. S. and Kutz, T. and Lashley-Colthirst, N. and Leverick, G. and Liu, H. and Liyange, N. and Malace, S. and Mammei, R. and Mammei, J. and McCaughan, M. and McNulty, D. and Meekins, D. and Metts, C. and Michaels, R. and Mondal, M. M. and Napolitano, J. and Narayan, A. and Nikolaev, D. and Rashad, M. N. H. and Owen, V. and Palatchi, C. and Pan, 14 J. and Pandey, B. and Park, S. and Paschke, K. D. and Petrusky, M. and Pitt, M. L. and Premathilake, S. and Puckett, A. J. R. and Quinn, B. and Radloff, R. and Rahman, S. and Rathnayake, A. and Reed, B. T. and Reimer, P. E. and Richards, R. and Riordan, S. and Roblin, Y. and Seeds, S. and Shahinyan, A. and Souder, P. and Tang, L. and Thiel, 16 M. and Tian, Y. and Urciuoli, G. M. and Wertz, E. W. and Wojtsekhowski, B. and Yale, B. and Ye, T. and Yoon, A. and Zec, A. and Zhang, W. and Zhang, J. and Zheng, X."}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2102.10767"
+
+"Raaijmakers21":
+  type: article
+  title: "Constraints on the dense matter equation of state and neutron star properties from NICER's mass-radius estimate of PSR J0740+6620 and multimessenger observations"
+  author: [{name: "Raaijmakers, G. and Greif, S. K. and Hebeler, K. and Hinderer, T. and Nissanke, S. and Schwenk, A. and Riley, T. E. and Watts, A. L. and Lattimer, J. M. and Ho, W. C. G."}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2105.06981"
+
+"Shklovskii70":
+  type: article
+  title: "Possible Causes of the Secular Increase in Pulsar Periods."
+  author: [{name: "Shklovskii, I. S."}]
+  date: 1970
+  parent: {type: periodical, title: "Sov. Astron.", volume: "13"}
+  page-range: "562"
+
+"SpaceWeather":
+  type: article
+  title: "NICER Background Estimator Tools"
+  author: [{name: "Gendreau, K."}]
+  date: 2020
+
+"HI4PIcollab2016":
+  type: article
+  title: "HI4PI: A full-sky H I survey based on EBHIS and GASS"
+  author: [{name: "HI4PI Collaboration and Ben Bekhti, N. and Flöer, L. and Keller, R. and Kerp, J. and Lenz, D. and Winkel, B. and Bailin, J. and Calabretta, M. R. and Dedes, L. and Ford, H. A. and Gibson, B. K. and Haud, U. and Janowiecki, S. and Kalberla, P. M. W. and Lockman, F. J. and McClure-Griffiths, N. M. and Murphy, T. and Nakanishi, H. and Pisano, D. J. and Staveley-Smith, L."}]
+  date: 2016
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "594"}
+  serial-number: "A116"
+  doi: "10.1051/0004-6361/201629178"
+
+"Lallement2018":
+  type: article
+  title: "Three-dimensional maps of interstellar dust in the Local Arm: using Gaia, 2MASS, and APOGEE-DR14"
+  author: [{name: "Lallement, R. and Capitanio, L. and Ruiz-Dern, L. and Danielski, C. and Babusiaux, C. and Vergely, L. and Elyajouri, M. and Arenou, F. and Leclerc, N."}]
+  date: 2018
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "616"}
+  serial-number: "A132"
+  doi: "10.1051/0004-6361/201832832"
+
+"Foight2016":
+  type: article
+  title: "Probing X-Ray Absorption and Optical Extinction in the Interstellar Medium Using Chandra Observations of Supernova Remnants"
+  author: [{name: "Foight, Dillon R. and Güver, Tolga and Özel, Feryal and Slane, Patrick O."}]
+  date: 2016
+  parent: {type: periodical, title: "Astrophys. J.", volume: "826"}
+  page-range: "66"
+  doi: "10.3847/0004-637X/826/1/66"
+
+"McLerran19":
+  type: article
+  title: "Quarkyonic Matter and Neutron Stars"
+  author: [{name: "McLerran, Larry and Reddy, Sanjay"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "122701"
+  doi: "10.1103/PhysRevLett.122.122701"
+
+"2011PASJ...63S.657I":
+  type: article
+  title: "Cross Spectral Calibration of Suzaku, XMM-Newton, and Chandra with PKS 2155-304 as an Activity of IACHEC"
+  author: [{name: "Ishida, Manabu and Tsujimoto, Masahiro and Kohmura, Takayoshi and Stuhlinger, Martin and Smith, Michael and Marshall, Herman L. and Guainazzi, Matteo and Kawai, Kohei and Ogawa, Taiki"}]
+  date: 2011
+  parent: {type: periodical, title: "Publ. Astron. Soc. Japan", volume: "63"}
+  serial-number: "S657-S668"
+  doi: "10.1093/pasj/63.sp3.S657"
+
+"2017AandA...597A..35P":
+  type: article
+  title: "SNR 1E 0102.2-7219 as an X-ray calibration standard in the 0.5-1.0 keV bandpass and its application to the CCD instruments aboard Chandra, Suzaku, Swift and XMM-Newton"
+  author: [{name: "Plucinsky, Paul P. and Beardmore, Andrew P. and Foster, Adam and Haberl, Frank and Miller, Eric D. and Pollock, Andrew M. T. and Sembay, Steve"}]
+  date: 2017
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "597"}
+  serial-number: "A35"
+  doi: "10.1051/0004-6361/201628824"
+
+"2017AJ....153....2M":
+  type: article
+  title: "IACHEC Cross-calibration of Chandra, NuSTAR, Swift, Suzaku, XMM-Newton with 3C 273 and PKS 2155-304"
+  author: [{name: "Madsen, Kristin K. and Beardmore, Andrew P. and Forster, Karl and Guainazzi, Matteo and Marshall, Herman L. and Miller, Eric D. and Page, Kim L. and Stuhlinger, Martin"}]
+  date: 2017
+  parent: {type: periodical, title: "Astron. J.", volume: "153"}
+  page-range: "2"
+  doi: "10.3847/1538-3881/153/1/2"
+
+"Trotta08":
+  type: article
+  title: "Bayes in the sky: Bayesian inference and model selection in cosmology"
+  author: [{name: "Trotta, Roberto"}]
+  date: 2008
+  parent: {type: periodical, title: "Contemporary Physics", volume: "49"}
+  page-range: "71-104"
+  doi: "10.1080/00107510802066753"
+
+"Clyde19":
+  type: article
+  title: "An Introduction to Bayesian Thinking: A Companion to the Statistics with R Course"
+  author: [{name: "Clyde, M. and Çetinkaya-Rundel, M. and Rundel, C. and Banks, D. and Chai, C. and Huang, L."}]
+  date: 2021

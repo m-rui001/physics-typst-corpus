@@ -1,0 +1,1913 @@
+"2016Eaton":
+  type: article
+  title: "TissueMiner: A multiscale analysis toolkit to quantify how cellular processes create tissue dynamics"
+  author: [{name: "Etournay, Raphaël and Merkel, Matthias and Popović, Marko and Brandl, Holger and Dye, Natalie A and Aigouy, Benoît and Salbreux, Guillaume and Eaton, Suzanne and Jülicher, Frank"}]
+  date: 2016
+  parent: {type: periodical, title: "eLife", volume: "5"}
+  serial-number: "e14334"
+  doi: "10.7554/eLife.14334"
+
+"2016Fodor":
+  type: article
+  title: "How Far from Equilibrium Is Active Matter?"
+  author: [{name: "Fodor, Étienne and Nardini, Cesare and Cates, Michael E. and Tailleur, Julien and Visco, Paolo and van Wijland, Frédéric"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "117"}
+  page-range: "038103"
+  doi: "10.1103/PhysRevLett.117.038103"
+
+"2017Grill":
+  type: article
+  title: "How Active Mechanics and Regulatory Biochemistry Combine to Form Patterns in Development"
+  author: [{name: "Gross, Peter and Kumar, K. Vijay and Grill, Stephan W."}]
+  date: 2017
+  parent: {type: periodical, title: "Annual Review of Biophysics", volume: "46"}
+  page-range: "337-356"
+
+"2018Falasco":
+  type: article
+  title: "Information Thermodynamics of Turing Patterns"
+  author: [{name: "Falasco, Gianmaria and Rao, Riccardo and Esposito, Massimiliano"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "108301"
+  doi: "10.1103/PhysRevLett.121.108301"
+
+"2019Li":
+  type: article
+  title: "Quantifying dissipation using fluctuating currents"
+  author: [{name: "Li, Junang and Horowitz, Jordan M. and Gingrich, Todd R. and Fakhri, Nikta"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Communications", volume: "10"}
+  page-range: "1666"
+
+"2019Pietzonka":
+  type: article
+  title: "Autonomous Engines Driven by Active Matter: Energetics and Design Principles"
+  author: [{name: "Pietzonka, Patrick and Fodor, Étienne and Lohrmann, Christoph and Cates, Michael E. and Seifert, Udo"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "9"}
+  page-range: "041032"
+  doi: "10.1103/PhysRevX.9.041032"
+
+"2019Tociu":
+  type: article
+  title: "How Dissipation Constrains Fluctuations in Nonequilibrium Liquids: Diffusion, Structure, and Biased Interactions"
+  author: [{name: "Tociu, Laura and Fodor, Étienne and Nemoto, Takahiro and Vaikuntanathan, Suriyanarayanan"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "9"}
+  page-range: "041026"
+  doi: "10.1103/PhysRevX.9.041026"
+
+"2020Horowitz":
+  type: article
+  title: "Thermodynamic uncertainty relations constrain non-equilibrium fluctuations"
+  author: [{name: "Horowitz, Jordan M. and Gingrich, Todd R."}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "15-20"
+
+"2020TzerHan_NatPhys":
+  type: article
+  title: "Topological Turbulence in the Membrane of a Living Cell"
+  author: [{name: "Tan, Tzer Han and Liu, Jinghui and Miller, Pearson W. and Tekant, Melis and Dunkel, Jörn and Fakhri, Nikta"}]
+  date: 2020
+  parent: {type: periodical, title: "Nat. Phys.", volume: "16"}
+  page-range: "657-662"
+  doi: "10.1038/s41567-020-0841-9"
+
+"2021Austin":
+  type: article
+  title: "Emergent Field-Driven Robot Swarm States"
+  author: [{name: "Wang, Gao and Phan, Trung V. and Li, Shengkai and Wombacher, Michael and Qu, Junle and Peng, Yan and Chen, Guo and Goldman, Daniel I. and Levin, Simon A. and Austin, Robert H. and Liu, Liyu"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "108002"
+  doi: "10.1103/PhysRevLett.126.108002"
+
+"2021Lecuit":
+  type: article
+  title: "Programmed and self-organized flow of information during morphogenesis"
+  author: [{name: "Collinet, Claudio and Lecuit, Thomas"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Reviews Molecular Cell Biology", volume: "22"}
+  page-range: "245-265"
+  doi: "10.1038/s41580-020-00318-6"
+
+"Aoki1982simulation":
+  type: article
+  title: "A simulation study on the schooling mechanism in fish."
+  author: [{name: "Ichiro Aoki"}]
+  date: 1982
+  parent: {type: periodical, title: "NIPPON SUISAN GAKKAISHI (Bulletin of the Japanese Society of Scientific Fisheries)", volume: "48"}
+  page-range: "1081-1088"
+
+"Bain2019":
+  type: article
+  title: "Dynamic response and hydrodynamics of polarized crowds"
+  author: [{name: "Bain, Nicolas and Bartolo, Denis"}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "363"}
+  page-range: "46-49"
+  doi: "10.1126/science.aat9891"
+
+"Ballerini1232":
+  type: article
+  title: "Interaction ruling animal collective behavior depends on topological rather than metric distance: Evidence from a field study"
+  author: [{name: "Ballerini, M. and Cabibbo, N. and Candelier, R. and Cavagna, A. and Cisbani, E. and Giardina, I. and Lecomte, V. and Orlandi, A. and Parisi, G. and Procaccini, A. and Viale, M. and Zdravkovic, V."}]
+  date: 2008
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "105"}
+  page-range: "1232-1237"
+  doi: "10.1073/pnas.0711437105"
+
+"Bechinger-RMP2018":
+  type: article
+  title: "Active particles in complex and crowded environments"
+  author: [{name: "Bechinger, Clemens and Di Leonardo, Roberto and Löwen, Hartmut and Reichhardt, Charles and Volpe, Giorgio and Volpe, Giovanni"}]
+  date: 2016
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "88"}
+  page-range: "045006"
+  doi: "10.1103/RevModPhys.88.045006"
+
+"Fodor_2020":
+  type: article
+  title: "Dissipation controls transport and phase transitions in active fluids: mobility, diffusion and biased ensembles"
+  author: [{name: "Étienne Fodor and Takahiro Nemoto and Suriyanarayanan Vaikuntanathan"}]
+  date: 2020
+  parent: {type: periodical, title: "New Journal of Physics", volume: "22"}
+  page-range: "013052"
+  doi: "10.1088/1367-2630/ab6353"
+
+"Gomez-Marin2008a":
+  type: article
+  title: "The “footprints” of irreversibility"
+  author: [{name: "Gomez-Marin, A. and Parrondo, J. M. R. and Van den Broeck, C."}]
+  date: 2008
+  parent: {type: periodical, title: "Europhys. Lett.", volume: "82"}
+  page-range: "50002"
+
+"Helbing2000":
+  type: article
+  title: "Simulating dynamical features of escape panic"
+  author: [{name: "Helbing, Dirk and Farkas, Illés and Vicsek, Tamás"}]
+  date: 2000
+  parent: {type: periodical, title: "Nature", volume: "407"}
+  page-range: "487-490"
+  doi: "10.1038/35035023"
+
+"Horowitz2009b":
+  type: article
+  title: "Illustrative example of the relationship between dissipation and relative entropy"
+  author: [{name: "Horowitz, J. M. and Jarzynski, C."}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "79"}
+  page-range: "021106"
+
+"Kawai2007":
+  type: article
+  title: "Dissipation: The Phase-Space Perspective"
+  author: [{name: "Kawai, R. and Parrondo, J. M. R. and Van den Broeck, C."}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "98"}
+  page-range: "080602"
+
+"Levine2009":
+  type: article
+  title: "The mechanics and fluctuation spectrum of active gels"
+  author: [{name: "Levine, A. J. and MacKintosh, F. C."}]
+  date: 2009
+  parent: {type: periodical, title: "J. Phys. Chem. B", volume: "113"}
+  page-range: "3820-3830"
+
+"Liphardt1832":
+  type: article
+  title: "Equilibrium Information from Nonequilibrium Measurements in an Experimental Test of Jarzynski’ Equality"
+  author: [{name: "Liphardt, Jan and Dumont, Sophie and Smith, Steven B. and Tinoco, Ignacio and Bustamante, Carlos"}]
+  date: 2002
+  parent: {type: periodical, title: "Science", volume: "296"}
+  page-range: "1832-1835"
+  doi: "10.1126/science.1071152"
+
+"Martinez2018":
+  type: article
+  title: "Inferring broken detailed balance in the absence of observable currents"
+  author: [{name: "Martínez, I. A. and Bisker, G. and Horowitz, J. M. and Parrondo, J. M. R."}]
+  date: 2019
+  parent: {type: periodical, title: "Nat. Comm.", volume: "10"}
+  page-range: "1-10"
+
+"Nardini2017":
+  type: article
+  title: "Entropy production in field theoreis without time-reversal symmetry: quantifying the non-equilibrium character of active matter"
+  author: [{name: "Nardini, C. and Fodor, É and Tjhung, E. and van Wijland, F. and Taileur, J. and Cates, M. E."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "7"}
+  page-range: "021007"
+
+"Parrondo2009":
+  type: article
+  title: "Entropy production and the arrow of time"
+  author: [{name: "Parrondo, J. M. R. and Van den Broeck, C. and Kawai, R."}]
+  date: 2009
+  parent: {type: periodical, title: "New J. Phys.", volume: "11"}
+  page-range: "073008"
+
+"Pearce2020":
+  type: misc
+  title: "Scale-free defect ordering in passive and active nematics"
+  author: [{name: "D. J. G. Pearce and J. Nambisan and P. W. Ellis and A. Fernandez-Nieves and L. Giomi"}]
+  date: 2020
+  serial-number: "arXiv:2004.13704"
+
+"Poujade15988":
+  type: article
+  title: "Collective migration of an epithelial monolayer in response to a model wound"
+  author: [{name: "Poujade, M. and Grasland-Mongrain, E. and Hertzog, A. and Jouanneau, J. and Chavrier, P. and Ladoux, B. and Buguin, A. and Silberzan, P."}]
+  date: 2007
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "104"}
+  page-range: "15988-15993"
+  doi: "10.1073/pnas.0705062104"
+
+"Ramaswamy_2017":
+  type: article
+  title: "Active matter"
+  author: [{name: "Sriram Ramaswamy"}]
+  date: 2017
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2017"}
+  page-range: "054002"
+  doi: "10.1088/1742-5468/aa6bc5"
+
+"Roldan2012":
+  type: article
+  title: "Entropy production and Kullback-Leibler divergence between stationary trajectories of discrete systems"
+  author: [{name: "Roldán, É and Parrondo, J. M. R."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "85"}
+  page-range: "031129"
+
+"Saha_2019":
+  type: article
+  title: "Pairing, waltzing and scattering of chemotactic active colloids"
+  author: [{name: "Suropriya Saha and Sriram Ramaswamy and Ramin Golestanian"}]
+  date: 2019
+  parent: {type: periodical, title: "New Journal of Physics", volume: "21"}
+  page-range: "063006"
+  doi: "10.1088/1367-2630/ab20fd"
+
+"Simha2002":
+  type: article
+  title: "Hydrodynamic Fluctuations and Instabilities in Ordered Suspensions of Self-Propelled Particles"
+  author: [{name: "Simha, R. Aditi and Ramaswamy, Sriram"}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "89"}
+  page-range: "058101"
+  doi: "10.1103/PhysRevLett.89.058101"
+
+"Tang_2020":
+  type: article
+  title: "Quantifying configurational information for a stochastic particle in a flow-field"
+  author: [{name: "Evelyn Tang and Ramin Golestanian"}]
+  date: 2020
+  parent: {type: periodical, title: "New Journal of Physics", volume: "22"}
+  page-range: "083060"
+  doi: "10.1088/1367-2630/aba76b"
+
+"Thijssen2020":
+  type: misc
+  title: "Large scale ordering of active defects"
+  author: [{name: "Kristian Thijssen and Mehrana R. Nejad and Julia M. Yeomans"}]
+  date: 2020
+  serial-number: "arXiv:2005.01164"
+
+"Tsai2005chiral":
+  type: article
+  title: "A Chiral Granular Gas"
+  author: [{name: "Tsai, J.-C. and Ye, Fangfu and Rodriguez, Juan and Gollub, J. P. and Lubensky, T. C."}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "94"}
+  page-range: "214301"
+  doi: "10.1103/PhysRevLett.94.214301"
+
+"Wang2016entropy":
+  type: article
+  title: "Entropy Production of Nanosystems with Time Scale Separation"
+  author: [{name: "Wang, Shou-Wen and Kawaguchi, Kyogo and Sasa, Shin-ichi and Tang, Lei-Han"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "117"}
+  page-range: "070601"
+  doi: "10.1103/PhysRevLett.117.070601"
+
+"Wigbers2021":
+  type: article
+  title: "A Hierarchy of Protein Patterns Robustly Decodes Cell Shape Information"
+  author: [{name: "Wigbers, Manon C. and Tan, Tzer Han and Brauns, Fridtjof and Liu, Jinghui and Swartz, S. Zachary and Frey, Erwin and Fakhri, Nikta"}]
+  date: 2021
+  parent: {type: periodical, title: "Nat. Phys.", volume: "17"}
+  page-range: "578-584"
+  doi: "10.1038/s41567-021-01164-9"
+
+"adhyapak2013live":
+  type: article
+  title: "Live soap: stability, order, and fluctuations in apolar active smectics"
+  author: [{name: "Adhyapak, Tapan Chandra and Ramaswamy, Sriram and Toner, John"}]
+  date: 2013
+  parent: {type: periodical, title: "Physical review letters", volume: "110"}
+  page-range: "118102"
+
+"ahmad2013mechanism":
+  type: article
+  title: "Mechanism of chiral proofreading during translation of the genetic code"
+  author: [{name: "Ahmad, Sadeem and Routh, Satya Brata and Kamarthapu, Venu and Chalissery, Jisha and Muthukumar, Sowndarya and Hussain, Tanweer and Kruparani, Shobha P and Deshmukh, Mandar V and Sankaranarayanan, Rajan"}]
+  date: 2013
+  parent: {type: periodical, title: "Elife", volume: "2"}
+  serial-number: "e01519"
+
+"ajeti2019wound":
+  type: article
+  title: "Wound healing coordinates actin architectures to regulate mechanical work"
+  author: [{name: "Ajeti, Visar and Tabatabai, A Pasha and Fleszar, Andrew J and Staddon, Michael F and Seara, Daniel S and Suarez, Cristian and Yousafzai, M Sulaiman and Bi, Dapeng and Kovar, David R and Banerjee, Shiladitya and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature physics", volume: "15"}
+  page-range: "696-705"
+
+"alert2020physical":
+  type: article
+  title: "Physical models of collective cell migration"
+  author: [{name: "Alert, Ricard and Trepat, Xavier"}]
+  date: 2020
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "11"}
+  page-range: "77-101"
+
+"alert2021active":
+  type: misc
+  title: "Active Turbulence"
+  author: [{name: "Alert, Ricard and Casademunt, Jaume and Joanny, Jean-François"}]
+  date: 2021
+  serial-number: "arXiv:2104.02122"
+
+"aragones2016elasticity":
+  type: article
+  title: "Elasticity-induced force reversal between active spinning particles in dense passive media"
+  author: [{name: "Aragones Gomez, Juan Luis and Steimel, Joshua P and Alexander-Katz, Alfredo"}]
+  date: 2016
+  page-range: "11325"
+
+"arora2021emergent":
+  type: article
+  title: "Emergent stereoselective interactions and self-recognition in polar chiral active ellipsoids"
+  author: [{name: "Arora, Pragya and Sood, AK and Ganapathy, Rajesh"}]
+  date: 2021
+  parent: {type: periodical, title: "Science Advances", volume: "7"}
+  serial-number: "eabd0331"
+
+"balasubramaniam2021investigating":
+  type: article
+  title: "Investigating the nature of active forces in tissues reveals how contractile cells can form extensile monolayers"
+  author: [{name: "Balasubramaniam, Lakshmi and Doostmohammadi, Amin and Saw, Thuan Beng and Narayana, Gautham Hari Narayana Sankara and Mueller, Romain and Dang, Tien and Thomas, Minnah and Gupta, Shafali and Sonam, Surabhi and Yap, Alpha S and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature materials"}
+  page-range: "1-11"
+
+"bender2007making":
+  type: article
+  title: "Making sense of non-Hermitian Hamiltonians"
+  author: [{name: "Bender, Carl M"}]
+  date: 2007
+  parent: {type: periodical, title: "Reports on Progress in Physics", volume: "70"}
+  page-range: "947"
+
+"bialek2012statistical":
+  type: article
+  title: "Statistical mechanics for natural flocks of birds"
+  author: [{name: "Bialek, William and Cavagna, Andrea and Giardina, Irene and Mora, Thierry and Silvestri, Edmondo and Viale, Massimiliano and Walczak, Aleksandra M"}]
+  date: 2012
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "109"}
+  page-range: "4786-4791"
+
+"blanch2018turbulent":
+  type: article
+  title: "Turbulent dynamics of epithelial cell cultures"
+  author: [{name: "Blanch-Mercader, C and Yashunsky, V and Garcia, S and Duclos, G and Giomi, L and Silberzan, P"}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review Letters", volume: "120"}
+  page-range: "208101"
+  doi: "10.1103/PhysRevLett.120.208101"
+
+"bozorgi2014effects":
+  type: article
+  title: "Effects of elasticity on the nonlinear collective dynamics of self-propelled particles"
+  author: [{name: "Bozorgi, Yaser and Underhill, Patrick T"}]
+  date: 2014
+  parent: {type: periodical, title: "Journal of Non-Newtonian Fluid Mechanics", volume: "214"}
+  page-range: "69-77"
+  doi: "10.1016/j.jnnfm.2014.09.016"
+
+"bricard2013emergence":
+  type: article
+  title: "Emergence of macroscopic directed motion in populations of motile colloids"
+  author: [{name: "Bricard, Antoine and Caussin, Jean-Baptiste and Desreumaux, Nicolas and Dauchot, Olivier and Bartolo, Denis"}]
+  date: 2013
+  parent: {type: periodical, title: "Nature", volume: "503"}
+  page-range: "95-98"
+
+"bruckner2020inferring":
+  type: article
+  title: "Inferring the dynamics of underdamped stochastic systems"
+  author: [{name: "Brückner, David B and Ronceray, Pierre and Broedersz, Chase P"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical review letters", volume: "125"}
+  page-range: "058103"
+
+"bruckner2021learning":
+  type: article
+  title: "Learning the dynamics of cell--cell interactions in confined cell migration"
+  author: [{name: "Brückner, David B and Arlt, Nicolas and Fink, Alexandra and Ronceray, Pierre and Rädler, Joachim O and Broedersz, Chase P"}]
+  date: 2021
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "118"}
+
+"brugues2014physical":
+  type: article
+  title: "Physical basis of spindle self-organization"
+  author: [{name: "Brugués, Jan and Needleman, Daniel"}]
+  date: 2014
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "111"}
+  page-range: "18496-18500"
+
+"camalet2000auditory":
+  type: article
+  title: "Auditory sensitivity provided by self-tuned critical oscillations of hair cells"
+  author: [{name: "Camalet, Sébastien and Duke, Thomas and Jülicher, Frank and Prost, Jacques"}]
+  date: 2000
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "97"}
+  page-range: "3183-3188"
+
+"chaikin2000principles":
+  type: article
+  title: "Principles of condensed matter physics"
+  author: [{name: "Chaikin, Paul M and Lubensky, Tom C"}]
+  date: 2000
+
+"chatterjee2019fluid":
+  type: misc
+  title: "Fluid flocks with inertia"
+  author: [{name: "Chatterjee, Rayan and Rana, Navdeep and Simha, R Aditi and Perlekar, Prasad and Ramaswamy, Sriram"}]
+  date: 2019
+  serial-number: "arXiv:1907.03492v3"
+
+"chugh2018actin":
+  type: article
+  title: "The actin cortex at a glance"
+  author: [{name: "Chugh, Priyamvada and Paluch, Ewa K"}]
+  date: 2018
+  parent: {type: periodical, title: "J Cell Sci", volume: "131"}
+  serial-number: "jcs186254"
+
+"chun2021nonequilibrium":
+  type: misc
+  title: "Nonequilibrium Green-Kubo relations for hydrodynamic transport from an equilibrium-like fluctuation-response equality"
+  author: [{name: "Chun, Hyun-Myung and Gao, Qi and Horowitz, Jordan M"}]
+  date: 2021
+  serial-number: "arXiv:2103.09288"
+
+"classen2005hexagonal":
+  type: article
+  title: "Hexagonal packing of Drosophila wing epithelial cells by the planar cell polarity pathway"
+  author: [{name: "Classen, Anne-Kathrin and Anderson, Kurt I and Marois, Eric and Eaton, Suzanne"}]
+  date: 2005
+  parent: {type: periodical, title: "Developmental cell", volume: "9"}
+  page-range: "805-817"
+
+"colen2021machine":
+  type: article
+  title: "Machine learning active-nematic hydrodynamics"
+  author: [{name: "Colen, Jonathan and Han, Ming and Zhang, Rui and Redford, Steven A and Lemma, Linnea M and Morgan, Link and Ruijgrok, Paul V and Adkins, Raymond and Bryant, Zev and Dogic, Zvonimir and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "118"}
+
+"colm2020open":
+  type: article
+  title: "Open questions in turbulent stratified mixing: Do we even know what we do not know?"
+  author: [{name: "Caulfield, Colm-cille P"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Fluids", volume: "5"}
+  page-range: "110518"
+
+"copenhagen2021topological":
+  type: article
+  title: "Topological defects promote layer formation in Myxococcus xanthus colonies"
+  author: [{name: "Copenhagen, Katherine and Alert, Ricard and Wingreen, Ned S and Shaevitz, Joshua W"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Physics", volume: "17"}
+  page-range: "211-215"
+
+"curatolo2019engineering":
+  type: article
+  title: "Engineering cooperative patterns in multi-species bacterial colonies"
+  author: [{name: "Curatolo, AI and Zhou, N and Zhao, Y and Liu, C and Daerr, A and Tailleur, J and Huang, J"}]
+  date: 2019
+  parent: {type: periodical, title: "bioRxiv"}
+  page-range: "798827"
+
+"dadhichi2018origins":
+  type: article
+  title: "Origins and diagnostics of the nonequilibrium character of active systems"
+  author: [{name: "Dadhichi, Lokrshi Prawar and Maitra, Ananyo and Ramaswamy, Sriram"}]
+  date: 2018
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2018"}
+  page-range: "123201"
+  doi: "10.1088/1742-5468/aae852/meta"
+
+"dadhichi2020nonmutual":
+  type: article
+  title: "Nonmutual torques and the unimportance of motility for long-range order in two-dimensional flocks"
+  author: [{name: "Dadhichi, Lokrshi Prawar and Kethapelli, Jitendra and Chajwa, Rahul and Ramaswamy, Sriram and Maitra, Ananyo"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review E", volume: "101"}
+  page-range: "052601"
+  doi: "10.1103/PhysRevE.101.052601"
+
+"darnell1990molecular":
+  type: article
+  title: "Molecular cell biology."
+  author: [{name: "Darnell, James and Lodish, Harvey and Baltimore, David"}]
+  date: 1990
+
+"dasgupta2020nanomotors":
+  type: article
+  title: "Nanomotors sense local physicochemical heterogeneities in tumor microenvironments"
+  author: [{name: "Dasgupta, Debayan and Pally, Dharma and Saini, Deepak K and Bhat, Ramray and Ghosh, Ambarish"}]
+  date: 2020
+  parent: {type: periodical, title: "Angewandte Chemie International Edition", volume: "59"}
+  page-range: "23690-23696"
+
+"decamp2015orientational":
+  type: article
+  title: "Orientational order of motile defects in active nematics"
+  author: [{name: "DeCamp, Stephen J and Redner, Gabriel S and Baskaran, Aparna and Hagan, Michael F and Dogic, Zvonimir"}]
+  date: 2015
+  parent: {type: periodical, title: "Nature materials", volume: "14"}
+  page-range: "1110"
+  doi: "10.1038/nmat4387"
+
+"dell2018growing":
+  type: article
+  title: "A growing bacterial colony in two dimensions as an active nematic"
+  author: [{name: "Dell'Arciprete, D and Blow, ML and Brown, AT and Farrell, FDC and Lintuvuori, Juho S and McVey, AF and Marenduzzo, D and Poon, Wilson CK"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature communications", volume: "9"}
+  page-range: "4190"
+
+"deseigne2010collective":
+  type: article
+  title: "Collective motion of vibrated polar disks"
+  author: [{name: "Deseigne, Julien and Dauchot, Olivier and Chaté, Hugues"}]
+  date: 2010
+  parent: {type: periodical, title: "Physical review letters", volume: "105"}
+  page-range: "098001"
+
+"dietler2020chirality":
+  type: misc
+  title: "Chirality for crooked curves"
+  author: [{name: "Dietler, Giovanni and Kusner, Robert and Kusner, Wöden and Rawdon, Eric and Szymczak, Piotr"}]
+  date: 2020
+  serial-number: "arXiv:2004.10338"
+
+"dinis2012fluctuation":
+  type: article
+  title: "Fluctuation-response theorem for the active noisy oscillator of the hair-cell bundle"
+  author: [{name: "Dinis, L and Martin, P and Barral, J and Prost, J and Joanny, JF"}]
+  date: 2012
+  parent: {type: periodical, title: "Physical review letters", volume: "109"}
+  page-range: "160602"
+
+"doostmohammadi2016defect":
+  type: article
+  title: "Defect-mediated morphologies in growing cell colonies"
+  author: [{name: "Doostmohammadi, Amin and Thampi, Sumesh P and Yeomans, Julia M"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical review letters", volume: "117"}
+  page-range: "048102"
+
+"doostmohammadi2016stabilization":
+  type: article
+  title: "Stabilization of active matter by flow-vortex lattices and defect ordering"
+  author: [{name: "Doostmohammadi, Amin and Adamer, Michael F and Thampi, Sumesh P and Yeomans, Julia M"}]
+  date: 2016
+  parent: {type: periodical, title: "Nature communications", volume: "7"}
+  page-range: "10557"
+  doi: "10.1038/ncomms10557"
+
+"doostmohammadi2018active":
+  type: article
+  title: "Active nematics"
+  author: [{name: "Doostmohammadi, Amin and Ignés-Mullol, Jordi and Yeomans, Julia M and Sagués, Francesc"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature communications", volume: "9"}
+  page-range: "3246"
+  doi: "0.1038/s41467-018-05666-8"
+
+"duclos2017topological":
+  type: article
+  title: "Topological defects in confined populations of spindle-shaped cells"
+  author: [{name: "Duclos, Guillaume and Erlenkämper, Christoph and Joanny, Jean-François and Silberzan, Pascal"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature Physics", volume: "13"}
+  page-range: "58"
+  doi: "10.1038/nphys3876"
+
+"duclos2018spontaneous":
+  type: article
+  title: "Spontaneous shear flow in confined cellular nematics"
+  author: [{name: "Duclos, G and Blanch-Mercader, C and Yashunsky, V and Salbreux, G and Joanny, J-F and Prost, J and Silberzan, P"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature physics", volume: "14"}
+  page-range: "728"
+
+"duclos2020topological":
+  type: article
+  title: "Topological structure and dynamics of three-dimensional active nematics"
+  author: [{name: "Duclos, Guillaume and Adkins, Raymond and Banerjee, Debarghya and Peterson, Matthew SE and Varghese, Minu and Kolvin, Itamar and Baskaran, Arvind and Pelcovits, Robert A and Powers, Thomas R and Baskaran, Aparna and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Science", volume: "367"}
+  page-range: "1120-1124"
+
+"duclut2021nonlinear":
+  type: misc
+  title: "Nonlinear rheology of cellular networks"
+  author: [{name: "Duclut, Charlie and Paijmans, Joris and Inamdar, Mandar M and Modes, Carl D and Jülicher, Frank"}]
+  date: 2021
+  serial-number: "arXiv:2103.16462"
+
+"durve2018active":
+  type: article
+  title: "Active particle condensation by non-reciprocal and time-delayed interactions"
+  author: [{name: "Durve, Mihir and Saha, Arnab and Sayeed, Ahmed"}]
+  date: 2018
+  parent: {type: periodical, title: "The European Physical Journal E", volume: "41"}
+  page-range: "49"
+
+"efrati2014orientation":
+  type: article
+  title: "Orientation-dependent handedness and chiral design"
+  author: [{name: "Efrati, Efi and Irvine, William TM"}]
+  date: 2014
+  parent: {type: periodical, title: "Physical Review X", volume: "4"}
+  page-range: "011003"
+  doi: "10.1103/PhysRevX.4.011003"
+
+"ellis2018curvature":
+  type: article
+  title: "Curvature-induced defect unbinding and dynamics in active nematic toroids"
+  author: [{name: "Ellis, Perry W and Pearce, Daniel JG and Chang, Ya-Wen and Goldsztein, Guillermo and Giomi, Luca and Fernandez-Nieves, Alberto"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature Physics", volume: "14"}
+  page-range: "85"
+  doi: "10.1038/nphys4276"
+
+"emmanuel2020active":
+  type: article
+  title: "Active matter in a viscoelastic environment"
+  author: [{name: "Emmanuel, LC and Yeomans, Julia M and Doostmohammadi, Amin"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Fluids", volume: "5"}
+  page-range: "023102"
+
+"fakhri2014high":
+  type: article
+  title: "High-resolution mapping of intracellular fluctuations using carbon nanotubes"
+  author: [{name: "Fakhri, Nikta and Wessel, Alok D and Willms, Charlotte and Pasquali, Matteo and Klopfenstein, Dieter R and MacKintosh, Frederick C and Schmidt, Christoph F"}]
+  date: 2014
+  parent: {type: periodical, title: "Science", volume: "344"}
+  page-range: "1031-1035"
+
+"finlayson1969convective":
+  type: article
+  title: "Convective instability by active stress"
+  author: [{name: "Finlayson, BA and Scriven, LE"}]
+  date: 1969
+  parent: {type: periodical, title: "Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences", volume: "310"}
+  page-range: "183-219"
+
+"frey2020selforganisation":
+  type: misc
+  title: "Self-organisation of Protein Patterns"
+  author: [{name: "Erwin Frey and Fridtjof Brauns"}]
+  date: 2020
+  serial-number: "arXiv:2012.01797"
+
+"frohoff2021suppression":
+  type: article
+  title: "Suppression of coarsening and emergence of oscillatory behavior in a Cahn-Hilliard model with nonvariational coupling"
+  author: [{name: "Frohoff-Hülsmann, Tobias and Wrembel, Jana and Thiele, Uwe"}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review E", volume: "103"}
+  page-range: "042602"
+
+"fruchart2021non":
+  type: article
+  title: "Non-reciprocal phase transitions"
+  author: [{name: "Fruchart, Michel and Hanai, Ryo and Littlewood, Peter B and Vitelli, Vincenzo"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "592"}
+  page-range: "363-369"
+  doi: "10.1038/s41586-021-03375-9"
+
+"furthauer2012active":
+  type: article
+  title: "Active chiral fluids"
+  author: [{name: "Fürthauer, S and Strempel, M and Grill, Stephan W and Jülicher, Frank"}]
+  date: 2012
+  parent: {type: periodical, title: "The European Physical Journal E", volume: "35"}
+  page-range: "1-13"
+
+"furthauer2013active":
+  type: article
+  title: "Active chiral processes in thin films"
+  author: [{name: "Fürthauer, Sebastian and Strempel, M and Grill, Stephan W and Jülicher, Frank"}]
+  date: 2013
+  parent: {type: periodical, title: "Physical Review Letters", volume: "110"}
+  page-range: "048103"
+
+"ganai2014chromosome":
+  type: article
+  title: "Chromosome positioning from activity-based segregation"
+  author: [{name: "Ganai, Nirmalendu and Sengupta, Surajit and Menon, Gautam I"}]
+  date: 2014
+  parent: {type: periodical, title: "Nucleic acids research", volume: "42"}
+  page-range: "4145-4159"
+
+"geiss2019brownian":
+  type: article
+  title: "Brownian molecules formed by delayed harmonic interactions"
+  author: [{name: "Geiss, Daniel and Kroy, Klaus and Holubec, Viktor"}]
+  date: 2019
+  parent: {type: periodical, title: "New Journal of Physics", volume: "21"}
+  page-range: "093014"
+
+"gelimson2016multicellular":
+  type: article
+  title: "Multicellular self-organization of P. aeruginosa due to interactions with secreted trails"
+  author: [{name: "Gelimson, Anatolij and Zhao, Kun and Lee, Calvin K and Kranz, W Till and Wong, Gerard CL and Golestanian, Ramin"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical review letters", volume: "117"}
+  page-range: "178102"
+
+"gibaud2017achiral":
+  type: article
+  title: "Achiral symmetry breaking and positive Gaussian modulus lead to scalloped colloidal membranes"
+  author: [{name: "Gibaud, Thomas and Kaplan, C Nadir and Sharma, Prerna and Zakhary, Mark J and Ward, Andrew and Oldenbourg, Rudolf and Meyer, Robert B and Kamien, Randall D and Powers, Thomas R and Dogic, Zvonimir"}]
+  date: 2017
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "114"}
+  serial-number: "E3376-E3384"
+
+"giomi2013defect":
+  type: article
+  title: "Defect annihilation and proliferation in active nematics"
+  author: [{name: "Giomi, Luca and Bowick, Mark J and Ma, Xu and Marchetti, M Cristina"}]
+  date: 2013
+  parent: {type: periodical, title: "Physical Review Letters", volume: "110"}
+  page-range: "228101"
+  doi: "10.1103/PhysRevLett.110.228101"
+
+"giomi2014defect":
+  type: article
+  title: "Defect dynamics in active nematics"
+  author: [{name: "Giomi, Luca and Bowick, Mark J and Mishra, Prashant and Sknepnek, Rastko and Cristina Marchetti, M"}]
+  date: 2014
+  parent: {type: periodical, title: "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences", volume: "372"}
+  page-range: "20130365"
+  doi: "10.1098/rsta.2013.0365"
+
+"giomi2015geometry":
+  type: article
+  title: "Geometry and topology of turbulence in active nematics"
+  author: [{name: "Giomi, Luca"}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review X", volume: "5"}
+  page-range: "031003"
+  doi: "10.1103/PhysRevX.5.031003"
+
+"golestanian2005propulsion":
+  type: article
+  title: "Propulsion of a molecular machine by asymmetric distribution of reaction products"
+  author: [{name: "Golestanian, Ramin and Liverpool, Tanniemola B and Ajdari, Armand"}]
+  date: 2005
+  parent: {type: periodical, title: "Physical review letters", volume: "94"}
+  page-range: "220801"
+
+"golestanian2019phoretic":
+  type: misc
+  title: "Phoretic active matter"
+  author: [{name: "Golestanian, Ramin"}]
+  date: 2019
+  serial-number: "arXiv:1909.03747"
+
+"gong2020engineering":
+  type: misc
+  title: "Engineering reconfigurable flow patterns via surface-driven light-controlled active matter"
+  author: [{name: "Gong, Xingting and Mathijssen, Arnold and Bryant, Zev and Prakash, Manu"}]
+  date: 2020
+  serial-number: "arXiv:2004.01368"
+
+"guillamat2016control":
+  type: article
+  title: "Control of active liquid crystals with a magnetic field"
+  author: [{name: "Guillamat, Pau and Ignés-Mullol, Jordi and Sagués, Francesc"}]
+  date: 2016
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "113"}
+  page-range: "5498-5502"
+
+"gupta2020active":
+  type: misc
+  title: "Active nonreciprocal attraction between motile particles in an elastic medium"
+  author: [{name: "Gupta, Rahul Kumar and Kant, Raushan and Soni, Harsh and Sood, AK and Ramaswamy, Sriram"}]
+  date: 2020
+  serial-number: "arXiv:2007.04860"
+
+"han2020statistical":
+  type: misc
+  title: "Statistical mechanics of a chiral active fluid"
+  author: [{name: "Ming Han and Michel Fruchart and Colin Scheibner and Suriyanarayanan Vaikuntanathan and William Irvine and Juan de Pablo and Vincenzo Vitelli"}]
+  date: 2020
+  serial-number: "arXiv:2002.07679"
+
+"harris1999molecular":
+  type: article
+  title: "Molecular chirality and chiral parameters"
+  author: [{name: "Harris, A Brooks and Kamien, Randall D and Lubensky, Tom C"}]
+  date: 1999
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "71"}
+  page-range: "1745"
+
+"helbing1995social":
+  type: article
+  title: "Social force model for pedestrian dynamics"
+  author: [{name: "Helbing, Dirk and Molnar, Peter"}]
+  date: 1995
+  parent: {type: periodical, title: "Physical review E", volume: "51"}
+  page-range: "4282"
+
+"helfrich1970deformation":
+  type: article
+  title: "Deformation of cholesteric liquid crystals with low threshold voltage"
+  author: [{name: "Helfrich, W"}]
+  date: 1970
+  parent: {type: periodical, title: "Applied Physics Letters", volume: "17"}
+  page-range: "531-532"
+
+"hemingway2015active":
+  type: article
+  title: "Active viscoelastic matter: from bacterial drag reduction to turbulent solids"
+  author: [{name: "Hemingway, EJ and Maitra, Ananyo and Banerjee, Shiladitya and Marchetti, M Cristina and Ramaswamy, Sriram and Fielding, Suzanne M and Cates, Michael E"}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review Letters", volume: "114"}
+  page-range: "098302"
+  doi: "10.1103/PhysRevLett.114.098302"
+
+"hemingway2016viscoelastic":
+  type: article
+  title: "Viscoelastic and elastomeric active matter: linear instability and nonlinear dynamics"
+  author: [{name: "Hemingway, Ewan J and Cates, ME and Fielding, SM"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review E", volume: "93"}
+  page-range: "032702"
+  doi: "10.1103/PhysRevE.93.032702"
+
+"henkes2018dynamical":
+  type: article
+  title: "Dynamical patterns in nematic active matter on a sphere"
+  author: [{name: "Henkes, Silke and Marchetti, M Cristina and Sknepnek, Rastko"}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review E", volume: "97"}
+  page-range: "042605"
+
+"hoffmann2021defect":
+  type: misc
+  title: "Defect-mediated morphogenesis"
+  author: [{name: "Hoffmann, Ludwig A and Carenza, Livio N and Eckert, Julia and Giomi, Luca"}]
+  date: 2021
+  serial-number: "arXiv:2105.15200"
+
+"hong2011kuramoto":
+  type: article
+  title: "Kuramoto model of coupled oscillators with positive and negative coupling parameters: an example of conformist and contrarian oscillators"
+  author: [{name: "Hong, Hyunsuk and Strogatz, Steven H"}]
+  date: 2011
+  parent: {type: periodical, title: "Physical Review Letters", volume: "106"}
+  page-range: "054102"
+
+"hurault1973static":
+  type: article
+  title: "Static distortions of a cholesteric planar structure induced by magnetic or ac electric fields"
+  author: [{name: "Hurault, JP"}]
+  date: 1973
+  parent: {type: periodical, title: "The Journal of Chemical Physics", volume: "59"}
+  page-range: "2068-2075"
+
+"husain2017emergent":
+  type: article
+  title: "Emergent structures in an active polar fluid: Dynamics of shape, scattering, and merger"
+  author: [{name: "Husain, Kabir and Rao, Madan"}]
+  date: 2017
+  parent: {type: periodical, title: "Physical review letters", volume: "118"}
+  page-range: "078104"
+
+"ivlev2015statistical":
+  type: article
+  title: "Statistical mechanics where Newton’s third law is broken"
+  author: [{name: "Ivlev, Alexei V and Bartnick, Jörg and Heinen, Marco and Du, C-R and Nosenko, V and Löwen, Hartmut"}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review X", volume: "5"}
+  page-range: "011035"
+
+"jeckel2019learning":
+  type: article
+  title: "Learning the space-time phase diagram of bacterial swarm expansion"
+  author: [{name: "Jeckel, Hannah and Jelli, Eric and Hartmann, Raimo and Singh, Praveen K and Mok, Rachel and Totz, Jan Frederik and Vidakovic, Lucia and Eckhardt, Bruno and Dunkel, Jörn and Drescher, Knut"}]
+  date: 2019
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "116"}
+  page-range: "1489-1494"
+
+"joanny-2015":
+  type: article
+  title: "Nonequilibrium statistical mechanics of mixtures of particles in contact with different thermostats"
+  author: [{name: "Grosberg, A. Y. and Joanny, J.-F."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "92"}
+  page-range: "032118"
+  doi: "10.1103/PhysRevE.92.032118"
+
+"kawaguchi2017topological":
+  type: article
+  title: "Topological defects control collective dynamics in neural progenitor cell cultures"
+  author: [{name: "Kawaguchi, Kyogo and Kageyama, Ryoichiro and Sano, Masaki"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "545"}
+  page-range: "327"
+  doi: "10.1038/nature22321"
+
+"keber2014topology":
+  type: article
+  title: "Topology and dynamics of active nematic vesicles"
+  author: [{name: "Keber, Felix C and Loiseau, Etienne and Sanchez, Tim and DeCamp, Stephen J and Giomi, Luca and Bowick, Mark J and Marchetti, M Cristina and Dogic, Zvonimir and Bausch, Andreas R"}]
+  date: 2014
+  parent: {type: periodical, title: "Science", volume: "345"}
+  page-range: "1135-1139"
+  doi: "10.1126/science.1254784"
+
+"kelvin1894molecular":
+  type: article
+  title: "The molecular tactics of a crystal"
+  author: [{name: "Kelvin, William Thomson, Baron"}]
+  date: 1894
+
+"khadka2018active":
+  type: article
+  title: "Active particles bound by information flows"
+  author: [{name: "Khadka, Utsab and Holubec, Viktor and Yang, Haw and Cichos, Frank"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature communications", volume: "9"}
+  page-range: "1-9"
+
+"khemani2019brief":
+  type: misc
+  title: "A brief history of time crystals"
+  author: [{name: "Khemani, Vedika and Moessner, Roderich and Sondhi, SL"}]
+  date: 2019
+  serial-number: "arXiv:1910.10745"
+
+"kole2020active":
+  type: article
+  title: "Layered Chiral Active Matter: Beyond Odd Elasticity"
+  author: [{name: "Kole, SJ and Alexander, Gareth P and Ramaswamy, Sriram and Maitra, Ananyo"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Letters", volume: "126"}
+  page-range: "248001"
+
+"kosterlitz1973ordering":
+  type: article
+  title: "Ordering, metastability and phase transitions in two-dimensional systems"
+  author: [{name: "Kosterlitz, John Michael and Thouless, David James"}]
+  date: 1973
+  parent: {type: periodical, title: "Journal of Physics C: Solid State Physics", volume: "6"}
+  page-range: "1181"
+
+"kramar2021encoding":
+  type: article
+  title: "Encoding memory in tube diameter hierarchy of living flow network"
+  author: [{name: "Kramar, Mirna and Alim, Karen"}]
+  date: 2021
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "118"}
+
+"krotov2014morphogenesis":
+  type: article
+  title: "Morphogenesis at criticality"
+  author: [{name: "Krotov, Dmitry and Dubuis, Julien O and Gregor, Thomas and Bialek, William"}]
+  date: 2014
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "111"}
+  page-range: "3683-3688"
+
+"kruse2005generic":
+  type: article
+  title: "Generic theory of active polar gels: a paradigm for cytoskeletal dynamics"
+  author: [{name: "Kruse, Karsten and Joanny, Jean-Francois and Jülicher, Frank and Prost, Jacques and Sekimoto, Ken"}]
+  date: 2005
+  parent: {type: periodical, title: "The European Physical Journal E", volume: "16"}
+  page-range: "5-16"
+
+"kryuchkov2018dissipative":
+  type: article
+  title: "Dissipative phase transitions in systems with nonreciprocal effective interactions"
+  author: [{name: "Kryuchkov, Nikita P and Ivlev, Alexei V and Yurchenko, Stanislav O"}]
+  date: 2018
+  parent: {type: periodical, title: "Soft Matter", volume: "14"}
+  page-range: "9720-9729"
+
+"kumar2014actomyosin":
+  type: article
+  title: "Actomyosin contractility rotates the cell nucleus"
+  author: [{name: "Kumar, Abhishek and Maitra, Ananyo and Sumit, Madhuresh and Ramaswamy, Sriram and Shivashankar, GV"}]
+  date: 2014
+  parent: {type: periodical, title: "Scientific reports", volume: "4"}
+  page-range: "1-7"
+
+"kumar2014flocking":
+  type: article
+  title: "Flocking at a distance in active granular matter"
+  author: [{name: "Kumar, Nitin and Soni, Harsh and Ramaswamy, Sriram and Sood, AK"}]
+  date: 2014
+  parent: {type: periodical, title: "Nature communications", volume: "5"}
+  page-range: "1-9"
+
+"lavergne2019group":
+  type: article
+  title: "Group formation and cohesion of active particles with visual perception--dependent motility"
+  author: [{name: "Lavergne, François A and Wendehenne, Hugo and Bäuerle, Tobias and Bechinger, Clemens"}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "364"}
+  page-range: "70-74"
+
+"li2016collective":
+  type: article
+  title: "Collective motion of microorganisms in a viscoelastic fluid"
+  author: [{name: "Li, Gaojin and Ardekani, Arezoo M"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "117"}
+  page-range: "118001"
+  doi: "10.1103/PhysRevLett.117.118001"
+
+"liebchen2017collective":
+  type: article
+  title: "Collective behavior of chiral active matter: pattern formation and enhanced flocking"
+  author: [{name: "Liebchen, Benno and Levis, Demian"}]
+  date: 2017
+  parent: {type: periodical, title: "Physical review letters", volume: "119"}
+  page-range: "058002"
+
+"liu2021viscoelastic":
+  type: article
+  title: "Viscoelastic control of spatiotemporal order in bacterial active matter"
+  author: [{name: "Liu, Song and Shankar, Suraj and Marchetti, M Cristina and Wu, Yilin"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "590"}
+  page-range: "80-84"
+
+"loos2020irreversibility":
+  type: article
+  title: "Irreversibility, heat and information flows induced by non-reciprocal interactions"
+  author: [{name: "Loos, Sarah AM and Klapp, Sabine HL"}]
+  date: 2020
+  parent: {type: periodical, title: "New Journal of Physics", volume: "22"}
+  page-range: "123051"
+
+"lowen2016chirality":
+  type: article
+  title: "Chirality in microswimmer motion: From circle swimmers to active turbulence"
+  author: [{name: "Löwen, Hartmut"}]
+  date: 2016
+  parent: {type: periodical, title: "The European Physical Journal Special Topics", volume: "225"}
+  page-range: "2319-2331"
+
+"lubensky1972hydrodynamics":
+  type: article
+  title: "Hydrodynamics of cholesteric liquid crystals"
+  author: [{name: "Lubensky, Tom C"}]
+  date: 1972
+  parent: {type: periodical, title: "Physical Review A", volume: "6"}
+  page-range: "452"
+
+"lubensky1998chirality":
+  type: article
+  title: "Chirality in liquid crystals: From microscopic origins to macroscopic structure"
+  author: [{name: "Lubensky, Tom C and Harris, A Brooks and Kamien, Randall D and Yan, Gu"}]
+  date: 1998
+  parent: {type: periodical, title: "Ferroelectrics", volume: "212"}
+  page-range: "1-20"
+
+"maitra2019oriented":
+  type: article
+  title: "Oriented active solids"
+  author: [{name: "Maitra, Ananyo and Ramaswamy, Sriram"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical review letters", volume: "123"}
+  page-range: "238001"
+
+"maitra2019spontaneous":
+  type: article
+  title: "Spontaneous rotation can stabilise ordered chiral active fluids"
+  author: [{name: "Maitra, Ananyo and Lenz, Martin"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature communications", volume: "10"}
+  page-range: "1-6"
+
+"marchetti2013hydrodynamics":
+  type: article
+  title: "Hydrodynamics of soft active matter"
+  author: [{name: "Marchetti, M Cristina and Joanny, Jean-François and Ramaswamy, Sriram and Liverpool, Tanniemola B and Prost, Jacques and Rao, Madan and Simha, R Aditi"}]
+  date: 2013
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "85"}
+  page-range: "1143"
+  doi: "10.1103/RevModPhys.85.1143"
+
+"markovich2019chiral":
+  type: article
+  title: "Chiral active matter: microscopic ‘torque dipoles’ have more than one hydrodynamic description"
+  author: [{name: "Markovich, Tomer and Tjhung, Elsen and Cates, Michael E"}]
+  date: 2019
+  parent: {type: periodical, title: "New Journal of Physics", volume: "21"}
+  page-range: "112001"
+
+"maroudas2021topological":
+  type: article
+  title: "Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis"
+  author: [{name: "Maroudas-Sacks, Yonit and Garion, Liora and Shani-Zerbib, Lital and Livshits, Anton and Braun, Erez and Keren, Kinneret"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Physics", volume: "17"}
+  page-range: "251-259"
+
+"matas2014hydrodynamic":
+  type: article
+  title: "Hydrodynamic suppression of phase separation in active suspensions"
+  author: [{name: "Matas-Navarro, Ricard and Golestanian, Ramin and Liverpool, Tanniemola B and Fielding, Suzanne M"}]
+  date: 2014
+  parent: {type: periodical, title: "Physical Review E", volume: "90"}
+  page-range: "032304"
+
+"mcdonald2021non":
+  type: misc
+  title: "Non-equilibrium stationary states of quantum non-Hermitian lattice models"
+  author: [{name: "McDonald, Alexander and Hanai, Ryo and Clerk, Aashish A"}]
+  date: 2021
+  serial-number: "arXiv:2103.01941"
+
+"meredith2020predator":
+  type: article
+  title: "Predator--prey interactions between droplets driven by non-reciprocal oil exchange"
+  author: [{name: "Meredith, Caleb H and Moerman, Pepijn G and Groenewold, Jan and Chiu, Yu-Jen and Kegel, Willem K and van Blaaderen, Alfons and Zarzar, Lauren D"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Chemistry", volume: "12"}
+  page-range: "1136-1142"
+
+"milewski2017homeostatic":
+  type: article
+  title: "Homeostatic enhancement of sensory transduction"
+  author: [{name: "Milewski, Andrew R and Maoiléidigh, Dáibhid Ó and Salvi, Joshua D and Hudspeth, AJ"}]
+  date: 2017
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "114"}
+  serial-number: "E6794-E6803"
+
+"mizuno2007nonequilibrium":
+  type: article
+  title: "Nonequilibrium mechanics of active cytoskeletal networks"
+  author: [{name: "Mizuno, Daisuke and Tardin, Catherine and Schmidt, Christoph F and MacKintosh, Frederik C"}]
+  date: 2007
+  parent: {type: periodical, title: "Science", volume: "315"}
+  page-range: "370-373"
+
+"morris2019active":
+  type: article
+  title: "Active morphogenesis of epithelial monolayers"
+  author: [{name: "Morris, Richard G and Rao, Madan"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review E", volume: "100"}
+  page-range: "022413"
+
+"naganathan2014active":
+  type: article
+  title: "Active torque generation by the actomyosin cell cortex drives left--right symmetry breaking"
+  author: [{name: "Naganathan, Sundar Ram and Fürthauer, Sebastian and Nishikawa, Masatoshi and Jülicher, Frank and Grill, Stephan W"}]
+  date: 2014
+  parent: {type: periodical, title: "elife", volume: "3"}
+  serial-number: "e04165"
+
+"narayan2007long":
+  type: article
+  title: "Long-lived giant number fluctuations in a swarming granular nematic"
+  author: [{name: "Narayan, Vijay and Ramaswamy, Sriram and Menon, Narayanan"}]
+  date: 2007
+  parent: {type: periodical, title: "Science", volume: "317"}
+  page-range: "105-108"
+  doi: "10.1126/science.1140414"
+
+"nasouri2020exact":
+  type: article
+  title: "Exact phoretic interaction of two chemically active particles"
+  author: [{name: "Nasouri, Babak and Golestanian, Ramin"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical review letters", volume: "124"}
+  page-range: "168003"
+
+"needleman2017active":
+  type: article
+  title: "Active matter at the interface between materials science and cell biology"
+  author: [{name: "Needleman, Daniel and Dogic, Zvonimir"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature Reviews Materials", volume: "2"}
+  page-range: "1-14"
+
+"nishiguchi2017long":
+  type: article
+  title: "Long-range nematic order and anomalous fluctuations in suspensions of swimming filamentous bacteria"
+  author: [{name: "Nishiguchi, Daiki and Nagai, Ken H and Chaté, Hugues and Sano, Masaki"}]
+  date: 2017
+  parent: {type: periodical, title: "Physical Review E", volume: "95"}
+  page-range: "020601"
+  doi: "10.1103/PhysRevE.95.020601"
+
+"norambuena2020understanding":
+  type: article
+  title: "Understanding contagion dynamics through microscopic processes in active Brownian particles"
+  author: [{name: "Norambuena, Ariel and Valencia, Felipe J and Guzmán-Lastra, Francisca"}]
+  date: 2020
+  parent: {type: periodical, title: "Scientific Reports", volume: "10"}
+  page-range: "1-7"
+
+"o2020lamellar":
+  type: article
+  title: "Lamellar to micellar phases and beyond: When tactic active systems admit free energy functionals"
+  author: [{name: "O’Byrne, Jérémy and Tailleur, Julien"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Letters", volume: "125"}
+  page-range: "208003"
+
+"oza2016antipolar":
+  type: article
+  title: "Antipolar ordering of topological defects in active liquid crystals"
+  author: [{name: "Oza, Anand U and Dunkel, Jörn"}]
+  date: 2016
+  parent: {type: periodical, title: "New Journal of Physics", volume: "18"}
+  page-range: "093006"
+  doi: "10.1088/1367-2630/18/9/093006"
+
+"paoluzzi2020information":
+  type: article
+  title: "Information and motility exchange in collectives of active particles"
+  author: [{name: "Paoluzzi, Matteo and Leoni, Marco and Marchetti, M Cristina"}]
+  date: 2020
+  parent: {type: periodical, title: "Soft Matter", volume: "16"}
+  page-range: "6317-6327"
+
+"partridge1982structure":
+  type: article
+  title: "The structure and function of fish schools"
+  author: [{name: "Partridge, Brian L"}]
+  date: 1982
+  parent: {type: periodical, title: "Scientific American", volume: "246"}
+  page-range: "114-123"
+
+"pasteur1848relations":
+  type: article
+  title: "Sur les relations qui peuvent exister entre la forme crystalline, la composition chimique et le sens de la polarization rotatoire"
+  author: [{name: "Pasteur, Louis"}]
+  date: 1848
+  parent: {type: periodical, title: "Annales Chimie Phys.", volume: "24"}
+  page-range: "442-459"
+
+"patelli2019understanding":
+  type: article
+  title: "Understanding dense active nematics from microscopic models"
+  author: [{name: "Patelli, Aurelio and Djafer-Cherif, Ilyas and Aranson, Igor S and Bertin, Eric and Chaté, Hugues"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical review letters", volume: "123"}
+  page-range: "258001"
+
+"paxton2004catalytic":
+  type: article
+  title: "Catalytic nanomotors: autonomous movement of striped nanorods"
+  author: [{name: "Paxton, Walter F and Kistler, Kevin C and Olmeda, Christine C and Sen, Ayusman and St. Angelo, Sarah K and Cao, Yanyan and Mallouk, Thomas E and Lammert, Paul E and Crespi, Vincent H"}]
+  date: 2004
+  parent: {type: periodical, title: "Journal of the American Chemical Society", volume: "126"}
+  page-range: "13424-13431"
+
+"pimpale2020cell":
+  type: article
+  title: "Cell lineage-dependent chiral actomyosin flows drive cellular rearrangements in early Caenorhabditis elegans development"
+  author: [{name: "Pimpale, Lokesh G and Middelkoop, Teije C and Mietke, Alexander and Grill, Stephan W"}]
+  date: 2020
+  parent: {type: periodical, title: "Elife", volume: "9"}
+  serial-number: "e54930"
+
+"pismen2013dynamics":
+  type: article
+  title: "Dynamics of defects in an active nematic layer"
+  author: [{name: "Pismen, LM"}]
+  date: 2013
+  parent: {type: periodical, title: "Physical Review E", volume: "88"}
+  page-range: "050502"
+
+"prakash2007microfluidic":
+  type: article
+  title: "Microfluidic bubble logic"
+  author: [{name: "Prakash, Manu and Gershenfeld, Neil"}]
+  date: 2007
+  parent: {type: periodical, title: "Science", volume: "315"}
+  page-range: "832-835"
+
+"prost1996shape":
+  type: article
+  title: "Shape fluctuations of active membranes"
+  author: [{name: "Prost, J and Bruinsma, R"}]
+  date: 1996
+  parent: {type: periodical, title: "EPL (Europhysics Letters)", volume: "33"}
+  page-range: "321"
+  doi: "10.1209/epl/i1996-00340-1"
+
+"prost2009generalized":
+  type: article
+  title: "Generalized fluctuation-dissipation theorem for steady-state systems"
+  author: [{name: "Prost, J and Joanny, J-F and Parrondo, JMR"}]
+  date: 2009
+  parent: {type: periodical, title: "Physical review letters", volume: "103"}
+  page-range: "090601"
+
+"prost2015active":
+  type: article
+  title: "Active gel physics"
+  author: [{name: "Prost, Jacques and Jülicher, Frank and Joanny, Jean-François"}]
+  date: 2015
+  parent: {type: periodical, title: "Nature physics", volume: "11"}
+  page-range: "111-117"
+
+"pujic2004retinal":
+  type: article
+  title: "Retinal pattern and the genetic basis of its formation in zebrafish"
+  author: [{name: "Pujic, Zac and Malicki, Jarema"}]
+  date: 2004
+  parent: {type: proceedings, title: "Seminars in cell & developmental biology", volume: "15"}
+  page-range: "105-114"
+
+"putzig2016instabilities":
+  type: article
+  title: "Instabilities, defects, and defect ordering in an overdamped active nematic"
+  author: [{name: "Putzig, Elias and Redner, Gabriel S and Baskaran, Arvind and Baskaran, Aparna"}]
+  date: 2016
+  parent: {type: periodical, title: "Soft Matter", volume: "12"}
+  page-range: "3854-3859"
+  doi: "10.1039/C6SM00268D"
+
+"radzihovsky2011nonlinear":
+  type: article
+  title: "Nonlinear smectic elasticity of helical state in cholesteric liquid crystals and helimagnets"
+  author: [{name: "Radzihovsky, Leo and Lubensky, TC"}]
+  date: 2011
+  parent: {type: periodical, title: "Physical Review E", volume: "83"}
+  page-range: "051701"
+
+"ramaswamy2000nonequilibrium":
+  type: article
+  title: "Nonequilibrium fluctuations, traveling waves, and instabilities in active membranes"
+  author: [{name: "Ramaswamy, Sriram and Toner, John and Prost, Jacques"}]
+  date: 2000
+  parent: {type: periodical, title: "Physical review letters", volume: "84"}
+  page-range: "3494"
+
+"ramaswamy2006mechanics":
+  type: article
+  title: "The mechanics of active matter: Broken-symmetry hydrodynamics of motile particles and granular layers"
+  author: [{name: "Ramaswamy, Sriram and Simha, R Aditi"}]
+  date: 2006
+  parent: {type: periodical, title: "Solid state communications", volume: "139"}
+  page-range: "617-622"
+
+"ramaswamy2010mechanics":
+  type: article
+  title: "The mechanics and statistics of active matter"
+  author: [{name: "Sriram Ramaswamy"}]
+  date: 2010
+  parent: {type: periodical, title: "Annu. Rev. Condens. Matter Phys.", volume: "1"}
+  page-range: "323-345"
+
+"reynolds1987flocks":
+  type: article
+  title: "Flocks, herds and schools: A distributed behavioral model"
+  author: [{name: "Reynolds, Craig W"}]
+  date: 1987
+  parent: {type: proceedings, title: "Proceedings of the 14th annual conference on Computer graphics and interactive techniques"}
+  page-range: "25-34"
+
+"rogers2011morphogen":
+  type: article
+  title: "Morphogen gradients: from generation to interpretation"
+  author: [{name: "Rogers, Katherine W and Schier, Alexander F"}]
+  date: 2011
+  parent: {type: periodical, title: "Annual review of cell and developmental biology", volume: "27"}
+  page-range: "377-407"
+
+"roldan2018arrow":
+  type: misc
+  title: "Arrow of Time in Active Fluctuations"
+  author: [{name: "Roldán, Édgar and Barral, Jérémie and Martin, Pascal and Parrondo, Juan MR and Jülicher, Frank"}]
+  date: 2018
+  serial-number: "arXiv:1803.04743"
+
+"romeo2021learning":
+  type: misc
+  title: "Learning developmental mode dynamics from single-cell trajectories"
+  author: [{name: "Romeo, Nicolas and Hastewell, Alasdair and Mietke, Alexander and Dunkel, Jörn"}]
+  date: 2021
+  serial-number: "arXiv:2103.08130"
+
+"ross2019controlling":
+  type: article
+  title: "Controlling organization and forces in active matter through optically defined boundaries"
+  author: [{name: "Ross, Tyler D and Lee, Heun Jin and Qu, Zijie and Banks, Rachel A and Phillips, Rob and Thomson, Matt"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature", volume: "572"}
+  page-range: "224-229"
+  doi: "10.1038/s41586-019-1447-1"
+
+"saha2014clusters":
+  type: article
+  title: "Clusters, asters, and collective oscillations in chemotactic colloids"
+  author: [{name: "Saha, Suropriya and Golestanian, Ramin and Ramaswamy, Sriram"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "89"}
+  page-range: "062316"
+  doi: "10.1103/PhysRevE.89.062316"
+
+"saha2020scalar":
+  type: article
+  title: "Scalar Active Mixtures: The Nonreciprocal Cahn-Hilliard Model"
+  author: [{name: "Saha, Suropriya and Agudo-Canalejo, Jaime and Golestanian, Ramin"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review X", volume: "10"}
+  page-range: "041009"
+
+"saintillan2018rheology":
+  type: article
+  title: "Rheology of active fluids"
+  author: [{name: "Saintillan, David"}]
+  date: 2018
+  parent: {type: periodical, title: "Annual Review of Fluid Mechanics", volume: "50"}
+  page-range: "563-592"
+
+"salbreux2012coupling":
+  type: article
+  title: "Coupling mechanical deformations and planar cell polarity to create regular patterns in the zebrafish retina"
+  author: [{name: "Salbreux, Guillaume and Barthel, Linda K and Raymond, Pamela A and Lubensky, David K"}]
+  date: 2012
+  parent: {type: periodical, title: "PLoS Comput Biol", volume: "8"}
+  serial-number: "e1002618"
+
+"sanchez2012spontaneous":
+  type: article
+  title: "Spontaneous motion in hierarchically assembled active matter"
+  author: [{name: "Sanchez, Tim and Chen, Daniel TN and DeCamp, Stephen J and Heymann, Michael and Dogic, Zvonimir"}]
+  date: 2012
+  parent: {type: periodical, title: "Nature", volume: "491"}
+  page-range: "431"
+  doi: "10.1038/nature11591"
+
+"sarkar2021crisscross":
+  type: article
+  title: "Crisscross multilayering of cell sheets"
+  author: [{name: "Sarkar, Trinish and Yashunsky, Victor and Brézin, Louis and Mercader, Carles Blanch and Aryaksama, Thibault and Lacroix, Mathilde and Risler, Thomas and Joanny, Jean-François and Silberzan, Pascal"}]
+  date: 2021
+  parent: {type: periodical, title: "bioRxiv"}
+
+"saw2017topological":
+  type: article
+  title: "Topological defects in epithelia govern cell death and extrusion"
+  author: [{name: "Saw, Thuan Beng and Doostmohammadi, Amin and Nier, Vincent and Kocgozlu, Leyla and Thampi, Sumesh and Toyama, Yusuke and Marcq, Philippe and Lim, Chwee Teck and Yeomans, Julia M and Ladoux, Benoit"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "544"}
+  page-range: "212"
+  doi: "10.1038/nature21718"
+
+"sawin1992mitotic":
+  type: article
+  title: "Mitotic spindle organization by a plus-end-directed microtubule motor."
+  author: [{name: "Sawin, Kenneth E and LeGuellec, Katherine and Philippe, Michel and Mitchison, Timothy J"}]
+  date: 1992
+  parent: {type: periodical, title: "Nature", volume: "359"}
+  page-range: "540-543"
+
+"scheibner2020odd":
+  type: article
+  title: "Odd elasticity"
+  author: [{name: "Scheibner, Colin and Souslov, Anton and Banerjee, Debarghya and Surowka, Piotr and Irvine, William TM and Vitelli, Vincenzo"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "475-480"
+
+"seifert2012stochastic":
+  type: article
+  title: "Stochastic thermodynamics, fluctuation theorems and molecular machines"
+  author: [{name: "Seifert, Udo"}]
+  date: 2012
+  parent: {type: periodical, title: "Reports on progress in physics", volume: "75"}
+  page-range: "126001"
+
+"serra2012mechanical":
+  type: article
+  title: "Mechanical waves during tissue expansion"
+  author: [{name: "Serra-Picamal, Xavier and Conte, Vito and Vincent, Romaric and Anon, Ester and Tambe, Dhananjay T and Bazellieres, Elsa and Butler, James P and Fredberg, Jeffrey J and Trepat, Xavier"}]
+  date: 2012
+  parent: {type: periodical, title: "Nature Physics", volume: "8"}
+  page-range: "628-634"
+
+"shankar2017topological":
+  type: article
+  title: "Topological sound and flocking on curved surfaces"
+  author: [{name: "Shankar, Suraj and Bowick, Mark J and Marchetti, M Cristina"}]
+  date: 2017
+  parent: {type: periodical, title: "Physical Review X", volume: "7"}
+  page-range: "031039"
+
+"shankar2018defect":
+  type: article
+  title: "Defect unbinding in active nematics"
+  author: [{name: "Shankar, Suraj and Ramaswamy, Sriram and Marchetti, M Cristina and Bowick, Mark J"}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review Letters", volume: "121"}
+  page-range: "108002"
+  doi: "10.1103/PhysRevLett.121.108002"
+
+"shankar2019hydrodynamics":
+  type: article
+  title: "Hydrodynamics of Active Defects: from order to chaos to defect ordering"
+  author: [{name: "Shankar, Suraj and Marchetti, M Cristina"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review X", volume: "9"}
+  page-range: "041047"
+  doi: "10.1103/PhysRevLett.124.028002"
+
+"shankar2020topological":
+  type: misc
+  title: "Topological active matter"
+  author: [{name: "Shankar, Suraj and Souslov, Anton and Bowick, Mark J and Marchetti, M Cristina and Vitelli, Vincenzo"}]
+  date: 2020
+  serial-number: "arXiv:2010.00364"
+
+"shimaya20213d":
+  type: misc
+  title: "3D-induced polar order and topological defects in growing bacterial populations"
+  author: [{name: "Shimaya, Takuro and Takeuchi, Kazumasa A"}]
+  date: 2021
+  serial-number: "arXiv:2106.10954"
+
+"shin2017liquid":
+  type: article
+  title: "Liquid phase condensation in cell physiology and disease"
+  author: [{name: "Shin, Yongdae and Brangwynne, Clifford P"}]
+  date: 2017
+  parent: {type: periodical, title: "Science", volume: "357"}
+
+"simha2002hydrodynamic":
+  type: article
+  title: "Hydrodynamic fluctuations and instabilities in ordered suspensions of self-propelled particles"
+  author: [{name: "Simha, R Aditi and Ramaswamy, Sriram"}]
+  date: 2002
+  parent: {type: periodical, title: "Physical review letters", volume: "89"}
+  page-range: "058101"
+
+"sknepnek2015active":
+  type: article
+  title: "Active swarms on a sphere"
+  author: [{name: "Sknepnek, Rastko and Henkes, Silke"}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review E", volume: "91"}
+  page-range: "022306"
+
+"slomka2017spontaneous":
+  type: article
+  title: "Spontaneous mirror-symmetry breaking induces inverse energy cascade in 3D active fluids"
+  author: [{name: "Słomka, Jonasz and Dunkel, Jörn"}]
+  date: 2017
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "114"}
+  page-range: "2119-2124"
+
+"slomka2018nature":
+  type: article
+  title: "The nature of triad interactions in active turbulence"
+  author: [{name: "Słomka, Jonasz and Suwara, Piotr and Dunkel, Jörn"}]
+  date: 2018
+  parent: {type: periodical, title: "Journal of Fluid Mechanics", volume: "841"}
+  page-range: "702-731"
+
+"sohn2019schools":
+  type: article
+  title: "Schools of skyrmions with electrically tunable elastic interactions"
+  author: [{name: "Sohn, Hayley RO and Liu, Changda D and Smalyukh, Ivan I"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature communications", volume: "10"}
+  page-range: "1-11"
+
+"soni2019odd":
+  type: article
+  title: "The odd free surface flows of a colloidal chiral fluid"
+  author: [{name: "Soni, Vishal and Bililign, Ephraim S and Magkiriadou, Sofia and Sacanna, Stefano and Bartolo, Denis and Shelley, Michael J and Irvine, William TM"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Physics", volume: "15"}
+  page-range: "1188-1194"
+
+"soto2014self":
+  type: article
+  title: "Self-assembly of catalytically active colloidal molecules: Tailoring activity through surface chemistry"
+  author: [{name: "Soto, Rodrigo and Golestanian, Ramin"}]
+  date: 2014
+  parent: {type: periodical, title: "Physical review letters", volume: "112"}
+  page-range: "068301"
+
+"srivastava2016negative":
+  type: article
+  title: "Negative stiffness and modulated states in active nematics"
+  author: [{name: "Srivastava, Pragya and Mishra, Prashant and Marchetti, M Cristina"}]
+  date: 2016
+  parent: {type: periodical, title: "Soft matter", volume: "12"}
+  page-range: "8214-8225"
+  doi: "10.1039/C6SM01493C"
+
+"stein1978kosterlitz":
+  type: article
+  title: "Kosterlitz-thouless phase transitions in two-dimensional liquid crystals"
+  author: [{name: "Stein, DL"}]
+  date: 1978
+  parent: {type: periodical, title: "Physical Review B", volume: "18"}
+  page-range: "2397"
+
+"steinberg2021elastic":
+  type: article
+  title: "Elastic turbulence: an experimental view on inertialess random flow"
+  author: [{name: "Steinberg, Victor"}]
+  date: 2021
+  parent: {type: periodical, title: "Annual Review of Fluid Mechanics", volume: "53"}
+  page-range: "27-58"
+
+"stellacci2007divalent":
+  type: article
+  title: "Divalent Metal Nanoparticles"
+  author: [{name: "DeVries, A. Gretchen and Brunnbauer, Markus and Hu, Ying and Jackson, M. Alicia and Long, Brenda and Neltner, T. Brian and Uzun, Oktay and Wunsch, H. Benjamin and Stellacci, Francesco"}]
+  date: 2007
+  parent: {type: periodical, title: "Science", volume: "315"}
+  page-range: "358"
+  doi: "10.1126/science.1133162"
+
+"streichan2018global":
+  type: article
+  title: "Global morphogenetic flow is accurately predicted by the spatial distribution of myosin motors"
+  author: [{name: "Streichan, Sebastian J and Lefebvre, Matthew F and Noll, Nicholas and Wieschaus, Eric F and Shraiman, Boris I"}]
+  date: 2018
+  parent: {type: periodical, title: "Elife", volume: "7"}
+  serial-number: "e27454"
+
+"struhl2012dissecting":
+  type: article
+  title: "Dissecting the molecular bridges that mediate the function of Frizzled in planar cell polarity"
+  author: [{name: "Struhl, Gary and Casal, José and Lawrence, Peter A"}]
+  date: 2012
+  parent: {type: periodical, title: "Development", volume: "139"}
+  page-range: "3665-3674"
+
+"sun2019amphipod":
+  type: article
+  title: "The amphipod crustacean Parhyale hawaiensis: an emerging comparative model of arthropod development, evolution, and regeneration"
+  author: [{name: "Sun, Dennis A and Patel, Nipam H"}]
+  date: 2019
+  parent: {type: periodical, title: "Wiley Interdisciplinary Reviews: Developmental Biology", volume: "8"}
+  serial-number: "e355"
+
+"tan2018self":
+  type: article
+  title: "Self-organized stress patterns drive state transitions in actin cortices"
+  author: [{name: "Tan, Tzer Han and Malik-Garbi, Maya and Abu-Shah, Enas and Li, Junang and Sharma, Abhinav and MacKintosh, Fred C and Keren, Kinneret and Schmidt, Christoph F and Fakhri, Nikta"}]
+  date: 2018
+  parent: {type: periodical, title: "Science advances", volume: "4"}
+  serial-number: "eaar2847"
+
+"tan2021development":
+  type: misc
+  title: "Development drives dynamics of living chiral crystals"
+  author: [{name: "Tzer Han Tan and Alexander Mietke and Hugh Higinbotham and Junang Li and Yuchao Chen and Peter J. Foster and Shreyas Gokhale and Jörn Dunkel and Nikta Fakhri"}]
+  date: 2021
+  serial-number: "arXiv:2105.07507"
+
+"theveneau2013chase":
+  type: article
+  title: "Chase-and-run between adjacent cell populations promotes directional collective migration"
+  author: [{name: "Theveneau, Eric and Steventon, Benjamin and Scarpa, Elena and Garcia, Simon and Trepat, Xavier and Streit, Andrea and Mayor, Roberto"}]
+  date: 2013
+  parent: {type: periodical, title: "Nature cell biology", volume: "15"}
+  page-range: "763-772"
+
+"toner1995long":
+  type: article
+  title: "Long-range order in a two-dimensional dynamical XY model: how birds fly together"
+  author: [{name: "Toner, John and Tu, Yuhai"}]
+  date: 1995
+  parent: {type: periodical, title: "Physical Review Letters", volume: "75"}
+  page-range: "4326"
+  doi: "10.1103/PhysRevLett.75.4326"
+
+"toner2005hydrodynamics":
+  type: article
+  title: "Hydrodynamics and phases of flocks"
+  author: [{name: "Toner, John and Tu, Yuhai and Ramaswamy, Sriram"}]
+  date: 2005
+  parent: {type: periodical, title: "Annals of Physics", volume: "318"}
+  page-range: "170-244"
+
+"tsyganov2003quasisoliton":
+  type: article
+  title: "Quasisoliton interaction of pursuit-evasion waves in a predator-prey system"
+  author: [{name: "Tsyganov, MA and Brindley, J and Holden, AV and Biktashev, VN"}]
+  date: 2003
+  parent: {type: periodical, title: "Physical review letters", volume: "91"}
+  page-range: "218102"
+
+"vafa2020multi":
+  type: misc
+  title: "Multi-defect dynamics in active nematics"
+  author: [{name: "Vafa, Farzan and Bowick, Mark J and Marchetti, M Cristina and Shraiman, Boris I"}]
+  date: 2020
+  serial-number: "arXiv:2007.02947"
+
+"van2016spatiotemporal":
+  type: article
+  title: "Spatiotemporal order and emergent edge currents in active spinner materials"
+  author: [{name: "van Zuiden, Benjamin C and Paulose, Jayson and Irvine, William TM and Bartolo, Denis and Vitelli, Vincenzo"}]
+  date: 2016
+  parent: {type: periodical, title: "Proceedings of the national academy of sciences", volume: "113"}
+  page-range: "12919-12924"
+
+"vanZuiden12919":
+  type: article
+  title: "Spatiotemporal order and emergent edge currents in active spinner materials"
+  author: [{name: "van Zuiden, Benjamin C. and Paulose, Jayson and Irvine, William T. M. and Bartolo, Denis and Vitelli, Vincenzo"}]
+  date: 2016
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "113"}
+  page-range: "12919-12924"
+  doi: "10.1073/pnas.1609572113"
+
+"vicsek1995novel":
+  type: article
+  title: "Novel type of phase transition in a system of self-driven particles"
+  author: [{name: "Vicsek, Tamás and Czirók, András and Ben-Jacob, Eshel and Cohen, Inon and Shochet, Ofer"}]
+  date: 1995
+  parent: {type: periodical, title: "Physical Review Letters", volume: "75"}
+  page-range: "1226"
+  doi: "10.1103/PhysRevLett.75.1226"
+
+"vicsek2012collective":
+  type: article
+  title: "Collective motion"
+  author: [{name: "Vicsek, Tamás and Zafeiris, Anna"}]
+  date: 2012
+  parent: {type: periodical, title: "Physics reports", volume: "517"}
+  page-range: "71-140"
+
+"voituriez2005spontaneous":
+  type: article
+  title: "Spontaneous flow transition in active polar gels"
+  author: [{name: "Voituriez, R and Joanny, Jean-François and Prost, Jacques"}]
+  date: 2005
+  parent: {type: periodical, title: "EPL (Europhysics Letters)", volume: "70"}
+  page-range: "404"
+
+"wensink2012meso":
+  type: article
+  title: "Meso-scale turbulence in living fluids"
+  author: [{name: "Wensink, Henricus H and Dunkel, Jörn and Heidenreich, Sebastian and Drescher, Knut and Goldstein, Raymond E and Löwen, Hartmut and Yeomans, Julia M"}]
+  date: 2012
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "109"}
+  page-range: "14308-14313"
+
+"whitfield2017hydrodynamic":
+  type: article
+  title: "Hydrodynamic instabilities in active cholesteric liquid crystals"
+  author: [{name: "Whitfield, Carl A and Adhyapak, Tapan Chandra and Tiribocchi, Adriano and Alexander, Gareth P and Marenduzzo, Davide and Ramaswamy, Sriram"}]
+  date: 2017
+  parent: {type: periodical, title: "The European Physical Journal E", volume: "40"}
+  page-range: "1-16"
+
+"wioland2013confinement":
+  type: article
+  title: "Confinement stabilizes a bacterial suspension into a spiral vortex"
+  author: [{name: "Wioland, Hugo and Woodhouse, Francis G and Dunkel, Jörn and Kessler, John O and Goldstein, Raymond E"}]
+  date: 2013
+  parent: {type: periodical, title: "Physical Review Letters", volume: "110"}
+  page-range: "268102"
+  doi: "10.1103/PhysRevLett.110.268102"
+
+"woodhouse2012spontaneous":
+  type: article
+  title: "Spontaneous circulation of confined active suspensions"
+  author: [{name: "Woodhouse, Francis G and Goldstein, Raymond E"}]
+  date: 2012
+  parent: {type: periodical, title: "Physical review letters", volume: "109"}
+  page-range: "168105"
+  doi: "10.1103/PhysRevLett.109.168105"
+
+"woodhouse2017active":
+  type: article
+  title: "Active matter logic for autonomous microfluidics"
+  author: [{name: "Woodhouse, Francis G and Dunkel, Jörn"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature communications", volume: "8"}
+  page-range: "1-7"
+
+"wright1989crystalline":
+  type: article
+  title: "Crystalline liquids: the blue phases"
+  author: [{name: "Wright, David C and Mermin, N David"}]
+  date: 1989
+  parent: {type: periodical, title: "Reviews of Modern physics", volume: "61"}
+  page-range: "385"
+
+"xiong2020flower":
+  type: article
+  title: "Flower-like patterns in multi-species bacterial colonies"
+  author: [{name: "Xiong, Liyang and Cao, Yuansheng and Cooper, Robert and Rappel, Wouter-Jan and Hasty, Jeff and Tsimring, Lev"}]
+  date: 2020
+  parent: {type: periodical, title: "Elife", volume: "9"}
+  serial-number: "e48885"
+
+"yaman2018emergence":
+  type: article
+  title: "Emergence of active nematics in chaining bacterial biofilms"
+  author: [{name: "Yaman, Yusuf Ilker and Demir, Esin and Vetter, Roman and Kocabas, Askin"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature communications", volume: "10"}
+  page-range: "2285"
+
+"yanni2019drivers":
+  type: article
+  title: "Drivers of spatial structure in social microbial communities"
+  author: [{name: "Yanni, David and Márquez-Zacarías, Pedro and Yunker, Peter J and Ratcliff, William C"}]
+  date: 2019
+  parent: {type: periodical, title: "Current Biology", volume: "29"}
+  serial-number: "R545-R550"
+
+"you2020nonreciprocity":
+  type: article
+  title: "Nonreciprocity as a generic route to traveling states"
+  author: [{name: "You, Zhihong and Baskaran, Aparna and Marchetti, M Cristina"}]
+  date: 2020
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "117"}
+  page-range: "19767-19772"
+
+"zandi2020virus":
+  type: article
+  title: "On virus growth and form"
+  author: [{name: "Zandi, Roya and Dragnea, Bogdan and Travesset, Alex and Podgornik, Rudolf"}]
+  date: 2020
+  parent: {type: periodical, title: "Physics Reports", volume: "847"}
+  page-range: "1-102"
+
+"zhang2020dynamics":
+  type: article
+  title: "Dynamics of active nematic defects on the surface of a sphere"
+  author: [{name: "Zhang, Yi-Heng and Deserno, Markus and Tu, Zhan-Chun and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review E", volume: "102"}
+  page-range: "012607"
+
+"zhang2021spatiotemporal":
+  type: article
+  title: "Spatiotemporal control of liquid crystal structure and dynamics through activity patterning"
+  author: [{name: "Zhang, Rui and Redford, Steven A and Ruijgrok, Paul V and Kumar, Nitin and Mozaffari, Ali and Zemsky, Sasha and Dinner, Aaron R and Vitelli, Vincenzo and Bryant, Zev and Gardel, Margaret L and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Materials"}
+  page-range: "1-8"
+
+"zhao2021contagion":
+  type: misc
+  title: "Contagion dynamics in self-organized systems of self-propelled agents"
+  author: [{name: "Zhao, Yinong and Huepe, Cristián and Romanczuk, Pawel"}]
+  date: 2021
+  serial-number: "arXiv:2103.12618"
+
+"zhou2021machine":
+  type: article
+  title: "Machine learning forecasting of active nematics"
+  author: [{name: "Zhou, Zhengyang and Joshi, Chaitanya and Liu, Ruoshi and Norton, Michael M and Lemma, Linnea and Dogic, Zvonimir and Hagan, Michael F and Fraden, Seth and Hong, Pengyu"}]
+  date: 2021
+  parent: {type: periodical, title: "Soft matter", volume: "17"}
+  page-range: "738-747"
+
+"Tan2021KLD":
+  type: misc
+  title: "Scale-dependent irreversibility in living matter"
+  author: [{name: "Tan, Tzer Han and Watson, Garrett A. and Chao, Yu-Chen and Li, Junang and Gingrich, Todd R. and Horowitz, Jordan M. and Fakhri, Nikta"}]
+  date: 2021
+  serial-number: "arXiv:2107.05701"

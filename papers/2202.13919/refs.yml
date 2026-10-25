@@ -1,0 +1,3041 @@
+"weinberg:1972":
+  type: article
+  title: "Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity"
+  author: [{name: "Weinberg, Steven"}]
+  date: 1972
+
+"birrell-davies:1984":
+  type: article
+  title: "Quantum Fields in Curved Space"
+  author: [{name: "Birrell, N. D. and Davies, P. C. W."}]
+  date: 1984
+  doi: "10.1017/CBO9780511622632"
+
+"kolb-turner:1990":
+  type: article
+  title: "The Early Universe"
+  author: [{name: "Kolb, Edward W. and Turner, Michael S."}]
+  date: 1990
+
+"weinberg:1996":
+  type: article
+  title: "The quantum theory of fields. Vol. 2: Modern applications"
+  author: [{name: "Weinberg, Steven"}]
+  date: 1996
+
+"liddle-lyth:2000":
+  type: article
+  title: "Cosmological inflation and large scale structure"
+  author: [{name: "Liddle, Andrew R. and Lyth, D. H."}]
+  date: 2000
+
+"fujii-maeda:2003":
+  type: article
+  title: "The scalar-tensor theory of gravitation"
+  author: [{name: "Fujii, Y. and Maeda, K."}]
+  date: 2003
+  doi: "10.1017/CBO9780511535093"
+
+"weinberg:2008":
+  type: article
+  title: "Cosmology"
+  author: [{name: "Weinberg, S."}]
+  date: 2008
+
+"peebles-page-partridge:2009":
+  type: article
+  title: "Finding the Big Bang"
+  author: [{name: "Peebles, P. J. E. and Page, L. A. and Partridge, R. B."}]
+  date: 2009
+
+"peebles:2020":
+  type: article
+  title: "Cosmology’s Century: An Inside History of Our Modern Understanding of the Universe"
+  author: [{name: "Peebles, P. J. E."}]
+  date: 2020
+
+"weinberg:1989":
+  type: article
+  title: "The Cosmological Constant Problem"
+  author: [{name: "Weinberg, Steven"}]
+  date: 1989
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "61"}
+  page-range: "1-23"
+  doi: "10.1103/RevModPhys.61.1"
+
+"SupernovaSearchTeam:1998":
+  type: article
+  title: "Observational evidence from supernovae for an accelerating universe and a cosmological constant"
+  author: [{name: "Riess, Adam G. and others"}]
+  date: 1998
+  parent: {type: periodical, title: "Astron. J.", volume: "116"}
+  page-range: "1009-1038"
+  doi: "10.1086/300499"
+
+"SupernovaCosmologyProject:1999":
+  type: article
+  title: "Measurements of Ω and Λ from 42 high redshift supernovae"
+  author: [{name: "Perlmutter, S. and others"}]
+  date: 1999
+  parent: {type: periodical, title: "Astrophys. J.", volume: "517"}
+  page-range: "565-586"
+  doi: "10.1086/307221"
+
+"martin:2012":
+  type: article
+  title: "Everything You Always Wanted To Know About The Cosmological Constant Problem (But Were Afraid To Ask)"
+  author: [{name: "Martin, Jerome"}]
+  date: 2012
+  parent: {type: periodical, title: "Comptes Rendus Physique", volume: "13"}
+  page-range: "566-665"
+  doi: "10.1016/j.crhy.2012.04.008"
+
+"obied-etal:prep":
+  type: article
+  title: "De Sitter Space and the Swampland"
+  author: [{name: "Obied, Georges and Ooguri, Hirosi and Spodyneiko, Lev and Vafa, Cumrun"}]
+  date: 2018
+  parent: {type: periodical, title: "arXiv preprint"}
+
+"agrawal-etal:2018":
+  type: article
+  title: "On the Cosmological Implications of the String Swampland"
+  author: [{name: "Agrawal, Prateek and Obied, Georges and Steinhardt, Paul J. and Vafa, Cumrun"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "784"}
+  page-range: "271-276"
+  doi: "10.1016/j.physletb.2018.07.040"
+
+"garg-krishnan:2019":
+  type: article
+  title: "Bounds on Slow Roll and the de Sitter Swampland"
+  author: [{name: "Garg, Sumit K. and Krishnan, Chethan"}]
+  date: 2019
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "11"}
+  page-range: "075"
+  doi: "10.1007/JHEP11(2019)075"
+
+"ooguri-etal:2019":
+  type: article
+  title: "Distance and de Sitter Conjectures on the Swampland"
+  author: [{name: "Ooguri, Hirosi and Palti, Eran and Shiu, Gary and Vafa, Cumrun"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "788"}
+  page-range: "180-184"
+  doi: "10.1016/j.physletb.2018.11.018"
+
+"dvali-gomez:2016":
+  type: article
+  title: "Quantum Exclusion of Positive Cosmological Constant?"
+  author: [{name: "Dvali, Gia and Gomez, Cesar"}]
+  date: 2016
+  parent: {type: periodical, title: "Annalen Phys.", volume: "528"}
+  page-range: "68-73"
+  doi: "10.1002/andp.201500216"
+
+"dvali-gomez-zell:2019":
+  type: article
+  title: "Quantum Breaking Bound on de Sitter and Swampland"
+  author: [{name: "Dvali, Gia and Gomez, Cesar and Zell, Sebastian"}]
+  date: 2019
+  parent: {type: periodical, title: "Fortsch. Phys.", volume: "67"}
+  page-range: "1800094"
+  doi: "10.1002/prop.201800094"
+
+"dvali:2020":
+  type: article
+  title: "S-Matrix and Anomaly of de Sitter"
+  author: [{name: "Dvali, Gia"}]
+  date: 2020
+  parent: {type: periodical, title: "Symmetry", volume: "13"}
+  page-range: "3"
+  doi: "10.3390/sym13010003"
+
+"nariai-tomita:1971":
+  type: article
+  title: "On the removal of initial singularity in a big-bang universe in terms of a renormalized theory of gravitation. 2. criteria for obtaining a physically reasonable model"
+  author: [{name: "Nariai, H. and Tomita, K."}]
+  date: 1971
+  parent: {type: periodical, title: "Prog. Theor. Phys.", volume: "46"}
+  page-range: "776-786"
+  doi: "10.1143/PTP.46.776"
+
+"starobinsky:1980":
+  type: article
+  title: "A New Type of Isotropic Cosmological Models Without Singularity"
+  author: [{name: "Starobinsky, A. A."}]
+  date: 1980
+  parent: {type: periodical, title: "Phys. Lett.", volume: "91B"}
+  page-range: "99-102"
+  doi: "10.1016/0370-2693(80)90670-X"
+
+"guth:1981":
+  type: article
+  title: "The Inflationary Universe: A Possible Solution to the Horizon and Flatness Problems"
+  author: [{name: "Guth, A. H."}]
+  date: 1981
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D23"}
+  page-range: "347-356"
+  doi: "10.1103/PhysRevD.23.347"
+
+"sato:1981":
+  type: article
+  title: "First Order Phase Transition of a Vacuum and Expansion of the Universe"
+  author: [{name: "Sato, K."}]
+  date: 1981
+  parent: {type: periodical, title: "Mon. Not. Roy. Astron. Soc.", volume: "195"}
+  page-range: "467-479"
+
+"linde:1982":
+  type: article
+  title: "A New Inflationary Universe Scenario: A Possible Solution of the Horizon, Flatness, Homogeneity, Isotropy and Primordial Monopole Problems"
+  author: [{name: "Linde, A. D."}]
+  date: 1982
+  parent: {type: periodical, title: "Phys. Lett.", volume: "108B"}
+  page-range: "389-393"
+  doi: "10.1016/0370-2693(82)91219-9"
+
+"albrecht-steinhardt:1982":
+  type: article
+  title: "Cosmology for Grand Unified Theories with Radiatively Induced Symmetry Breaking"
+  author: [{name: "Albrecht, A. and Steinhardt, P. J."}]
+  date: 1982
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "48"}
+  page-range: "1220-1223"
+  doi: "10.1103/PhysRevLett.48.1220"
+
+"linde:1983":
+  type: article
+  title: "Chaotic Inflation"
+  author: [{name: "Linde, A. D."}]
+  date: 1983
+  parent: {type: periodical, title: "Phys. Lett.", volume: "129B"}
+  page-range: "177-181"
+  doi: "10.1016/0370-2693(83)90837-7"
+
+"lyth:1997":
+  type: article
+  title: "What would we learn by detecting a gravitational wave signal in the cosmic microwave background anisotropy?"
+  author: [{name: "Lyth, David H."}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "78"}
+  page-range: "1861-1863"
+  doi: "10.1103/PhysRevLett.78.1861"
+
+"lyth-riotto:1999":
+  type: article
+  title: "Particle physics models of inflation and the cosmological density perturbation"
+  author: [{name: "Lyth, David H. and Riotto, Antonio"}]
+  date: 1999
+  parent: {type: periodical, title: "Phys. Rept.", volume: "314"}
+  page-range: "1-146"
+  doi: "10.1016/S0370-1573(98)00128-8"
+
+"spokoiny:1984":
+  type: article
+  title: "Inflation and Generation of Perturbations in Broken Symmetric Theory of Gravity"
+  author: [{name: "Spokoiny, B. L."}]
+  date: 1984
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "147"}
+  page-range: "39-43"
+  doi: "10.1016/0370-2693(84)90587-2"
+
+"accetta-zoller-turner:1985":
+  type: article
+  title: "Induced Gravity Inflation"
+  author: [{name: "Accetta, Frank S. and Zoller, David J. and Turner, Michael S."}]
+  date: 1985
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "31"}
+  page-range: "3046"
+  doi: "10.1103/PhysRevD.31.3046"
+
+"futamase-maeda:1987":
+  type: article
+  title: "Chaotic Inflationary Scenario in Models Having Nonminimal Coupling With Curvature"
+  author: [{name: "Futamase, T. and Maeda, Kei-ichi"}]
+  date: 1989
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "39"}
+  page-range: "399-404"
+  doi: "10.1103/PhysRevD.39.399"
+
+"fakir-unruh:1990":
+  type: article
+  title: "Improvement on cosmological chaotic inflation through nonminimal coupling"
+  author: [{name: "Fakir, R. and Unruh, W. G."}]
+  date: 1990
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "41"}
+  page-range: "1783-1791"
+  doi: "10.1103/PhysRevD.41.1783"
+
+"fakir-unruh:1990b":
+  type: article
+  title: "Induced gravity inflation"
+  author: [{name: "Fakir, R. and Unruh, W. G."}]
+  date: 1990
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "41"}
+  page-range: "1792-1795"
+  doi: "10.1103/PhysRevD.41.1792"
+
+"komatsu-futamase:1999":
+  type: article
+  title: "Complete constraints on a nonminimally coupled chaotic inflationary scenario from the cosmic microwave background"
+  author: [{name: "Komatsu, Eiichiro and Futamase, Toshifumi"}]
+  date: 1999
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "59"}
+  page-range: "064029"
+  doi: "10.1103/PhysRevD.59.064029"
+
+"bezrukov-shaposhnikov:2008":
+  type: article
+  title: "The Standard Model Higgs boson as the inflaton"
+  author: [{name: "Bezrukov, Fedor L. and Shaposhnikov, Mikhail"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "659"}
+  page-range: "703-706"
+  doi: "10.1016/j.physletb.2007.11.072"
+
+"kofman-linde-starobinsky:1994":
+  type: article
+  title: "Reheating after inflation"
+  author: [{name: "Kofman, L. and Linde, A. D. and Starobinsky, A. A."}]
+  date: 1994
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "73"}
+  page-range: "3195-3198"
+  doi: "10.1103/PhysRevLett.73.3195"
+
+"kofman-linde-starobinsky:1997":
+  type: article
+  title: "Towards the theory of reheating after inflation"
+  author: [{name: "Kofman, L. and Linde, A. D. and Starobinsky, A. A."}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "56"}
+  page-range: "3258-3295"
+  doi: "10.1103/PhysRevD.56.3258"
+
+"lozanov:2019":
+  type: article
+  title: "Lectures on Reheating after Inflation"
+  author: [{name: "Lozanov, Kaloian D."}]
+  date: 2019
+  parent: {type: periodical, title: "arXiv preprint"}
+
+"lifshitz:1946":
+  type: article
+  title: "On the gravitational stability of the expanding universe"
+  author: [{name: "Lifshitz, E."}]
+  date: 1946
+  parent: {type: periodical, title: "J. Phys. (USSR)", volume: "10"}
+  page-range: "116"
+  doi: "10.1007/s10714-016-2165-8"
+
+"bardeen:1980":
+  type: article
+  title: "Gauge Invariant Cosmological Perturbations"
+  author: [{name: "Bardeen, James M."}]
+  date: 1980
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "22"}
+  page-range: "1882-1905"
+  doi: "10.1103/PhysRevD.22.1882"
+
+"kodama-saaski:1984":
+  type: article
+  title: "Cosmological Perturbation Theory"
+  author: [{name: "Kodama, Hideo and Sasaki, Misao"}]
+  date: 1984
+  parent: {type: periodical, title: "Prog. Theor. Phys. Suppl.", volume: "78"}
+  page-range: "1-166"
+  doi: "10.1143/PTPS.78.1"
+
+"mukhanov-feldman-brandenberger:1992":
+  type: article
+  title: "Theory of cosmological perturbations. Part 1. Classical perturbations. Part 2. Quantum theory of perturbations. Part 3. Extensions"
+  author: [{name: "Mukhanov, Viatcheslav F. and Feldman, H. A. and Brandenberger, Robert H."}]
+  date: 1992
+  parent: {type: periodical, title: "Phys. Rept.", volume: "215"}
+  page-range: "203-333"
+  doi: "10.1016/0370-1573(92)90044-Z"
+
+"mukhanov-chibisov:1981":
+  type: article
+  title: "Quantum Fluctuations and a Nonsingular Universe"
+  author: [{name: "Mukhanov, V. F. and Chibisov, G. V."}]
+  date: 1981
+  parent: {type: periodical, title: "JETP Lett.", volume: "33"}
+  page-range: "532-535"
+
+"hawking:1982":
+  type: article
+  title: "The Development of Irregularities in a Single Bubble Inflationary Universe"
+  author: [{name: "Hawking, S. W."}]
+  date: 1982
+  parent: {type: periodical, title: "Phys. Lett.", volume: "115B"}
+  page-range: "295"
+  doi: "10.1016/0370-2693(82)90373-2"
+
+"guth-pi:1982":
+  type: article
+  title: "Fluctuations in the New Inflationary Universe"
+  author: [{name: "Guth, A. H. and Pi, S. Y."}]
+  date: 1982
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "49"}
+  page-range: "1110-1113"
+  doi: "10.1103/PhysRevLett.49.1110"
+
+"starobinsky:1982":
+  type: article
+  title: "Dynamics of Phase Transition in the New Inflationary Universe Scenario and Generation of Perturbations"
+  author: [{name: "Starobinsky, A. A."}]
+  date: 1982
+  parent: {type: periodical, title: "Phys. Lett.", volume: "117B"}
+  page-range: "175-178"
+  doi: "10.1016/0370-2693(82)90541-X"
+
+"bardeen-turner-steinhardt:1983":
+  type: article
+  title: "Spontaneous Creation of Almost Scale - Free Density Perturbations in an Inflationary Universe"
+  author: [{name: "Bardeen, J. M. and Steinhardt, P. J. and Turner, M. S."}]
+  date: 1983
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D28"}
+  page-range: "679"
+  doi: "10.1103/PhysRevD.28.679"
+
+"mukhanov:2016":
+  type: article
+  title: "Quantum Universe"
+  author: [{name: "Mukhanov, V. F."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Usp.", volume: "59"}
+  page-range: "1021-1027"
+  doi: "10.3367/UFNe.2016.07.037857"
+
+"tomita:1967":
+  type: article
+  title: "Non-Linear Theory of Gravitational Instability in the Expanding Universe"
+  author: [{name: "Tomita, K."}]
+  date: 1967
+  parent: {type: periodical, title: "Progress of Theoretical Physics", volume: "37"}
+  page-range: "831-846"
+  doi: "10.1143/PTP.37.831"
+
+"grishchuk:1975":
+  type: article
+  title: "Amplification of gravitational waves in an istropic universe"
+  author: [{name: "Grishchuk, L. P."}]
+  date: 1975
+  parent: {type: periodical, title: "Sov. Phys. JETP", volume: "40"}
+  page-range: "409-415"
+
+"ford-parker:1977":
+  type: article
+  title: "Quantized Gravitational Wave Perturbations in Robertson-Walker Universes"
+  author: [{name: "Ford, L. H. and Parker, L."}]
+  date: 1977
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "16"}
+  page-range: "1601-1608"
+  doi: "10.1103/PhysRevD.16.1601"
+
+"starobinsky:1979":
+  type: article
+  title: "Spectrum of relict gravitational radiation and the early state of the universe"
+  author: [{name: "Starobinsky, A. A."}]
+  date: 1979
+  parent: {type: periodical, title: "JETP Lett.", volume: "30"}
+  page-range: "682-685"
+
+"fabbri-pollock:1983":
+  type: article
+  title: "The Effect of Primordially Produced Gravitons upon the Anisotropy of the Cosmological Microwave Background Radiation"
+  author: [{name: "Fabbri, R. and Pollock, M. d."}]
+  date: 1983
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "125"}
+  page-range: "445-448"
+  doi: "10.1016/0370-2693(83)91322-9"
+
+"abbott-wise:1984":
+  type: article
+  title: "Constraints on Generalized Inflationary Cosmologies"
+  author: [{name: "Abbott, L. F. and Wise, M. B."}]
+  date: 1984
+  parent: {type: periodical, title: "Nucl. Phys.", volume: "B244"}
+  page-range: "541-548"
+  doi: "10.1016/0550-3213(84)90329-8"
+
+"matarrese-pantano-saez:1993":
+  type: article
+  title: "A General relativistic approach to the nonlinear evolution of collisionless matter"
+  author: [{name: "Matarrese, Sabino and Pantano, Ornella and Saez, Diego"}]
+  date: 1993
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "47"}
+  page-range: "1311-1323"
+  doi: "10.1103/PhysRevD.47.1311"
+
+"matarrese-pantano-saez:1994":
+  type: article
+  title: "General relativistic dynamics of irrotational dust: Cosmological implications"
+  author: [{name: "Matarrese, Sabino and Pantano, Ornella and Saez, Diego"}]
+  date: 1994
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "72"}
+  page-range: "320-323"
+  doi: "10.1103/PhysRevLett.72.320"
+
+"matarrese-mollerach-bruni:1998":
+  type: article
+  title: "Second order perturbations of the Einstein-de Sitter universe"
+  author: [{name: "Matarrese, Sabino and Mollerach, Silvia and Bruni, Marco"}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "58"}
+  page-range: "043504"
+  doi: "10.1103/PhysRevD.58.043504"
+
+"weinberg:2004":
+  type: article
+  title: "Damping of tensor modes in cosmology"
+  author: [{name: "Weinberg, Steven"}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "69"}
+  page-range: "023503"
+  doi: "10.1103/PhysRevD.69.023503"
+
+"ananda-clarkson-wands:2007":
+  type: article
+  title: "The Cosmological gravitational wave background from primordial density perturbations"
+  author: [{name: "Ananda, Kishore N. and Clarkson, Chris and Wands, David"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "75"}
+  page-range: "123518"
+  doi: "10.1103/PhysRevD.75.123518"
+
+"baumann-etal:2007":
+  type: article
+  title: "Gravitational Wave Spectrum Induced by Primordial Scalar Perturbations"
+  author: [{name: "Baumann, Daniel and Steinhardt, Paul J. and Takahashi, Keitaro and Ichiki, Kiyotomo"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "76"}
+  page-range: "084019"
+  doi: "10.1103/PhysRevD.76.084019"
+
+"hiramatsu-etal:2018":
+  type: article
+  title: "Reconstruction of primordial tensor power spectra from B-mode polarization of the cosmic microwave background"
+  author: [{name: "Hiramatsu, Takashi and Komatsu, Eiichiro and Hazumi, Masashi and Sasaki, Misao"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "97"}
+  page-range: "123511"
+  doi: "10.1103/PhysRevD.97.123511"
+
+"campeti-poletti-baccigalupi:2019":
+  type: article
+  title: "Principal component analysis of the primordial tensor power spectrum"
+  author: [{name: "Campeti, Paolo and Poletti, Davide and Baccigalupi, Carlo"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "09"}
+  page-range: "055"
+  doi: "10.1088/1475-7516/2019/09/055"
+
+"domenech:2021":
+  type: article
+  title: "Scalar Induced Gravitational Waves Review"
+  author: [{name: "Domènech, Guillem"}]
+  date: 2021
+  parent: {type: periodical, title: "Universe", volume: "7"}
+  page-range: "398"
+  doi: "10.3390/universe7110398"
+
+"grishchuk-sidorov:1989":
+  type: article
+  title: "On the Quantum State of Relic Gravitons"
+  author: [{name: "Grishchuk, L. P. and Sidorov, Yu. V."}]
+  date: 1989
+  parent: {type: periodical, title: "Class. Quant. Grav.", volume: "6"}
+  serial-number: "L161-L165"
+  doi: "10.1088/0264-9381/6/9/002"
+
+"grishchuk-sidorov:1990":
+  type: article
+  title: "Squeezed quantum states of relic gravitons and primordial density fluctuations"
+  author: [{name: "Grishchuk, L. P. and Sidorov, Yu. V."}]
+  date: 1990
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "42"}
+  page-range: "3413-3421"
+  doi: "10.1103/PhysRevD.42.3413"
+
+"polarski-starobinsky:1996":
+  type: article
+  title: "Semiclassicality and decoherence of cosmological perturbations"
+  author: [{name: "Polarski, David and Starobinsky, Alexei A."}]
+  date: 1996
+  parent: {type: periodical, title: "Class. Quant. Grav.", volume: "13"}
+  page-range: "377-392"
+  doi: "10.1088/0264-9381/13/3/006"
+
+"kiefer-polarski-starobinsky:1998":
+  type: article
+  title: "Quantum to classical transition for fluctuations in the early universe"
+  author: [{name: "Kiefer, Claus and Polarski, David and Starobinsky, Alexei A."}]
+  date: 1998
+  parent: {type: periodical, title: "Int. J. Mod. Phys. D", volume: "7"}
+  page-range: "455-462"
+  doi: "10.1142/S0218271898000292"
+
+"allen-flanagan-papa:2000":
+  type: article
+  title: "Is the squeezing of relic gravitational waves produced by inflation detectable?"
+  author: [{name: "Allen, Bruce and Flanagan, Eanna E. and Papa, Maria Alessandra"}]
+  date: 2000
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "61"}
+  page-range: "024024"
+  doi: "10.1103/PhysRevD.61.024024"
+
+"martin-vennin-peter:2012":
+  type: article
+  title: "Cosmological Inflation and the Quantum Measurement Problem"
+  author: [{name: "Martin, Jerome and Vennin, Vincent and Peter, Patrick"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "86"}
+  page-range: "103524"
+  doi: "10.1103/PhysRevD.86.103524"
+
+"kanno-soda:2019":
+  type: article
+  title: "Detecting nonclassical primordial gravitational waves with Hanbury-Brown–Twiss interferometry"
+  author: [{name: "Kanno, Sugumi and Soda, Jiro"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "99"}
+  page-range: "084010"
+  doi: "10.1103/PhysRevD.99.084010"
+
+"steinhardt-turok:2002":
+  type: article
+  title: "A Cyclic model of the universe"
+  author: [{name: "Steinhardt, Paul J. and Turok, Neil"}]
+  date: 2002
+  parent: {type: periodical, title: "Science", volume: "296"}
+  page-range: "1436-1439"
+  doi: "10.1126/science.1070462"
+
+"nayeri-brandenberger-vafa:2006":
+  type: article
+  title: "Producing a scale-invariant spectrum of perturbations in a Hagedorn phase of string cosmology"
+  author: [{name: "Nayeri, Ali and Brandenberger, Robert H. and Vafa, Cumrun"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "97"}
+  page-range: "021302"
+  doi: "10.1103/PhysRevLett.97.021302"
+
+"martineau-brandenberger:2008":
+  type: article
+  title: "A Back-reaction Induced Lower Bound on the Tensor-to-Scalar Ratio"
+  author: [{name: "Martineau, P. and Brandenberger, R."}]
+  date: 2008
+  parent: {type: periodical, title: "Mod. Phys. Lett. A", volume: "23"}
+  page-range: "727-735"
+  doi: "10.1142/S0217732308026777"
+
+"brandenberger-etal:2007a":
+  type: article
+  title: "Tensor Modes from a Primordial Hagedorn Phase of String Cosmology"
+  author: [{name: "Brandenberger, Robert H. and Nayeri, Ali and Patil, Subodh P. and Vafa, Cumrun"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "98"}
+  page-range: "231302"
+  doi: "10.1103/PhysRevLett.98.231302"
+
+"brandenberger-etal:2007b":
+  type: article
+  title: "String gas cosmology and structure formation"
+  author: [{name: "Brandenberger, Robert H. and Nayeri, Ali and Patil, Subodh P. and Vafa, Cumrun"}]
+  date: 2007
+  parent: {type: periodical, title: "Int. J. Mod. Phys. A", volume: "22"}
+  page-range: "3621-3642"
+  doi: "10.1142/S0217751X07037159"
+
+"brandenberger:2017":
+  type: article
+  title: "Bouncing Cosmologies: Progress and Problems"
+  author: [{name: "Brandenberger, Robert and Peter, Patrick"}]
+  date: 2017
+  parent: {type: periodical, title: "Found. Phys.", volume: "47"}
+  page-range: "797-850"
+  doi: "10.1007/s10701-016-0057-0"
+
+"komatsu:2001":
+  type: misc
+  title: "The pursuit of non-gaussian fluctuations in the cosmic microwave background"
+  author: [{name: "Komatsu, Eiichiro"}]
+  date: 2001
+  serial-number: "arXiv:astro-ph/0206039"
+
+"maldacena:2003":
+  type: article
+  title: "Non-Gaussian features of primordial fluctuations in single field inflationary models"
+  author: [{name: "Maldacena, Juan Martin"}]
+  date: 2003
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "05"}
+  page-range: "013"
+  doi: "10.1088/1126-6708/2003/05/013"
+
+"WMAP-NG:2003":
+  type: article
+  title: "First year Wilkinson Microwave Anisotropy Probe (WMAP) observations: tests of gaussianity"
+  author: [{name: "Komatsu, E. and others"}]
+  date: 2003
+  parent: {type: periodical, title: "Astrophys. J. Suppl.", volume: "148"}
+  page-range: "119-134"
+  doi: "10.1086/377220"
+
+"komatsu:2010":
+  type: article
+  title: "Hunting for Primordial Non-Gaussianity in the Cosmic Microwave Background"
+  author: [{name: "Komatsu, Eiichiro"}]
+  date: 2010
+  parent: {type: periodical, title: "Class. Quant. Grav.", volume: "27"}
+  page-range: "124010"
+  doi: "10.1088/0264-9381/27/12/124010"
+
+"shiraishi-etal:2016":
+  type: article
+  title: "Testing statistics of the CMB B -mode polarization toward unambiguously establishing quantum fluctuation of the vacuum"
+  author: [{name: "Shiraishi, Maresuke and Hikage, Chiaki and Namba, Ryo and Namikawa, Toshiya and Hazumi, Masashi"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "94"}
+  page-range: "043506"
+  doi: "10.1103/PhysRevD.94.043506"
+
+"Planck2018IX":
+  type: article
+  title: "Planck 2018 results. IX. Constraints on primordial non-Gaussianity"
+  author: [{name: "Planck Collaboration IX"}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "641"}
+  serial-number: "A9"
+  doi: "10.1051/0004-6361/201935891"
+
+"shiraishi:2019":
+  type: article
+  title: "Tensor Non-Gaussianity Search: Current Status and Future Prospects"
+  author: [{name: "Shiraishi, Maresuke"}]
+  date: 2019
+  parent: {type: periodical, title: "Front. Astron. Space Sci.", volume: "6"}
+  page-range: "49"
+  doi: "10.3389/fspas.2019.00049"
+
+"duivenvoorden-meerburg-freese:2020":
+  type: article
+  title: "CMB B-mode non-Gaussianity: optimal bispectrum estimator and Fisher forecasts"
+  author: [{name: "Duivenvoorden, Adriaan J. and Meerburg, P. Daniel and Freese, Katherine"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "102"}
+  page-range: "023521"
+  doi: "10.1103/PhysRevD.102.023521"
+
+"gertsenshtein-pustovoit:1962":
+  type: article
+  title: "On the Detection of Low Frequency Gravitational Waves"
+  author: [{name: "Gertsenshtein, M. E. and Pustovoit, V. I."}]
+  date: 1962
+  parent: {type: periodical, title: "Sov. Phys. JETP", volume: "16"}
+  page-range: "433"
+
+"forward:1971":
+  type: article
+  title: "Multidirectional, multipolarization antennas for scalar and tensor gravitational radiation"
+  author: [{name: "Forward, Robert L."}]
+  date: 1971
+  parent: {type: periodical, title: "Gen. Rel. Grav.", volume: "2"}
+  page-range: "149-159"
+  doi: "10.1007/BF02450446"
+
+"moss-miller-forward:1971":
+  type: article
+  title: "Photon-noise-limited laser transducer for gravitational antenna"
+  author: [{name: "Moss, G. E. and Miller, L. R. and Forward, R. L."}]
+  date: 1971
+  parent: {type: periodical, title: "Appl. Opt.", volume: "10"}
+  page-range: "2495-2498"
+  doi: "10.1364/AO.10.002495"
+
+"seto:2006":
+  type: article
+  title: "Prospects for direct detection of circular polarization of gravitational-wave background"
+  author: [{name: "Seto, Naoki"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "97"}
+  page-range: "151101"
+  doi: "10.1103/PhysRevLett.97.151101"
+
+"seto:2007":
+  type: article
+  title: "Quest for circular polarization of gravitational wave background and orbits of laser interferometers in space"
+  author: [{name: "Seto, Naoki"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "75"}
+  page-range: "061302"
+  doi: "10.1103/PhysRevD.75.061302"
+
+"seto-taruya:2007":
+  type: article
+  title: "Measuring a Parity Violation Signature in the Early Universe via Ground-based Laser Interferometers"
+  author: [{name: "Seto, Naoki and Taruya, Atsushi"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "99"}
+  page-range: "121101"
+  doi: "10.1103/PhysRevLett.99.121101"
+
+"crowder-etal:2012":
+  type: article
+  title: "Measurement of Parity Violation in the Early Universe using Gravitational-wave Detectors"
+  author: [{name: "Crowder, S. G. and Namba, R. and Mandic, V. and Mukohyama, S. and Peloso, M."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "726"}
+  page-range: "66-71"
+  doi: "10.1016/j.physletb.2013.08.077"
+
+"LIGOScientific:2016":
+  type: article
+  title: "Observation of Gravitational Waves from a Binary Black Hole Merger"
+  author: [{name: "Abbott, B. P. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "116"}
+  page-range: "061102"
+  doi: "10.1103/PhysRevLett.116.061102"
+
+"bartolo-etal:2016":
+  type: article
+  title: "Science with the space-based interferometer LISA. IV: Probing inflation with gravitational waves"
+  author: [{name: "Bartolo, Nicola and others"}]
+  date: 2016
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "12"}
+  page-range: "026"
+  doi: "10.1088/1475-7516/2016/12/026"
+
+"LISA:2017":
+  type: article
+  title: "Laser Interferometer Space Antenna"
+  author: [{name: "Amaro-Seoane, Pau and others"}]
+  date: 2017
+  parent: {type: periodical, title: "arXiv preprint"}
+
+"sesana-etal:2021":
+  type: article
+  title: "Unveiling the gravitational universe at μ-Hz frequencies"
+  author: [{name: "Sesana, Alberto and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Exper. Astron.", volume: "51"}
+  page-range: "1333-1383"
+  doi: "10.1007/s10686-021-09709-9"
+
+"sedda-etal:2021":
+  type: article
+  title: "The missing link in gravitational-wave astronomy: A summary of discoveries waiting in the decihertz range"
+  author: [{name: "Sedda, Manuel Arca and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Exper. Astron.", volume: "51"}
+  page-range: "1427-1440"
+  doi: "10.1007/s10686-021-09713-z"
+
+"baker-etal:2021":
+  type: article
+  title: "High angular resolution gravitational wave astronomy"
+  author: [{name: "Baker, John and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Exper. Astron.", volume: "51"}
+  page-range: "1441-1470"
+  doi: "10.1007/s10686-021-09712-0"
+
+"baibhav-etal:2021":
+  type: article
+  title: "Probing the nature of black holes: Deep in the mHz gravitational-wave sky"
+  author: [{name: "Baibhav, Vishal and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Exper. Astron.", volume: "51"}
+  page-range: "1385-1416"
+  doi: "10.1007/s10686-021-09741-9"
+
+"bertoldi-etal:2021":
+  type: article
+  title: "AEDGE: Atomic experiment for dark matter and gravity exploration in space"
+  author: [{name: "Bertoldi, Andrea and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Exper. Astron.", volume: "51"}
+  page-range: "1417-1426"
+  doi: "10.1007/s10686-021-09701-3"
+
+"penzias-wilson:1965":
+  type: article
+  title: "A Measurement of excess antenna temperature at 4080-Mc/s"
+  author: [{name: "Penzias, Arno A. and Wilson, Robert Woodrow"}]
+  date: 1965
+  parent: {type: periodical, title: "Astrophys. J.", volume: "142"}
+  page-range: "419-421"
+  doi: "10.1086/148307"
+
+"WMAP:2009":
+  type: article
+  title: "Five-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Cosmological Interpretation"
+  author: [{name: "Komatsu, E. and others"}]
+  date: 2009
+  parent: {type: periodical, title: "Astrophys. J. Suppl.", volume: "180"}
+  page-range: "330-376"
+  doi: "10.1088/0067-0049/180/2/330"
+
+"WMAP:2011":
+  type: article
+  title: "Seven-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Cosmological Interpretation"
+  author: [{name: "Komatsu, E. and others"}]
+  date: 2011
+  parent: {type: periodical, title: "Astrophys. J. Suppl.", volume: "192"}
+  page-range: "18"
+  doi: "10.1088/0067-0049/192/2/18"
+
+"WMAP:2013a":
+  type: article
+  title: "Nine-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Final Maps and Results"
+  author: [{name: "Bennett, C. L. and others"}]
+  date: 2013
+  parent: {type: periodical, title: "Astrophys. J. Suppl.", volume: "208"}
+  page-range: "20"
+  doi: "10.1088/0067-0049/208/2/20"
+
+"WMAP:2013b":
+  type: article
+  title: "Nine-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Cosmological Parameter Results"
+  author: [{name: "Hinshaw, G. and others"}]
+  date: 2013
+  parent: {type: periodical, title: "Astrophys. J. Suppl.", volume: "208"}
+  page-range: "19"
+  doi: "10.1088/0067-0049/208/2/19"
+
+"komatsu-etal:2014":
+  type: article
+  title: "Results from the Wilkinson Microwave Anisotropy Probe"
+  author: [{name: "Komatsu, Eiichiro and Bennett, Charles L. and Barnes, C. and Bean, R. and Bennett, C. L. and Doré, O. and Dunkley, J. and Gold, B. and Greason, M. R. and Halpern, M. and Hill, R. S. and Hinshaw, G. and Jarosik, N. and Kogut, A. and Komatsu, E. and Larson, D. and Limon, M. and Meyer, S. S. and Nolta, M. R. and Odegard, N. and Page, L. and Peiris, H. V. and Smith, K. M. and Spergel, D. N. and Tucker, G. S. and Verde, L. and Weiland, J. L. and Wollack, E. and Wright, E. L."}]
+  date: 2014
+  parent: {type: periodical, title: "Progress of Theoretical and Experimental Physics", volume: "2014"}
+  serial-number: "06B102"
+  doi: "10.1093/ptep/ptu083"
+
+"Planck2018I":
+  type: article
+  title: "Planck 2018 results. I. Overview, and the cosmological legacy of Planck"
+  author: [{name: "Planck Collaboration I"}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "641"}
+  serial-number: "A1"
+  doi: "10.1051/0004-6361/201833880"
+
+"Planck2018II":
+  type: article
+  title: "Planck 2018 results. II. Low Frequency Instrument data processing"
+  author: [{name: "Planck Collaboration II"}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "641"}
+  serial-number: "A2"
+  doi: "10.1051/0004-6361/201833293"
+
+"Planck2018III":
+  type: article
+  title: "Planck 2018 results. III. High Frequency Instrument data processing"
+  author: [{name: "Planck Collaboration III"}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "641"}
+  serial-number: "A3"
+  doi: "10.1051/0004-6361/201832909"
+
+"Planck2018VI":
+  type: article
+  title: "Planck 2018 results. VI. Cosmological parameters"
+  author: [{name: "Planck Collaboration VI"}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "641"}
+  serial-number: "A6"
+  doi: "10.1051/0004-6361/201833910"
+
+"Planck2018V":
+  type: article
+  title: "Planck 2018 results. V. Power spectra and likelihoods"
+  author: [{name: "Planck Collaboration V"}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "641"}
+  serial-number: "A5"
+  doi: "10.1051/0004-6361/201936386"
+
+"Planck2018X":
+  type: article
+  title: "Planck 2018 results. X. Constraints on inflation"
+  author: [{name: "Planck Collaboration X"}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "641"}
+  serial-number: "A10"
+  doi: "10.1051/0004-6361/201833887"
+
+"PlanckIntLVII":
+  type: article
+  title: "Planck intermediate results. LVII. NPIPE: Joint Planck LFI and HFI data processing"
+  author: [{name: "Planck Collaboration Int. LVII"}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "643"}
+  page-range: "42"
+  doi: "10.1051/0004-6361/202038073"
+
+"watanabe-komatsu:2006":
+  type: article
+  title: "Improved Calculation of the Primordial Gravitational Wave Spectrum in the Standard Model"
+  author: [{name: "Watanabe, Yuki and Komatsu, Eiichiro"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "73"}
+  page-range: "123515"
+  doi: "10.1103/PhysRevD.73.123515"
+
+"saikawa-shirai:2018":
+  type: article
+  title: "Primordial gravitational waves, precisely: The role of thermodynamics in the Standard Model"
+  author: [{name: "Saikawa, Ken'ichi and Shirai, Satoshi"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "05"}
+  page-range: "035"
+  doi: "10.1088/1475-7516/2018/05/035"
+
+"caprini-figueroa:2018":
+  type: article
+  title: "Cosmological Backgrounds of Gravitational Waves"
+  author: [{name: "Caprini, Chiara and Figueroa, Daniel G."}]
+  date: 2018
+  parent: {type: periodical, title: "Class. Quant. Grav.", volume: "35"}
+  page-range: "163001"
+  doi: "10.1088/1361-6382/aac608"
+
+"moore-etal:2017":
+  type: article
+  title: "Astrometric Search Method for Individually Resolvable Gravitational Wave Sources with Gaia"
+  author: [{name: "Moore, Christopher J. and Mihaylov, Deyan P. and Lasenby, Anthony and Gilmore, Gerard"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "119"}
+  page-range: "261102"
+  doi: "10.1103/PhysRevLett.119.261102"
+
+"NANOGrav:2020":
+  type: article
+  title: "The NANOGrav 12.5 yr Data Set: Search for an Isotropic Stochastic Gravitational-wave Background"
+  author: [{name: "Arzoumanian, Zaven and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "905"}
+  serial-number: "L34"
+  doi: "10.3847/2041-8213/abd401"
+
+"IPTA:2022":
+  type: article
+  title: "The International Pulsar Timing Array second data release: Search for an isotropic gravitational wave background"
+  author: [{name: "Antoniadis, J. and Arzoumanian, Z. and Babak, S. and Bailes, M. and Bak Nielsen, A. -S. and Baker, P. T. and Bassa, C. G. and Bécsy, B. and Berthereau, A. and Bonetti, M. and Brazier, A. and Brook, P. R. and Burgay, M. and Burke-Spolaor, S. and Caballero, R. N. and Casey-Clyde, J. A. and Chalumeau, A. and Champion, D. J. and Charisi, M. and Chatterjee, S. and Chen, S. and Cognard, I. and Cordes, J. M. and Cornish, N. J. and Crawford, F. and Cromartie, H. T. and Crowter, K. and Dai, S. and DeCesar, M. E. and Demorest, P. B. and Desvignes, G. and Dolch, T. and Drachler, B. and Falxa, M. and Ferrara, E. C. and Fiore, W. and Fonseca, E. and Gair, J. R. and Garver-Daniels, N. and Goncharov, B. and Good, D. C. and Graikou, E. and Guillemot, L. and Guo, Y. J. and Hazboun, J. S. and Hobbs, G. and Hu, H. and Islo, K. and Janssen, G. H. and Jennings, R. J. and Johnson, A. D. and Jones, M. L. and Kaiser, A. R. and Kaplan, D. L. and Karuppusamy, R. and Keith, M. J. and Kelley, L. Z. and Kerr, M. and Key, J. S. and Kramer, M. and Lam, M. T. and Lamb, W. G. and Lazio, T. J. W. and Lee, K. J. and Lentati, L. and Liu, K. and Luo, J. and Lynch, R. S. and Lyne, A. G. and Madison, D. R. and Main, R. A. and Manchester, R. N. and McEwen, A. and McKee, J. W. and McLaughlin, M. A. and Mickaliger, M. B. and Mingarelli, C. M. F. and Ng, C. and Nice, D. J. and Osłowski, S. and Parthasarathy, A. and Pennucci, T. T. and Perera, B. B. P. and Perrodin, D. and Petiteau, A. and Pol, N. S. and Porayko, N. K. and Possenti, A. and Ransom, S. M. and Ray, P. S. and Reardon, D. J. and Russell, C. J. and Samajdar, A. and Sampson, L. M. and Sanidas, S. and Sarkissian, J. M. and Schmitz, K. and Schult, L. and Sesana, A. and Shaifullah, G. and Shannon, R. M. and Shapiro-Albert, B. J. and Siemens, X. and Simon, J. and Smith, T. L. and Speri, L. and Spiewak, R. and Stairs, I. H. and Stappers, B. W. and Stinebring, D. R. and Swiggum, J. K. and Taylor, S. R. and Theureau, G. and Tiburzi, C. and Vallisneri, M. and van der Wateren, E. and Vecchio, A. and Verbiest, J. P. W. and Vigeland, S. J. and Wahl, H. and Wang, J. B. and Wang, J. and Wang, L. and Witt, C. A. and Zhang, S. and Zhu, X. J."}]
+  date: 2022
+  parent: {type: periodical, title: "Mon. Not. Roy. Astron. Soc.", volume: "510"}
+  page-range: "4873-4887"
+  doi: "10.1093/mnras/stab3418"
+
+"lasky-etal:2016":
+  type: article
+  title: "Gravitational-wave cosmology across 29 decades in frequency"
+  author: [{name: "Lasky, Paul D. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "6"}
+  page-range: "011035"
+  doi: "10.1103/PhysRevX.6.011035"
+
+"adshead-etal:2020":
+  type: article
+  title: "Constraining Axion Inflation with Gravitational Waves across 29 Decades in Frequency"
+  author: [{name: "Adshead, Peter and Giblin, John T. and Pieroni, Mauro and Weiner, Zachary J."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "171301"
+  doi: "10.1103/PhysRevLett.124.171301"
+
+"campeti-etal:2021":
+  type: article
+  title: "Measuring the spectrum of primordial gravitational waves with CMB, PTA and Laser Interferometers"
+  author: [{name: "Campeti, Paolo and Komatsu, Eiichiro and Poletti, Davide and Baccigalupi, Carlo"}]
+  date: 2021
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "01"}
+  page-range: "012"
+  doi: "10.1088/1475-7516/2021/01/012"
+
+"kite-etal:2021":
+  type: article
+  title: "Bridging the gap: spectral distortions meet gravitational waves"
+  author: [{name: "Kite, Thomas and Ravenni, Andrea and Patil, Subodh P. and Chluba, Jens"}]
+  date: 2021
+  parent: {type: periodical, title: "Mon. Not. Roy. Astron. Soc.", volume: "505"}
+  page-range: "4396"
+  doi: "10.1093/mnras/stab1558"
+
+"kite-etal:2021b":
+  type: article
+  title: "Clarifying transfer function approximations for the large-scale gravitational wave background in ΛCDM"
+  author: [{name: "Kite, Thomas and Chluba, Jens and Ravenni, Andrea and Patil, Subodh P."}]
+  date: 2021
+  parent: {type: periodical, title: "Mon. Not. Roy. Astron. Soc.", volume: "509"}
+  page-range: "1366-1376"
+  doi: "10.1093/mnras/stab3125"
+
+"bailes-etal:2021":
+  type: article
+  title: "Gravitational-wave physics and astronomy in the 2020s and 2030s"
+  author: [{name: "Bailes, M. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Rev. Phys.", volume: "3"}
+  page-range: "344-366"
+  doi: "10.1038/s42254-021-00303-8"
+
+"tristram-etal:2021":
+  type: article
+  title: "Planck constraints on the tensor-to-scalar ratio"
+  author: [{name: "Tristram, M. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "647"}
+  serial-number: "A128"
+  doi: "10.1051/0004-6361/202039585"
+
+"SPIDER:2022":
+  type: article
+  title: "A Constraint on Primordial B-modes from the First Flight of the Spider Balloon-borne Telescope"
+  author: [{name: "Ade, P. A. R. and others"}]
+  date: 2022
+  parent: {type: periodical, title: "Astrophys. J.", volume: "927"}
+  page-range: "174"
+  doi: "10.3847/1538-4357/ac20df"
+
+"BICEP:2021":
+  type: article
+  title: "Improved Constraints on Primordial Gravitational Waves using Planck, WMAP, and BICEP/Keck Observations through the 2018 Observing Season"
+  author: [{name: "Ade, P. A. R. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "151301"
+  doi: "10.1103/PhysRevLett.127.151301"
+
+"tristram-etal:prep":
+  type: article
+  title: "Improved limits on the tensor-to-scalar ratio using BICEP and Planck"
+  author: [{name: "Tristram, M. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv preprint"}
+
+"sunyaev-zeldovich:1970":
+  type: article
+  title: "The Interaction of matter and radiation in the hot model of the universe"
+  author: [{name: "Sunyaev, R. A. and Zeldovich, Ya. B."}]
+  date: 1970
+  parent: {type: periodical, title: "Astrophys. Space Sci.", volume: "7"}
+  page-range: "20-30"
+
+"danese-dezotti:1982":
+  type: article
+  title: "Double Compton process and the spectrum of the microwave background"
+  author: [{name: "Danese, L. and de Zotti, G."}]
+  date: 1982
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "107"}
+  page-range: "39-42"
+
+"fixsen:2009":
+  type: article
+  title: "The Temperature of the Cosmic Microwave Background"
+  author: [{name: "Fixsen, D. J."}]
+  date: 2009
+  parent: {type: periodical, title: "Astrophys. J.", volume: "707"}
+  page-range: "916-920"
+  doi: "10.1088/0004-637X/707/2/916"
+
+"chluba-etal:2021":
+  type: article
+  title: "New horizons in cosmology with spectral distortions of the cosmic microwave background"
+  author: [{name: "Chluba, J. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Exper. Astron.", volume: "51"}
+  page-range: "1515-1554"
+  doi: "10.1007/s10686-021-09729-5"
+
+"sachs-wolfe:1967":
+  type: article
+  title: "Perturbations of a cosmological model and angular variations of the microwave background"
+  author: [{name: "Sachs, R. K. and Wolfe, A. M."}]
+  date: 1967
+  parent: {type: periodical, title: "Astrophys. J.", volume: "147"}
+  page-range: "73-90"
+  doi: "10.1007/s10714-007-0448-9"
+
+"peebles-yu:1970":
+  type: article
+  title: "Primeval adiabatic perturbation in an expanding universe"
+  author: [{name: "Peebles, P. J. E. and Yu, J. T."}]
+  date: 1970
+  parent: {type: periodical, title: "Astrophys. J.", volume: "162"}
+  page-range: "815-836"
+  doi: "10.1086/150713"
+
+"sunyaev-zeldovich:1970b":
+  type: article
+  title: "Small scale fluctuations of relic radiation"
+  author: [{name: "Sunyaev, R. A. and Zeldovich, Ya. B."}]
+  date: 1970
+  parent: {type: periodical, title: "Astrophys. Space Sci.", volume: "7"}
+  page-range: "3-19"
+
+"weinberg:1971":
+  type: article
+  title: "Entropy generation and the survival of protogalaxies in an expanding universe"
+  author: [{name: "Weinberg, Steven"}]
+  date: 1971
+  parent: {type: periodical, title: "Astrophys. J.", volume: "168"}
+  page-range: "175"
+  doi: "10.1086/151073"
+
+"kaiser:1983":
+  type: article
+  title: "Small-angle anisotropy of the microwave background radiation in the adiabatic theory"
+  author: [{name: "Kaiser, N."}]
+  date: 1983
+  parent: {type: periodical, title: "Mon. Not. Roy. Astron. Soc.", volume: "202"}
+  page-range: "1169-1180"
+  doi: "10.1093/mnras/202.4.1169"
+
+"miller-etal:1999":
+  type: article
+  title: "A measurement of the angular power spectrum of the cmb from l = 100 to 400"
+  author: [{name: "Miller, A. D. and Caldwell, R. and Devlin, M. J. and Dorwart, W. B. and Herbig, T. and Nolta, M. R. and Page, L. A. and Puchalla, J. and Torbet, E. and Tran, H. T."}]
+  date: 1999
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "524"}
+  serial-number: "L1-L4"
+  doi: "10.1086/312293"
+
+"boomerang:2000":
+  type: article
+  title: "A Flat universe from high resolution maps of the cosmic microwave background radiation"
+  author: [{name: "de Bernardis, P. and others"}]
+  date: 2000
+  parent: {type: periodical, title: "Nature", volume: "404"}
+  page-range: "955-959"
+  doi: "10.1038/35010035"
+
+"hanany-etal:2000":
+  type: article
+  title: "MAXIMA-1: A Measurement of the cosmic microwave background anisotropy on angular scales of 10 arcminutes to 5 degrees"
+  author: [{name: "Hanany, S. and others"}]
+  date: 2000
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "545"}
+  serial-number: "L5"
+  doi: "10.1086/317322"
+
+"WMAP:2003":
+  type: article
+  title: "First year Wilkinson Microwave Anisotropy Probe (WMAP) observations: Preliminary maps and basic results"
+  author: [{name: "Bennett, C. L. and others"}]
+  date: 2003
+  parent: {type: periodical, title: "Astrophys. J. Suppl.", volume: "148"}
+  page-range: "1-27"
+  doi: "10.1086/377253"
+
+"kosowsky:1996":
+  type: article
+  title: "Cosmic microwave background polarization"
+  author: [{name: "Kosowsky, Arthur"}]
+  date: 1996
+  parent: {type: periodical, title: "Annals Phys.", volume: "246"}
+  page-range: "49-85"
+  doi: "10.1006/aphy.1996.0020"
+
+"zaldarriaga:1997":
+  type: article
+  title: "Polarization of the microwave background in reionized models"
+  author: [{name: "Zaldarriaga, Matias"}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "55"}
+  page-range: "1822-1829"
+  doi: "10.1103/PhysRevD.55.1822"
+
+"hu-white:1997":
+  type: article
+  title: "A CMB polarization primer"
+  author: [{name: "Hu, Wayne and White, Martin J."}]
+  date: 1997
+  parent: {type: periodical, title: "New Astron.", volume: "2"}
+  page-range: "323"
+  doi: "10.1016/S1384-1076(97)00022-5"
+
+"kamionkowski-etal:1997":
+  type: article
+  title: "Statistics of cosmic microwave background polarization"
+  author: [{name: "Kamionkowski, Marc and Kosowsky, Arthur and Stebbins, Albert"}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "55"}
+  page-range: "7368-7388"
+  doi: "10.1103/PhysRevD.55.7368"
+
+"kamionkowski-etal:1997b":
+  type: article
+  title: "A Probe of primordial gravity waves and vorticity"
+  author: [{name: "Kamionkowski, Marc and Kosowsky, Arthur and Stebbins, Albert"}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "78"}
+  page-range: "2058-2061"
+  doi: "10.1103/PhysRevLett.78.2058"
+
+"seljak:1997":
+  type: article
+  title: "Measuring polarization in cosmic microwave background"
+  author: [{name: "Seljak, Uros"}]
+  date: 1997
+  parent: {type: periodical, title: "Astrophys. J.", volume: "482"}
+  page-range: "6"
+  doi: "10.1086/304123"
+
+"zaldarriaga-seljak:1997":
+  type: article
+  title: "An all sky analysis of polarization in the microwave background"
+  author: [{name: "Zaldarriaga, Matias and Seljak, Uros"}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "55"}
+  page-range: "1830-1840"
+  doi: "10.1103/PhysRevD.55.1830"
+
+"seljak-zaldarriaga:1997":
+  type: article
+  title: "Signature of gravity waves in polarization of the microwave background"
+  author: [{name: "Seljak, Uros and Zaldarriaga, Matias"}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "78"}
+  page-range: "2054-2057"
+  doi: "10.1103/PhysRevLett.78.2054"
+
+"kamionkowski-kovetz:2016":
+  type: article
+  title: "The Quest for B Modes from Inflationary Gravitational Waves"
+  author: [{name: "Kamionkowski, Marc and Kovetz, Ely D."}]
+  date: 2016
+  parent: {type: periodical, title: "Ann. Rev. Astron. Astrophys.", volume: "54"}
+  page-range: "227-269"
+  doi: "10.1146/annurev-astro-081915-023433"
+
+"zaldarriaga-seljak:1998":
+  type: article
+  title: "Gravitational lensing effect on cosmic microwave background polarization"
+  author: [{name: "Zaldarriaga, Matias and Seljak, Uros"}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "58"}
+  page-range: "023003"
+  doi: "10.1103/PhysRevD.58.023003"
+
+"Planck2018VIII":
+  type: article
+  title: "Planck 2018 results. VIII. Gravitational lensing"
+  author: [{name: "Planck Collaboration VIII"}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "641"}
+  serial-number: "A8"
+  doi: "10.1051/0004-6361/201833886"
+
+"omori-etal:2017":
+  type: article
+  title: "A 2500 deg^2 CMB Lensing Map from Combined South Pole Telescope and Planck Data"
+  author: [{name: "Omori, Y. and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J.", volume: "849"}
+  page-range: "124"
+  doi: "10.3847/1538-4357/aa8d1d"
+
+"darwish-etal:2020":
+  type: article
+  title: "The Atacama Cosmology Telescope: A CMB lensing mass map over 2100 square degrees of sky and its cross-correlation with BOSS-CMASS galaxies"
+  author: [{name: "Darwish, Omar and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Mon. Not. Roy. Astron. Soc.", volume: "500"}
+  page-range: "2250-2263"
+  doi: "10.1093/mnras/staa3438"
+
+"POLARBEAR:2020":
+  type: article
+  title: "Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum from Two Years of POLARBEAR Data"
+  author: [{name: "Aguilar Faúndez, M. A. O. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "893"}
+  page-range: "85"
+  doi: "10.3847/1538-4357/ab7e29"
+
+"peccei-quinn:1977":
+  type: article
+  title: "CP Conservation in the Presence of Pseudoparticles"
+  author: [{name: "Peccei, R. D. and Quinn, Helen R."}]
+  date: 1977
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "38"}
+  page-range: "1440-1443"
+  doi: "10.1103/PhysRevLett.38.1440"
+
+"weinberg:1978":
+  type: article
+  title: "A New Light Boson?"
+  author: [{name: "Weinberg, Steven"}]
+  date: 1978
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "40"}
+  page-range: "223-226"
+  doi: "10.1103/PhysRevLett.40.223"
+
+"wilczek:1978":
+  type: article
+  title: "Problem of Strong P and T Invariance in the Presence of Instantons"
+  author: [{name: "Wilczek, Frank"}]
+  date: 1978
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "40"}
+  page-range: "279-282"
+  doi: "10.1103/PhysRevLett.40.279"
+
+"lue-wang-kamionkowski:1999":
+  type: article
+  title: "Cosmological signature of new parity violating interactions"
+  author: [{name: "Lue, Arthur and Wang, Li-Min and Kamionkowski, Marc"}]
+  date: 1999
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "83"}
+  page-range: "1506-1509"
+  doi: "10.1103/PhysRevLett.83.1506"
+
+"saito-ichiki-taruya:2007":
+  type: article
+  title: "Probing polarization states of primordial gravitational waves with CMB anisotropies"
+  author: [{name: "Saito, Shun and Ichiki, Kiyotomo and Taruya, Atsushi"}]
+  date: 2007
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "09"}
+  page-range: "002"
+  doi: "10.1088/1475-7516/2007/09/002"
+
+"contaldi-magueijo-smolin:2008":
+  type: article
+  title: "Anomalous CMB polarization and gravitational chirality"
+  author: [{name: "Contaldi, Carlo R. and Magueijo, Joao and Smolin, Lee"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "101"}
+  page-range: "141101"
+  doi: "10.1103/PhysRevLett.101.141101"
+
+"sorbo:2011":
+  type: article
+  title: "Parity violation in the Cosmic Microwave Background from a pseudoscalar inflaton"
+  author: [{name: "Sorbo, Lorenzo"}]
+  date: 2011
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "06"}
+  page-range: "003"
+  doi: "10.1088/1475-7516/2011/06/003"
+
+"thorne-etal:2018":
+  type: article
+  title: "Finding the chiral gravitational wave background of an axion-SU(2) inflationary model using CMB observations and laser interferometers"
+  author: [{name: "Thorne, B. and Fujita, T. and Hazumi, M. and Katayama, N. and Komatsu, E. and Shiraishi, M."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D97"}
+  page-range: "043506"
+  doi: "10.1103/PhysRevD.97.043506"
+
+"alexander-yunes:2009":
+  type: article
+  title: "Chern-Simons Modified General Relativity"
+  author: [{name: "Alexander, Stephon and Yunes, Nicolas"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rept.", volume: "480"}
+  page-range: "1-55"
+  doi: "10.1016/j.physrep.2009.07.002"
+
+"mirzagholi-etal:2020":
+  type: article
+  title: "Effects of Gravitational Chern-Simons during Axion-SU(2) Inflation"
+  author: [{name: "Mirzagholi, Leila and Komatsu, Eiichiro and Lozanov, Kaloian D. and Watanabe, Yuki"}]
+  date: 2020
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "06"}
+  page-range: "024"
+  doi: "10.1088/1475-7516/2020/06/024"
+
+"ni:1977":
+  type: article
+  title: "Equivalence Principles and Electromagnetism"
+  author: [{name: "Ni, Wei-Tou"}]
+  date: 1977
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "38"}
+  page-range: "301-304"
+  doi: "10.1103/PhysRevLett.38.301"
+
+"turner-widrow:1988":
+  type: article
+  title: "Inflation Produced, Large Scale Magnetic Fields"
+  author: [{name: "Turner, Michael S. and Widrow, Lawrence M."}]
+  date: 1988
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "37"}
+  page-range: "2743"
+  doi: "10.1103/PhysRevD.37.2743"
+
+"ratra:1992":
+  type: article
+  title: "Cosmological “seed” magnetic field from inflation"
+  author: [{name: "Ratra, Bharat"}]
+  date: 1992
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "391"}
+  serial-number: "L1-L4"
+  doi: "10.1086/186384"
+
+"anber-sorbo:2006":
+  type: article
+  title: "N-flationary magnetic fields"
+  author: [{name: "Anber, Mohamed M. and Sorbo, Lorenzo"}]
+  date: 2006
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "10"}
+  page-range: "018"
+  doi: "10.1088/1475-7516/2006/10/018"
+
+"demozzi-mukhanov-rubinstein:2009":
+  type: article
+  title: "Magnetic fields from inflation?"
+  author: [{name: "Demozzi, Vittoria and Mukhanov, Viatcheslav and Rubinstein, Hector"}]
+  date: 2009
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "08"}
+  page-range: "025"
+  doi: "10.1088/1475-7516/2009/08/025"
+
+"anber-sorbo:2010":
+  type: article
+  title: "Naturally inflating on steep potentials through electromagnetic dissipation"
+  author: [{name: "Anber, Mohamed M. and Sorbo, Lorenzo"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "81"}
+  page-range: "043534"
+  doi: "10.1103/PhysRevD.81.043534"
+
+"anber-sorbo:2012":
+  type: article
+  title: "Non-Gaussianities and chiral gravitational waves in natural steep inflation"
+  author: [{name: "Anber, Mohamed M. and Sorbo, Lorenzo"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "85"}
+  page-range: "123537"
+  doi: "10.1103/PhysRevD.85.123537"
+
+"cook-sorbo:2012":
+  type: article
+  title: "Particle production during inflation and gravitational waves detectable by ground-based interferometers"
+  author: [{name: "Cook, Jessica L. and Sorbo, Lorenzo"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "85"}
+  page-range: "023534"
+  doi: "10.1103/PhysRevD.85.023534"
+
+"cook-sorbo:2013":
+  type: article
+  title: "An inflationary model with small scalar and large tensor nongaussianities"
+  author: [{name: "Cook, Jessica L. and Sorbo, Lorenzo"}]
+  date: 2013
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "11"}
+  page-range: "047"
+  doi: "10.1088/1475-7516/2013/11/047"
+
+"barnaby-peloso:2011":
+  type: article
+  title: "Large Nongaussianity in Axion Inflation"
+  author: [{name: "Barnaby, Neil and Peloso, Marco"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "106"}
+  page-range: "181301"
+  doi: "10.1103/PhysRevLett.106.181301"
+
+"barnaby-namba-peloso:2011":
+  type: article
+  title: "Phenomenology of a Pseudo-Scalar Inflaton: Naturally Large Nongaussianity"
+  author: [{name: "Barnaby, Neil and Namba, Ryo and Peloso, Marco"}]
+  date: 2011
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "04"}
+  page-range: "009"
+  doi: "10.1088/1475-7516/2011/04/009"
+
+"barnaby-pajer-peloso:2012":
+  type: article
+  title: "Gauge Field Production in Axion Inflation: Consequences for Monodromy, non-Gaussianity in the CMB, and Gravitational Waves at Interferometers"
+  author: [{name: "Barnaby, Neil and Pajer, Enrico and Peloso, Marco"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "85"}
+  page-range: "023525"
+  doi: "10.1103/PhysRevD.85.023525"
+
+"barnaby-namba-peloso:2012":
+  type: article
+  title: "Observable non-gaussianity from gauge field production in slow roll inflation, and a challenging connection with magnetogenesis"
+  author: [{name: "Barnaby, Neil and Namba, Ryo and Peloso, Marco"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "85"}
+  page-range: "123523"
+  doi: "10.1103/PhysRevD.85.123523"
+
+"barnaby-etal:2012":
+  type: article
+  title: "Gravity waves and non-Gaussian features from particle production in a sector gravitationally coupled to the inflaton"
+  author: [{name: "Barnaby, Neil and Moxon, Jordan and Namba, Ryo and Peloso, Marco and Shiu, Gary and Zhou, Peng"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "86"}
+  page-range: "103508"
+  doi: "10.1103/PhysRevD.86.103508"
+
+"kobayashi-afshordi:2014":
+  type: article
+  title: "Schwinger Effect in 4D de Sitter Space and Constraints on Magnetogenesis in the Early Universe"
+  author: [{name: "Kobayashi, Takeshi and Afshordi, Niayesh"}]
+  date: 2014
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "10"}
+  page-range: "166"
+  doi: "10.1007/JHEP10(2014)166"
+
+"namba-etal:2016":
+  type: article
+  title: "Scale-dependent gravitational waves from a rolling axion"
+  author: [{name: "Namba, Ryo and Peloso, Marco and Shiraishi, Maresuke and Sorbo, Lorenzo and Unal, Caner"}]
+  date: 2016
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "01"}
+  page-range: "041"
+  doi: "10.1088/1475-7516/2016/01/041"
+
+"maleknejad-sheikh-jabbari:2011":
+  type: article
+  title: "Non-Abelian Gauge Field Inflation"
+  author: [{name: "Maleknejad, A. and Sheikh-Jabbari, M. M."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "84"}
+  page-range: "043515"
+  doi: "10.1103/PhysRevD.84.043515"
+
+"maleknejad-sheikh-jabbari:2013":
+  type: article
+  title: "Gauge-flation: Inflation From Non-Abelian Gauge Fields"
+  author: [{name: "Maleknejad, A. and Sheikh-Jabbari, M. M."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B723"}
+  page-range: "224-228"
+  doi: "10.1016/j.physletb.2013.05.001"
+
+"adshead-wyman:2012":
+  type: article
+  title: "Chromo-Natural Inflation: Natural inflation on a steep potential with classical non-Abelian gauge fields"
+  author: [{name: "Adshead, P. and Wyman, M."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "108"}
+  page-range: "261302"
+  doi: "10.1103/PhysRevLett.108.261302"
+
+"adshead-martinec-wyman:2013":
+  type: article
+  title: "Gauge fields and inflation: Chiral gravitational waves, fluctuations, and the Lyth bound"
+  author: [{name: "Adshead, P. and Martinec, E. and Wyman, M."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D88"}
+  page-range: "021302"
+  doi: "10.1103/PhysRevD.88.021302"
+
+"adshead-martinec-wyman:2013b":
+  type: article
+  title: "Perturbations in Chromo-Natural Inflation"
+  author: [{name: "Adshead, P. and Martinec, E. and Wyman, M."}]
+  date: 2013
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "09"}
+  page-range: "087"
+  doi: "10.1007/JHEP09(2013)087"
+
+"dimastrogiovanni-peloso:2012":
+  type: article
+  title: "Stability analysis of chromo-natural inflation and possible evasion of Lyth’s bound"
+  author: [{name: "Dimastrogiovanni, E. and Peloso, M."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D87"}
+  page-range: "103501"
+  doi: "10.1103/PhysRevD.87.103501"
+
+"sheikh-jabbari:2012":
+  type: article
+  title: "Gauge-flation Vs Chromo-Natural Inflation"
+  author: [{name: "Sheikh-Jabbari, M. M."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "717"}
+  page-range: "6-9"
+  doi: "10.1016/j.physletb.2012.09.014"
+
+"adshead-wyman:2012b":
+  type: article
+  title: "Gauge-flation trajectories in Chromo-Natural Inflation"
+  author: [{name: "Adshead, Peter and Wyman, Mark"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "86"}
+  page-range: "043530"
+  doi: "10.1103/PhysRevD.86.043530"
+
+"maleknejad-sheikh-jabbari-soda:2013":
+  type: article
+  title: "Gauge Fields and Inflation"
+  author: [{name: "Maleknejad, A. and Sheikh-Jabbari, M.M. and Soda, J."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rept.", volume: "528"}
+  page-range: "161-261"
+  doi: "10.1016/j.physrep.2013.03.003"
+
+"namba-dimastrogiovanni-peloso:2013":
+  type: article
+  title: "Gauge-flation confronted with Planck"
+  author: [{name: "Namba, Ryo and Dimastrogiovanni, Emanuela and Peloso, Marco"}]
+  date: 2013
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "11"}
+  page-range: "045"
+  doi: "10.1088/1475-7516/2013/11/045"
+
+"maleknejad-erfani:2014":
+  type: article
+  title: "Chromo-Natural Model in Anisotropic Background"
+  author: [{name: "Maleknejad, Azadeh and Erfani, E."}]
+  date: 2014
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "03"}
+  page-range: "016"
+  doi: "10.1088/1475-7516/2014/03/016"
+
+"obata-miura-soda:2015":
+  type: article
+  title: "Chromo-Natural Inflation in the Axiverse"
+  author: [{name: "Obata, Ippei and Miura, Takashi and Soda, Jiro"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "92"}
+  page-range: "063516"
+  doi: "10.1103/PhysRevD.92.063516"
+
+"obata-soda:2016":
+  type: article
+  title: "Chiral primordial gravitational waves from dilaton induced delayed chromonatural inflation"
+  author: [{name: "Obata, I. and Soda, J."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D93"}
+  page-range: "123502"
+  doi: "10.1103/PhysRevD.93.123502"
+
+"maleknejad:2016":
+  type: article
+  title: "Axion Inflation with an SU(2) Gauge Field: Detectable Chiral Gravity Waves"
+  author: [{name: "Maleknejad, A."}]
+  date: 2016
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "07"}
+  page-range: "104"
+  doi: "10.1007/JHEP07(2016)104"
+
+"dimastrogiovanni-fasiello-fujita:2016":
+  type: article
+  title: "Primordial Gravitational Waves from Axion-Gauge Fields Dynamics"
+  author: [{name: "Dimastrogiovanni, E. and Fasiello, M. and Fujita, T."}]
+  date: 2017
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "1701"}
+  page-range: "019"
+  doi: "10.1088/1475-7516/2017/01/019"
+
+"adshead-etal:2016":
+  type: article
+  title: "Higgsed Chromo-Natural Inflation"
+  author: [{name: "Adshead, Peter and Martinec, Emil and Sfakianakis, Evangelos I. and Wyman, Mark"}]
+  date: 2016
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "12"}
+  page-range: "137"
+  doi: "10.1007/JHEP12(2016)137"
+
+"nieto-rodriguez:2016":
+  type: article
+  title: "Massive Gauge-flation"
+  author: [{name: "Nieto, Carlos M. and Rodriguez, Yeinzon"}]
+  date: 2016
+  parent: {type: periodical, title: "Mod. Phys. Lett. A", volume: "31"}
+  page-range: "1640005"
+  doi: "10.1142/S0217732316400058"
+
+"adshead-sfakianakis:2017":
+  type: article
+  title: "Higgsed Gauge-flation"
+  author: [{name: "Adshead, Peter and Sfakianakis, Evangelos I."}]
+  date: 2017
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "08"}
+  page-range: "130"
+  doi: "10.1007/JHEP08(2017)130"
+
+"dallagata:2018":
+  type: article
+  title: "Chromo-Natural inflation in Supergravity"
+  author: [{name: "Dall'Agata, Gianguido"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "782"}
+  page-range: "139-142"
+  doi: "10.1016/j.physletb.2018.05.020"
+
+"mcdonough-alexander:2018":
+  type: article
+  title: "Observable Chiral Gravitational Waves from Inflation in String Theory"
+  author: [{name: "McDonough, Evan and Alexander, Stephon"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "11"}
+  page-range: "030"
+  doi: "10.1088/1475-7516/2018/11/030"
+
+"agrawal-fan-reece:2018":
+  type: article
+  title: "Clockwork Axions in Cosmology: Is Chromonatural Inflation Chrononatural?"
+  author: [{name: "Agrawal, Prateek and Fan, Jiji and Reece, Matthew"}]
+  date: 2018
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "10"}
+  page-range: "193"
+  doi: "10.1007/JHEP10(2018)193"
+
+"fujita-namba-tada:2018":
+  type: article
+  title: "Does the detection of primordial gravitational waves exclude low energy inflation?"
+  author: [{name: "Fujita, T. and Namba, R. and Tada, Y."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B778"}
+  page-range: "17-21"
+  doi: "10.1016/j.physletb.2017.12.014"
+
+"dimastrogiovanni-etal:2018":
+  type: article
+  title: "Non-Gaussianity from Axion-Gauge Fields Interactions during Inflation"
+  author: [{name: "Dimastrogiovanni, E. and Fasiello, M. and Hardwick, R.J. and Assadullahi, H. and Koyama, K. and Wands, D."}]
+  date: 2018
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "11"}
+  page-range: "029"
+  doi: "10.1088/1475-7516/2018/11/029"
+
+"papageorgiou-peloso-unal:2018":
+  type: article
+  title: "Nonlinear perturbations from the coupling of the inflaton to a non-Abelian gauge field, with a focus on Chromo-Natural Inflation"
+  author: [{name: "Papageorgiou, Alexandros and Peloso, Marco and Unal, Caner"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "09"}
+  page-range: "030"
+  doi: "10.1088/1475-7516/2018/09/030"
+
+"papageorgiou-peloso-unal:2019":
+  type: article
+  title: "Nonlinear perturbations from axion-gauge fields dynamics during inflation"
+  author: [{name: "Papageorgiou, Alexandros and Peloso, Marco and Unal, Caner"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "07"}
+  page-range: "004"
+  doi: "10.1088/1475-7516/2019/07/004"
+
+"fujita-namba-obata:2019":
+  type: article
+  title: "Mixed Non-Gaussianity from Axion-Gauge Field Dynamics"
+  author: [{name: "Fujita, Tomohiro and Namba, Ryo and Obata, Ippei"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "04"}
+  page-range: "044"
+  doi: "10.1088/1475-7516/2019/04/044"
+
+"adshead-liu:2018":
+  type: article
+  title: "Anisotropic Massive Gauge-flation"
+  author: [{name: "Adshead, Peter and Liu, Aike"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "07"}
+  page-range: "052"
+  doi: "10.1088/1475-7516/2018/07/052"
+
+"agrawal-fujita-komatsu:2018":
+  type: article
+  title: "Large tensor non-Gaussianity from axion-gauge field dynamics"
+  author: [{name: "Agrawal, A. and Fujita, T. and Komatsu, E."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D97"}
+  page-range: "103526"
+  doi: "10.1103/PhysRevD.97.103526"
+
+"agrawal-fujita-komatsu:2018b":
+  type: article
+  title: "Tensor Non-Gaussianity from Axion-Gauge-Fields Dynamics : Parameter Search"
+  author: [{name: "Agrawal, A. and Fujita, T. and Komatsu, E."}]
+  date: 2018
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "1806"}
+  page-range: "027"
+  doi: "10.1088/1475-7516/2018/06/027"
+
+"caldwell-devulder:2018":
+  type: article
+  title: "Axion Gauge Field Inflation and Gravitational Leptogenesis: A Lower Bound on B Modes from the Matter-Antimatter Asymmetry of the Universe"
+  author: [{name: "Caldwell, R. R. and Devulder, C."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "97"}
+  page-range: "023532"
+  doi: "10.1103/PhysRevD.97.023532"
+
+"fujita-sfakianakis-shiraishi:2019":
+  type: article
+  title: "Tensor Spectra Templates for Axion-Gauge Fields Dynamics during Inflation"
+  author: [{name: "Fujita, T. and Sfakianakis, E.I. and Shiraishi, M."}]
+  date: 2019
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "05"}
+  page-range: "057"
+  doi: "10.1088/1475-7516/2019/05/057"
+
+"domcke-sandner:2019":
+  type: article
+  title: "The Different Regimes of Axion Gauge Field Inflation"
+  author: [{name: "Domcke, Valerie and Sandner, Stefan"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "09"}
+  page-range: "038"
+  doi: "10.1088/1475-7516/2019/09/038"
+
+"domcke-etal:2019b":
+  type: article
+  title: "Emerging chromo-natural inflation"
+  author: [{name: "Domcke, Valerie and Mares, Ben and Muia, Francesco and Pieroni, Mauro"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "04"}
+  page-range: "034"
+  doi: "10.1088/1475-7516/2019/04/034"
+
+"watanabe-komatsu:prep":
+  type: article
+  title: "Gravitational Wave from Axion-SU(2) Gauge Fields: Effective Field Theory for Kinetically Driven Inflation"
+  author: [{name: "Watanabe, Yuki and Komatsu, Eiichiro"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv preprint"}
+
+"wolfson-maleknejad-komatsu:2020":
+  type: article
+  title: "How attractive is the isotropic attractor solution of axion-SU(2) inflation?"
+  author: [{name: "Wolfson, Ira and Maleknejad, Azadeh and Komatsu, Eiichiro"}]
+  date: 2020
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "09"}
+  page-range: "047"
+  doi: "10.1088/1475-7516/2020/09/047"
+
+"holland-zavala-tasinato:2020":
+  type: article
+  title: "On chromonatural inflation in string theory"
+  author: [{name: "Holland, Jonathan and Zavala, Ivonne and Tasinato, Gianmassimo"}]
+  date: 2020
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "12"}
+  page-range: "026"
+  doi: "10.1088/1475-7516/2020/12/026"
+
+"wolfson-etal:2021":
+  type: article
+  title: "The isotropic attractor solution of axion-SU(2) inflation: universal isotropization in Bianchi type-I geometry"
+  author: [{name: "Wolfson, Ira and Maleknejad, Azadeh and Murata, Tomoaki and Komatsu, Eiichiro and Kobayashi, Tsutomu"}]
+  date: 2021
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "09"}
+  page-range: "031"
+  doi: "10.1088/1475-7516/2021/09/031"
+
+"iarygina-sfakianakis:2021":
+  type: article
+  title: "Gravitational waves from spectator Gauge-flation"
+  author: [{name: "Iarygina, Oksana and Sfakianakis, Evangelos I."}]
+  date: 2021
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "11"}
+  page-range: "023"
+  doi: "10.1088/1475-7516/2021/11/023"
+
+"fujita-etal:2022":
+  type: article
+  title: "Gravitational wave trispectrum in the axion-SU(2) model"
+  author: [{name: "Fujita, Tomohiro and Murai, Kai and Obata, Ippei and Shiraishi, Maresuke"}]
+  date: 2022
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "01"}
+  page-range: "007"
+  doi: "10.1088/1475-7516/2022/01/007"
+
+"fujita-etal:prep":
+  type: article
+  title: "SU(N)-natural inflation"
+  author: [{name: "Fujita, Tomohiro and Nakatsuka, Hiromasa and Mukaida, Kyohei and Murai, Kai"}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv preprint"}
+
+"ishiwata-komatsu-obata:2022":
+  type: article
+  title: "Axion-gauge field dynamics with backreaction"
+  author: [{name: "Ishiwata, Koji and Komatsu, Eiichiro and Obata, Ippei"}]
+  date: 2022
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "03"}
+  page-range: "010"
+  doi: "10.1088/1475-7516/2022/03/010"
+
+"schwinger:1951":
+  type: article
+  title: "On gauge invariance and vacuum polarization"
+  author: [{name: "Schwinger, Julian S."}]
+  date: 1951
+  parent: {type: periodical, title: "Phys. Rev.", volume: "82"}
+  page-range: "664-679"
+  doi: "10.1103/PhysRev.82.664"
+
+"lozanov-maleknejad-komatsu:2019":
+  type: article
+  title: "Schwinger Effect by an SU(2) Gauge Field during Inflation"
+  author: [{name: "Lozanov, Kaloian D. and Maleknejad, Azadeh and Komatsu, Eiichiro"}]
+  date: 2019
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "02"}
+  page-range: "041"
+  doi: "10.1007/JHEP02(2019)041"
+
+"maleknejad-komatsu:2019":
+  type: article
+  title: "Production and Backreaction of Spin-2 Particles of SU(2) Gauge Field during Inflation"
+  author: [{name: "Maleknejad, A. and Komatsu, E."}]
+  date: 2019
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "05"}
+  page-range: "174"
+  doi: "10.1007/JHEP05(2019)174"
+
+"domcke-etal:2019":
+  type: article
+  title: "Chiral Anomaly and Schwinger Effect in Non-Abelian Gauge Theories"
+  author: [{name: "Domcke, Valerie and Ema, Yohei and Mukaida, Kyohei and Sato, Ryosuke"}]
+  date: 2019
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "03"}
+  page-range: "111"
+  doi: "10.1007/JHEP03(2019)111"
+
+"mirzagholi-makeknejad-lozanov:2020":
+  type: article
+  title: "Production and backreaction of fermions from axion-SU(2) gauge fields during inflation"
+  author: [{name: "Mirzagholi, Leila and Maleknejad, Azadeh and Lozanov, Kaloian D."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "101"}
+  page-range: "083528"
+  doi: "10.1103/PhysRevD.101.083528"
+
+"maleknejad:2020":
+  type: article
+  title: "Dark Fermions and Spontaneous CP violation in SU(2)-axion Inflation"
+  author: [{name: "Maleknejad, Azadeh"}]
+  date: 2020
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "07"}
+  page-range: "154"
+  doi: "10.1007/JHEP07(2020)154"
+
+"maleknejad:2020b":
+  type: article
+  title: "Chiral Anomaly in SU(2)_R-Axion Inflation and the New Prediction for Particle Cosmology"
+  author: [{name: "Maleknejad, Azadeh"}]
+  date: 2020
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "21"}
+  page-range: "113"
+  doi: "10.1007/JHEP06(2021)113"
+
+"maleknejad:2021":
+  type: article
+  title: "SU(2)R and its axion in cosmology: A common origin for inflation, cold sterile neutrinos, and baryogenesis"
+  author: [{name: "Maleknejad, Azadeh"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "104"}
+  page-range: "083518"
+  doi: "10.1103/PhysRevD.104.083518"
+
+"kim-komatsu:2013":
+  type: article
+  title: "Limits on anisotropic inflation from the Planck data"
+  author: [{name: "Kim, Jaiseung and Komatsu, Eiichiro"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "88"}
+  page-range: "101301"
+  doi: "10.1103/PhysRevD.88.101301"
+
+"naruko-komatsu-yamaguchi:2015":
+  type: article
+  title: "Anisotropic inflation reexamined: upper bound on broken rotational invariance during inflation"
+  author: [{name: "Naruko, Atsushi and Komatsu, Eiichiro and Yamaguchi, Masahide"}]
+  date: 2015
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "04"}
+  page-range: "045"
+  doi: "10.1088/1475-7516/2015/04/045"
+
+"carney-etal:2012":
+  type: article
+  title: "Rapid field excursions and the inflationary tensor spectrum"
+  author: [{name: "Carney, D. and Fischler, W. and Kovetz, E. D. and Lorshbough, D. and Paban, S."}]
+  date: 2012
+  parent: {type: periodical, title: "J. High Energy Phys.", volume: "11"}
+  page-range: "042"
+  doi: "10.1007/JHEP11(2012)042"
+
+"biagetti-fasiello-riotto:2013":
+  type: article
+  title: "Enhancing Inflationary Tensor Modes through Spectator Fields"
+  author: [{name: "Biagetti, M. and Fasiello, M. and Riotto, A."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D88"}
+  page-range: "103518"
+  doi: "10.1103/PhysRevD.88.103518"
+
+"senatore-silverstein-zaldarriaga:2014":
+  type: article
+  title: "New Sources of Gravitational Waves during Inflation"
+  author: [{name: "Senatore, L. and Silverstein, E. and Zaldarriaga, M."}]
+  date: 2014
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "1408"}
+  page-range: "016"
+  doi: "10.1088/1475-7516/2014/08/016"
+
+"cai-etal:2021":
+  type: article
+  title: "Beating the Lyth Bound by Parametric Resonance during Inflation"
+  author: [{name: "Cai, Yi-Fu and Jiang, Jie and Sasaki, Misao and Vardanyan, Valeri and Zhou, Zihan"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "251301"
+  doi: "10.1103/PhysRevLett.127.251301"
+
+"chinowsky-steinberger:1954":
+  type: article
+  title: "Absorption of Negative Pions in Deuterium: Parity of the Pion"
+  author: [{name: "Chinowsky, W. and Steinberger, J."}]
+  date: 1954
+  parent: {type: periodical, title: "Phys. Rev.", volume: "95"}
+  page-range: "1561-1564"
+  doi: "10.1103/PhysRev.95.1561"
+
+"freese-frieman-olinto:1990":
+  type: article
+  title: "Natural inflation with pseudo - Nambu-Goldstone bosons"
+  author: [{name: "Freese, Katherine and Frieman, Joshua A. and Olinto, Angela V."}]
+  date: 1990
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "65"}
+  page-range: "3233-3236"
+  doi: "10.1103/PhysRevLett.65.3233"
+
+"marsh:2016":
+  type: article
+  title: "Axion Cosmology"
+  author: [{name: "Marsh, D. J. E."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rept.", volume: "643"}
+  page-range: "1-79"
+  doi: "10.1016/j.physrep.2016.06.005"
+
+"ferreira:2021":
+  type: article
+  title: "Ultra-light dark matter"
+  author: [{name: "Ferreira, E. G. M."}]
+  date: 2021
+  parent: {type: periodical, title: "Astron. Astrophys. Rev.", volume: "29"}
+  page-range: "7"
+  doi: "10.1007/s00159-021-00135-6"
+
+"carroll-field-jackiw:1990":
+  type: article
+  title: "Limits on a Lorentz and Parity Violating Modification of Electrodynamics"
+  author: [{name: "Carroll, Sean M. and Field, George B. and Jackiw, Roman"}]
+  date: 1990
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "41"}
+  page-range: "1231"
+  doi: "10.1103/PhysRevD.41.1231"
+
+"carroll-field:1991":
+  type: article
+  title: "The Einstein equivalence principle and the polarization of radio galaxies"
+  author: [{name: "Carroll, Sean M. and Field, George B."}]
+  date: 1991
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "43"}
+  page-range: "3789"
+  doi: "10.1103/PhysRevD.43.3789"
+
+"harari-sikivie:1992":
+  type: article
+  title: "Effects of a Nambu-Goldstone boson on the polarization of radio galaxies and the cosmic microwave background"
+  author: [{name: "Harari, Diego and Sikivie, Pierre"}]
+  date: 1992
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "289"}
+  page-range: "67-72"
+  doi: "10.1016/0370-2693(92)91363-E"
+
+"kosowsky-loeb:1996":
+  type: article
+  title: "Faraday rotation of microwave background polarization by a primordial magnetic field"
+  author: [{name: "Kosowsky, Arthur and Loeb, Abraham"}]
+  date: 1996
+  parent: {type: periodical, title: "Astrophys. J.", volume: "469"}
+  page-range: "1-6"
+  doi: "10.1086/177751"
+
+"carroll:1998":
+  type: article
+  title: "Quintessence and the rest of the world"
+  author: [{name: "Carroll, S. M."}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "81"}
+  page-range: "3067-3070"
+  doi: "10.1103/PhysRevLett.81.3067"
+
+"colladay-kostelecky:1998":
+  type: article
+  title: "Lorentz violating extension of the standard model"
+  author: [{name: "Colladay, Don and Kostelecky, V. Alan"}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "58"}
+  page-range: "116002"
+  doi: "10.1103/PhysRevD.58.116002"
+
+"gambini-pullin:1999":
+  type: article
+  title: "Nonstandard optics from quantum space-time"
+  author: [{name: "Gambini, Rodolfo and Pullin, Jorge"}]
+  date: 1999
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "59"}
+  page-range: "124021"
+  doi: "10.1103/PhysRevD.59.124021"
+
+"pospelov-terveldhuis:2000":
+  type: article
+  title: "Direct and indirect limits on the electromagnetic form-factors of WIMPs"
+  author: [{name: "Pospelov, Maxim and ter Veldhuis, Tonnis"}]
+  date: 2000
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "480"}
+  page-range: "181-186"
+  doi: "10.1016/S0370-2693(00)00358-0"
+
+"kostelecky-mewes:2002":
+  type: article
+  title: "Signals for Lorentz violation in electrodynamics"
+  author: [{name: "Kostelecky, V. Alan and Mewes, Matthew"}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "66"}
+  page-range: "056005"
+  doi: "10.1103/PhysRevD.66.056005"
+
+"myers-pospelov:2003":
+  type: article
+  title: "Ultraviolet modifications of dispersion relations in effective field theory"
+  author: [{name: "Myers, Robert C. and Pospelov, Maxim"}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "90"}
+  page-range: "211601"
+  doi: "10.1103/PhysRevLett.90.211601"
+
+"balaji-brandenberger-easson:2003":
+  type: article
+  title: "Spectral dependence of CMB polarization and parity"
+  author: [{name: "Balaji, K. R. S. and Brandenberger, Robert H. and Easson, Damien A."}]
+  date: 2003
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "12"}
+  page-range: "008"
+  doi: "10.1088/1475-7516/2003/12/008"
+
+"sigurdson-etal:2004":
+  type: article
+  title: "Dark-matter electric and magnetic dipole moments"
+  author: [{name: "Sigurdson, Kris and Doran, Michael and Kurylov, Andriy and Caldwell, Robert R. and Kamionkowski, Marc"}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "70"}
+  page-range: "083501"
+  doi: "10.1103/PhysRevD.70.083501"
+
+"shore:2005":
+  type: article
+  title: "Strong equivalence, Lorentz and CPT violation, anti-hydrogen spectroscopy and gamma-ray burst polarimetry"
+  author: [{name: "Shore, Graham M."}]
+  date: 2005
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "717"}
+  page-range: "86-118"
+  doi: "10.1016/j.nuclphysb.2005.03.040"
+
+"feng-etal:2005":
+  type: article
+  title: "Gravitational leptogenesis and its signatures in CMB"
+  author: [{name: "Feng, B. and Li, H. and Li, M. and Zhang, X."}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B620"}
+  page-range: "27-32"
+  doi: "10.1016/j.physletb.2005.06.009"
+
+"liu-lee-ng:2006":
+  type: article
+  title: "Effect on cosmic microwave background polarization of coupling of quintessence to pseudoscalar formed from the electromagnetic field and its dual"
+  author: [{name: "Liu, G.-C. and Lee, S. and Ng, K.-W."}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "97"}
+  page-range: "161303"
+  doi: "10.1103/PhysRevLett.97.161303"
+
+"feng-etal:2006":
+  type: article
+  title: "Searching for CPT Violation with Cosmic Microwave Background Data from WMAP and BOOMERANG"
+  author: [{name: "Feng, B. and Li, M. and Xia, J.-Q. and Chen, X. and Zhang, X."}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "96"}
+  page-range: "221302"
+  doi: "10.1103/PhysRevLett.96.221302"
+
+"gardner:2008":
+  type: article
+  title: "Observing Dark Matter via the Gyromagnetic Faraday Effect"
+  author: [{name: "Gardner, Susan"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "100"}
+  page-range: "041303"
+  doi: "10.1103/PhysRevLett.100.041303"
+
+"kostelecky-mewes:2007":
+  type: article
+  title: "Lorentz-violating electrodynamics and the cosmic microwave background"
+  author: [{name: "Kostelecky, V. Alan and Mewes, Matthew"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "99"}
+  page-range: "011601"
+  doi: "10.1103/PhysRevLett.99.011601"
+
+"kahniashvili-durrer-maravin:2008":
+  type: article
+  title: "Testing Lorentz Invariance Violation with WMAP Five Year Data"
+  author: [{name: "Kahniashvili, Tina and Durrer, Ruth and Maravin, Yurii"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "78"}
+  page-range: "123009"
+  doi: "10.1103/PhysRevD.78.123009"
+
+"gubitosi-etal:2009":
+  type: article
+  title: "A Constraint on Planck-scale Modifications to Electrodynamics with CMB polarization data"
+  author: [{name: "Gubitosi, Giulia and Pagano, Luca and Amelino-Camelia, Giovanni and Melchiorri, Alessandro and Cooray, Asantha"}]
+  date: 2009
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "08"}
+  page-range: "021"
+  doi: "10.1088/1475-7516/2009/08/021"
+
+"finelli-galaverni:2009":
+  type: article
+  title: "Rotation of Linear Polarization Plane and Circular Polarization from Cosmological Pseudo-Scalar Fields"
+  author: [{name: "Finelli, Fabio and Galaverni, Matteo"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "79"}
+  page-range: "063002"
+  doi: "10.1103/PhysRevD.79.063002"
+
+"li-zhang:2008":
+  type: article
+  title: "Cosmological CPT violating effect on CMB polarization"
+  author: [{name: "Li, Mingzhe and Zhang, Xinmin"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "78"}
+  page-range: "103516"
+  doi: "10.1103/PhysRevD.78.103516"
+
+"pospelov-ritz-skordis:2009":
+  type: article
+  title: "Pseudoscalar perturbations and polarization of the cosmic microwave background"
+  author: [{name: "Pospelov, Maxim and Ritz, Adam and Skordis, Constantinos and Ritz, Adam and Skordis, Constantinos"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "103"}
+  page-range: "051302"
+  doi: "10.1103/PhysRevLett.103.051302"
+
+"kamionkowski:2009":
+  type: article
+  title: "How to De-Rotate the Cosmic Microwave Background Polarization"
+  author: [{name: "Kamionkowski, Marc"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "102"}
+  page-range: "111302"
+  doi: "10.1103/PhysRevLett.102.111302"
+
+"wu-etal:2009":
+  type: article
+  title: "Parity Violation Constraints Using Cosmic Microwave Background Polarization Spectra from 2006 and 2007 Observations by the QUaD Polarimeter"
+  author: [{name: "Wu, E. Y. S. and others"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "102"}
+  page-range: "161302"
+  doi: "10.1103/PhysRevLett.102.161302"
+
+"gluscevic-kamionkowski:2010":
+  type: article
+  title: "Testing Parity-Violating Mechanisms with Cosmic Microwave Background Experiments"
+  author: [{name: "Gluscevic, Vera and Kamionkowski, Marc"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "81"}
+  page-range: "123529"
+  doi: "10.1103/PhysRevD.81.123529"
+
+"arvanitaki-etal:2010":
+  type: article
+  title: "String Axiverse"
+  author: [{name: "Arvanitaki, Asimina and Dimopoulos, Savas and Dubovsky, Sergei and Kaloper, Nemanja and March-Russell, John"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "81"}
+  page-range: "123530"
+  doi: "10.1103/PhysRevD.81.123530"
+
+"panda-sumitomo-trivedi:2011":
+  type: article
+  title: "Axions as Quintessence in String Theory"
+  author: [{name: "Panda, Sudhakar and Sumitomo, Yoske and Trivedi, Sandip P."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "83"}
+  page-range: "083506"
+  doi: "10.1103/PhysRevD.83.083506"
+
+"gubitosi-paci:2013":
+  type: article
+  title: "Constraints on cosmological birefringence energy dependence from CMB polarization data"
+  author: [{name: "Gubitosi, G. and Paci, F."}]
+  date: 2013
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "02"}
+  page-range: "020"
+  doi: "10.1088/1475-7516/2013/02/020"
+
+"gubitosi-martinelli-pagano:2014":
+  type: article
+  title: "Including birefringence into time evolution of CMB: current and future constraints"
+  author: [{name: "Gubitosi, Giulia and Martinelli, Matteo and Pagano, Luca"}]
+  date: 2014
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "12"}
+  page-range: "020"
+  doi: "10.1088/1475-7516/2014/12/020"
+
+"zhao-etal:2015":
+  type: article
+  title: "An efficient probe of the cosmological CPT violation"
+  author: [{name: "Zhao, G.-B. and Wang, Y. and Xia, J.-Q. and Li, M. and Zhang, X."}]
+  date: 2015
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "1507"}
+  page-range: "032"
+  doi: "10.1088/1475-7516/2015/07/032"
+
+"lee-liu-ng:2016":
+  type: article
+  title: "Dark Ultra-Light Scalars and Cosmic Parity Violation"
+  author: [{name: "Lee, Seokcheon and Liu, Guo-Chin and Ng, Kin-Wang"}]
+  date: 2016
+  parent: {type: periodical, title: "The Universe", volume: "4"}
+  page-range: "29-44"
+
+"gruppuso-etal:2016":
+  type: article
+  title: "A note on the birefringence angle estimation in CMB data analysis"
+  author: [{name: "Gruppuso, A. and Maggio, G. and Molinari, D. and Natoli, P."}]
+  date: 2016
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "05"}
+  page-range: "020"
+  doi: "10.1088/1475-7516/2016/05/020"
+
+"kaufman-keating-johnson:2016":
+  type: article
+  title: "Precision Tests of Parity Violation over Cosmological Distances"
+  author: [{name: "Kaufman, Jonathan P. and Keating, Brian G. and Johnson, Bradley R."}]
+  date: 2016
+  parent: {type: periodical, title: "Mon. Not. Roy. Astron. Soc.", volume: "455"}
+  page-range: "1981-1988"
+  doi: "10.1093/mnras/stv2348"
+
+"PlanckIntXLIX":
+  type: article
+  title: "Planck intermediate results. XLIX. Parity-violation constraints from polarization data"
+  author: [{name: "Planck Collaboration Int. XLIX"}]
+  date: 2016
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "596"}
+  serial-number: "A110"
+  doi: "10.1051/0004-6361/201629018"
+
+"abitbol-hill-johnson:2016":
+  type: article
+  title: "Foreground-Induced Biases in CMB Polarimeter Self-Calibration"
+  author: [{name: "Abitbol, M. H. and Hill, J. C. and Johnson, B. R."}]
+  date: 2016
+  parent: {type: periodical, title: "Mon. Not. Roy. Astron. Soc.", volume: "457"}
+  page-range: "1796-1803"
+  doi: "10.1093/mnras/stw030"
+
+"contreras-boubel-scott:2017":
+  type: article
+  title: "Constraints on direction-dependent cosmic birefringence from Planck polarization data"
+  author: [{name: "Contreras, Dagoberto and Boubel, Paula and Scott, Douglas"}]
+  date: 2017
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "12"}
+  page-range: "046"
+  doi: "10.1088/1475-7516/2017/12/046"
+
+"pogosian-etal:2019":
+  type: article
+  title: "Future CMB constraints on cosmic birefringence and implications for fundamental physics"
+  author: [{name: "Pogosian, Levon and Shimon, Meir and Mewes, Matthew and Keating, Brian"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "100"}
+  page-range: "023507"
+  doi: "10.1103/PhysRevD.100.023507"
+
+"minami-etal:2019":
+  type: article
+  title: "Simultaneous determination of the cosmic birefringence and miscalibrated polarization angles from CMB experiments"
+  author: [{name: "Minami, Yuto and Ochi, Hiroki and Ichiki, Kiyotomo and Katayama, Nobuhiko and Komatsu, Eiichiro and Matsumura, Tomotake"}]
+  date: 2019
+  parent: {type: periodical, title: "Progress of Theoretical and Experimental Physics", volume: "2019"}
+  serial-number: "083E02"
+  doi: "10.1093/ptep/ptz079"
+
+"minami:2020":
+  type: article
+  title: "Determination of miscalibrated polarization angles from observed cosmic microwave background and foreground EB power spectra: Application to partial-sky observation"
+  author: [{name: "Minami, Yuto"}]
+  date: 2020
+  parent: {type: periodical, title: "Progress of Theoretical and Experimental Physics", volume: "2020"}
+  serial-number: "063E01"
+  doi: "10.1093/ptep/ptaa057"
+
+"minami-komatsu:2020":
+  type: article
+  title: "Simultaneous determination of the cosmic birefringence and miscalibrated polarization angles II: Including cross frequency spectra"
+  author: [{name: "Minami, Yuto and Komatsu, Eiichiro"}]
+  date: 2020
+  parent: {type: periodical, title: "Progress of Theoretical and Experimental Physics", volume: "2020"}
+  serial-number: "103E02"
+  doi: "10.1093/ptep/ptaa130"
+
+"minami-komatsu:2020b":
+  type: article
+  title: "New Extraction of the Cosmic Birefringence from the Planck 2018 Polarization Data"
+  author: [{name: "Minami, Yuto and Komatsu, Eiichiro"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "221301"
+  doi: "10.1103/PhysRevLett.125.221301"
+
+"capparelli-caldwell-melchiorri:2020":
+  type: article
+  title: "Cosmic birefringence test of the Hubble tension"
+  author: [{name: "Capparelli, Ludovico M. and Caldwell, Robert R. and Melchiorri, Alessandro"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "101"}
+  page-range: "123529"
+  doi: "10.1103/PhysRevD.101.123529"
+
+"fedderke-graham-rajendran:2019":
+  type: article
+  title: "Axion Dark Matter Detection with CMB Polarization"
+  author: [{name: "Fedderke, Michael A. and Graham, Peter W. and Rajendran, Surjeet"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "100"}
+  page-range: "015040"
+  doi: "10.1103/PhysRevD.100.015040"
+
+"bianchini-etal:2020":
+  type: article
+  title: "Searching for Anisotropic Cosmic Birefringence with Polarization Data from SPTpol"
+  author: [{name: "Bianchini, F. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "102"}
+  page-range: "083504"
+  doi: "10.1103/PhysRevD.102.083504"
+
+"namikawa-etal:2020":
+  type: article
+  title: "Atacama Cosmology Telescope: Constraints on cosmic birefringence"
+  author: [{name: "Namikawa, Toshiya and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "101"}
+  page-range: "083527"
+  doi: "10.1103/PhysRevD.101.083527"
+
+"gruppuso-etal:2020":
+  type: article
+  title: "Planck 2018 constraints on anisotropic birefringence and its cross-correlation with CMB anisotropy"
+  author: [{name: "Gruppuso, Alessandro and Molinari, Diego and Natoli, Paolo and Pagano, Luca"}]
+  date: 2020
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "11"}
+  page-range: "066"
+  doi: "10.1088/1475-7516/2020/11/066"
+
+"mcdonald-ventura:2020":
+  type: article
+  title: "Optical properties of dynamical axion backgrounds"
+  author: [{name: "McDonald, Jamie I. and Ventura, Luís B."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "101"}
+  page-range: "123503"
+  doi: "10.1103/PhysRevD.101.123503"
+
+"BICEPKeck:2021":
+  type: article
+  title: "BICEP/Keck XII: Constraints on axionlike polarization oscillations in the cosmic microwave background"
+  author: [{name: "Ade, P. A. R. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "042002"
+  doi: "10.1103/PhysRevD.103.042002"
+
+"NPIPE:2022":
+  type: article
+  title: "Cosmic Birefringence from the Planck Data Release 4"
+  author: [{name: "Diego-Palazuelos, P. and others"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "128"}
+  page-range: "091302"
+  doi: "10.1103/PhysRevLett.128.091302"
+
+"eskilt:prep":
+  type: article
+  title: "Frequency-Dependent Constraints on Cosmic Birefringence from the LFI and HFI Planck Data Release 4"
+  author: [{name: "Eskilt, J. R."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv preprint"}
+
+"fujita-etal:2021a":
+  type: article
+  title: "Probing axionlike particles via cosmic microwave background polarization"
+  author: [{name: "Fujita, Tomohiro and Minami, Yuto and Murai, Kai and Nakatsuka, Hiromasa"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "063508"
+  doi: "10.1103/PhysRevD.103.063508"
+
+"fujita-etal:2021b":
+  type: article
+  title: "Detection of isotropic cosmic birefringence and its implications for axionlike particles including dark energy"
+  author: [{name: "Fujita, Tomohiro and Murai, Kai and Nakatsuka, Hiromasa and Tsujikawa, Shinji"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "043509"
+  doi: "10.1103/PhysRevD.103.043509"
+
+"takahashi-yin:2021":
+  type: article
+  title: "Kilobyte Cosmic Birefringence from ALP Domain Walls"
+  author: [{name: "Takahashi, Fuminobu and Yin, Wen"}]
+  date: 2021
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "04"}
+  page-range: "007"
+  doi: "10.1088/1475-7516/2021/04/007"
+
+"obata:prep":
+  type: article
+  title: "Implications of the Cosmic Birefringence Measurement for the Axion Dark Matter Search"
+  author: [{name: "Obata, Ippei"}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv preprint"}
+
+"choi-etal:2021":
+  type: article
+  title: "Cosmic birefringence and electroweak axion dark energy"
+  author: [{name: "Choi, Gongjun and Lin, Weikang and Visinelli, Luca and Yanagida, Tsutomu T."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "104"}
+  serial-number: "L101302"
+  doi: "10.1103/PhysRevD.104.L101302"
+
+"alvey-escudero:2021":
+  type: article
+  title: "Constraints on global symmetry breaking in quantum gravity from cosmic birefringence measurements"
+  author: [{name: "Alvey, James and Escudero Abenza, Miguel"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "823"}
+  page-range: "136752"
+  doi: "10.1016/j.physletb.2021.136752"
+
+"nakagawa-takahashi-yamada:2021":
+  type: article
+  title: "Cosmic Birefringence Triggered by Dark Matter Domination"
+  author: [{name: "Nakagawa, Shota and Takahashi, Fuminobu and Yamada, Masaki"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "181103"
+  doi: "10.1103/PhysRevLett.127.181103"
+
+"mehta-etal:2021":
+  type: article
+  title: "Superradiance in string theory"
+  author: [{name: "Mehta, Viraf M. and Demirtas, Mehmet and Long, Cody and Marsh, David J. E. and McAllister, Liam and Stott, Matthew J."}]
+  date: 2021
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "07"}
+  page-range: "033"
+  doi: "10.1088/1475-7516/2021/07/033"
+
+"sherwin-namikawa:prep":
+  type: article
+  title: "Cosmic birefringence tomography and calibration-independence with reionization signals in the CMB"
+  author: [{name: "Sherwin, Blake D. and Namikawa, Toshiya"}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv preprint"}
+
+"alexander-ochoa-kosowsky:2009":
+  type: article
+  title: "Generation of Circular Polarization of the Cosmic Microwave Background"
+  author: [{name: "Alexander, Stephon and Ochoa, Joseph and Kosowsky, Arthur"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "79"}
+  page-range: "063524"
+  doi: "10.1103/PhysRevD.79.063524"
+
+"zarei-etal:2010":
+  type: article
+  title: "Generation of circular polarization of the CMB"
+  author: [{name: "Zarei, M. and Bavarsad, E. and Haghighat, M. and Mohammadi, R. and Motie, I. and Rezaei, Z."}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "81"}
+  page-range: "084035"
+  doi: "10.1103/PhysRevD.81.084035"
+
+"kaufman-keating-leon:2016":
+  type: article
+  title: "Using the Crab Nebula as a high precision calibrator for cosmic microwave background polarimeters"
+  author: [{name: "Kaufman, Jonathan and Keating, Brian and Leon, David"}]
+  date: 2016
+  parent: {type: periodical, title: "Int. J. Mod. Phys. D", volume: "25"}
+  page-range: "1640008"
+  doi: "10.1142/S0218271816400083"
+
+"masi-etal:2021":
+  type: article
+  title: "The Crab Nebula as a Calibrator for Wide-beam Cosmic Microwave Background Polarization Surveys"
+  author: [{name: "Masi, Silvia and de Bernardis, Paolo and Columbro, Fabio and Coppolecchia, Alessandro and D'Alessandro, Giuseppe and Mele, Lorenzo and Paiella, Alessandro and Piacentini, Francesco"}]
+  date: 2021
+  parent: {type: periodical, title: "Astrophys. J.", volume: "921"}
+  page-range: "34"
+  doi: "10.3847/1538-4357/ac1860"
+
+"aumont-etal:2020":
+  type: article
+  title: "Absolute calibration of the polarisation angle for future CMB B-mode experiments from current and future measurements of the Crab nebula"
+  author: [{name: "Aumont, J. and Macías-Pérez, J. F. and Ritacco, A. and Ponthieu, N. and Mangilli, A."}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "634"}
+  serial-number: "A100"
+  doi: "10.1051/0004-6361/201833504"
+
+"Planck2018XI":
+  type: article
+  title: "Planck 2018 results. XI. Polarized dust foregrounds"
+  author: [{name: "Planck Collaboration XI"}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "641"}
+  serial-number: "A11"
+  doi: "10.1051/0004-6361/201832618"
+
+"weiland-etal:2020":
+  type: article
+  title: "An Examination of Galactic Polarization with Application to the Planck TB Correlation"
+  author: [{name: "Weiland, J. L. and Addison, G. E. and Bennett, C. L. and Halpern, M. and Hinshaw, G."}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "893"}
+  page-range: "119"
+  doi: "10.3847/1538-4357/ab7ea6"
+
+"huffenberger-rotti-collins:2020":
+  type: article
+  title: "The Power Spectra of Polarized, Dusty Filaments"
+  author: [{name: "Huffenberger, Kevin M. and Rotti, Aditya and Collins, David C."}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "899"}
+  page-range: "31"
+  doi: "10.3847/1538-4357/ab9df9"
+
+"clark-etal:2021":
+  type: article
+  title: "The Origin of Parity Violation in Polarized Dust Emission and Implications for Cosmic Birefringence"
+  author: [{name: "Clark, S. E. and Kim, Chang-Goo and Hill, J. Colin and Hensley, Brandon S."}]
+  date: 2021
+  parent: {type: periodical, title: "Astrophys. J.", volume: "919"}
+  page-range: "53"
+  doi: "10.3847/1538-4357/ac0e35"
+
+"hu-hedman-zaldarriaga:2003":
+  type: article
+  title: "Benchmark parameters for CMB polarization experiments"
+  author: [{name: "Hu, Wayne and Hedman, Matthew M. and Zaldarriaga, Matias"}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "67"}
+  page-range: "043004"
+  doi: "10.1103/PhysRevD.67.043004"
+
+"rosset-etal:2007":
+  type: article
+  title: "Beam mismatch effects in cosmic microwave background polarization measurements"
+  author: [{name: "Rosset, Cyrille and Yurchenko, Vladimir and Delabrouille, Jacques and Kaplan, Jean and Giraud-Heraud, Yannick and Lamarre, Jean-Michel and Murphy, Antony J."}]
+  date: 2007
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "464"}
+  page-range: "405-415"
+  doi: "10.1051/0004-6361:20042230"
+
+"odea-etal:2007":
+  type: article
+  title: "Systematic errors in cosmic microwave background polarization measurements"
+  author: [{name: "O'Dea, Daniel and Challinor, Anthony and Johnson, B. R."}]
+  date: 2007
+  parent: {type: periodical, title: "Mon. Not. Roy. Astron. Soc.", volume: "376"}
+  page-range: "1767-1783"
+  doi: "10.1111/j.1365-2966.2007.11558.x"
+
+"shimon-etal:2008":
+  type: article
+  title: "CMB Polarization Systematics Due to Beam Asymmetry: Impact on Inflationary Science"
+  author: [{name: "Shimon, Meir and Keating, Brian and Ponthieu, Nicolas and Hivon, Eric"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "77"}
+  page-range: "083003"
+  doi: "10.1103/PhysRevD.77.083003"
+
+"miller:2009":
+  type: article
+  title: "CMB Polarization Systematics Due to Beam Asymmetry: Impact on Cosmological Birefringence"
+  author: [{name: "Miller, N. J. and Shimon, M. and Keating, B. G."}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "79"}
+  page-range: "103002"
+  doi: "10.1103/PhysRevD.79.103002"
+
+"takahashi-etal:2010":
+  type: article
+  title: "Characterization of the BICEP Telescope for High-Precision Cosmic Microwave Background Polarimetry"
+  author: [{name: "Takahashi, Y. D. and others"}]
+  date: 2010
+  parent: {type: periodical, title: "Astrophys. J.", volume: "711"}
+  page-range: "1141-1156"
+  doi: "10.1088/0004-637X/711/2/1141"
+
+"bao-etal:2012":
+  type: article
+  title: "The Impact of the Spectral Response of an Achromatic Half-Wave Plate on the Measurement of the Cosmic Microwave Background Polarization"
+  author: [{name: "Bao, C. and others"}]
+  date: 2012
+  parent: {type: periodical, title: "Astrophys. J.", volume: "747"}
+  page-range: "97"
+  doi: "10.1088/0004-637X/747/2/97"
+
+"keating-shimon-yadav:2012":
+  type: article
+  title: "Self-Calibration of CMB Polarization Experiments"
+  author: [{name: "Keating, B. and Shimon, M. and Yadav, A."}]
+  date: 2013
+  parent: {type: periodical, title: "Astrophys. J.", volume: "762"}
+  serial-number: "L23"
+  doi: "10.1088/2041-8205/762/2/L23"
+
+"johnson-etal:2015":
+  type: article
+  title: "A CubeSat for Calibrating Ground-Based and Sub-Orbital Millimeter-Wave Polarimeters (CalSat)"
+  author: [{name: "Johnson, Bradley R. and Vourch, Clement J. and Drysdale, Timothy D. and Kalman, Andrew and Fujikawa, Steve and Keating, Brian and Kaufman, Jon"}]
+  date: 2015
+  parent: {type: periodical, title: "J. Astron. Inst.", volume: "04"}
+  page-range: "1550007"
+  doi: "10.1142/S2251171715500075"
+
+"debernardis-masi:2016":
+  type: article
+  title: "Cosmic microwave background and cosmic polarization rotation: An experimentalist view"
+  author: [{name: "De Bernardis, Paolo and Masi, Silvia"}]
+  date: 2016
+  parent: {type: periodical, title: "Int. J. Mod. Phys. D", volume: "25"}
+  page-range: "1640012"
+  doi: "10.1142/S0218271816400125"
+
+"nati-etal:2017":
+  type: article
+  title: "POLOCALC: a Novel Method to Measure the Absolute Polarization Orientation of the Cosmic Microwave Background"
+  author: [{name: "Nati, Federico and Devlin, Mark J. and Gerbino, Martina and Johnson, Bradley R. and Keating, Brian and Pagano, Luca and Teply, Grant"}]
+  date: 2017
+  parent: {type: periodical, title: "J. Astron. Inst.", volume: "06"}
+  page-range: "1740008"
+  doi: "10.1142/S2251171717400086"
+
+"koopman:2018":
+  type: article
+  title: "Detector Development and Polarization Analyses for the Atacama Cosmology Telescope"
+  author: [{name: "Koopman, B. J."}]
+  date: 2018
+  doi: "10.7298/947m-mf06"
+
+"casas-etal:2021":
+  type: article
+  title: "L2-CalSat: A Calibration Satellite for Ultra-Sensitive CMB Polarization Space Missions"
+  author: [{name: "Casas, Francisco J. and Martínez-González, Enrique and Bermejo-Ballesteros, Juan and García, Sergio and Cubas, Javier and Vielva, Patricio and Barreiro, Rita B. and Sanz, Angel"}]
+  date: 2021
+  parent: {type: periodical, title: "Sensors", volume: "21"}
+  page-range: "3361"
+  doi: "10.3390/s21103361"
+
+"giardiello-etal:2021":
+  type: article
+  title: "Detailed study of HWP non-idealities and their impact on future measurements of CMB polarization anisotropies from space"
+  author: [{name: "Giardiello, Serena and others"}]
+  date: 2022
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "658"}
+  serial-number: "A15"
+  doi: "10.1051/0004-6361/202141619"
+
+"duivenvoorden-etal:2021":
+  type: article
+  title: "Probing frequency-dependent half-wave plate systematics for CMB experiments with full-sky beam convolution simulations"
+  author: [{name: "Duivenvoorden, Adriaan J. and Adler, Alexandre E. and Billi, Matteo and Dachlythra, Nadia and Gudmundsson, Jon E."}]
+  date: 2021
+  parent: {type: periodical, title: "Mon. Not. Roy. Astron. Soc.", volume: "502"}
+  page-range: "4526-4539"
+  doi: "10.1093/mnras/stab317"
+
+"abitbol-etal:2021":
+  type: article
+  title: "The Simons Observatory: gain, bandpass and polarization-angle calibration requirements for B-mode searches"
+  author: [{name: "Abitbol, Maximilian H. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "05"}
+  page-range: "032"
+  doi: "10.1088/1475-7516/2021/05/032"
+
+"RAC:2022":
+  type: article
+  title: "In-flight polarization angle calibration for LiteBIRD: blind challenge and cosmological implications"
+  author: [{name: "Krachmalnicoff, Nicoletta and others"}]
+  date: 2022
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "01"}
+  page-range: "039"
+  doi: "10.1088/1475-7516/2022/01/039"
+
+"vielva-etal:prep":
+  type: article
+  title: "Polarization angle requirements for CMB B-mode experiments. Application to the LiteBIRD satellite"
+  author: [{name: "Vielva, P. and others"}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv preprint"}
+
+"adachi-etal:2020":
+  type: article
+  title: "A Measurement of the Degree Scale CMB B-mode Angular Power Spectrum with POLARBEAR"
+  author: [{name: "Adachi, S. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "897"}
+  page-range: "55"
+  doi: "10.3847/1538-4357/ab8f24"
+
+"adachi-etal:2020b":
+  type: article
+  title: "A Measurement of the CMB E-mode Angular Power Spectrum at Subdegree Scales from670 Square Degrees of POLARBEAR Data"
+  author: [{name: "Adachi, S. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "904"}
+  page-range: "65"
+  doi: "10.3847/1538-4357/abbacd"
+
+"aiola-etal:2020":
+  type: article
+  title: "The Atacama Cosmology Telescope: DR4 Maps and Cosmological Parameters"
+  author: [{name: "Aiola, Simone and others"}]
+  date: 2020
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "12"}
+  page-range: "047"
+  doi: "10.1088/1475-7516/2020/12/047"
+
+"choi-etal:2020":
+  type: article
+  title: "The Atacama Cosmology Telescope: a measurement of the Cosmic Microwave Background power spectra at 98 and 150 GHz"
+  author: [{name: "Choi, Steve K. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "12"}
+  page-range: "045-045"
+  doi: "10.1088/1475-7516/2020/12/045"
+
+"xu-etal:2019":
+  type: article
+  title: "Two-year Cosmology Large Angular Scale Surveyor (CLASS) Observations: 40 GHz Telescope Pointing, Beam Profile, Window Function, and Polarization Performance"
+  author: [{name: "Xu, Zhilei and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Astrophys. J.", volume: "891"}
+  page-range: "134"
+  doi: "10.3847/1538-4357/ab76c2"
+
+"dahal-etal:2022":
+  type: article
+  title: "Four-year Cosmology Large Angular Scale Surveyor (CLASS) Observations: On-sky Receiver Performance at 40, 90, 150, and 220 GHz Frequency Bands"
+  author: [{name: "Dahal, Sumit and others"}]
+  date: 2022
+  parent: {type: periodical, title: "Astrophys. J.", volume: "926"}
+  page-range: "33"
+  doi: "10.3847/1538-4357/ac397c"
+
+"sayre-etal:2020":
+  type: article
+  title: "Measurements of B-mode Polarization of the Cosmic Microwave Background from 500 Square Degrees of SPTpol Data"
+  author: [{name: "Sayre, J. T. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "101"}
+  page-range: "122003"
+  doi: "10.1103/PhysRevD.101.122003"
+
+"dutcher-:2021":
+  type: article
+  title: "Measurements of the E-mode polarization and temperature-E-mode correlation of the CMB from SPT-3G 2018 data"
+  author: [{name: "Dutcher, D. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "104"}
+  page-range: "022003"
+  doi: "10.1103/PhysRevD.104.022003"
+
+"hui-etal:2018":
+  type: article
+  title: "BICEP Array: a multi-frequency degree-scale CMB polarimeter"
+  author: [{name: "Hui, Howard and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Proc. SPIE Int. Soc. Opt. Eng.", volume: "10708"}
+  page-range: "1070807"
+  doi: "10.1117/12.2311725"
+
+"westbrook-etal:2018":
+  type: article
+  title: "The POLARBEAR-2 and Simons Array Focal Plane Fabrication Status"
+  author: [{name: "Westbrook, B. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Low Temp. Phys.", volume: "193"}
+  page-range: "758-770"
+  doi: "10.1007/s10909-018-2059-0"
+
+"SimonsObservatory:2019":
+  type: article
+  title: "The Simons Observatory: Science goals and forecasts"
+  author: [{name: "Ade, Peter and others"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "02"}
+  page-range: "056"
+  doi: "10.1088/1475-7516/2019/02/056"
+
+"CMB-S4:2019":
+  type: article
+  title: "CMB-S4 Science Case, Reference Design, and Project Plan"
+  author: [{name: "Abazajian, Kevork and others"}]
+  date: 2019
+  parent: {type: periodical, title: "arXiv preprint"}
+
+"SPO:2020":
+  type: article
+  title: "Receiver development for BICEP Array, a next-generation CMB polarimeter at the South Pole"
+  author: [{name: "Moncelsi, L. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Proc. SPIE Int. Soc. Opt. Eng.", volume: "11453"}
+  page-range: "1145314"
+  doi: "10.1117/12.2561995"
+
+"LiteBIRD:2019":
+  type: article
+  title: "LiteBIRD: A Satellite for the Studies of B-Mode Polarization and Inflation from Cosmic Background Radiation Detection"
+  author: [{name: "Hazumi, M. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Low Temp. Phys.", volume: "194"}
+  page-range: "443-452"
+  doi: "10.1007/s10909-019-02150-5"
+
+"LiteBIRD:2022":
+  type: article
+  title: "Probing Cosmic Inflation with the LiteBIRD Cosmic Microwave Background Polarization Survey"
+  author: [{name: "LiteBIRD Collaboration"}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv preprint"}
+
+"hamaker-bregman:1996":
+  type: article
+  title: "Understanding radio polarimetry. III. Interpreting the IAU/IEEE definitions of the Stokes parameters."
+  author: [{name: "Hamaker, J. P. and Bregman, J. D."}]
+  date: 1996
+  parent: {type: periodical, title: "Astron. Astrophys. Suppl.", volume: "117"}
+  page-range: "161-165"
+
+"angle:2017":
+  type: article
+  title: "The conventions for the polarization angle"
+  author: [{name: "di Serego Alighieri, Sperello"}]
+  date: 2017
+  parent: {type: periodical, title: "Exper. Astron.", volume: "43"}
+  page-range: "19-22"
+  doi: "10.1007/s10686-016-9517-y"

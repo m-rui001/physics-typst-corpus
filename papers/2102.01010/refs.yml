@@ -1,0 +1,635 @@
+"champion2019data":
+  type: article
+  title: "Data-driven discovery of coordinates and governing equations"
+  author: [{name: "Champion, Kathleen and Lusch, Bethany and Kutz, J Nathan and Brunton, Steven L"}]
+  date: 2019
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "116"}
+  page-range: "22445-22451"
+
+"anderson2009basic":
+  type: article
+  title: "Basic philosophy of CFD"
+  author: [{name: "Anderson, JD"}]
+  date: 2009
+  parent: {type: proceedings, title: "Computational Fluid Dynamics"}
+  page-range: "3-14"
+
+"bakhshaii2019review":
+  type: article
+  title: "A review of a new generation of wildfire--atmosphere modeling"
+  author: [{name: "Bakhshaii, Atoossa and Johnson, Edward A"}]
+  date: 2019
+  parent: {type: periodical, title: "Canadian Journal of Forest Research", volume: "49"}
+  page-range: "565-574"
+
+"tang2005advances":
+  type: article
+  title: "Advances and challenges in computational plasma science"
+  author: [{name: "Tang, William M and Chan, VS"}]
+  date: 2005
+  parent: {type: periodical, title: "Plasma physics and controlled fusion", volume: "47"}
+  serial-number: "R1"
+
+"jimenez2019":
+  type: article
+  title: "Computers and turbulence"
+  author: [{name: "Jiménez, Javier"}]
+  date: 2019
+  parent: {type: periodical, title: "European Journal of Mechanics-B/Fluids"}
+
+"pope2001turbulent":
+  type: article
+  title: "Turbulent flows"
+  author: [{name: "Pope, Stephen B"}]
+  date: 2000
+
+"schneider2019possible":
+  type: article
+  title: "Possible climate transitions from breakup of stratocumulus decks under greenhouse warming"
+  author: [{name: "Schneider, Tapio and Kaul, Colleen M and Pressel, Kyle G"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Geoscience", volume: "12"}
+  page-range: "163-167"
+
+"Ling2016-qk":
+  type: article
+  title: "Reynolds averaged turbulence modelling using deep neural networks with embedded invariance"
+  author: [{name: "Ling, Julia and Kurzawski, Andrew and Templeton, Jeremy"}]
+  date: 2016
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "807"}
+  page-range: "155-166"
+
+"kutz2017":
+  type: article
+  title: "Deep learning in fluid dynamics"
+  author: [{name: "Kutz, J Nathan"}]
+  date: 2017
+  parent: {type: periodical, title: "Journal of Fluid Mechanics", volume: "814"}
+  page-range: "1-4"
+
+"kraichnan1980two":
+  type: article
+  title: "Two-dimensional turbulence"
+  author: [{name: "Kraichnan, Robert H and Montgomery, David"}]
+  date: 1980
+  parent: {type: periodical, title: "Reports on Progress in Physics", volume: "43"}
+  page-range: "547"
+
+"beck2019deep":
+  type: article
+  title: "Deep neural networks for data-driven LES closure models"
+  author: [{name: "Beck, Andrea and Flad, David and Munz, Claus-Dieter"}]
+  date: 2019
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "398"}
+  page-range: "108910"
+
+"maulik2019subgrid":
+  type: article
+  title: "Subgrid modelling for two-dimensional turbulence using neural networks"
+  author: [{name: "Maulik, Romit and San, Omer and Rasheed, Adil and Vedula, Prakash"}]
+  date: 2019
+  parent: {type: periodical, title: "Journal of Fluid Mechanics", volume: "858"}
+  page-range: "122-144"
+
+"sirignano2020dpm":
+  type: article
+  title: "DPM: A deep learning PDE augmentation method with application to large-eddy simulation"
+  author: [{name: "Sirignano, Justin and MacArt, Jonathan F and Freund, Jonathan B"}]
+  date: 2020
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "423"}
+  page-range: "109811"
+
+"duraisamy2019":
+  type: article
+  title: "Turbulence modeling in the age of data"
+  author: [{name: "Duraisamy, Karthik and Iaccarino, Gianluca and Xiao, Heng"}]
+  date: 2019
+  parent: {type: periodical, title: "Annual Review of Fluid Mechanics", volume: "51"}
+  page-range: "357-377"
+
+"moser2020statistical":
+  type: article
+  title: "Statistical properties of subgrid-scale turbulence models"
+  author: [{name: "Moser, Robert D and Haering, Sigfried W and Yalla, Gopal R"}]
+  date: 2020
+  parent: {type: periodical, title: "Annual Review of Fluid Mechanics", volume: "53"}
+
+"meneveau2000scale":
+  type: article
+  title: "Scale-invariance and turbulence models for large-eddy simulation"
+  author: [{name: "Meneveau, Charles and Katz, Joseph"}]
+  date: 2000
+  parent: {type: periodical, title: "Annual Review of Fluid Mechanics", volume: "32"}
+  page-range: "1-32"
+
+"frisch1995turbulence":
+  type: article
+  title: "Turbulence: the legacy of AN Kolmogorov"
+  author: [{name: "Frisch, Uriel"}]
+  date: 1995
+
+"neumann2019":
+  type: article
+  title: "Assessing the scales in numerical weather and climate predictions: will exascale be the rescue?"
+  author: [{name: "Neumann, Philipp and Düben, Peter and Adamidis, Panagiotis and Bauer, Peter and Brück, Matthias and Kornblueh, Luis and Klocke, Daniel and Stevens, Bjorn and Wedi, Nils and Biercamp, Joachim"}]
+  date: 2019
+  parent: {type: periodical, title: "Philosophical Transactions of the Royal Society A", volume: "377"}
+  page-range: "20180148"
+
+"bauer2015":
+  type: article
+  title: "The quiet revolution of numerical weather prediction"
+  author: [{name: "Bauer, Peter and Thorpe, Alan and Brunet, Gilbert"}]
+  date: 2015
+  parent: {type: periodical, title: "Nature", volume: "525"}
+  page-range: "47-55"
+
+"schneider2017a":
+  type: article
+  title: "Climate goals and computing the future of clouds"
+  author: [{name: "Schneider, Tapio and Teixeira, Jo ao and Bretherton, Christopher S and Brient, Florent and Pressel, Kyle G and Schär, Christoph and Siebesma, A Pier"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature Climate Change", volume: "7"}
+  page-range: "3-5"
+
+"lee2020coarse":
+  type: article
+  title: "Coarse-scale PDEs from fine-scale observations via machine learning"
+  author: [{name: "Lee, Seungjoon and Kooshkbaghi, Mahdi and Spiliotis, Konstantinos and Siettos, Constantinos I and Kevrekidis, Ioannis G"}]
+  date: 2020
+  parent: {type: periodical, title: "Chaos: An Interdisciplinary Journal of Nonlinear Science", volume: "30"}
+  page-range: "013141"
+
+"he2016deep":
+  type: article
+  title: "Deep residual learning for image recognition"
+  author: [{name: "He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian"}]
+  date: 2016
+  parent: {type: proceedings, title: "Proceedings of the IEEE conference on computer vision and pattern recognition"}
+  page-range: "770-778"
+
+"geneva2020modeling":
+  type: article
+  title: "Modeling the dynamics of PDE systems with physics-constrained deep auto-regressive networks"
+  author: [{name: "Geneva, Nicholas and Zabaras, Nicholas"}]
+  date: 2020
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "403"}
+  page-range: "109056"
+
+"raissi2019physics":
+  type: article
+  title: "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations"
+  author: [{name: "Raissi, Maziar and Perdikaris, Paris and Karniadakis, George E"}]
+  date: 2019
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "378"}
+  page-range: "686-707"
+
+"long2018pde":
+  type: article
+  title: "Pde-net: Learning pdes from data"
+  author: [{name: "Long, Zichao and Lu, Yiping and Ma, Xianzhong and Dong, Bin"}]
+  date: 2018
+  parent: {type: proceedings, title: "International Conference on Machine Learning"}
+  page-range: "3208-3216"
+
+"otto2019linearly":
+  type: article
+  title: "Linearly recurrent autoencoder networks for learning dynamics"
+  author: [{name: "Otto, Samuel E and Rowley, Clarence W"}]
+  date: 2019
+  parent: {type: periodical, title: "SIAM Journal on Applied Dynamical Systems", volume: "18"}
+  page-range: "558-593"
+
+"xiong2019data":
+  type: misc
+  title: "Data-driven discovery of partial differential equations for multiple-physics electromagnetic problem"
+  author: [{name: "Xiong, Bing and Fu, Haiyang and Xu, Feng and Jin, Yaqiu"}]
+  date: 2019
+  serial-number: "arXiv:1910.13531"
+
+"iakovlev2020learning":
+  type: misc
+  title: "Learning continuous-time PDEs from sparse data with graph neural networks"
+  author: [{name: "Iakovlev, Valerii and Heinonen, Markus and Lähdesmäki, Harri"}]
+  date: 2020
+  serial-number: "arXiv:2006.08956"
+
+"ayed2019learning":
+  type: misc
+  title: "Learning dynamical systems from partial observations"
+  author: [{name: "Ayed, Ibrahim and de Bézenac, Emmanuel and Pajot, Arthur and Brajard, Julien and Gallinari, Patrick"}]
+  date: 2019
+  serial-number: "arXiv:1902.11136"
+
+"wang2020towards":
+  type: article
+  title: "Towards physics-informed deep learning for turbulent flow prediction"
+  author: [{name: "Wang, Rui and Kashinath, Karthik and Mustafa, Mustafa and Albert, Adrian and Yu, Rose"}]
+  date: 2020
+  parent: {type: proceedings, title: "Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining"}
+  page-range: "1457-1466"
+
+"kingma2014adam":
+  type: misc
+  title: "Adam: A method for stochastic optimization"
+  author: [{name: "Kingma, Diederik P and Ba, Jimmy"}]
+  date: 2014
+  serial-number: "arXiv:1412.6980"
+
+"titi1990approximate":
+  type: article
+  title: "On approximate inertial manifolds to the Navier-Stokes equations"
+  author: [{name: "Titi, Edriss S"}]
+  date: 1990
+  parent: {type: periodical, title: "Journal of mathematical analysis and applications", volume: "149"}
+  page-range: "540-557"
+
+"jolly2000evaluating":
+  type: article
+  title: "Evaluating the dimension of an inertial manifold for the Kuramoto-Sivashinsky equation"
+  author: [{name: "Jolly, Michael S and Rosa, Ricardo and Temam, Roger"}]
+  date: 2000
+  parent: {type: periodical, title: "Advances in Differential Equations", volume: "5"}
+  page-range: "31-66"
+
+"erichson2019physics":
+  type: misc
+  title: "Physics-informed autoencoders for Lyapunov-stable fluid flow prediction"
+  author: [{name: "Erichson, N Benjamin and Muehlebach, Michael and Mahoney, Michael W"}]
+  date: 2019
+  serial-number: "arXiv:1905.10866"
+
+"zhuang2020learned":
+  type: misc
+  title: "Learned discretizations for passive scalar advection in a 2-D turbulent flow"
+  author: [{name: "Zhuang, Jiawei and Kochkov, Dmitrii and Bar-Sinai, Yohai and Brenner, Michael P and Hoyer, Stephan"}]
+  date: 2020
+  serial-number: "arXiv:2004.05477"
+
+"bar2019learning":
+  type: article
+  title: "Learning data-driven discretizations for partial differential equations"
+  author: [{name: "Bar-Sinai, Yohai and Hoyer, Stephan and Hickey, Jason and Brenner, Michael P"}]
+  date: 2019
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "116"}
+  page-range: "15344-15349"
+
+"hsieh2019learning":
+  type: misc
+  title: "Learning neural PDE solvers with convergence guarantees"
+  author: [{name: "Hsieh, Jun-Ting and Zhao, Shengjia and Eismann, Stephan and Mirabella, Lucia and Ermon, Stefano"}]
+  date: 2019
+  serial-number: "arXiv:1906.01200"
+
+"kuramoto1976persistent":
+  type: article
+  title: "Persistent propagation of concentration waves in dissipative media far from thermal equilibrium"
+  author: [{name: "Kuramoto, Yoshiki and Tsuzuki, Toshio"}]
+  date: 1976
+  parent: {type: periodical, title: "Progress of theoretical physics", volume: "55"}
+  page-range: "356-369"
+
+"sivashinsky1977nonlinear":
+  type: article
+  title: "Nonlinear analysis of hydrodynamic instability in laminar flames—I. Derivation of basic equations"
+  author: [{name: "Sivashinsky, GI"}]
+  date: 1977
+  parent: {type: periodical, title: "AcAau", volume: "4"}
+  page-range: "1177-1206"
+
+"chen2018neural":
+  type: article
+  title: "Neural ordinary differential equations"
+  author: [{name: "Chen, Ricky TQ and Rubanova, Yulia and Bettencourt, Jesse and Duvenaud, David K"}]
+  date: 2018
+  parent: {type: proceedings, title: "Advances in neural information processing systems"}
+  page-range: "6571-6583"
+
+"jouppi2017datacenter":
+  type: article
+  title: "In-datacenter performance analysis of a tensor processing unit"
+  author: [{name: "Jouppi, Norman P and Young, Cliff and Patil, Nishant and Patterson, David and Agrawal, Gaurav and Bajwa, Raminder and Bates, Sarah and Bhatia, Suresh and Boden, Nan and Borchers, Al"}]
+  date: 2017
+  parent: {type: proceedings, title: "Proceedings of the 44th Annual International Symposium on Computer Architecture"}
+  page-range: "1-12"
+
+"kim2019deep":
+  type: article
+  title: "Deep fluids: A generative network for parameterized fluid simulations"
+  author: [{name: "Kim, Byungsoo and Azevedo, Vinicius C and Thuerey, Nils and Kim, Theodore and Gross, Markus and Solenthaler, Barbara"}]
+  date: 2019
+  parent: {type: proceedings, title: "Computer Graphics Forum", volume: "38"}
+  page-range: "59-70"
+
+"lusch2018deep":
+  type: article
+  title: "Deep learning for universal linear embeddings of nonlinear dynamics"
+  author: [{name: "Lusch, Bethany and Kutz, J Nathan and Brunton, Steven L"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature communications", volume: "9"}
+  page-range: "1-10"
+
+"li2020multipole":
+  type: article
+  title: "Multipole graph neural operator for parametric partial differential equations"
+  author: [{name: "Li, Zongyi and Kovachki, Nikola and Azizzadenesheli, Kamyar and Liu, Burigede and Stuart, Andrew and Bhattacharya, Kaushik and Anandkumar, Anima"}]
+  date: 2020
+  parent: {type: periodical, title: "Advances in Neural Information Processing Systems", volume: "33"}
+
+"bhattacharya2020model":
+  type: misc
+  title: "Model reduction and neural networks for parametric pdes"
+  author: [{name: "Bhattacharya, Kaushik and Hosseini, Bamdad and Kovachki, Nikola B and Stuart, Andrew M"}]
+  date: 2020
+  serial-number: "arXiv:2005.03180"
+
+"li2020neural":
+  type: misc
+  title: "Neural operator: Graph kernel network for partial differential equations"
+  author: [{name: "Li, Zongyi and Kovachki, Nikola and Azizzadenesheli, Kamyar and Liu, Burigede and Bhattacharya, Kaushik and Stuart, Andrew and Anandkumar, Anima"}]
+  date: 2020
+  serial-number: "arXiv:2003.03485"
+
+"Landau1944":
+  type: article
+  title: "On the problem of turbulence"
+  author: [{name: "Landau, L. D."}]
+  date: 1944
+  parent: {type: periodical, title: "Dokl. Akad. Nauk SSSR", volume: "44"}
+  page-range: "339-349"
+
+"hopf1948mathematical":
+  type: article
+  title: "A mathematical example displaying features of turbulence"
+  author: [{name: "Hopf, Eberhard"}]
+  date: 1948
+  parent: {type: periodical, title: "Communications on Pure and Applied Mathematics", volume: "1"}
+  page-range: "303-322"
+
+"boffetta2012two":
+  type: article
+  title: "Two-dimensional turbulence"
+  author: [{name: "Boffetta, Guido and Ecke, Robert E"}]
+  date: 2012
+  parent: {type: periodical, title: "Annual Review of Fluid Mechanics", volume: "44"}
+  page-range: "427-451"
+
+"um2020solver":
+  type: article
+  title: "Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers"
+  author: [{name: "Um, Kiwon and Holl, Philipp and Brand, Robert and Thuerey, Nils"}]
+  date: 2020
+  parent: {type: proceedings, title: "34th Conference on Neural Information Processing Systems (NeurIPS 2020)"}
+  serial-number: "in press"
+
+"pathak2020using":
+  type: misc
+  title: "Using Machine Learning to Augment Coarse-Grid Computational Fluid Dynamics Simulations"
+  author: [{name: "Pathak, Jaideep and Mustafa, Mustafa and Kashinath, Karthik and Motheau, Emmanuel and Kurth, Thorsten and Day, Marcus"}]
+  date: 2020
+  serial-number: "arXiv:2010.00072"
+
+"fox1985introduction":
+  type: article
+  title: "Introduction to fluid mechanics"
+  author: [{name: "Fox, Robert W and Mc Donald, Alan T"}]
+  date: 1985
+
+"bradbury2020jax":
+  type: article
+  title: "JAX: composable transformations of Python+ NumPy programs, 2018"
+  author: [{name: "Bradbury, James and Frostig, Roy and Hawkins, Peter and Johnson, Matthew James and Leary, Chris and Maclaurin, Dougal and Wanderman-Milne, Skye"}]
+  date: 2020
+  parent: {type: periodical, title: "URL http://github. com/google/jax"}
+  page-range: "18"
+
+"karniadakis1991high":
+  type: article
+  title: "High-order splitting methods for the incompressible Navier-Stokes equations"
+  author: [{name: "Karniadakis, George Em and Israeli, Moshe and Orszag, Steven A"}]
+  date: 1991
+  parent: {type: periodical, title: "Journal of computational physics", volume: "97"}
+  page-range: "414-443"
+
+"smagorinsky1963general":
+  type: article
+  title: "General circulation experiments with the primitive equations: I. The basic experiment"
+  author: [{name: "Smagorinsky, Joseph"}]
+  date: 1963
+  parent: {type: periodical, title: "Monthly weather review", volume: "91"}
+  page-range: "99-164"
+
+"reynolds1895iv":
+  type: article
+  title: "IV. On the dynamical theory of incompressible viscous fluids and the determination of the criterion"
+  author: [{name: "Reynolds, Osborne"}]
+  date: 1895
+  parent: {type: periodical, title: "Philosophical transactions of the royal society of london.(a.)"}
+  page-range: "123-164"
+
+"yakhot1992renormalization":
+  type: article
+  title: "The renormalization group, the ɛ-expansion and derivation of turbulence models"
+  author: [{name: "Yakhot, Victor and Smith, Leslie M"}]
+  date: 1992
+  parent: {type: periodical, title: "Journal of scientific computing", volume: "7"}
+  page-range: "35-61"
+
+"richardson2007weather":
+  type: article
+  title: "Weather prediction by numerical process"
+  author: [{name: "Richardson, Lewis Fry"}]
+  date: 2007
+
+"kolmogorov1941local":
+  type: article
+  title: "The local structure of turbulence in incompressible viscous fluid for very large Reynolds numbers"
+  author: [{name: "Kolmogorov, Andrey Nikolaevich"}]
+  date: 1941
+  parent: {type: periodical, title: "Cr Acad. Sci. URSS", volume: "30"}
+  page-range: "301-305"
+
+"Duraisamy2020-es":
+  type: misc
+  title: "Machine Learning-augmented Reynolds-averaged and Large Eddy Simulation Models of Turbulence"
+  author: [{name: "Duraisamy, Karthik"}]
+  date: 2020
+  serial-number: "arXiv:2009.10675"
+
+"Lynch1964-pe":
+  type: article
+  title: "Direct solution of partial difference equations by tensor product methods"
+  author: [{name: "Lynch, Robert E and Rice, John R and Thomas, Donald H"}]
+  date: 1964
+  parent: {type: periodical, title: "Numer. Math.", volume: "6"}
+  page-range: "185-199"
+
+"Smagorinsky1963-fj":
+  type: article
+  title: "General circulation experiments with the primitive equations: I. The basic experiment"
+  author: [{name: "Smagorinsky, J"}]
+  date: 1963
+  parent: {type: periodical, title: "Mon. Weather Rev.", volume: "91"}
+  page-range: "99-164"
+
+"Lesieur1996-zy":
+  type: article
+  title: "New Trends in Large-Eddy Simulations of Turbulence"
+  author: [{name: "Lesieur, M and Metais, O"}]
+  date: 1996
+  parent: {type: periodical, title: "Annu. Rev. Fluid Mech.", volume: "28"}
+  page-range: "45-82"
+
+"Alfonsi2009-gt":
+  type: article
+  title: "Reynolds-Averaged Navier--Stokes Equations for Turbulence Modeling"
+  author: [{name: "Alfonsi, Giancarlo"}]
+  date: 2009
+  parent: {type: periodical, title: "Appl. Mech. Rev.", volume: "62"}
+
+"Boussinesq1877-uf":
+  type: article
+  title: "Theorie de l'ecoulement tourbillant"
+  author: [{name: "Boussinesq, J"}]
+  date: 1877
+  parent: {type: periodical, title: "Mémoires de l'Académie des Sciences", volume: "23"}
+  page-range: "46-50"
+
+"mcdonough2007lectures":
+  type: article
+  title: "Lectures in computational fluid dynamics of incompressible flow: Mathematics, algorithms and implementations"
+  author: [{name: "McDonough, James M"}]
+  date: 2007
+
+"sweby1984high":
+  type: article
+  title: "High resolution schemes using flux limiters for hyperbolic conservation laws"
+  author: [{name: "Sweby, Peter K"}]
+  date: 1984
+  parent: {type: periodical, title: "SIAM journal on numerical analysis", volume: "21"}
+  page-range: "995-1011"
+
+"Male2019-uk":
+  type: article
+  title: "Large Eddy Simulation of Pre-Chamber Ignition in an Internal Combustion Engine"
+  author: [{name: "Malé, Quentin and Staffelbach, Gabriel and Vermorel, Olivier and Misdariis, Antony and Ravet, Frédéric and Poinsot, Thierry"}]
+  date: 2019
+  parent: {type: periodical, title: "Flow Turbul. Combust.", volume: "103"}
+  page-range: "465-483"
+
+"Arroyo2019-nq":
+  type: article
+  title: "CFD modeling of a realistic turbofan blade for noise prediction. Part 1: Aerodynamics"
+  author: [{name: "Arroyo, Carlos Pérez and Kholodov, Pavel and Sanjosé, Marlène and Moreau, Stéphane"}]
+  date: 2019
+  parent: {type: proceedings, title: "Proceedings of Global Power and Propulsion Society"}
+
+"Wolf2012-fn":
+  type: article
+  title: "Acoustic and Large Eddy Simulation studies of azimuthal modes in annular combustion chambers"
+  author: [{name: "Wolf, Pierre and Staffelbach, Gabriel and Gicquel, Laurent Y M and Müller, Jens-Dominik and Poinsot, Thierry"}]
+  date: 2012
+  parent: {type: periodical, title: "Combust. Flame", volume: "159"}
+  page-range: "3398-3413"
+
+"Esclapez2017-to":
+  type: article
+  title: "Fuel effects on lean blow-out in a realistic gas turbine combustor"
+  author: [{name: "Esclapez, Lucas and Ma, Peter C and Mayhew, Eric and Xu, Rui and Stouffer, Scott and Lee, Tonghun and Wang, Hai and Ihme, Matthias"}]
+  date: 2017
+  parent: {type: periodical, title: "Combust. Flame", volume: "181"}
+  page-range: "82-99"
+
+"Li2020-kohn-sham-regularizer":
+  type: article
+  title: "Kohn-Sham equations as regularizer: building prior knowledge into machine-learned physics"
+  author: [{name: "Li, Li and Hoyer, Stephan and Pederson, Ryan and Sun, Ruoxi and Cubuk, Ekin D and Riley, Patrick and Burke, Kieron"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett."}
+  serial-number: "in press"
+
+"Schoenholz2020-jax-md":
+  type: article
+  title: "JAX, M.D.: A Framework for Differentiable Physics"
+  author: [{name: "Schoenholz, Samuel S and Cubuk, Ekin D"}]
+  date: 2020
+  parent: {type: proceedings, title: "34th Conference on Neural Information Processing Systems (NeurIPS 2020)"}
+  serial-number: "in press"
+
+"Bauer2015-quiet-rev-nwp":
+  type: article
+  title: "The quiet revolution of numerical weather prediction"
+  author: [{name: "Bauer, Peter and Thorpe, Alan and Brunet, Gilbert"}]
+  date: 2015
+  parent: {type: periodical, title: "Nature", volume: "525"}
+  page-range: "47-55"
+
+"Lu2020-cb":
+  type: misc
+  title: "Large-Scale Discrete Fourier Transform on TPUs"
+  author: [{name: "Lu, Tianjian and Chen, Yi-Fan and Hechtman, Blake and Wang, Tao and Anderson, John"}]
+  date: 2020
+  serial-number: "arXiv:2002.03260"
+
+"Ben-Haim2019-ja":
+  type: misc
+  title: "Inundation Modeling in Data Scarce Regions"
+  author: [{name: "Ben-Haim, Zvika and Anisimov, Vladimir and Yonas, Aaron and Gulshan, Varun and Shafi, Yusef and Hoyer, Stephan and Nevo, Sella"}]
+  date: 2019
+  serial-number: "arXiv:1910.05006"
+
+"Yang2019-si":
+  type: article
+  title: "High performance Monte Carlo simulation of ising model on TPU clusters"
+  author: [{name: "Yang, Kun and Chen, Yi-Fan and Roumpos, Georgios and Colby, Chris and Anderson, John"}]
+  date: 2019
+  parent: {type: proceedings, title: "Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis"}
+  page-range: "1-15"
+
+"Griewank1994-yg":
+  type: article
+  title: "Achieving Logarithmic Growth Of Temporal And Spatial Complexity In Reverse Automatic Differentiation"
+  author: [{name: "Griewank, Andreas"}]
+  date: 1994
+  parent: {type: periodical, title: "Optim. Methods Softw.", volume: "1"}
+
+"Pope2004-ho":
+  type: article
+  title: "Ten questions concerning the large-eddy simulation of turbulent flows"
+  author: [{name: "Pope, Stephen B"}]
+  date: 2004
+  parent: {type: periodical, title: "New Journal of Physics", volume: "6"}
+
+"Chandler2013-koklmogorov":
+  type: article
+  title: "Invariant recurrent solutions embedded in a turbulent two-dimensional Kolmogorov flow"
+  author: [{name: "Chandler, Gary J and Kerswell, Rich R"}]
+  date: 2013
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "722"}
+  page-range: "554-595"
+
+"Boffetta2012-2d-turbulence":
+  type: article
+  title: "Two-Dimensional Turbulence"
+  author: [{name: "Boffetta, Guido and Ecke, Robert E"}]
+  date: 2012
+  parent: {type: periodical, title: "Annu. Rev. Fluid Mech.", volume: "44"}
+  page-range: "427-451"
+
+"sanchez2020learning":
+  type: misc
+  title: "Learning to simulate complex physics with graph networks"
+  author: [{name: "Sanchez-Gonzalez, Alvaro and Godwin, Jonathan and Pfaff, Tobias and Ying, Rex and Leskovec, Jure and Battaglia, Peter W"}]
+  date: 2020
+  serial-number: "arXiv:2002.09405"
+
+"battaglia2018relational":
+  type: misc
+  title: "Relational inductive biases, deep learning, and graph networks"
+  author: [{name: "Battaglia, Peter W and Hamrick, Jessica B and Bapst, Victor and Sanchez-Gonzalez, Alvaro and Zambaldi, Vinicius and Malinowski, Mateusz and Tacchetti, Andrea and Raposo, David and Santoro, Adam and Faulkner, Ryan"}]
+  date: 2018
+  serial-number: "arXiv:1806.01261"
+
+"Note1":
+  type: article
+  title: "% note In our case the Pearson correlation reduces to a cosine distance because the flows considered here have mean velocity of 0.Stop%"

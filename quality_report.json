@@ -1,0 +1,71 @@
+[
+ {
+  "paper": "2102.01010",
+  "pages": 18,
+  "bytes": 6966777,
+  "images": 9,
+  "tex_leftovers": [],
+  "chars": 51226
+ },
+ {
+  "paper": "2105.06980",
+  "pages": 14,
+  "bytes": 210630,
+  "images": 0,
+  "tex_leftovers": [
+   "\\[",
+   "\\]"
+  ],
+  "chars": 27765
+ },
+ {
+  "paper": "2110.02085",
+  "pages": 19,
+  "bytes": 2819098,
+  "images": 4,
+  "tex_leftovers": [],
+  "chars": 67779
+ },
+ {
+  "paper": "2205.10379",
+  "pages": 24,
+  "bytes": 4523429,
+  "images": 5,
+  "tex_leftovers": [],
+  "chars": 85659
+ },
+ {
+  "paper": "2306.16215",
+  "pages": 22,
+  "bytes": 2227740,
+  "images": 10,
+  "tex_leftovers": [],
+  "chars": 88166
+ },
+ {
+  "paper": "2306.16216",
+  "pages": 15,
+  "bytes": 2014144,
+  "images": 11,
+  "tex_leftovers": [],
+  "chars": 46242
+ },
+ {
+  "paper": "2312.03982",
+  "pages": 19,
+  "bytes": 4064884,
+  "images": 15,
+  "tex_leftovers": [
+   "\\begin"
+  ],
+  "chars": 45564
+ },
+ {
+  "paper": "2408.13687",
+  "pages": 10,
+  "bytes": 851057,
+  "images": 4,
+  "tex_leftovers": [],
+  "chars": 29600
+ }
+]

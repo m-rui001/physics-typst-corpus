@@ -1,0 +1,1940 @@
+"Cecotti:2010bp":
+  type: article
+  title: "T-Branes and Monodromy"
+  author: [{name: "Cecotti, Sergio and Cordova, Clay and Heckman, Jonathan J. and Vafa, Cumrun"}]
+  date: 2011
+  parent: {type: periodical, title: "JHEP", volume: "07"}
+  page-range: "030"
+  doi: "10.1007/JHEP07(2011)030"
+
+"ArkaniHamed:2006dz":
+  type: article
+  title: "The String landscape, black holes and gravity as the weakest force"
+  author: [{name: "Arkani-Hamed, Nima and Motl, Lubos and Nicolis, Alberto and Vafa, Cumrun"}]
+  date: 2007
+  parent: {type: periodical, title: "JHEP", volume: "06"}
+  page-range: "060"
+  doi: "10.1088/1126-6708/2007/06/060"
+
+"Wrase:2010ew":
+  type: article
+  title: "On Classical de Sitter Vacua in String Theory"
+  author: [{name: "Wrase, Timm and Zagermann, Marco"}]
+  date: 2010
+  parent: {type: periodical, title: "Fortsch. Phys.", volume: "58"}
+  page-range: "906-910"
+  doi: "10.1002/prop.201000053"
+
+"Borghese:2010ei":
+  type: article
+  title: "Metastable supersymmetry breaking in extended supergravity"
+  author: [{name: "Borghese, Andrea and Roest, Diederik"}]
+  date: 2011
+  parent: {type: periodical, title: "JHEP", volume: "05"}
+  page-range: "102"
+  doi: "10.1007/JHEP05(2011)102"
+
+"Catino:2013syn":
+  type: article
+  title: "Simple metastable de Sitter vacua in N=2 gauged supergravity"
+  author: [{name: "Catino, Francesca and Scrucca, Claudio A. and Smyth, Paul"}]
+  date: 2013
+  parent: {type: periodical, title: "JHEP", volume: "04"}
+  page-range: "056"
+  doi: "10.1007/JHEP04(2013)056"
+
+"Balasubramanian:2005zx":
+  type: article
+  title: "Systematics of moduli stabilisation in Calabi-Yau flux compactifications"
+  author: [{name: "Balasubramanian, Vijay and Berglund, Per and Conlon, Joseph P. and Quevedo, Fernando"}]
+  date: 2005
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+  page-range: "007"
+  doi: "10.1088/1126-6708/2005/03/007"
+
+"Rummel:2011cd":
+  type: article
+  title: "A sufficient condition for de Sitter vacua in type IIB string theory"
+  author: [{name: "Rummel, Markus and Westphal, Alexander"}]
+  date: 2012
+  parent: {type: periodical, title: "JHEP", volume: "01"}
+  page-range: "020"
+  doi: "10.1007/JHEP01(2012)020"
+
+"Antoniadis:2003sw":
+  type: article
+  title: "String loop corrections to the universal hypermultiplet"
+  author: [{name: "Antoniadis, Ignatios and Minasian, Ruben and Theisen, Stefan and Vanhove, Pierre"}]
+  date: 2003
+  parent: {type: periodical, title: "Class. Quant. Grav.", volume: "20"}
+  page-range: "5079-5102"
+  doi: "10.1088/0264-9381/20/23/009"
+
+"Minasian:2015bxa":
+  type: article
+  title: "F-theory at order α'^3"
+  author: [{name: "Minasian, Ruben and Pugh, Tom G. and Savelli, Raffaele"}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "050"
+  doi: "10.1007/JHEP10(2015)050"
+
+"Cicoli:2015ylx":
+  type: article
+  title: "De Sitter from T-branes"
+  author: [{name: "Cicoli, Michele and Quevedo, Fernando and Valandro, Roberto"}]
+  date: 2016
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+  page-range: "141"
+  doi: "10.1007/JHEP03(2016)141"
+
+"Witten:1996bn":
+  type: article
+  title: "Nonperturbative superpotentials in string theory"
+  author: [{name: "Witten, Edward"}]
+  date: 1996
+  parent: {type: periodical, title: "Nucl. Phys.", volume: "B474"}
+  page-range: "343-360"
+  doi: "10.1016/0550-3213(96)00283-0"
+
+"Kutasov:2015eba":
+  type: article
+  title: "Constraining de Sitter Space in String Theory"
+  author: [{name: "Kutasov, David and Maxfield, Travis and Melnikov, Ilarion and Sethi, Savdeep"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "115"}
+  page-range: "071305"
+  doi: "10.1103/PhysRevLett.115.071305"
+
+"Gubser:2000nd":
+  type: article
+  title: "Curvature singularities: The Good, the bad, and the naked"
+  author: [{name: "Gubser, Steven S."}]
+  date: 2000
+  parent: {type: periodical, title: "Adv. Theor. Math. Phys.", volume: "4"}
+  page-range: "679-745"
+
+"Andriot:2016xvq":
+  type: misc
+  title: "Refining the boundaries of the classical de Sitter landscape"
+  author: [{name: "Andriot, David and Blåbäck, Johan"}]
+  date: 2016
+  serial-number: "arXiv:1609.00385"
+
+"Bena:2016fqp":
+  type: article
+  title: "Loop corrections to the antibrane potential"
+  author: [{name: "Bena, Iosif and Blåbäck, Johan and Turton, David"}]
+  date: 2016
+  parent: {type: periodical, title: "JHEP", volume: "07"}
+  page-range: "132"
+  doi: "10.1007/JHEP07(2016)132"
+
+"Guth:1980zm":
+  type: article
+  title: "The Inflationary Universe: A Possible Solution to the Horizon and Flatness Problems"
+  author: [{name: "Guth, Alan H."}]
+  date: 1981
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D23"}
+  page-range: "347-356"
+  doi: "10.1103/PhysRevD.23.347"
+
+"Linde:1981mu":
+  type: article
+  title: "A New Inflationary Universe Scenario: A Possible Solution of the Horizon, Flatness, Homogeneity, Isotropy and Primordial Monopole Problems"
+  author: [{name: "Linde, Andrei D."}]
+  date: 1982
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B108"}
+  page-range: "389-393"
+  doi: "10.1016/0370-2693(82)91219-9"
+
+"Weinberg:1988cp":
+  type: article
+  title: "The Cosmological Constant Problem"
+  author: [{name: "Weinberg, Steven"}]
+  date: 1989
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "61"}
+  page-range: "1-23"
+  doi: "10.1103/RevModPhys.61.1"
+
+"Polchinski:2015pzt":
+  type: misc
+  title: "String theory to the rescue"
+  author: [{name: "Polchinski, Joseph"}]
+  date: 2015
+  serial-number: "arXiv:1512.02477"
+
+"Ooguri:2016pdq":
+  type: misc
+  title: "Non-supersymmetric AdS and the Swampland"
+  author: [{name: "Ooguri, Hirosi and Vafa, Cumrun"}]
+  date: 2016
+  serial-number: "arXiv:1610.01533"
+
+"Lunin:2001fv":
+  type: article
+  title: "Metric of the multiply wound rotating string"
+  author: [{name: "Lunin, Oleg and Mathur, Samir D."}]
+  date: 2001
+  parent: {type: periodical, title: "Nucl. Phys.", volume: "B610"}
+  page-range: "49-76"
+  doi: "10.1016/S0550-3213(01)00321-2"
+
+"Bena:2016oqr":
+  type: article
+  title: "There and back again: A T-brane's tale"
+  author: [{name: "Bena, Iosif and Blåbäck, Johan and Minasian, Ruben and Savelli, Raffaele"}]
+  date: 2016
+  parent: {type: periodical, title: "JHEP", volume: "11"}
+  page-range: "179"
+  doi: "10.1007/JHEP11(2016)179"
+
+"Aharony:2005ez":
+  type: article
+  title: "Open string moduli in KKLT compactifications"
+  author: [{name: "Aharony, Ofer and Antebi, Yaron E. and Berkooz, Micha"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D72"}
+  page-range: "106009"
+  doi: "10.1103/PhysRevD.72.106009"
+
+"Aharony:1999ti":
+  type: article
+  title: "Large N field theories, string theory and gravity"
+  author: [{name: "Aharony, Ofer and Gubser, Steven S. and Maldacena, Juan Martin and Ooguri, Hirosi and Oz, Yaron"}]
+  date: 2000
+  parent: {type: periodical, title: "Phys. Rept.", volume: "323"}
+  page-range: "183-386"
+  doi: "10.1016/S0370-1573(99)00083-6"
+
+"Aldazabal:1999jr":
+  type: article
+  title: "Tachyon free nonsupersymmetric type IIB orientifolds via Brane - anti-brane systems"
+  author: [{name: "Aldazabal, G. and Uranga, A. M."}]
+  date: 1999
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "024"
+  doi: "10.1088/1126-6708/1999/10/024"
+
+"Antoniadis:1999xk":
+  type: article
+  title: "Brane supersymmetry breaking"
+  author: [{name: "Antoniadis, Ignatios and Dudas, E. and Sagnotti, A."}]
+  date: 1999
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B464"}
+  page-range: "38-45"
+  doi: "10.1016/S0370-2693(99)01023-0"
+
+"Apruzzi:2013yva":
+  type: article
+  title: "All AdS_7 solutions of type II supergravity"
+  author: [{name: "Apruzzi, Fabio and Fazzi, Marco and Rosa, Dario and Tomasiello, Alessandro"}]
+  date: 2014
+  parent: {type: periodical, title: "JHEP", volume: "1404"}
+  page-range: "064"
+  doi: "10.1007/JHEP04(2014)064"
+
+"Bena:2013hr":
+  type: article
+  title: "Antibranes cannot become black"
+  author: [{name: "Bena, I. and Blåbäck, J. and Danielsson, U.H. and Van Riet, T."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys.Rev.", volume: "D87"}
+  page-range: "104023"
+  doi: "10.1103/PhysRevD.87.104023"
+
+"Bena:2012ek":
+  type: article
+  title: "Horizons cannot save the Landscape"
+  author: [{name: "Bena, Iosif and Buchel, Alex and Dias, Oscar J.C."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys.Rev.", volume: "D87"}
+  page-range: "063012"
+  doi: "10.1103/PhysRevD.87.063012"
+
+"Bena:2011wh":
+  type: article
+  title: "The backreaction of anti-D3 branes on the Klebanov-Strassler geometry"
+  author: [{name: "Bena, Iosif and Giecold, Gregory and Graña, Mariana and Halmagyi, Nick and Massai, Stefano"}]
+  date: 2013
+  parent: {type: periodical, title: "JHEP", volume: "1306"}
+  page-range: "060"
+  doi: "10.1007/JHEP06(2013)060"
+
+"Bena:2010gs":
+  type: article
+  title: "The Backreaction of Anti-M2 Branes on a Warped Stenzel Space"
+  author: [{name: "Bena, Iosif and Giecold, Gregory and Halmagyi, Nick"}]
+  date: 2011
+  parent: {type: periodical, title: "JHEP", volume: "1104"}
+  page-range: "120"
+  doi: "10.1007/JHEP04(2011)120"
+
+"Bena:2006rg":
+  type: article
+  title: "A Note on (Meta)stable Brane Configurations in MQCD"
+  author: [{name: "Bena, I. and Gorbatov, E. and Hellerman, S. and Seiberg, N. and Shih, D."}]
+  date: 2006
+  parent: {type: periodical, title: "JHEP", volume: "0611"}
+  page-range: "088"
+  doi: "10.1088/1126-6708/2006/11/088"
+
+"Bena:2012bk":
+  type: article
+  title: "Anti-D3 Branes: Singular to the bitter end"
+  author: [{name: "Bena, Iosif and Graña, Mariana and Kuperstein, Stanislav and Massai, Stefano"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys.Rev.", volume: "D87"}
+  page-range: "106010"
+  doi: "10.1103/PhysRevD.87.106010"
+
+"Bena:2014bxa":
+  type: article
+  title: "Tachyonic Anti-M2 Branes"
+  author: [{name: "Bena, Iosif and Graña, Mariana and Kuperstein, Stanislav and Massai, Stefano"}]
+  date: 2014
+  parent: {type: periodical, title: "JHEP", volume: "1406"}
+  page-range: "173"
+  doi: "10.1007/JHEP06(2014)173"
+
+"Bena:2014jaa":
+  type: article
+  title: "Giant Tachyons in the Landscape"
+  author: [{name: "Bena, Iosif and Graña, Mariana and Kuperstein, Stanislav and Massai, Stefano"}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "146"
+  doi: "10.1007/JHEP02(2015)146"
+
+"Bena:2012vz":
+  type: article
+  title: "Polchinski-Strassler does not uplift Klebanov-Strassler"
+  author: [{name: "Bena, Iosif and Graña, Mariana and Kuperstein, Stanislav and Massai, Stefano"}]
+  date: 2013
+  parent: {type: periodical, title: "JHEP", volume: "1309"}
+  page-range: "142"
+  doi: "10.1007/JHEP09(2013)142"
+
+"Bena:2015qfa":
+  type: misc
+  title: "D3-brane model building and the supertrace rule"
+  author: [{name: "Bena, Iosif and Graña, Mariana and Kuperstein, Stanislav and Ntokos, Praxitelis and Petrini, Michela"}]
+  date: 2015
+  serial-number: "arXiv:1510.07039"
+
+"Bena:2009xk":
+  type: article
+  title: "On the Existence of Meta-stable Vacua in Klebanov-Strassler"
+  author: [{name: "Bena, Iosif and Grana, Mariana and Halmagyi, Nick"}]
+  date: 2010
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+  page-range: "087"
+  doi: "10.1007/JHEP09(2010)087"
+
+"Bena:2012tx":
+  type: article
+  title: "Persistent anti-brane singularities"
+  author: [{name: "Bena, Iosif and Junghans, Daniel and Kuperstein, Stanislav and Van Riet, Thomas and Wrase, Timm and others"}]
+  date: 2012
+  parent: {type: periodical, title: "JHEP", volume: "1210"}
+  page-range: "078"
+  doi: "10.1007/JHEP10(2012)078"
+
+"Bena:2015kia":
+  type: article
+  title: "Brane polarization is no cure for tachyons"
+  author: [{name: "Bena, Iosif and Kuperstein, Stanislav"}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+  page-range: "112"
+  doi: "10.1007/JHEP09(2015)112"
+
+"Bergshoeff:2015jxa":
+  type: article
+  title: "D3 and dS"
+  author: [{name: "Bergshoeff, Eric A. and Dasgupta, Keshav and Kallosh, Renata and Van Proeyen, Antoine and Wrase, Timm"}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "05"}
+  page-range: "058"
+  doi: "10.1007/JHEP05(2015)058"
+
+"Blaback:2014tfa":
+  type: article
+  title: "Localised anti-branes in non-compact throats at zero and finite T"
+  author: [{name: "Blåbäck, J. and Danielsson, U.H. and Junghans, D. and Van Riet, T. and Vargas, S.C."}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "1502"}
+  page-range: "018"
+  doi: "10.1007/JHEP02(2015)018"
+
+"Blaback:2011pn":
+  type: article
+  title: "(Anti-)Brane backreaction beyond perturbation theory"
+  author: [{name: "Blåbäck, Johan and Danielsson, Ulf H. and Junghans, Daniel and Van Riet, Thomas and Wrase, Timm and others"}]
+  date: 2012
+  parent: {type: periodical, title: "JHEP", volume: "1202"}
+  page-range: "025"
+  doi: "10.1007/JHEP02(2012)025"
+
+"Buchel:2013dla":
+  type: article
+  title: "Cascading gauge theory on dS_4 and String Theory landscape"
+  author: [{name: "Buchel, Alex and Galante, Damián A."}]
+  date: 2014
+  parent: {type: periodical, title: "Nucl.Phys.", volume: "B883"}
+  page-range: "107-148"
+  doi: "10.1016/j.nuclphysb.2014.03.022"
+
+"Camara:2003ku":
+  type: article
+  title: "Flux induced SUSY breaking soft terms"
+  author: [{name: "Camara, Pablo G. and Ibanez, L.E. and Uranga, A.M."}]
+  date: 2004
+  parent: {type: periodical, title: "Nucl.Phys.", volume: "B689"}
+  page-range: "195-242"
+  doi: "10.1016/j.nuclphysb.2004.04.013"
+
+"Cohen-Maldonado:2015ssa":
+  type: article
+  title: "Observations on fluxes near anti-branes"
+  author: [{name: "Cohen-Maldonado, Diego and Diaz, Juan and van Riet, Thomas and Vercnocke, Bert"}]
+  date: 2016
+  parent: {type: periodical, title: "JHEP", volume: "01"}
+  page-range: "126"
+  doi: "10.1007/JHEP01(2016)126"
+
+"Cvetic:2000db":
+  type: article
+  title: "Ricci flat metrics, harmonic forms and brane resolutions"
+  author: [{name: "Cvetic, Mirjam and Gibbons, G.W. and Lu, Hong and Pope, C.N."}]
+  date: 2003
+  parent: {type: periodical, title: "Commun.Math.Phys.", volume: "232"}
+  page-range: "457-500"
+
+"D'Hoker:2002aw":
+  type: misc
+  title: "Supersymmetric gauge theories and the AdS / CFT correspondence"
+  author: [{name: "D'Hoker, Eric and Freedman, Daniel Z."}]
+  date: 2002
+  page-range: "3-158"
+
+"Damour:1975uj":
+  type: article
+  title: "A New and Consistent Method for Classical Renormalization"
+  author: [{name: "Damour, T."}]
+  date: 1975
+  parent: {type: periodical, title: "Nuovo Cim.", volume: "B26"}
+  page-range: "157-164"
+  doi: "10.1007/BF02755544"
+
+"Danielsson:2009ff":
+  type: article
+  title: "Towards Classical de Sitter Solutions in String Theory"
+  author: [{name: "Danielsson, Ulf H. and Haque, Sheikh Shajidul and Shiu, Gary and Van Riet, Thomas"}]
+  date: 2009
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+  page-range: "114"
+  doi: "10.1088/1126-6708/2009/09/114"
+
+"Dasgupta:2016prs":
+  type: misc
+  title: "Fermions on the Anti-Brane: Higher Order Interactions and Spontaneously Broken Supersymmetry"
+  author: [{name: "Dasgupta, Keshav and Emelin, Maxim and McDonough, Evan"}]
+  date: 2016
+  serial-number: "arXiv:1601.03409"
+
+"DeWolfe:2004qx":
+  type: article
+  title: "The Giant inflaton"
+  author: [{name: "DeWolfe, Oliver and Kachru, Shamit and Verlinde, Herman L."}]
+  date: 2004
+  parent: {type: periodical, title: "JHEP", volume: "05"}
+  page-range: "017"
+  doi: "10.1088/1126-6708/2004/05/017"
+
+"Drees:1996ca":
+  type: misc
+  title: "An Introduction to supersymmetry"
+  author: [{name: "Drees, Manuel"}]
+  date: 1996
+  serial-number: "arXiv:hep-ph/9611409"
+
+"Dymarsky:2011pm":
+  type: article
+  title: "On gravity dual of a metastable vacuum in Klebanov-Strassler theory"
+  author: [{name: "Dymarsky, Anatoly"}]
+  date: 2011
+  parent: {type: periodical, title: "JHEP", volume: "05"}
+  page-range: "053"
+  doi: "10.1007/JHEP05(2011)053"
+
+"Franco:2006es":
+  type: article
+  title: "Dynamical SUSY breaking at meta-stable minima from D-branes at obstructed geometries"
+  author: [{name: "Franco, Sebastian and Uranga, Angel M ."}]
+  date: 2006
+  parent: {type: periodical, title: "JHEP", volume: "0606"}
+  page-range: "031"
+  doi: "10.1088/1126-6708/2006/06/031"
+
+"Garousi:1996ad":
+  type: article
+  title: "Superstring scattering from D-branes"
+  author: [{name: "Garousi, Mohammad R. and Myers, Robert C."}]
+  date: 1996
+  parent: {type: periodical, title: "Nucl.Phys.", volume: "B475"}
+  page-range: "193-224"
+  doi: "10.1016/0550-3213(96)00316-1"
+
+"Gautason:2013zw":
+  type: article
+  title: "Cosmological Constant, Near Brane Behavior and Singularities"
+  author: [{name: "Gautason, Fridrik Freyr and Junghans, Daniel and Zagermann, Marco"}]
+  date: 2013
+  parent: {type: periodical, title: "JHEP", volume: "1309"}
+  page-range: "123"
+  doi: "10.1007/JHEP09(2013)123"
+
+"Giddings:2001yu":
+  type: article
+  title: "Hierarchies from fluxes in string compactifications"
+  author: [{name: "Giddings, Steven B. and Kachru, Shamit and Polchinski, Joseph"}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D66"}
+  page-range: "106006"
+  doi: "10.1103/PhysRevD.66.106006"
+
+"Giecold:2013pza":
+  type: article
+  title: "Insane Anti-Membranes?"
+  author: [{name: "Giecold, Gregory and Orsi, Francesco and Puhm, Andrea"}]
+  date: 2014
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+  page-range: "041"
+  doi: "10.1007/JHEP03(2014)041"
+
+"Girardello:1981wz":
+  type: article
+  title: "Soft Breaking of Supersymmetry"
+  author: [{name: "Girardello, L. and Grisaru, Marcus T."}]
+  date: 1982
+  parent: {type: periodical, title: "Nucl. Phys.", volume: "B194"}
+  page-range: "65"
+  doi: "10.1016/0550-3213(82)90512-0"
+
+"Goldberger:2001tn":
+  type: article
+  title: "Renormalization group flows for brane couplings"
+  author: [{name: "Goldberger, Walter D. and Wise, Mark B."}]
+  date: 2002
+  parent: {type: periodical, title: "Phys.Rev.", volume: "D65"}
+  page-range: "025011"
+  doi: "10.1103/PhysRevD.65.025011"
+
+"Grana:2002tu":
+  type: article
+  title: "D3-brane action in a supergravity background: The Fermionic story"
+  author: [{name: "Graña, Mariana"}]
+  date: 2002
+  parent: {type: periodical, title: "Phys.Rev.", volume: "D66"}
+  page-range: "045014"
+  doi: "10.1103/PhysRevD.66.045014"
+
+"Grana:2003ek":
+  type: article
+  title: "Soft supersymmetry breaking in Calabi-Yau orientifolds with D-branes and fluxes"
+  author: [{name: "Graña, Mariana and Grimm, Thomas W. and Jockers, Hans and Louis, Jan"}]
+  date: 2004
+  parent: {type: periodical, title: "Nucl.Phys.", volume: "B690"}
+  page-range: "21-61"
+  doi: "10.1016/j.nuclphysb.2004.04.021"
+
+"Grana:2000jj":
+  type: article
+  title: "Supersymmetric three form flux perturbations on AdS(5)"
+  author: [{name: "Graña, Mariana and Polchinski, Joseph"}]
+  date: 2001
+  parent: {type: periodical, title: "Phys.Rev.", volume: "D63"}
+  page-range: "026001"
+  doi: "10.1103/PhysRevD.63.026001"
+
+"Grisaru:2000ij":
+  type: article
+  title: "Norcor versus the abominable gauge completion"
+  author: [{name: "Grisaru, Marcus T. and Knutt, Marcia E."}]
+  date: 2001
+  parent: {type: periodical, title: "Phys.Lett.", volume: "B500"}
+  page-range: "188-198"
+  doi: "10.1016/S0370-2693(01)00055-7"
+
+"Hartnett:2015oda":
+  type: article
+  title: "Localised Anti-Branes in Flux Backgrounds"
+  author: [{name: "Hartnett, Gavin S."}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "1506"}
+  page-range: "007"
+  doi: "10.1007/JHEP06(2015)007"
+
+"Herzog:2001xk":
+  type: article
+  title: "Remarks on the warped deformed conifold"
+  author: [{name: "Herzog, Christopher P. and Klebanov, Igor R. and Ouyang, Peter"}]
+  date: 2001
+  parent: {type: proceedings, title: "Modern Trends in String Theory: 2nd Lisbon School Superstrings, Lisbon, Portugal, July 13-17, 2001"}
+
+"Jack:1999ud":
+  type: article
+  title: "Nonstandard soft supersymmetry breaking"
+  author: [{name: "Jack, I. and Jones, D.R.T."}]
+  date: 1999
+  parent: {type: periodical, title: "Phys.Lett.", volume: "B457"}
+  page-range: "101-108"
+  doi: "10.1016/S0370-2693(99)00530-4"
+
+"Jack:1994kd":
+  type: article
+  title: "Soft supersymmetry breaking and finiteness"
+  author: [{name: "Jack, I. and Jones, D. R. T."}]
+  date: 1994
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B333"}
+  page-range: "372-379"
+  doi: "10.1016/0370-2693(94)90156-2"
+
+"Janssen:1999sa":
+  type: article
+  title: "The D8-brane tied up: String and brane solutions in massive type IIA supergravity"
+  author: [{name: "Janssen, Bert and Meessen, Patrick and Ortin, Tomas"}]
+  date: 1999
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B453"}
+  page-range: "229-236"
+  doi: "10.1016/S0370-2693(99)00315-9"
+
+"Jones:1984cu":
+  type: article
+  title: "Soft Breaking of Two Loop Finite N=1 Supersymmetric Gauge Theories"
+  author: [{name: "Jones, D. R. T. and Mezincescu, L. and Yao, Y. P."}]
+  date: 1984
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B148"}
+  page-range: "317-322"
+  doi: "10.1016/0370-2693(84)90095-9"
+
+"Junghans:2014wda":
+  type: article
+  title: "Curvature-induced Resolution of Anti-brane Singularities"
+  author: [{name: "Junghans, Daniel and Schmidt, Daniel and Zagermann, Marco"}]
+  date: 2014
+  parent: {type: periodical, title: "JHEP", volume: "1410"}
+  page-range: "34"
+  doi: "10.1007/JHEP10(2014)034"
+
+"Kachru-talk":
+  type: article
+  title: "Fluxes and Moduli Stabilization"
+  author: [{name: "Kachru, Shamit"}]
+  date: 2012
+
+"Kachru:2003aw":
+  type: article
+  title: "De Sitter vacua in string theory"
+  author: [{name: "Kachru, Shamit and Kallosh, Renata and Linde, Andrei D. and Trivedi, Sandip P."}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D68"}
+  page-range: "046005"
+  doi: "10.1103/PhysRevD.68.046005"
+
+"Kachru:2002gs":
+  type: article
+  title: "Brane / flux annihilation and the string dual of a nonsupersymmetric field theory"
+  author: [{name: "Kachru, Shamit and Pearson, John and Verlinde, Herman L."}]
+  date: 2002
+  parent: {type: periodical, title: "JHEP", volume: "06"}
+  page-range: "021"
+  doi: "10.1088/1126-6708/2002/06/021"
+
+"Kallosh:2015nia":
+  type: article
+  title: "String Theory Realizations of the Nilpotent Goldstino"
+  author: [{name: "Kallosh, Renata and Quevedo, Fernando and Uranga, Angel M."}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "12"}
+  page-range: "039"
+  doi: "10.1007/JHEP12(2015)039"
+
+"Kallosh:2014wsa":
+  type: article
+  title: "Emergence of Spontaneously Broken Supersymmetry on an Anti-D3-Brane in KKLT dS Vacua"
+  author: [{name: "Kallosh, Renata and Wrase, Timm"}]
+  date: 2014
+  parent: {type: periodical, title: "JHEP", volume: "12"}
+  page-range: "117"
+  doi: "10.1007/JHEP12(2014)117"
+
+"Klebanov:2000hb":
+  type: article
+  title: "Supergravity and a confining gauge theory: Duality cascades and chi SB resolution of naked singularities"
+  author: [{name: "Klebanov, Igor R. and Strassler, Matthew J."}]
+  date: 2000
+  parent: {type: periodical, title: "JHEP", volume: "0008"}
+  page-range: "052"
+  doi: "10.1088/1126-6708/2000/08/052"
+
+"Maldacena:1997re":
+  type: article
+  title: "The large N limit of superconformal field theories and supergravity"
+  author: [{name: "Maldacena, Juan Martin"}]
+  date: 1998
+  parent: {type: periodical, title: "Adv. Theor. Math. Phys.", volume: "2"}
+  page-range: "231-252"
+
+"Maldacena:2003zi":
+  type: article
+  title: "Strings in flat space and plane waves from N=4 super Yang Mills"
+  author: [{name: "Maldacena, Juan Martin"}]
+  date: 2003
+  parent: {type: periodical, title: "Annales Henri Poincare", volume: "4"}
+  serial-number: "S111-S128"
+  doi: "10.1590/S0103-97332004000200002"
+
+"Marolf:2003vf":
+  type: article
+  title: "Actions and Fermionic symmetries for D-branes in bosonic backgrounds"
+  author: [{name: "Marolf, Donald and Martucci, Luca and Silva, Pedro J."}]
+  date: 2003
+  parent: {type: periodical, title: "JHEP", volume: "0307"}
+  page-range: "019"
+  doi: "10.1088/1126-6708/2003/07/019"
+
+"Marolf:2003ye":
+  type: article
+  title: "Fermions, T duality and effective actions for D-branes in bosonic backgrounds"
+  author: [{name: "Marolf, Donald and Martucci, Luca and Silva, Pedro J."}]
+  date: 2003
+  parent: {type: periodical, title: "JHEP", volume: "0304"}
+  page-range: "051"
+  doi: "10.1088/1126-6708/2003/04/051"
+
+"Martin:1997ns":
+  type: article
+  title: "A Supersymmetry primer"
+  author: [{name: "Martin, Stephen P."}]
+  date: 2010
+  parent: {type: periodical, title: "Adv.Ser.Direct.High Energy Phys.", volume: "21"}
+  page-range: "1-153"
+  doi: "10.1142/9789814307505_0001"
+
+"Martin:1993zk":
+  type: article
+  title: "Two loop renormalization group equations for soft supersymmetry breaking couplings"
+  author: [{name: "Martin, Stephen P. and Vaughn, Michael T."}]
+  date: 1994
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D50"}
+  page-range: "2282"
+  doi: "10.1103/PhysRevD.50.2282, 10.1103/PhysRevD.78.039903"
+
+"Martucci:2005rb":
+  type: article
+  title: "Dirac actions for D-branes on backgrounds with fluxes"
+  author: [{name: "Martucci, Luca and Rosseel, Jan and Van den Bleeken, Dieter and Van Proeyen, Antoine"}]
+  date: 2005
+  parent: {type: periodical, title: "Class.Quant.Grav.", volume: "22"}
+  page-range: "2745-2764"
+  doi: "10.1088/0264-9381/22/13/014"
+
+"McGuirk:2012sb":
+  type: article
+  title: "Soft branes in supersymmetry-breaking backgrounds"
+  author: [{name: "McGuirk, Paul and Shiu, Gary and Ye, Fang"}]
+  date: 2012
+  parent: {type: periodical, title: "JHEP", volume: "07"}
+  page-range: "188"
+  doi: "10.1007/JHEP07(2012)188"
+
+"Michel:2014lva":
+  type: article
+  title: "Remarks on brane and antibrane dynamics"
+  author: [{name: "Michel, Ben and Mintun, Eric and Polchinski, Joseph and Puhm, Andrea and Saad, Philip"}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+  page-range: "021"
+  doi: "10.1007/JHEP09(2015)021"
+
+"Myers:1999ps":
+  type: article
+  title: "Dielectric branes"
+  author: [{name: "Myers, Robert C."}]
+  date: 1999
+  parent: {type: periodical, title: "JHEP", volume: "9912"}
+  page-range: "022"
+  doi: "10.1088/1126-6708/1999/12/022"
+
+"Ooguri:2006pj":
+  type: article
+  title: "Landscape of supersymmetry breaking vacua in geometrically realized gauge theories"
+  author: [{name: "Ooguri, Hirosi and Ookouchi, Yutaka"}]
+  date: 2006
+  parent: {type: periodical, title: "Nucl.Phys.", volume: "B755"}
+  page-range: "239-253"
+  doi: "10.1016/j.nuclphysb.2006.08.009"
+
+"Parkes:1983ib":
+  type: article
+  title: "Finiteness and Explicit Supersymmetry Breaking of the N=4 Supersymmetric Yang-Mills Theory"
+  author: [{name: "Parkes, A. and West, Peter C."}]
+  date: 1983
+  parent: {type: periodical, title: "Nucl.Phys.", volume: "B222"}
+  page-range: "269"
+  doi: "10.1016/0550-3213(83)90637-5"
+
+"Parkes:1983nv":
+  type: article
+  title: "Explicit Supersymmetry Breaking Can Preserve Finiteness in Rigid N=2 Supersymmetric Theories"
+  author: [{name: "Parkes, A. and West, Peter C."}]
+  date: 1983
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B127"}
+  page-range: "353"
+  doi: "10.1016/0370-2693(83)91016-X"
+
+"Parkes:1984dh":
+  type: article
+  title: "Finiteness in Rigid Supersymmetric Theories"
+  author: [{name: "Parkes, A. and West, Peter C."}]
+  date: 1984
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B138"}
+  page-range: "99"
+  doi: "10.1016/0370-2693(84)91881-1"
+
+"Parkes:1982tg":
+  type: article
+  title: "N=1 Supersymmetric Mass Terms in the N=4 Supersymmetric Yang-Mills Theory"
+  author: [{name: "Parkes, A. J. and West, Peter C."}]
+  date: 1983
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B122"}
+  page-range: "365"
+  doi: "10.1016/0370-2693(83)91583-6"
+
+"Polchinski:1995mt":
+  type: article
+  title: "Dirichlet Branes and Ramond-Ramond charges"
+  author: [{name: "Polchinski, Joseph"}]
+  date: 1995
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "75"}
+  page-range: "4724-4727"
+  doi: "10.1103/PhysRevLett.75.4724"
+
+"Polchinski:1998rr":
+  type: article
+  title: "String theory. Vol. 2: Superstring theory and beyond"
+  author: [{name: "Polchinski, J."}]
+  date: 1998
+
+"Polchinski:2016xto":
+  type: misc
+  title: "Why trust a theory? Some further remarks (part 1)"
+  author: [{name: "Polchinski, Joseph"}]
+  date: 2016
+  serial-number: "arXiv:1601.06145"
+
+"Polchinski:2000uf":
+  type: misc
+  title: "The String dual of a confining four-dimensional gauge theory"
+  author: [{name: "Polchinski, Joseph and Strassler, Matthew J."}]
+  date: 2000
+  serial-number: "arXiv:hep-th/0003136"
+
+"Schwartz:2013pla":
+  type: article
+  title: "Quantum Field Theory and the Standard Model"
+  author: [{name: "Schwartz, Matthew D."}]
+  date: 2013
+
+"Sohnius:1985qm":
+  type: article
+  title: "Introducing Supersymmetry"
+  author: [{name: "Sohnius, M. F."}]
+  date: 1985
+  parent: {type: periodical, title: "Phys. Rept.", volume: "128"}
+  page-range: "39-204"
+  doi: "10.1016/0370-1573(85)90023-7"
+
+"Taylor:1999gq":
+  type: article
+  title: "Multiple D0-branes in weakly curved backgrounds"
+  author: [{name: "Taylor, Washington and Van Raamsdonk, Mark"}]
+  date: 1999
+  parent: {type: periodical, title: "Nucl.Phys.", volume: "B558"}
+  page-range: "63-95"
+  doi: "10.1016/S0550-3213(99)00431-9"
+
+"Terning:2006bq":
+  type: article
+  title: "Modern supersymmetry: Dynamics and duality"
+  author: [{name: "Terning, J."}]
+  date: 2006
+  doi: "10.1093/acprof:oso/9780198567639.001.0001"
+
+"Uranga:1999ib":
+  type: article
+  title: "Comments on nonsupersymmetric orientifolds at strong coupling"
+  author: [{name: "Uranga, Angel M."}]
+  date: 2000
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "041"
+  doi: "10.1088/1126-6708/2000/02/041"
+
+"West:1990tg":
+  type: article
+  title: "Introduction to supersymmetry and supergravity"
+  author: [{name: "West, Peter C."}]
+  date: 1990
+  parent: {type: periodical, title: "Singapore, Singapore: World Scientific (1990) 425 p"}
+
+"Yamada:1994id":
+  type: article
+  title: "Two loop renormalization group equations for soft SUSY breaking scalar interactions: Supergraph method"
+  author: [{name: "Yamada, Youichi"}]
+  date: 1994
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D50"}
+  page-range: "3537-3545"
+  doi: "10.1103/PhysRevD.50.3537"
+
+"Garcia-Etxebarria:2015lif":
+  type: article
+  title: "Global String Embeddings for the Nilpotent Goldstino"
+  author: [{name: "García-Etxebarria, Iñaki and Quevedo, Fernando and Valandro, Roberto"}]
+  date: 2016
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "148"
+  doi: "10.1007/JHEP02(2016)148"
+
+"Andriot:2018wzk":
+  type: article
+  title: "On the de Sitter swampland criterion"
+  author: [{name: "Andriot, David"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "785"}
+  page-range: "570-573"
+  doi: "10.1016/j.physletb.2018.09.022"
+
+"Obied:2018sgi":
+  type: misc
+  title: "De Sitter Space and the Swampland"
+  author: [{name: "Obied, Georges and Ooguri, Hirosi and Spodyneiko, Lev and Vafa, Cumrun"}]
+  date: 2018
+  serial-number: "arXiv:1806.08362"
+
+"Ooguri:2018wrx":
+  type: article
+  title: "Distance and de Sitter Conjectures on the Swampland"
+  author: [{name: "Ooguri, Hirosi and Palti, Eran and Shiu, Gary and Vafa, Cumrun"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "788"}
+  page-range: "180-184"
+  doi: "10.1016/j.physletb.2018.11.018"
+
+"Danielsson:2018ztv":
+  type: article
+  title: "What if string theory has no de Sitter vacua?"
+  author: [{name: "Danielsson, Ulf H. and Van Riet, Thomas"}]
+  date: 2018
+  parent: {type: periodical, title: "Int. J. Mod. Phys. D", volume: "27"}
+  page-range: "1830007"
+  doi: "10.1142/S0218271818300070"
+
+"Andriot:2019wrs":
+  type: article
+  title: "Open problems on classical de Sitter solutions"
+  author: [{name: "Andriot, David"}]
+  date: 2019
+  parent: {type: periodical, title: "Fortsch. Phys.", volume: "67"}
+  page-range: "1900026"
+  doi: "10.1002/prop.201900026"
+
+"Grimm:2019ixq":
+  type: article
+  title: "Asymptotic Flux Compactifications and the Swampland"
+  author: [{name: "Grimm, Thomas W. and Li, Chongchuo and Valenzuela, Irene"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "06"}
+  page-range: "009"
+  doi: "10.1007/JHEP06(2020)009"
+
+"McNamara:2019rup":
+  type: misc
+  title: "Cobordism Classes and the Swampland"
+  author: [{name: "McNamara, Jacob and Vafa, Cumrun"}]
+  date: 2019
+  serial-number: "arXiv:1909.10355"
+
+"Montero:2020icj":
+  type: article
+  title: "Cobordism Conjecture, Anomalies, and the String Lamppost Principle"
+  author: [{name: "Montero, Miguel and Vafa, Cumrun"}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "01"}
+  page-range: "063"
+  doi: "10.1007/JHEP01(2021)063"
+
+"Hamada:2021bbz":
+  type: misc
+  title: "8d Supergravity, Reconstruction of Internal Geometry and the Swampland"
+  author: [{name: "Hamada, Yuta and Vafa, Cumrun"}]
+  date: 2021
+  serial-number: "arXiv:2104.05724"
+
+"Heidenreich:2015nta":
+  type: article
+  title: "Sharpening the Weak Gravity Conjecture with Dimensional Reduction"
+  author: [{name: "Heidenreich, Ben and Reece, Matthew and Rudelius, Tom"}]
+  date: 2016
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "140"
+  doi: "10.1007/JHEP02(2016)140"
+
+"Heidenreich:2019zkl":
+  type: article
+  title: "Repulsive Forces and the Weak Gravity Conjecture"
+  author: [{name: "Heidenreich, Ben and Reece, Matthew and Rudelius, Tom"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "055"
+  doi: "10.1007/JHEP10(2019)055"
+
+"Ibanez:2017kvh":
+  type: article
+  title: "Constraining Neutrino Masses, the Cosmological Constant and BSM Physics from the Weak Gravity Conjecture"
+  author: [{name: "Ibáñez, Luis E. and Martin-Lozano, Victor and Valenzuela, Irene"}]
+  date: 2017
+  parent: {type: periodical, title: "JHEP", volume: "11"}
+  page-range: "066"
+  doi: "10.1007/JHEP11(2017)066"
+
+"Ibanez:2017oqr":
+  type: misc
+  title: "Constraining the EW Hierarchy from the Weak Gravity Conjecture"
+  author: [{name: "Ibáñez, Luis E. and Martin-Lozano, Victor and Valenzuela, Irene"}]
+  date: 2017
+  serial-number: "arXiv:1707.05811"
+
+"Gonzalo:2018tpb":
+  type: article
+  title: "AdS-phobia, the WGC, the Standard Model and Supersymmetry"
+  author: [{name: "Gonzalo, Eduardo and Herraez, Alvaro and Ibáñez, Luis E."}]
+  date: 2018
+  parent: {type: periodical, title: "JHEP", volume: "06"}
+  page-range: "051"
+  doi: "10.1007/JHEP06(2018)051"
+
+"Gonzalo:2018dxi":
+  type: article
+  title: "The Fundamental Need for a SM Higgs and the Weak Gravity Conjecture"
+  author: [{name: "Gonzalo, Eduardo and Ibáñez, Luis E."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "786"}
+  page-range: "272-277"
+  doi: "10.1016/j.physletb.2018.09.034"
+
+"Gonzalo:2020kke":
+  type: article
+  title: "Pair Production and Gravity as the Weakest Force"
+  author: [{name: "Gonzalo, Eduardo and Ibáñez, Luis E."}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "12"}
+  page-range: "039"
+  doi: "10.1007/JHEP12(2020)039"
+
+"Heidenreich:2016aqi":
+  type: article
+  title: "Evidence for a sublattice weak gravity conjecture"
+  author: [{name: "Heidenreich, Ben and Reece, Matthew and Rudelius, Tom"}]
+  date: 2017
+  parent: {type: periodical, title: "JHEP", volume: "08"}
+  page-range: "025"
+  doi: "10.1007/JHEP08(2017)025"
+
+"Montero:2016tif":
+  type: article
+  title: "The Weak Gravity Conjecture in three dimensions"
+  author: [{name: "Montero, Miguel and Shiu, Gary and Soler, Pablo"}]
+  date: 2016
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "159"
+  doi: "10.1007/JHEP10(2016)159"
+
+"Saraswat:2016eaz":
+  type: article
+  title: "Weak gravity conjecture and effective field theory"
+  author: [{name: "Saraswat, Prashant"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "95"}
+  page-range: "025013"
+  doi: "10.1103/PhysRevD.95.025013"
+
+"McAllister:2016vzi":
+  type: article
+  title: "Runaway Relaxion Monodromy"
+  author: [{name: "McAllister, Liam and Schwaller, Pedro and Servant, Geraldine and Stout, John and Westphal, Alexander"}]
+  date: 2018
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "124"
+  doi: "10.1007/JHEP02(2018)124"
+
+"Herraez:2016dxn":
+  type: article
+  title: "An Axion-induced SM/MSSM Higgs Landscape and the Weak Gravity Conjecture"
+  author: [{name: "Herraez, Alvaro and Ibanez, Luis E."}]
+  date: 2017
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "109"
+  doi: "10.1007/JHEP02(2017)109"
+
+"Montero:2017mdq":
+  type: article
+  title: "Are tiny gauge couplings out of the Swampland?"
+  author: [{name: "Montero, Miguel"}]
+  date: 2017
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "208"
+  doi: "10.1007/JHEP10(2017)208"
+
+"Montero:2018fns":
+  type: article
+  title: "A Holographic Derivation of the Weak Gravity Conjecture"
+  author: [{name: "Montero, Miguel"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+  page-range: "157"
+  doi: "10.1007/JHEP03(2019)157"
+
+"Harlow:2018jwu":
+  type: article
+  title: "Constraints on Symmetries from Holography"
+  author: [{name: "Harlow, Daniel and Ooguri, Hirosi"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "191601"
+  doi: "10.1103/PhysRevLett.122.191601"
+
+"Harlow:2018tng":
+  type: misc
+  title: "Symmetries in quantum field theory and quantum gravity"
+  author: [{name: "Harlow, Daniel and Ooguri, Hirosi"}]
+  date: 2018
+  serial-number: "arXiv:1810.05338"
+
+"Ibanez:2017vfl":
+  type: article
+  title: "A Note on the WGC, Effective Field Theory and Clockwork within String Theory"
+  author: [{name: "Ibanez, Luis E. and Montero, Miguel"}]
+  date: 2018
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "057"
+  doi: "10.1007/JHEP02(2018)057"
+
+"Aldazabal:2018nsj":
+  type: article
+  title: "A Note on 4D Heterotic String Vacua, FI-terms and the Swampland"
+  author: [{name: "Aldazabal, Gerardo and Ibáñez, Luis E."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "782"}
+  page-range: "375-379"
+  doi: "10.1016/j.physletb.2018.05.061"
+
+"Cheung:2014vva":
+  type: article
+  title: "Naturalness and the Weak Gravity Conjecture"
+  author: [{name: "Cheung, Clifford and Remmen, Grant N."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "113"}
+  page-range: "051601"
+  doi: "10.1103/PhysRevLett.113.051601"
+
+"Cheung:2018cwt":
+  type: article
+  title: "Proof of the Weak Gravity Conjecture from Black Hole Entropy"
+  author: [{name: "Cheung, Clifford and Liu, Junyu and Remmen, Grant N."}]
+  date: 2018
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "004"
+  doi: "10.1007/JHEP10(2018)004"
+
+"Ibanez:2015fcv":
+  type: article
+  title: "Relaxion Monodromy and the Weak Gravity Conjecture"
+  author: [{name: "Ibanez, Luis E. and Montero, Miguel and Uranga, Angel and Valenzuela, Irene"}]
+  date: 2016
+  parent: {type: periodical, title: "JHEP", volume: "04"}
+  page-range: "020"
+  doi: "10.1007/JHEP04(2016)020"
+
+"Andriolo:2018lvp":
+  type: article
+  title: "A Tower Weak Gravity Conjecture from Infrared Consistency"
+  author: [{name: "Andriolo, Stefano and Junghans, Daniel and Noumi, Toshifumi and Shiu, Gary"}]
+  date: 2018
+  parent: {type: periodical, title: "Fortsch. Phys.", volume: "66"}
+  page-range: "1800020"
+  doi: "10.1002/prop.201800020"
+
+"Susskind:1995da":
+  type: misc
+  title: "Trouble for remnants"
+  author: [{name: "Susskind, Leonard"}]
+  date: 1995
+  serial-number: "arXiv:hep-th/9501106"
+
+"OoguriCERN":
+  type: article
+  title: "Constraints on Quantum Gravity"
+  author: [{name: "Ooguri, Hiroshi"}]
+
+"Maldacena:1998uz":
+  type: article
+  title: "Anti-de Sitter fragmentation"
+  author: [{name: "Maldacena, Juan Martin and Michelson, Jeremy and Strominger, Andrew"}]
+  date: 1999
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "011"
+  doi: "10.1088/1126-6708/1999/02/011"
+
+"GarciaEtxebarria:2020xsr":
+  type: article
+  title: "Nothing is certain in string compactifications"
+  author: [{name: "García Etxebarria, I. and Montero, Miguel and Sousa, Kepa and Valenzuela, Irene"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "12"}
+  page-range: "032"
+  doi: "10.1007/JHEP12(2020)032"
+
+"Witten:1981gj":
+  type: article
+  title: "Instability of the Kaluza-Klein Vacuum"
+  author: [{name: "Witten, Edward"}]
+  date: 1982
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "195"}
+  page-range: "481-492"
+  doi: "10.1016/0550-3213(82)90007-4"
+
+"Banks:2010zn":
+  type: article
+  title: "Symmetries and Strings in Field Theory and Gravity"
+  author: [{name: "Banks, Tom and Seiberg, Nathan"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "83"}
+  page-range: "084019"
+  doi: "10.1103/PhysRevD.83.084019"
+
+"Banks:1988yz":
+  type: article
+  title: "Constraints on String Vacua with Space-Time Supersymmetry"
+  author: [{name: "Banks, Tom and Dixon, Lance J."}]
+  date: 1988
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "307"}
+  page-range: "93-108"
+  doi: "10.1016/0550-3213(88)90523-8"
+
+"Gaiotto:2014kfa":
+  type: article
+  title: "Generalized Global Symmetries"
+  author: [{name: "Gaiotto, Davide and Kapustin, Anton and Seiberg, Nathan and Willett, Brian"}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "172"
+  doi: "10.1007/JHEP02(2015)172"
+
+"Heidenreich:2020pkc":
+  type: misc
+  title: "Chern-Weil Global Symmetries and How Quantum Gravity Avoids Them"
+  author: [{name: "Heidenreich, Ben and McNamara, Jacob and Montero, Miguel and Reece, Matthew and Rudelius, Tom and Valenzuela, Irene"}]
+  date: 2020
+  serial-number: "arXiv:2012.00009"
+
+"Heidenreich:2021tna":
+  type: misc
+  title: "Non-Invertible Global Symmetries and Completeness of the Spectrum"
+  author: [{name: "Heidenreich, Ben and Mcnamara, Jacob and Montero, Miguel and Reece, Matthew and Rudelius, Tom and Valenzuela, Irene"}]
+  date: 2021
+  serial-number: "arXiv:2104.07036"
+
+"Witten:1985xe":
+  type: article
+  title: "Global Gravitational Anomalies"
+  author: [{name: "Witten, Edward"}]
+  date: 1985
+  parent: {type: periodical, title: "Commun. Math. Phys.", volume: "100"}
+  page-range: "197"
+  doi: "10.1007/BF01212448"
+
+"Ooguri:2006in":
+  type: article
+  title: "On the Geometry of the String Landscape and the Swampland"
+  author: [{name: "Ooguri, Hirosi and Vafa, Cumrun"}]
+  date: 2007
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "766"}
+  page-range: "21-33"
+  doi: "10.1016/j.nuclphysb.2006.10.033"
+
+"Baume:2016":
+  type: article
+  title: "Backreacted Axion Field Ranges in String Theory"
+  author: [{name: "Baume, Florent and Palti, Eran"}]
+  date: 2016
+  parent: {type: periodical, title: "JHEP", volume: "08"}
+  page-range: "043"
+  doi: "10.1007/JHEP08(2016)043"
+
+"Klaewer:2016kiy":
+  type: article
+  title: "Super-Planckian Spatial Field Variations and Quantum Gravity"
+  author: [{name: "Kläwer, Daniel and Palti, Eran"}]
+  date: 2017
+  parent: {type: periodical, title: "JHEP", volume: "01"}
+  page-range: "088"
+  doi: "10.1007/JHEP01(2017)088"
+
+"Lee:2019xtm":
+  type: misc
+  title: "Emergent Strings, Duality and Weak Coupling Limits for Two-Form Fields"
+  author: [{name: "Lee, Seung-Joo and Lerche, Wolfgang and Weigand, Timo"}]
+  date: 2019
+  serial-number: "arXiv:1904.06344"
+
+"Lee:2019wij":
+  type: misc
+  title: "Emergent Strings from Infinite Distance Limits"
+  author: [{name: "Lee, Seung-Joo and Lerche, Wolfgang and Weigand, Timo"}]
+  date: 2019
+  serial-number: "arXiv:1910.01135"
+
+"Lust:2019zwm":
+  type: article
+  title: "AdS and the Swampland"
+  author: [{name: "Lüst, Dieter and Palti, Eran and Vafa, Cumrun"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "797"}
+  page-range: "134867"
+  doi: "10.1016/j.physletb.2019.134867"
+
+"Cribiori:2021gbf":
+  type: misc
+  title: "The Gravitino and the Swampland"
+  author: [{name: "Cribiori, Niccolò and Lüst, Dieter and Scalisi, Marco"}]
+  date: 2021
+  serial-number: "arXiv:2104.08288"
+
+"Castellano:2021yye":
+  type: misc
+  title: "A Gravitino Distance Conjecture"
+  author: [{name: "Castellano, Alberto and Font, Anamaría and Herraez, Alvaro and Ibáñez, Luis E."}]
+  date: 2021
+  serial-number: "arXiv:2104.10181"
+
+"Hamada:2017yji":
+  type: article
+  title: "Weak Gravity Conjecture, Multiple Point Principle and the Standard Model Landscape"
+  author: [{name: "Hamada, Yuta and Shiu, Gary"}]
+  date: 2017
+  parent: {type: periodical, title: "JHEP", volume: "11"}
+  page-range: "043"
+  doi: "10.1007/JHEP11(2017)043"
+
+"Gonzalo:2021fma":
+  type: misc
+  title: "AdS Swampland Conjectures and Light Fermions"
+  author: [{name: "Gonzalo, Eduardo and Ibáñez, Luis E. and Valenzuela, Irene"}]
+  date: 2021
+  serial-number: "arXiv:2104.06415"
+
+"Gonzalo:Toappear":
+  type: article
+  title: "To appear"
+  author: [{name: "Gonzalo, Eduardo and Ibáñez, Luis E. and Valenzuela, Irene"}]
+
+"GonzaloStrings":
+  type: article
+  title: "Constraints on SM from AdS Conjectures"
+  author: [{name: "Gonzalo, Eduardo"}]
+
+"ArkaniHamed:2007gg":
+  type: article
+  title: "Quantum Horizons of the Standard Model Landscape"
+  author: [{name: "Arkani-Hamed, Nima and Dubovsky, Sergei and Nicolis, Alberto and Villadoro, Giovanni"}]
+  date: 2007
+  parent: {type: periodical, title: "JHEP", volume: "06"}
+  page-range: "078"
+  doi: "10.1088/1126-6708/2007/06/078"
+
+"Planck2018":
+  type: article
+  title: "Planck 2018 results. VI. Cosmological parameters"
+  author: [{name: "Aghanim, N. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "641"}
+  serial-number: "A6"
+  doi: "10.1051/0004-6361/201833910"
+
+"PDG2020":
+  type: article
+  title: "Review of Particle Physics"
+  author: [{name: "Zyla, P. A. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "PTEP", volume: "2020"}
+  serial-number: "083C01"
+  doi: "10.1093/ptep/ptaa104"
+
+"Bedroya:2019snp":
+  type: article
+  title: "Trans-Planckian Censorship and the Swampland"
+  author: [{name: "Bedroya, Alek and Vafa, Cumrun"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+  page-range: "123"
+  doi: "10.1007/JHEP09(2020)123"
+
+"dS1":
+  type: misc
+  title: "De Sitter Space and the Swampland"
+  author: [{name: "Obied, Georges and Ooguri, Hirosi and Spodyneiko, Lev and Vafa, Cumrun"}]
+  date: 2018
+  serial-number: "arXiv:1806.08362"
+
+"dS2":
+  type: article
+  title: "Bounds on Slow Roll and the de Sitter Swampland"
+  author: [{name: "Garg, Sumit K. and Krishnan, Chethan"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "11"}
+  page-range: "075"
+  doi: "10.1007/JHEP11(2019)075"
+
+"dS3":
+  type: article
+  title: "Distance and de Sitter Conjectures on the Swampland"
+  author: [{name: "Ooguri, Hirosi and Palti, Eran and Shiu, Gary and Vafa, Cumrun"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "788"}
+  page-range: "180-184"
+  doi: "10.1016/j.physletb.2018.11.018"
+
+"Rudelius:2021oaz":
+  type: misc
+  title: "Dimensional Reduction and (Anti) de Sitter Bounds"
+  author: [{name: "Rudelius, Tom"}]
+  date: 2021
+  serial-number: "arXiv:2101.11617"
+
+"Crisford:2017zpi":
+  type: article
+  title: "Violating the Weak Cosmic Censorship Conjecture in Four-Dimensional Anti–de Sitter Space"
+  author: [{name: "Crisford, Toby and Santos, Jorge E."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "118"}
+  page-range: "181101"
+  doi: "10.1103/PhysRevLett.118.181101"
+
+"Crisford:2017gsb":
+  type: article
+  title: "Testing the Weak Gravity - Cosmic Censorship Connection"
+  author: [{name: "Crisford, Toby and Horowitz, Gary T. and Santos, Jorge E."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "97"}
+  page-range: "066005"
+  doi: "10.1103/PhysRevD.97.066005"
+
+"Horowitz:2019eum":
+  type: article
+  title: "Further evidence for the weak gravity — cosmic censorship connection"
+  author: [{name: "Horowitz, Gary T. and Santos, Jorge E."}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "06"}
+  page-range: "122"
+  doi: "10.1007/JHEP06(2019)122"
+
+"Montero:2019ekk":
+  type: article
+  title: "Festina Lente: EFT Constraints from Charged Black Hole Evaporation in de Sitter"
+  author: [{name: "Montero, Miguel and Van Riet, Thomas and Venken, Gerben"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "01"}
+  page-range: "039"
+  doi: "10.1007/JHEP01(2020)039"
+
+"Montero:2021otb":
+  type: misc
+  title: "The FL bound and its phenomenological implications"
+  author: [{name: "Montero, Miguel and Vafa, Cumrun and Van Riet, Thomas and Venken, Gerben"}]
+  date: 2021
+  serial-number: "arXiv:2106.07650"
+
+"Craig:2019fdy":
+  type: article
+  title: "The Weak Scale from Weak Gravity"
+  author: [{name: "Craig, Nathaniel and Garcia Garcia, Isabel and Koren, Seth"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+  page-range: "081"
+  doi: "10.1007/JHEP09(2019)081"
+
+"Lanza:2020qmt":
+  type: article
+  title: "Swampland Conjectures for Strings and Membranes"
+  author: [{name: "Lanza, Stefano and Marchesano, Fernando and Martucci, Luca and Valenzuela, Irene"}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "006"
+  doi: "10.1007/JHEP02(2021)006"
+
+"Lanza:2021qsu":
+  type: misc
+  title: "The EFT stringy viewpoint on large distances"
+  author: [{name: "Lanza, Stefano and Marchesano, Fernando and Martucci, Luca and Valenzuela, Irene"}]
+  date: 2021
+  serial-number: "arXiv:2104.05726"
+
+"Reece:2018zvv":
+  type: article
+  title: "Photon Masses in the Landscape and the Swampland"
+  author: [{name: "Reece, Matthew"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "07"}
+  page-range: "181"
+  doi: "10.1007/JHEP07(2019)181"
+
+"Gendler:2020dfp":
+  type: article
+  title: "Merging the weak gravity and distance conjectures using BPS extremal black holes"
+  author: [{name: "Gendler, Naomi and Valenzuela, Irene"}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "01"}
+  page-range: "176"
+  doi: "10.1007/JHEP01(2021)176"
+
+"Bastian:2020egp":
+  type: misc
+  title: "Weak Gravity Bounds in Asymptotic String Compactifications"
+  author: [{name: "Bastian, Brice and Grimm, Thomas W. and van de Heisteeg, Damian"}]
+  date: 2020
+  serial-number: "arXiv:2011.08854"
+
+"Grimm:2018ohb":
+  type: article
+  title: "Infinite Distances in Field Space and Massless Towers of States"
+  author: [{name: "Grimm, Thomas W. and Palti, Eran and Valenzuela, Irene"}]
+  date: 2018
+  parent: {type: periodical, title: "JHEP", volume: "08"}
+  page-range: "143"
+  doi: "10.1007/JHEP08(2018)143"
+
+"Palti:2020tsy":
+  type: article
+  title: "Fermions and the Swampland"
+  author: [{name: "Palti, Eran"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "808"}
+  page-range: "135617"
+  doi: "10.1016/j.physletb.2020.135617"
+
+"Giudice:2019iwl":
+  type: article
+  title: "The Selfish Higgs"
+  author: [{name: "Giudice, G. F. and Kehagias, A. and Riotto, A."}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "199"
+  doi: "10.1007/JHEP10(2019)199"
+
+"Kaloper:2019xfj":
+  type: article
+  title: "A Goldilocks Higgs"
+  author: [{name: "Kaloper, Nemanja and Westphal, Alexander"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "808"}
+  page-range: "135616"
+  doi: "10.1016/j.physletb.2020.135616"
+
+"Lee:2019efp":
+  type: article
+  title: "Relaxation of Higgs mass and cosmological constant with four-form fluxes and reheating"
+  author: [{name: "Lee, Hyun Min"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "01"}
+  page-range: "045"
+  doi: "10.1007/JHEP01(2020)045"
+
+"Dvali:2019mhn":
+  type: misc
+  title: "Cosmological Relaxation of Higgs Mass Before and After LHC and Naturalness"
+  author: [{name: "Dvali, Gia"}]
+  date: 2019
+  serial-number: "arXiv:1908.05984"
+
+"Brennan:2017rbf":
+  type: article
+  title: "The String Landscape, the Swampland, and the Missing Corner"
+  author: [{name: "Brennan, T. Daniel and Carta, Federico and Vafa, Cumrun"}]
+  date: 2017
+  parent: {type: periodical, title: "PoS", volume: "TASI2017"}
+  page-range: "015"
+  doi: "10.22323/1.305.0015"
+
+"Palti:2019pca":
+  type: article
+  title: "The Swampland: Introduction and Review"
+  author: [{name: "Palti, Eran"}]
+  date: 2019
+  parent: {type: periodical, title: "Fortsch. Phys.", volume: "67"}
+  page-range: "1900037"
+  doi: "10.1002/prop.201900037"
+
+"vanBeest:2021lhn":
+  type: misc
+  title: "Lectures on the Swampland Program in String Compactifications"
+  author: [{name: "van Beest, Marieke and Calderón-Infante, José and Mirfendereski, Delaram and Valenzuela, Irene"}]
+  date: 2021
+  serial-number: "arXiv:2102.01111"
+
+"Lust:2017wrl":
+  type: article
+  title: "Scalar Fields, Hierarchical UV/IR Mixing and The Weak Gravity Conjecture"
+  author: [{name: "Lust, Dieter and Palti, Eran"}]
+  date: 2018
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "040"
+  doi: "10.1007/JHEP02(2018)040"
+
+"Craig:2018yvw":
+  type: article
+  title: "Discrete Gauge Symmetries and the Weak Gravity Conjecture"
+  author: [{name: "Craig, Nathaniel and Garcia Garcia, Isabel and Koren, Seth"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "05"}
+  page-range: "140"
+  doi: "10.1007/JHEP05(2019)140"
+
+"swampland":
+  type: misc
+  title: "The String landscape and the swampland"
+  author: [{name: "Vafa, Cumrun"}]
+  date: 2005
+  serial-number: "arXiv:hep-th/0509212"
+
+"March-Russell:2020lkq":
+  type: misc
+  title: "QCD, Flavor, and the de Sitter Swampland"
+  author: [{name: "March-Russell, John and Petrossian-Byrne, Rudin"}]
+  date: 2020
+  serial-number: "arXiv:2006.01144"
+
+"Tong:GaugeTheories":
+  type: article
+  title: "Lectures on Gauge Theory"
+  author: [{name: "Tong, David"}]
+
+"Penrose:1969pc":
+  type: article
+  title: "Gravitational collapse: The role of general relativity"
+  author: [{name: "Penrose, R."}]
+  date: 1969
+  parent: {type: periodical, title: "Riv. Nuovo Cim.", volume: "1"}
+  page-range: "252-276"
+  doi: "10.1023/A:1016578408204"
+
+"Agrawal:2020xek":
+  type: misc
+  title: "Topological Gravity as the Early Phase of Our Universe"
+  author: [{name: "Agrawal, Prateek and Gukov, Sergei and Obied, Georges and Vafa, Cumrun"}]
+  date: 2020
+  serial-number: "arXiv:2009.10077"
+
+"Bedroya:2019tba":
+  type: article
+  title: "Trans-Planckian Censorship and Inflationary Cosmology"
+  author: [{name: "Bedroya, Alek and Brandenberger, Robert and Loverde, Marilena and Vafa, Cumrun"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "101"}
+  page-range: "103502"
+  doi: "10.1103/PhysRevD.101.103502"
+
+"Agrawal:2019dlm":
+  type: article
+  title: "H_0 tension, swampland conjectures, and the epoch of fading dark matter"
+  author: [{name: "Agrawal, Prateek and Obied, Georges and Vafa, Cumrun"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "043523"
+  doi: "10.1103/PhysRevD.103.043523"
+
+"Agrawal:2018own":
+  type: article
+  title: "On the Cosmological Implications of the String Swampland"
+  author: [{name: "Agrawal, Prateek and Obied, Georges and Steinhardt, Paul J. and Vafa, Cumrun"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "784"}
+  page-range: "271-276"
+  doi: "10.1016/j.physletb.2018.07.040"
+
+"Marsh:2015xka":
+  type: article
+  title: "Axion Cosmology"
+  author: [{name: "Marsh, David J. E."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rept.", volume: "643"}
+  page-range: "1-79"
+  doi: "10.1016/j.physrep.2016.06.005"
+
+"Brandenberger:2016vhg":
+  type: article
+  title: "Bouncing Cosmologies: Progress and Problems"
+  author: [{name: "Brandenberger, Robert and Peter, Patrick"}]
+  date: 2017
+  parent: {type: periodical, title: "Found. Phys.", volume: "47"}
+  page-range: "797-850"
+  doi: "10.1007/s10701-016-0057-0"
+
+"Lee:2018urn":
+  type: article
+  title: "Tensionless Strings and the Weak Gravity Conjecture"
+  author: [{name: "Lee, Seung-Joo and Lerche, Wolfgang and Weigand, Timo"}]
+  date: 2018
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "164"
+  doi: "10.1007/JHEP10(2018)164"
+
+"Hebecker:2015zss":
+  type: article
+  title: "Axion Monodromy and the Weak Gravity Conjecture"
+  author: [{name: "Hebecker, Arthur and Rompineve, Fabrizio and Westphal, Alexander"}]
+  date: 2016
+  parent: {type: periodical, title: "JHEP", volume: "04"}
+  page-range: "157"
+  doi: "10.1007/JHEP04(2016)157"
+
+"Rudelius:2015xta":
+  type: article
+  title: "Constraints on Axion Inflation from the Weak Gravity Conjecture"
+  author: [{name: "Rudelius, Tom"}]
+  date: 2015
+  parent: {type: periodical, title: "JCAP", volume: "09"}
+  page-range: "020"
+  doi: "10.1088/1475-7516/2015/9/020"
+
+"Heidenreich:2015wga":
+  type: article
+  title: "Weak Gravity Strongly Constrains Large-Field Axion Inflation"
+  author: [{name: "Heidenreich, Ben and Reece, Matthew and Rudelius, Tom"}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "12"}
+  page-range: "108"
+  doi: "10.1007/JHEP12(2015)108"
+
+"Brown:2015iha":
+  type: article
+  title: "Fencing in the Swampland: Quantum Gravity Constraints on Large Field Inflation"
+  author: [{name: "Brown, Jon and Cottrell, William and Shiu, Gary and Soler, Pablo"}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "023"
+  doi: "10.1007/JHEP10(2015)023"
+
+"Palti:2017elp":
+  type: article
+  title: "The Weak Gravity Conjecture and Scalar Fields"
+  author: [{name: "Palti, Eran"}]
+  date: 2017
+  parent: {type: periodical, title: "JHEP", volume: "08"}
+  page-range: "034"
+  doi: "10.1007/JHEP08(2017)034"
+
+"Lee:2018spm":
+  type: article
+  title: "A Stringy Test of the Scalar Weak Gravity Conjecture"
+  author: [{name: "Lee, Seung-Joo and Lerche, Wolfgang and Weigand, Timo"}]
+  date: 2019
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "938"}
+  page-range: "321-350"
+  doi: "10.1016/j.nuclphysb.2018.11.001"
+
+"Lee:2019tst":
+  type: article
+  title: "Modular Fluxes, Elliptic Genera, and Weak Gravity Conjectures in Four Dimensions"
+  author: [{name: "Lee, Seung-Joo and Lerche, Wolfgang and Weigand, Timo"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "08"}
+  page-range: "104"
+  doi: "10.1007/JHEP08(2019)104"
+
+"Benakli:2020vng":
+  type: article
+  title: "U(1) mixing and the Weak Gravity Conjecture"
+  author: [{name: "Benakli, Karim and Branchina, Carlo and Lafforgue-Marmet, Gaëtan"}]
+  date: 2020
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "80"}
+  page-range: "1118"
+  doi: "10.1140/epjc/s10052-020-08691-4"
+
+"Gonzalo:2019gjp":
+  type: article
+  title: "A Strong Scalar Weak Gravity Conjecture and Some Implications"
+  author: [{name: "Gonzalo, Eduardo and Ibáñez, Luis E."}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "08"}
+  page-range: "118"
+  doi: "10.1007/JHEP08(2019)118"
+
+"Benakli:2020pkm":
+  type: article
+  title: "Revisiting the scalar weak gravity conjecture"
+  author: [{name: "Benakli, Karim and Branchina, Carlo and Lafforgue-Marmet, Gaëtan"}]
+  date: 2020
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "80"}
+  page-range: "742"
+  doi: "10.1140/epjc/s10052-020-8268-0"
+
+"Cicoli:2018kdo":
+  type: article
+  title: "De Sitter vs Quintessence in String Theory"
+  author: [{name: "Cicoli, Michele and De Alwis, Senarath and Maharana, Anshuman and Muia, Francesco and Quevedo, Fernando"}]
+  date: 2019
+  parent: {type: periodical, title: "Fortsch. Phys.", volume: "67"}
+  page-range: "1800079"
+  doi: "10.1002/prop.201800079"
+
+"Blumenhagen:2017cxt":
+  type: article
+  title: "The Swampland Conjecture and F-term Axion Monodromy Inflation"
+  author: [{name: "Blumenhagen, Ralph and Valenzuela, Irene and Wolf, Florian"}]
+  date: 2017
+  parent: {type: periodical, title: "JHEP", volume: "07"}
+  page-range: "145"
+  doi: "10.1007/JHEP07(2017)145"
+
+"Blumenhagen:2018nts":
+  type: article
+  title: "The Refined Swampland Distance Conjecture in Calabi-Yau Moduli Spaces"
+  author: [{name: "Blumenhagen, Ralph and Kläwer, Daniel and Schlechter, Lorenz and Wolf, Florian"}]
+  date: 2018
+  parent: {type: periodical, title: "JHEP", volume: "06"}
+  page-range: "052"
+  doi: "10.1007/JHEP06(2018)052"
+
+"Font:2019cxq":
+  type: article
+  title: "The Swampland Distance Conjecture and Towers of Tensionless Branes"
+  author: [{name: "Font, Anamaría and Herraez, Alvaro and Ibáñez, Luis E."}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "08"}
+  page-range: "044"
+  doi: "10.1007/JHEP08(2019)044"
+
+"Grimm:2018cpv":
+  type: article
+  title: "Infinite Distance Networks in Field Space and Charge Orbits"
+  author: [{name: "Grimm, Thomas W. and Li, Chongchuo and Palti, Eran"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+  page-range: "016"
+  doi: "10.1007/JHEP03(2019)016"
+
+"Corvilain:2018lgw":
+  type: article
+  title: "The Swampland Distance Conjecture for Kähler moduli"
+  author: [{name: "Corvilain, Pierre and Grimm, Thomas W. and Valenzuela, Irene"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "08"}
+  page-range: "075"
+  doi: "10.1007/JHEP08(2019)075"
+
+"Grimm:2019wtx":
+  type: article
+  title: "Infinite Distances and the Axion Weak Gravity Conjecture"
+  author: [{name: "Grimm, Thomas W. and Van De Heisteeg, Damian"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+  page-range: "020"
+  doi: "10.1007/JHEP03(2020)020"
+
+"Klaewer:2020lfg":
+  type: article
+  title: "Quantum corrections in 4d N = 1 infinite distance limits and the weak gravity conjecture"
+  author: [{name: "Klaewer, Daniel and Lee, Seung-Joo and Weigand, Timo and Wiesner, Max"}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+  page-range: "252"
+  doi: "10.1007/JHEP03(2021)252"
+
+"Baume:2019sry":
+  type: article
+  title: "Instanton Corrections and Emergent Strings"
+  author: [{name: "Baume, Florent and Marchesano, Fernando and Wiesner, Max"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "04"}
+  page-range: "174"
+  doi: "10.1007/JHEP04(2020)174"
+
+"Marchesano:2019ifh":
+  type: article
+  title: "Instantons and infinite distances"
+  author: [{name: "Marchesano, Fernando and Wiesner, Max"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "08"}
+  page-range: "088"
+  doi: "10.1007/JHEP08(2019)088"
+
+"Calderon-Infante:2020dhm":
+  type: article
+  title: "The Convex Hull Swampland Distance Conjecture and Bounds on Non-geodesics"
+  author: [{name: "Calderón-Infante, José and Uranga, Angel M. and Valenzuela, Irene"}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+  page-range: "299"
+  doi: "10.1007/JHEP03(2021)299"
+
+"Buratti:2020kda":
+  type: article
+  title: "Discrete Symmetries, Weak Coupling Conjecture and Scale Separation in AdS Vacua"
+  author: [{name: "Buratti, Ginevra and Calderon, Jose and Mininno, Alessandro and Uranga, Angel M."}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "06"}
+  page-range: "083"
+  doi: "10.1007/JHEP06(2020)083"
+
+"Blumenhagen:2019qcg":
+  type: article
+  title: "Swampland Variations on a Theme by KKLT"
+  author: [{name: "Blumenhagen, Ralph and Kläwer, Daniel and Schlechter, Lorenz"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "05"}
+  page-range: "152"
+  doi: "10.1007/JHEP05(2019)152"
+
+"Baume:2020dqd":
+  type: misc
+  title: "Tackling the SDC in AdS with CFTs"
+  author: [{name: "Baume, Florent and Calderón Infante, José"}]
+  date: 2020
+  serial-number: "arXiv:2011.03583"
+
+"Perlmutter:2020buo":
+  type: misc
+  title: "A CFT Distance Conjecture"
+  author: [{name: "Perlmutter, Eric and Rastelli, Leonardo and Vafa, Cumrun and Valenzuela, Irene"}]
+  date: 2020
+  serial-number: "arXiv:2011.10040"
+
+"Antoniadis:1988jn":
+  type: article
+  title: "On Supersymmetry Breaking in Superstrings"
+  author: [{name: "Antoniadis, Ignatios and Bachas, Constantin and Lewellen, David C. and Tomaras, T. N."}]
+  date: 1988
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "207"}
+  page-range: "441-446"
+  doi: "https://doi.org/10.1016/0370-2693(88)90679-X"
+
+"Dibitetto:2020csn":
+  type: article
+  title: "Nothing really matters"
+  author: [{name: "Dibitetto, Giuseppe and Petri, Nicolò and Schillo, Marjorie"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "08"}
+  page-range: "040"
+  doi: "10.1007/JHEP08(2020)040"

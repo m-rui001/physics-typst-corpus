@@ -1,0 +1,559 @@
+"Cowan:1992xc":
+  type: article
+  title: "Detection of the free neutrino: A Confirmation"
+  author: [{name: "C. Cowan, F. Reines, F. Harrison, H. Kruse, and A. McGuire"}]
+  date: 1956
+  parent: {type: periodical, title: "Science", volume: "124"}
+  page-range: "103"
+
+"Kajita:2016cak":
+  type: article
+  title: "Nobel Lecture: Discovery of atmospheric neutrino oscillations"
+  author: [{name: "T. Kajita"}]
+  date: 2016
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "88"}
+  page-range: "030501"
+
+"McDonald:2016ixn":
+  type: article
+  title: "Nobel Lecture: The Sudbury Neutrino Observatory: Observation of flavor change for solar neutrinos"
+  author: [{name: "A. B. McDonald"}]
+  date: 2016
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "88"}
+  page-range: "030502"
+
+"SNO:2002tuh":
+  type: article
+  title: "Direct evidence for neutrino flavor transformation from neutral current interactions in the Sudbury Neutrino Observatory"
+  author: [{name: "SNO, Q. R. Ahmad et al."}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "89"}
+  page-range: "011301"
+
+"Super-Kamiokande:1998kpq":
+  type: article
+  title: "Evidence for oscillation of atmospheric neutrinos"
+  author: [{name: "Super-Kamiokande, Y. Fukuda et al."}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "81"}
+  page-range: "1562"
+
+"Zyla:2020zbs":
+  type: article
+  title: "Review of Particle Physics"
+  author: [{name: "Particle Data Group, P. Zyla et al."}]
+  date: 2020
+  parent: {type: periodical, title: "PTEP", volume: "2020"}
+  serial-number: "083C01"
+
+"Pontecorvo:1967fh":
+  type: article
+  title: "Neutrino Experiments and the Problem of Conservation of Leptonic Charge"
+  author: [{name: "B. Pontecorvo"}]
+  date: 1968
+  parent: {type: periodical, title: "Sov. Phys. JETP", volume: "26"}
+  page-range: "984"
+
+"Maki:1962mu":
+  type: article
+  title: "Remarks on the unified model of elementary particles"
+  author: [{name: "Z. Maki, M. Nakagawa, and S. Sakata"}]
+  date: 1962
+  parent: {type: periodical, title: "Prog. Theor. Phys.", volume: "28"}
+  page-range: "870"
+
+"Bilenky:1980cx":
+  type: article
+  title: "On oscillations of neutrinos with dirac and majorana masses"
+  author: [{name: "S. M. Bilenky, J. Hosek, and S. T. Petcov"}]
+  date: 1980
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "94"}
+  page-range: "495"
+
+"Adey:2018zwh":
+  type: article
+  title: "Measurement of the Electron Antineutrino Oscillation with 1958 Days of Operation at Daya Bay"
+  author: [{name: "Daya Bay, D. Adey et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "241805"
+
+"DoubleChooz:2019qbj":
+  type: article
+  title: "Double Chooz θ₁₃ measurement via total neutron capture detection"
+  author: [{name: "Double Chooz, H. de Kerret et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Phys.", volume: "16"}
+  page-range: "558"
+
+"Bak:2018ydk":
+  type: article
+  title: "Measurement of Reactor Antineutrino Oscillation Amplitude and Frequency at RENO"
+  author: [{name: "RENO, G. Bak et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "201801"
+
+"Esteban:2020cvm":
+  type: article
+  title: "The fate of hints: updated global analysis of three-flavor neutrino oscillations"
+  author: [{name: "I. Esteban, M. Gonzalez-Garcia, M. Maltoni, T. Schwetz, and A. Zhou"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+  page-range: "178"
+
+"deSalas:2020pgw":
+  type: article
+  title: "2020 global reassessment of the neutrino oscillation picture"
+  author: [{name: "P. F. de Salas et al."}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "071"
+
+"Capozzi:2021fjo":
+  type: article
+  title: "Unfinished fabric of the three neutrino paradigm"
+  author: [{name: "F. Capozzi et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "104"}
+  page-range: "083031"
+
+"An:2015jdp":
+  type: article
+  title: "Neutrino Physics with JUNO"
+  author: [{name: "JUNO, F. An et al."}]
+  date: 2016
+  parent: {type: periodical, title: "J. Phys. G", volume: "43"}
+  page-range: "030401"
+
+"JUNO:2022hxd":
+  type: article
+  title: "JUNO physics and detector"
+  author: [{name: "JUNO, A. Abusleme et al."}]
+  date: 2022
+  parent: {type: periodical, title: "Prog. Part. Nucl. Phys.", volume: "123"}
+  page-range: "103927"
+
+"Petcov:2001sy":
+  type: article
+  title: "The LMA MSW solution of the solar neutrino problem, inverted neutrino mass hierarchy and reactor neutrino experiments"
+  author: [{name: "S. Petcov and M. Piai"}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "533"}
+  page-range: "94"
+
+"Abusleme:2020zyc":
+  type: article
+  title: "Feasibility and physics potential of detecting ⁸B solar neutrinos at JUNO"
+  author: [{name: "JUNO, A. Abusleme et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Chin. Phys. C", volume: "45"}
+  page-range: "023004"
+
+"JUNO:2021tll":
+  type: article
+  title: "JUNO sensitivity to low energy atmospheric neutrino spectra"
+  author: [{name: "JUNO, A. Abusleme et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "81"}
+  page-range: "10"
+
+"Lu:2016ipr":
+  type: article
+  title: "Getting the most from the detection of Galactic supernova neutrinos in future large liquid-scintillator detectors"
+  author: [{name: "J.-S. Lu, Y.-F. Li, and S. Zhou"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "94"}
+  page-range: "023006"
+
+"DUNE:2020ypp":
+  type: misc
+  title: "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume II: DUNE Physics"
+  author: [{name: "DUNE, B. Abi et al."}]
+  date: 2020
+  serial-number: "arXiv:2002.03005"
+
+"Hyper-Kamiokande:2018ofw":
+  type: misc
+  title: "Hyper-Kamiokande Design Report"
+  author: [{name: "Hyper-Kamiokande, K. Abe et al."}]
+  date: 2018
+  serial-number: "arXiv:1805.04163"
+
+"Antusch:2006vwa":
+  type: article
+  title: "Unitarity of the Leptonic Mixing Matrix"
+  author: [{name: "S. Antusch, C. Biggio, E. Fernandez-Martinez, M. B. Gavela, and J. Lopez-Pavon"}]
+  date: 2006
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "084"
+
+"Parke:2015goa":
+  type: article
+  title: "Unitarity and the three flavor neutrino mixing matrix"
+  author: [{name: "S. Parke and M. Ross-Lonergan"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "93"}
+  page-range: "113009"
+
+"Fong:2016yyh":
+  type: article
+  title: "A framework for testing leptonic unitarity by neutrino oscillation experiments"
+  author: [{name: "C. S. Fong, H. Minakata, and H. Nunokawa"}]
+  date: 2017
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "114"
+
+"Blennow:2016jkn":
+  type: article
+  title: "Non-Unitarity, sterile neutrinos, and Non-Standard neutrino Interactions"
+  author: [{name: "M. Blennow, P. Coloma, E. Fernandez-Martinez, J. Hernandez-Garcia, and J. Lopez-Pavon"}]
+  date: 2017
+  parent: {type: periodical, title: "JHEP", volume: "04"}
+  page-range: "153"
+
+"Li:2018jgd":
+  type: article
+  title: "Indirect unitarity violation entangled with matter effects in reactor antineutrino oscillations"
+  author: [{name: "Y.-F. Li, Z.-z. Xing, and J.-y. Zhu"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "782"}
+  page-range: "578"
+
+"Ellis:2020hus":
+  type: article
+  title: "Current and Future Neutrino Oscillation Constraints on Leptonic Unitarity"
+  author: [{name: "S. A. R. Ellis, K. J. Kelly, and S. W. Li"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "12"}
+  page-range: "068"
+
+"DUNE:2015lol":
+  type: misc
+  title: "Long-Baseline Neutrino Facility (LBNF) and Deep Underground Neutrino Experiment (DUNE): Conceptual Design Report, Volume 2: The Physics Program for DUNE at LBNF"
+  author: [{name: "DUNE, R. Acciarri et al."}]
+  date: 2015
+  serial-number: "arXiv:1512.06148"
+
+"Hyper-KamiokandeProto-:2015xww":
+  type: article
+  title: "Physics potential of a long-baseline neutrino oscillation experiment using a J-PARC neutrino beam and Hyper-Kamiokande"
+  author: [{name: "Hyper-Kamiokande Proto-, K. Abe et al."}]
+  date: 2015
+  parent: {type: periodical, title: "PTEP", volume: "2015"}
+  serial-number: "053C02"
+
+"Dueck:2011hu":
+  type: article
+  title: "Neutrinoless Double Beta Decay, the Inverted Hierarchy and Precision Determination of θ12"
+  author: [{name: "A. Dueck, W. Rodejohann, and K. Zuber"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "83"}
+  page-range: "113010"
+
+"Ge:2015bfa":
+  type: article
+  title: "JUNO and Neutrinoless Double Beta Decay"
+  author: [{name: "S.-F. Ge and W. Rodejohann"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "92"}
+  page-range: "093006"
+
+"Cao:2019hli":
+  type: article
+  title: "Towards the meV limit of the effective neutrino mass in neutrinoless double-beta decays"
+  author: [{name: "J. Cao et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Chin. Phys. C", volume: "44"}
+  page-range: "031001"
+
+"King:2019gif":
+  type: article
+  title: "Theory Review of Neutrino Models and CP Violation"
+  author: [{name: "S. F. King"}]
+  date: 2019
+  parent: {type: proceedings, title: "19th Hellenic School and Workshops on Elementary Particle Physics and Gravity"}
+
+"Abusleme:2020bzt:TAO_CDR":
+  type: misc
+  title: "TAO Conceptual Design Report: A Precision Measurement of the Reactor Antineutrino Spectrum with Sub-percent Energy Resolution"
+  author: [{name: "JUNO, A. Abusleme et al."}]
+  date: 2020
+  serial-number: "arXiv:2005.08745"
+
+"Li:2016txk":
+  type: article
+  title: "Terrestrial matter effects on reactor antineutrino oscillations at JUNO or RENO-50: how small is small?"
+  author: [{name: "Y.-F. Li, Y. Wang, and Z.-z. Xing"}]
+  date: 2016
+  parent: {type: periodical, title: "Chin. Phys. C", volume: "40"}
+  page-range: "091001"
+
+"Capozzi:2013psa":
+  type: article
+  title: "Neutrino mass hierarchy and electron neutrino oscillation parameters with one hundred thousand reactor events"
+  author: [{name: "F. Capozzi, E. Lisi, and A. Marrone"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "89"}
+  page-range: "013001"
+
+"Khan:2019doq":
+  type: article
+  title: "Why matter effects matter for JUNO"
+  author: [{name: "A. N. Khan, H. Nunokawa, and S. J. Parke"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "803"}
+  page-range: "135354"
+
+"Wolfenstein:1977ue":
+  type: article
+  title: "Neutrino Oscillations in Matter"
+  author: [{name: "L. Wolfenstein"}]
+  date: 1978
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "17"}
+  page-range: "2369"
+
+"Mikheyev:1985zog":
+  type: article
+  title: "Resonance Amplification of Oscillations in Matter and Spectroscopy of Solar Neutrinos"
+  author: [{name: "S. P. Mikheyev and A. Y. Smirnov"}]
+  date: 1985
+  parent: {type: periodical, title: "Sov. J. Nucl. Phys.", volume: "42"}
+  page-range: "913"
+
+"JUNO:2020xtj":
+  type: article
+  title: "Calibration Strategy of the JUNO Experiment"
+  author: [{name: "JUNO, A. Abusleme et al."}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+  page-range: "004"
+
+"BOREXINO:2020aww":
+  type: article
+  title: "Experimental evidence of neutrinos produced in the CNO fusion cycle in the Sun"
+  author: [{name: "BOREXINO, M. Agostini et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Nature", volume: "587"}
+  page-range: "577"
+
+"Djurcic:2015vqa":
+  type: misc
+  title: "JUNO Conceptual Design Report"
+  author: [{name: "JUNO, Z. Djurcic et al."}]
+  date: 2015
+  serial-number: "arXiv:1508.07166"
+
+"ADAM2007523":
+  type: article
+  title: "The OPERA experiment Target Tracker"
+  author: [{name: "T. Adam et al."}]
+  date: 2007
+  parent: {type: periodical, title: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment", volume: "577"}
+  page-range: "523"
+
+"Vogel:1999zy":
+  type: article
+  title: "Angular distribution of neutron inverse beta decay, ν̄e + p → e⁺ + n"
+  author: [{name: "P. Vogel and J. F. Beacom"}]
+  date: 1999
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "60"}
+  page-range: "053003"
+
+"Sramek:2012hma":
+  type: article
+  title: "Geoneutrinos"
+  author: [{name: "O. Šrámek, W. F. McDonough, and J. G. Learned"}]
+  date: 2012
+  parent: {type: periodical, title: "Adv. High Energy Phys.", volume: "2012"}
+  page-range: "235686"
+
+"Cheng:2020aaw":
+  type: article
+  title: "Neutral-current background induced by atmospheric neutrinos at large liquid-scintillator detectors: I. model predictions"
+  author: [{name: "J. Cheng, Y.-F. Li, L.-J. Wen, and S. Zhou"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "053001"
+
+"JUNO:2021kxb":
+  type: article
+  title: "Radioactivity control strategy for the JUNO detector"
+  author: [{name: "JUNO, A. Abusleme et al."}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "11"}
+  page-range: "102"
+
+"PhysRevD.104.092006":
+  type: article
+  title: "Radiogenic neutron background in reactor neutrino experiments"
+  author: [{name: "Z. Chen, X. Zhang, Z. Yu, J. Cao, and C. Yang"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "104"}
+  page-range: "092006"
+
+"KamLAND:2008dgz":
+  type: article
+  title: "Precision Measurement of Neutrino Oscillation Parameters with KamLAND"
+  author: [{name: "KamLAND, S. Abe et al."}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "100"}
+  page-range: "221803"
+
+"Super-Kamiokande:2016yck":
+  type: article
+  title: "Solar Neutrino Measurements in Super-Kamiokande-IV"
+  author: [{name: "Super-Kamiokande, K. Abe et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "94"}
+  page-range: "052010"
+
+"Dye:2015bsw":
+  type: misc
+  title: "Global Antineutrino Modeling for a Web Application"
+  author: [{name: "S. Dye and A. Barna"}]
+  date: 2015
+  serial-number: "arXiv:1510.05633"
+
+"Araki:2005qa":
+  type: article
+  title: "Experimental investigation of geologically produced antineutrinos with KamLAND"
+  author: [{name: "T. Araki et al."}]
+  date: 2005
+  parent: {type: periodical, title: "Nature", volume: "436"}
+  page-range: "499"
+
+"DayaBay:2016ggj":
+  type: article
+  title: "Measurement of electron antineutrino oscillation based on 1230 days of operation of the Daya Bay experiment"
+  author: [{name: "Daya Bay, F. P. An et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "95"}
+  page-range: "072006"
+
+"Adey:2019zfo:DYB_NL":
+  type: article
+  title: "A high precision calibration of the nonlinear energy response at Daya Bay"
+  author: [{name: "Daya Bay, D. Adey et al."}]
+  date: 2019
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "940"}
+  page-range: "230"
+
+"Cao:2021wrq":
+  type: article
+  title: "Mass production and characterization of 3-inch PMTs for the JUNO experiment"
+  author: [{name: "C. Cao et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "1005"}
+  page-range: "165347"
+
+"Ma:2012bm":
+  type: article
+  title: "Improved calculation of the energy release in neutron-induced fission"
+  author: [{name: "X. B. Ma, W. L. Zhong, L. Z. Wang, Y. X. Chen, and J. Cao"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "88"}
+  page-range: "014605"
+
+"Huber:2011wv":
+  type: article
+  title: "On the determination of anti-neutrino spectra from nuclear reactors"
+  author: [{name: "P. Huber"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "84"}
+  page-range: "024617"
+
+"Mueller:2011nm":
+  type: article
+  title: "Improved Predictions of Reactor Antineutrino Spectra"
+  author: [{name: "T. Mueller et al."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "83"}
+  page-range: "054615"
+
+"An:2016srz":
+  type: article
+  title: "Improved Measurement of the Reactor Antineutrino Flux and Spectrum at Daya Bay"
+  author: [{name: "Daya Bay, F. An et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Chin. Phys. C", volume: "41"}
+  page-range: "013002"
+
+"DayaBay:2019yxq":
+  type: article
+  title: "Extraction of the ²³⁵U and ²³⁹Pu Antineutrino Spectra at Daya Bay"
+  author: [{name: "Daya Bay, D. Adey et al."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "111801"
+
+"Ko:2016owz":
+  type: article
+  title: "Sterile Neutrino Search at the NEOS Experiment"
+  author: [{name: "NEOS, Y. J. Ko et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "118"}
+  page-range: "121802"
+
+"PROSPECT:2020sxr":
+  type: article
+  title: "Improved short-baseline neutrino oscillation search and energy spectrum measurement with the PROSPECT experiment at HFIR"
+  author: [{name: "PROSPECT, M. Andriamirado et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "032001"
+
+"STEREO:2020fvd":
+  type: article
+  title: "Accurate Measurement of the Electron Antineutrino Yield of ²³⁵U Fissions from the STEREO Experiment with 119 Days of Reactor-On Data"
+  author: [{name: "STEREO, H. Almazán et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "201801"
+
+"Giunti:2021kab":
+  type: misc
+  title: "Reactor antineutrino anomaly in light of recent flux model refinements"
+  author: [{name: "C. Giunti, Y. F. Li, C. A. Ternes, and Z. Xin"}]
+  date: 2021
+  serial-number: "arXiv:2110.06820"
+
+"Hayes:2016qnu":
+  type: article
+  title: "Reactor Neutrino Spectra"
+  author: [{name: "A. C. Hayes and P. Vogel"}]
+  date: 2016
+  parent: {type: periodical, title: "Ann. Rev. Nucl. Part. Sci.", volume: "66"}
+  page-range: "219"
+
+"Stump:2001gu":
+  type: article
+  title: "Uncertainties of predictions from parton distribution functions. 1. The Lagrange multiplier method"
+  author: [{name: "D. Stump et al."}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "65"}
+  page-range: "014012"
+
+"Chauveau:2018ze":
+  type: article
+  title: "Calibration and Energy Scale in Double Chooz"
+  author: [{name: "E. Chauveau"}]
+  date: 2018
+  parent: {type: periodical, title: "Zenodo"}
+  doi: "10.5281/zenodo.1314380"
+
+"Re:2018ze":
+  type: article
+  title: "Calibration and Energy Scale in Borexino"
+  author: [{name: "A. Re"}]
+  date: 2018
+  parent: {type: periodical, title: "Zenodo"}
+  doi: "10.5281/zenodo.1314410"
+
+"Gando:2018ze":
+  type: article
+  title: "Calibration and Energy Scale in KamLAND"
+  author: [{name: "A. Gando"}]
+  date: 2018
+  parent: {type: periodical, title: "Zenodo"}
+  doi: "10.5281/zenodo.1314406"

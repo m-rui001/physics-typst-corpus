@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" demote-non-dropping-particle="never">
+  <info>
+    <title>APS author-year (RMP)</title>
+    <id>http://www.zotero.org/styles/aps-author-year</id>
+    <updated>2024-01-01T00:00:00+00:00</updated>
+  </info>
+  <macro name="author-long">
+    <names variable="author">
+      <name name-as-sort-order="first" sort-separator=", " initialize-with=". " delimiter=", " and="text" delimiter-precedes-last="always" et-al-min="11" et-al-use-first="10"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" initialize-with=". " delimiter=", " and="text" delimiter-precedes-last="never" et-al-min="3" et-al-use-first="1"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <citation collapse="year" disambiguate-add-year-suffix="true">
+    <sort>
+      <key macro="author-short"/>
+      <key variable="issued"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </group>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true" entry-spacing="0" line-spacing="1">
+    <sort>
+      <key macro="author-short"/>
+      <key variable="issued"/>
+    </sort>
+    <layout suffix=".">
+      <group delimiter=" ">
+        <text macro="author-long"/>
+        <date variable="issued" prefix="(" suffix="),">
+          <date-part name="year"/>
+        </date>
+        <text variable="container-title" font-style="italic"/>
+        <text variable="volume" font-weight="bold"/>
+        <text variable="issue" prefix="(" suffix=")"/>
+        <choose>
+          <if variable="page">
+            <text variable="page"/>
+          </if>
+          <else>
+            <text variable="note"/>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

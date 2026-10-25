@@ -1,0 +1,6 @@
+{
+ "paper": "2206.11528",
+ "tikz": 0,
+ "bib": true,
+ "last_errors": "error: unknown variable: big\n    \u250c\u2500 \\\\?\\E:\\phys\\papers\\2206.11528\\main.typ:118:187\n    \u2502\n118 \u2502 The model in Eq.~#link(<eq:S1XY>)[\\[eq:S1XY\\]] has two bands of exact single-magnon states in its spectrum due to a symmetry. To see this, note that the polarized states $\\|Omega med = \u2297.big_(r = 1)^L \\|-_r med$ and $\\|Omega' med = \u2297.big_(r = 1)^L \\|+_r med$ are annihilated by $H_(upright(\"XY\"))$. Single-magnon states can be built atop these polarized states using the spin raising and lowering operators $S_r^plus.minus = S_r^x plus.minus i thin S_r^y$: $ \\|+ \\, k med & = 1 / sqrt(2 L) sum_(r = 1)^L e^(i k r) S_r^(+) \\|Omega med\\\n    \u2502                                                                                                                                                                                            ^^^\n    \u2502\n    = hint: if you meant to display multiple letters as is, try adding spaces between each letter: `b i g`\n    = hint: or if you meant to display this as text, try placing it in quotes: `\"big\"`\n\n"
+}

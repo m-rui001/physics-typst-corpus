@@ -1,0 +1,11 @@
+{
+ "paper": "2308.10681",
+ "tikz": 0,
+ "bib": true,
+ "compiled": true,
+ "latexblock": {
+  "before": 0,
+  "after": 0
+ },
+ "fixed_by": "agent"
+}

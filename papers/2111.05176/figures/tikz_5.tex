@@ -1,0 +1,17 @@
+\begin{tikzpicture}
+\node[shape=circle,fill=white,thick,draw=cyan] (7) at (0,0) {7};  \node[shape=circle,draw=black,fill=gray!5] (6) at (-1.5,-1) {6};
+\node[shape=circle,draw=black,fill=gray!5] (5) at (0,-1) {5};
+\node[shape=circle,draw=black,fill=gray!5] (4) at (0,-2) {4};
+\node[shape=circle,fill=white,thick,draw=cyan] (3) at (1.5,-1) {3};
+\node[shape=circle,draw=black,fill=white, thick] (2) at (1,-2) {2};
+\node[shape=circle,fill=white,thick,draw=green] (1) at (2,-2) {1};
+\node[shape=circle,draw=black,fill=gray!5] (0) at (2,-3) {0};
+
+\path [-] (6) edge (7);
+\path [-] (5) edge (7);
+\path [-] (3) edge (7);
+\path [-] (4) edge (5);
+\path [-] (2) edge (3);
+\path [-] (1) edge (3);
+\path [-] (0) edge (1);
+\end{tikzpicture}

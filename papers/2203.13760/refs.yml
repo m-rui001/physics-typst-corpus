@@ -1,0 +1,764 @@
+"Bauer2015":
+  type: article
+  title: "The quiet revolution of numerical weather prediction"
+  author: [{name: "P. Bauer, A. Thorpe, G. Brunet"}]
+  date: 2015
+  parent: {type: periodical, title: "Nature", volume: "525"}
+  serial-number: "47–55"
+  doi: "10.1038/nature14956"
+
+"Hafner2021":
+  type: article
+  title: "Fast, Cheap, and Turbulent - Global Ocean Modeling With GPU Acceleration in Python"
+  author: [{name: "D. Häfner, R. Nuterman, M. Jochum"}]
+  parent: {type: periodical, title: "Journal of Advances in Modeling Earth Systems 13 (12)"}
+  doi: "10.1029/2021MS002717"
+
+"Nowak2003":
+  type: article
+  title: "Computational fluid dynamics simulation of airflow and aerosol deposition in human lungs"
+  author: [{name: "N. Nowak, P. P. Kakade, A. V. Annapragada"}]
+  date: 2003
+  parent: {type: periodical, title: "Annals of Biomedical Engineering", volume: "31"}
+  serial-number: "374–390"
+  doi: "10.1114/1.1560632"
+
+"Johnston2004":
+  type: article
+  title: "Non-Newtonian blood flow in human right coronary arteries: Steady state simulations"
+  author: [{name: "B. M. Johnston, P. R. Johnston, S. Corney, D. Kilpatrick"}]
+  date: 2004
+  parent: {type: periodical, title: "Journal of Biomechanics", volume: "37"}
+  serial-number: "709–720"
+  doi: "10.1016/j.jbiomech.2003.09.016"
+
+"Denton1998":
+  type: article
+  title: "Computational fluid dynamics for turbomachinery design"
+  author: [{name: "J. D. Denton, W. N. Dawes"}]
+  date: 1999
+  parent: {type: periodical, title: "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering", volume: "213"}
+  serial-number: "107–124"
+  doi: "10.1243/0954406991522211"
+
+"Hansen2006":
+  type: article
+  title: "State of the art in wind turbine aerodynamics and aeroelasticity"
+  author: [{name: "M. O. Hansen, J. N. Sørensen, S. Voutsinas, N. Sørensen, H. A. Madsen"}]
+  date: 2006
+  parent: {type: periodical, title: "Progress in Aerospace Sciences", volume: "42"}
+  serial-number: "285–330"
+  doi: "10.1016/j.paerosci.2006.10.002"
+
+"Sanderse2011":
+  type: article
+  title: "Review of computational fluid dynamics for wind turbine wake aerodynamics"
+  author: [{name: "B. Sanderse, S. P. Van Der Pijl, B. Koren"}]
+  date: 2011
+  parent: {type: periodical, title: "Wind Energy", volume: "14"}
+  serial-number: "799–819"
+  doi: "10.1002/we.458"
+
+"Lyu2014":
+  type: article
+  title: "Benchmarking Optimization Algorithms for Wing Aerodynamic Design Optimization"
+  author: [{name: "Z. Lyu, Z. Xu, J. Martins"}]
+  parent: {type: periodical, title: "in: The Eighth International Conference on Computational Fluid Dynamics, 2014, p. 18. https://info.aiaa.org/tac/ASG/APATC/AeroDesignOpt-DG/default.aspx"}
+
+"Duraisamy2019":
+  type: article
+  title: "Turbulence modeling in the age of data"
+  author: [{name: "K. Duraisamy, G. Iaccarino, H. Xiao"}]
+  date: 2019
+  parent: {type: periodical, title: "Annual Review of Fluid Mechanics", volume: "51"}
+  serial-number: "357–377"
+  doi: "10.1146/annurev-fluid-010518-040547"
+
+"Brenner2019":
+  type: article
+  title: "Perspective on machine learning for advancing fluid mechanics"
+  author: [{name: "M. P. Brenner, J. D. Eldredge, J. B. Freund"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Fluids", volume: "4"}
+  page-range: "100501"
+  doi: "10.1103/PhysRevFluids.4.100501"
+
+"Brunton2020a":
+  type: article
+  title: "Machine Learning for Fluid Mechanics"
+  author: [{name: "S. L. Brunton, B. R. Noack, P. Koumoutsakos"}]
+  date: 2020
+  parent: {type: periodical, title: "Annual Review of Fluid Mechanics", volume: "52"}
+  serial-number: "477–508"
+  doi: "10.1146/annurev-fluid-010719-060214"
+
+"Baydin2018":
+  type: article
+  title: "Güneş Baydin"
+  author: [{name: "A.~"}]
+  date: 2018
+  parent: {type: periodical, title: "B. A. Pearlmutter, A. Andreyevich Radul, J. Mark Siskind, Automatic differentiation in machine learning: A survey"}
+
+"Harlow2004":
+  type: article
+  title: "https://doi.org/10.1016/j.jcp.2003.09.031"
+  author: [{name: "F. H. Harlow, Fluid dynamics in group T-3 Los Alamos National Laboratory (LA-UR-03-3852) (apr 2004). http://dx.doi.org/10.1016/j.jcp.2003.09.031"}]
+  doi: "10.1016/j.jcp.2003.09.031"
+
+"VanLeer1979":
+  type: article
+  title: "Towards the ultimate conservative difference scheme. V. A second-order sequel to Godunov's method"
+  author: [{name: "B. van Leer"}]
+  date: 1979
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "32"}
+  serial-number: "101–136"
+  doi: "10.1016/0021-9991(79)90145-1"
+
+"Roe1981":
+  type: article
+  title: "Approximate Riemann solvers, parameter vectors, and difference schemes"
+  author: [{name: "P. L. Roe"}]
+  date: 1981
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "43"}
+  serial-number: "357–372"
+  doi: "10.1016/0021-9991(81)90128-5"
+
+"Woodward1984":
+  type: article
+  title: "The numerical simulation of two-dimensional fluid flow with strong shocks"
+  author: [{name: "P. Woodward, P. Colella"}]
+  parent: {type: periodical, title: "(apr 1984)"}
+  doi: "10.1016/0021-9991(84)90142-6"
+
+"Toro1994":
+  type: article
+  title: "Restoration of the contact surface in the HLL-Riemann solver"
+  author: [{name: "E. F. Toro, M. Spruce, W. Speares"}]
+  date: 1994
+  parent: {type: periodical, title: "Shock Waves", volume: "4"}
+  serial-number: "25–34"
+  doi: "10.1007/BF01414629"
+
+"Liou1996":
+  type: article
+  title: "A Sequel to AUSM: AUSM+"
+  author: [{name: "M.-S. Liou"}]
+  date: 1996
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "129"}
+  serial-number: "364–382"
+  doi: "10.1006/jcph.1996.0256"
+
+"Lecun1989":
+  type: article
+  title: "Backpropagation Applied to Handwritten Zip Code Recognition"
+  author: [{name: "Y. LeCun, B. Boser, J. S. Denker, D. Henderson, R. E. Howard, W. Hubbard, L. D. Jackel"}]
+  date: 1989
+  parent: {type: periodical, title: "Neural Computation", volume: "1"}
+  serial-number: "541–551"
+  doi: "10.1162/neco.1989.1.4.541"
+
+"Hochreiter1997":
+  type: article
+  title: "Long Short-Term Memory"
+  author: [{name: "S. Hochreiter, J. Schmidhuber"}]
+  date: 1997
+  parent: {type: periodical, title: "Neural Computation", volume: "9"}
+  serial-number: "1735–1780"
+  doi: "10.1162/neco.1997.9.8.1735"
+
+"LeCun2010":
+  type: article
+  title: "Convolutional networks and applications in vision"
+  author: [{name: "Y. LeCun, K. Kavukcuoglu, C. Farabet"}]
+  parent: {type: periodical, title: "in: ISCAS 2010 - 2010 IEEE International Symposium on Circuits and Systems: Nano-Bio Circuit Fabrics and Systems, 2010, pp. 253–256"}
+  doi: "10.1109/ISCAS.2010.5537907"
+
+"Lecun2015":
+  type: article
+  title: "https://doi.org/10.1038/nature14539"
+  author: [{name: "Y. Lecun, Y. Bengio, G. Hinton, Deep learning (may 2015). http://dx.doi.org/10.1038/nature14539"}]
+  doi: "10.1038/nature14539"
+
+"Lake2015":
+  type: article
+  title: "Human-level concept learning through probabilistic program induction"
+  author: [{name: "B. M. Lake, R. Salakhutdinov, J. B. Tenenbaum"}]
+  date: 2015
+  parent: {type: periodical, title: "Science", volume: "350"}
+  serial-number: "1332–1338"
+  doi: "10.1126/science.aab3050"
+
+"Alipanahi2015":
+  type: article
+  title: "Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning"
+  author: [{name: "B. Alipanahi, A. Delong, M. T. Weirauch, B. J. Frey"}]
+  date: 2015
+  parent: {type: periodical, title: "Nature Biotechnology", volume: "33"}
+  serial-number: "831–838"
+  doi: "10.1038/nbt.3300"
+
+"Abadi":
+  type: article
+  title: "TensorFlow: A system for large-scale machine learning"
+  author: [{name: "M. Abadi, P. Barham, J. Chen, Z. Chen, A. Davis, J. Dean, M. Devin, S. Ghemawat, G. Irving, M. Isard, M. Kudlur, J. Levenberg, R. Monga, S. Moore, D. G. Murray, B. Steiner, P. Tucker, V. Vasudevan, P. Warden, M. Wicke, Y. Yu, X. Zheng"}]
+  date: 2016
+  parent: {type: periodical, title: "Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation, OSDI", volume: "2016"}
+  serial-number: "265–283"
+
+"Paszke2019":
+  type: article
+  title: "PyTorch: An imperative style, high-performance deep learning library"
+  author: [{name: "A. Paszke, S. Gross, F. Massa, A. Lerer, J. Bradbury, G. Chanan, T. Killeen, Z. Lin, N. Gimelshein, L. Antiga, A. Desmaison, A. Köpf, E. Yang, Z. DeVito, M. Raison, A. Tejani, S. Chilamkurthy, B. Steiner, L. Fang, J. Bai, S. Chintala"}]
+  parent: {type: periodical, title: "in: Advances in Neural Information Processing Systems, Vol. 32, 2019"}
+
+"jax2018github":
+  type: article
+  title: "JAX: composable transformations of Python+NumPy programs"
+  author: [{name: "J. Bradbury, R. Frostig, P. Hawkins, M. J. Johnson, C. Leary, D. Maclaurin, S. Wanderman-Milne"}]
+  date: 2018
+
+"Brunton2016":
+  type: article
+  title: "Discovering governing equations from data by sparse identification of nonlinear dynamical systems"
+  author: [{name: "S. L. Brunton, J. L. Proctor, J. N. Kutz, W. Bialek"}]
+  date: 2016
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences of the United States of America", volume: "113"}
+  serial-number: "3932–3937"
+  doi: "10.1073/pnas.1517384113"
+
+"Raissi2019":
+  type: article
+  title: "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations"
+  author: [{name: "M. Raissi, P. Perdikaris, G. E. Karniadakis"}]
+  date: 2019
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "378"}
+  serial-number: "686–707"
+  doi: "10.1016/j.jcp.2018.10.045"
+
+"Buhendwa2021c":
+  type: article
+  title: "Inferring incompressible two-phase flow fields from the interface motion using physics-informed neural networks"
+  author: [{name: "A. B. Buhendwa, S. Adami, N. A. Adams"}]
+  date: 2021
+  parent: {type: periodical, title: "Machine Learning with Applications 4 (March)"}
+  page-range: "100029"
+  doi: "10.1016/j.mlwa.2021.100029"
+
+"Brunton2020b":
+  type: article
+  title: "https://doi.org/10.1007/s00162-020-00542-y"
+  author: [{name: "S. L. Brunton, M. S. Hemati, K. Taira, Special issue on machine learning and data-driven methods in fluid dynamics (aug 2020). http://dx.doi.org/10.1007/s00162-020-00542-y"}]
+  doi: "10.1007/s00162-020-00542-y"
+
+"Karniadakis2021":
+  type: article
+  title: "https://doi.org/10.1038/s42254-021-00314-5"
+  author: [{name: "G. E. Karniadakis, I. G. Kevrekidis, L. Lu, P. Perdikaris, S. Wang, L. Yang, Physics-informed machine learning (jun 2021). http://dx.doi.org/10.1038/s42254-021-00314-5"}]
+  doi: "10.1038/s42254-021-00314-5"
+
+"Beck2019":
+  type: article
+  title: "Deep neural networks for data-driven LES closure models"
+  author: [{name: "A. Beck, D. Flad, C. D. Munz"}]
+  parent: {type: periodical, title: "Journal of Computational Physics 398"}
+  doi: "10.1016/j.jcp.2019.108910"
+
+"Patel2019a":
+  type: article
+  title: "Computing interface curvature from volume fractions: A machine learning approach"
+  author: [{name: "H. V. Patel, A. Panda, J. A. Kuipers, E. A. Peters"}]
+  parent: {type: periodical, title: "Computers and Fluids 193"}
+  doi: "10.1016/j.compfluid.2019.104263"
+
+"Buhendwa2021b":
+  type: article
+  title: "Consistent and symmetry preserving data-driven interface reconstruction for the level-set method"
+  author: [{name: "A. B. Buhendwa, D. A. Bezgin, N. A. Adams"}]
+  parent: {type: periodical, title: "Journal of Computational Physics 457"}
+  doi: "10.1016/j.jcp.2022.111049"
+
+"Stevens2020c":
+  type: article
+  title: "Enhancement of shock-capturing methods via machine learning"
+  author: [{name: "B. Stevens, T. Colonius"}]
+  date: 2020
+  parent: {type: periodical, title: "Theoretical and Computational Fluid Dynamics", volume: "34"}
+  serial-number: "483–496"
+  doi: "10.1007/s00162-020-00531-1"
+
+"Bezgin2021b":
+  type: article
+  title: "WENO3-NN: A maximum-order three-point data-driven weighted essentially non-oscillatory scheme"
+  author: [{name: "D. A. Bezgin, S. J. Schmidt, N. A. Adams"}]
+  date: 2022
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "452"}
+  page-range: "110920"
+  doi: "10.1016/j.jcp.2021.110920"
+
+"Bar-Sinai2019":
+  type: article
+  title: "Learning data-driven discretizations for partial differential equations"
+  author: [{name: "Y. Bar-Sinai, S. Hoyer, J. Hickey, M. P. Brenner"}]
+  date: 2019
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences of the United States of America", volume: "116"}
+  serial-number: "15344–15349"
+  doi: "10.1073/pnas.1814058116"
+
+"Zhuang2021":
+  type: article
+  title: "Learned discretizations for passive scalar advection in a two-dimensional turbulent flow"
+  author: [{name: "J. Zhuang, D. Kochkov, Y. Bar-Sinai, M. P. Brenner, S. Hoyer"}]
+  parent: {type: periodical, title: "Physical Review Fluids 6 (6)"}
+  doi: "10.1103/PhysRevFluids.6.064605"
+
+"Um2020":
+  type: article
+  title: "Solver-in-the-loop: Learning from differentiable physics to interact with iterative PDE-solvers"
+  author: [{name: "K. Um, R. Brand, Y. Fei, P. Holl, N. Thuerey"}]
+  parent: {type: periodical, title: "in: Advances in Neural Information Processing Systems, Vol. 2020-Decem, 2020"}
+
+"Bezgin2021a":
+  type: article
+  title: "A data-driven physics-informed finite-volume scheme for nonclassical undercompressive shocks"
+  author: [{name: "D. A. Bezgin, S. J. Schmidt, N. A. Adams"}]
+  date: 2021
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "437"}
+  page-range: "110324"
+  doi: "10.1016/j.jcp.2021.110324"
+
+"Kochkove2101784118":
+  type: article
+  title: "Machine learning-accelerated computational fluid dynamics"
+  author: [{name: "D. Kochkov, J. A. Smith, A. Alieva, Q. Wang, M. P. Brenner, S. Hoyer"}]
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences 118 (21)"}
+  doi: "10.1073/pnas.2101784118"
+
+"Schoenholz":
+  type: article
+  title: "JAX, M.D. A framework for differentiable physics"
+  author: [{name: "S. S. Schoenholz, E. D. Cubuk"}]
+  parent: {type: periodical, title: "in: Advances in Neural Information Processing Systems, Vol. 2020-Decem, 2020"}
+  doi: "10.1088/1742-5468/ac3ae9"
+
+"Coralic2014e":
+  type: article
+  title: "Finite-volume WENO scheme for viscous compressible multicomponent flows"
+  author: [{name: "V. Coralic, T. Colonius"}]
+  date: 2014
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "274"}
+  serial-number: "95–121"
+  doi: "10.1016/j.jcp.2014.06.003"
+
+"Jiang1996":
+  type: article
+  title: "Efficient implementation of weighted ENO schemes"
+  author: [{name: "G. S. Jiang, C. W. Shu"}]
+  date: 1996
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "126"}
+  serial-number: "202–228"
+  doi: "10.1006/jcph.1996.0130"
+
+"Gottlieb1998a":
+  type: article
+  title: "Total variation diminishing Runge-Kutta schemes"
+  author: [{name: "S. Gottlieb, C.-W. Shu"}]
+  date: 1998
+  parent: {type: periodical, title: "Mathematics of Computation", volume: "67"}
+  serial-number: "73–85"
+  doi: "10.1090/s0025-5718-98-00913-2"
+
+"Hoppe2022a":
+  type: article
+  title: "ALPACA - a level-set based sharp-interface multiresolution solver for conservation laws"
+  author: [{name: "N. Hoppe, J. M. Winter, S. Adami, N. A. Adams"}]
+  date: 2022
+  parent: {type: periodical, title: "Computer Physics Communications", volume: "272"}
+  page-range: "108246"
+  doi: "10.1016/j.cpc.2021.108246"
+
+"Qiu2002":
+  type: article
+  title: "On the construction, comparison, and local characteristic decomposition for high-order central WENO schemes"
+  author: [{name: "J. Qiu, C. W. Shu"}]
+  date: 2002
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "183"}
+  serial-number: "187–209"
+  doi: "10.1006/jcph.2002.7191"
+
+"Harten1983a":
+  type: article
+  title: "On Upstream Differencing and Godunov-Type Schemes for Hyperbolic Conservation Laws"
+  author: [{name: "A. Harten, P. D. Lax, B. van Leer"}]
+  date: 1983
+  parent: {type: periodical, title: "SIAM Review", volume: "25"}
+  serial-number: "35–61"
+  doi: "10.1137/1025002"
+
+"Toro2009a":
+  type: article
+  title: "Riemann solvers and numerical methods for fluid dynamics: A practical introduction"
+  author: [{name: "E. F. Toro"}]
+  parent: {type: periodical, title: "3rd Edition, Springer Verlag, 2009"}
+  doi: "10.1007/b79761"
+
+"Osher1988":
+  type: article
+  title: "Fronts propagating with curvature-dependent speed: Algorithms based on Hamilton-Jacobi formulations"
+  author: [{name: "S. Osher, J. A. Sethian"}]
+  date: 1988
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "79"}
+  serial-number: "12–49"
+  doi: "10.1016/0021-9991(88)90002-2"
+
+"Hu2006":
+  type: article
+  title: "A conservative interface method for compressible flows"
+  author: [{name: "X. Y. Hu, B. C. Khoo, N. A. Adams, F. L. Huang"}]
+  date: 2006
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "219"}
+  serial-number: "553–578"
+  doi: "10.1016/j.jcp.2006.04.001"
+
+"Hoppe2020a":
+  type: article
+  title: "A parallel modular computing environment for three-dimensional multiresolution simulations of compressible flows"
+  author: [{name: "N. Hoppe, S. Adami, N. A. Adams"}]
+  date: 2022
+  parent: {type: periodical, title: "Computer Methods in Applied Mechanics and Engineering", volume: "391"}
+  serial-number: "1–61"
+  doi: "10.1016/j.cma.2021.114486"
+
+"Hu2004":
+  type: article
+  title: "An interface interaction method for compressible multifluids"
+  author: [{name: "X. Y. Hu, B. C. Khoo"}]
+  date: 2004
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "198"}
+  serial-number: "35–64"
+  doi: "10.1016/j.jcp.2003.12.018"
+
+"Nourgaliev2007":
+  type: article
+  title: "High-fidelity interface tracking in compressible flows: Unlimited anchored adaptive level set"
+  author: [{name: "R. R. Nourgaliev, T. G. Theofanous"}]
+  date: 2007
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "224"}
+  serial-number: "836–866"
+  doi: "10.1016/j.jcp.2006.10.031"
+
+"Russo2000":
+  type: article
+  title: "A Remark on Computing Distance Functions"
+  author: [{name: "G. Russo, P. Smereka"}]
+  date: 2000
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "163"}
+  serial-number: "51–67"
+  doi: "10.1006/jcph.2000.6553"
+
+"jiang2000weighted":
+  type: article
+  title: "Weighted ENO schemes for Hamilton-Jacobi equations"
+  author: [{name: "G. S. Jiang, D. Peng"}]
+  date: 2000
+  parent: {type: periodical, title: "SIAM Journal on Scientific Computing", volume: "21"}
+  serial-number: "2126–2143"
+  doi: "10.1137/S106482759732455X"
+
+"Toro2019":
+  type: article
+  title: "The HLLC Riemann solver"
+  author: [{name: "E. F. Toro"}]
+  date: 2019
+  parent: {type: periodical, title: "Shock Waves", volume: "29"}
+  serial-number: "1065–1082"
+  doi: "10.1007/s00193-019-00912-4"
+
+"Fleischmann2020":
+  type: article
+  title: "A shock-stable modification of the HLLC Riemann solver with reduced numerical dissipation"
+  author: [{name: "N. Fleischmann, S. Adami, N. A. Adams"}]
+  date: 2020
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "423"}
+  page-range: "109762"
+  doi: "10.1016/j.jcp.2020.109762"
+
+"Davis1988":
+  type: article
+  title: "Simplified Second-Order Godunov-Type Methods"
+  author: [{name: "S. F. Davis"}]
+  date: 1988
+  parent: {type: periodical, title: "SIAM Journal on Scientific and Statistical Computing", volume: "9"}
+  serial-number: "445–473"
+  doi: "10.1137/0909030"
+
+"Einfeldt1988a":
+  type: article
+  title: "On Godunov-Type Methods for Gas Dynamics"
+  author: [{name: "B. Einfeldt"}]
+  date: 1988
+  parent: {type: periodical, title: "SIAM Journal on Numerical Analysis", volume: "25"}
+  serial-number: "294–318"
+  doi: "10.1137/0725021"
+
+"Acker2016a":
+  type: article
+  title: "An improved WENO-Z scheme"
+  author: [{name: "F. Acker, R. B. de R. Borges, B. Costa"}]
+  date: 2016
+  parent: {type: periodical, title: "Journal of Computational Physics 313 (January)"}
+  serial-number: "726–753"
+  doi: "10.1016/j.jcp.2016.01.038"
+
+"Gande2020":
+  type: article
+  title: "Modified third and fifth order WENO schemes for inviscid compressible flows"
+  author: [{name: "N. R. Gande, A. A. Bhise"}]
+  date: 2021
+  parent: {type: periodical, title: "Numerical Algorithms", volume: "88"}
+  serial-number: "249–279"
+  doi: "10.1007/s11075-020-01039-9"
+
+"Borges2008a":
+  type: article
+  title: "An improved weighted essentially non-oscillatory scheme for hyperbolic conservation laws"
+  author: [{name: "R. Borges, M. Carmona, B. Costa, W. S. Don"}]
+  date: 2008
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "227"}
+  serial-number: "3191–3211"
+  doi: "10.1016/j.jcp.2007.11.038"
+
+"Hu2010":
+  type: article
+  title: "An adaptive central-upwind weighted essentially non-oscillatory scheme"
+  author: [{name: "X. Y. Hu, Q. Wang, N. A. Adams"}]
+  date: 2010
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "229"}
+  serial-number: "8952–8965"
+  doi: "10.1016/j.jcp.2010.08.019"
+
+"Hu2011":
+  type: article
+  title: "Scale separation for implicit large eddy simulation"
+  author: [{name: "X. Y. Hu, N. A. Adams"}]
+  date: 2011
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "230"}
+  serial-number: "7240–7249"
+  doi: "10.1016/j.jcp.2011.05.023"
+
+"Balsara2000":
+  type: article
+  title: "Monotonicity preserving weighted essentially non-oscillatory schemes with increasingly high order of accuracy"
+  author: [{name: "D. S. Balsara, C. W. Shu"}]
+  date: 2000
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "160"}
+  serial-number: "405–452"
+  doi: "10.1006/jcph.2000.6443"
+
+"Fu2016":
+  type: article
+  title: "A family of high-order targeted ENO schemes for compressible-fluid simulations"
+  author: [{name: "L. Fu, X. Y. Hu, N. A. Adams"}]
+  date: 2016
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "305"}
+  serial-number: "333–359"
+  doi: "10.1016/j.jcp.2015.10.037"
+
+"Hickel2014b":
+  type: article
+  title: "Subgrid-scale modeling for implicit large eddy simulation of compressible flows and shock-turbulence interaction"
+  author: [{name: "S. Hickel, C. P. Egerer, J. Larsson"}]
+  parent: {type: periodical, title: "Physics of Fluids 26 (10)"}
+  doi: "10.1063/1.4898641"
+
+"Menikoff1989":
+  type: article
+  title: "The Riemann problem for fluid flow of real materials"
+  author: [{name: "R. Menikoff, B. J. Plohr"}]
+  date: 1989
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "61"}
+  serial-number: "75–130"
+  doi: "10.1103/RevModPhys.61.75"
+
+"Fedkiw1999a":
+  type: article
+  title: "A Non-oscillatory Eulerian Approach to Interfaces in Multimaterial Flows (the Ghost Fluid Method)"
+  author: [{name: "R. P. Fedkiw, T. Aslam, B. Merriman, S. Osher"}]
+  date: 1999
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "152"}
+  serial-number: "457–492"
+  doi: "10.1006/jcph.1999.6236"
+
+"Harris2020":
+  type: misc
+  title: "Array programming with NumPy"
+  author: [{name: "C. R. Harris, K. J. Millman, S. J. van der Walt, R. Gommers, P. Virtanen, D. Cournapeau, E. Wieser, J. Taylor, S. Berg, N. J. Smith, R. Kern, M. Picus, S. Hoyer, M. H. van Kerkwijk, M. Brett, A. Haldane, J. F. del Río, M. Wiebe, P. Peterson, P. Gérard-Marchant, K. Sheppard, T. Reddy, W. Weckesser, H. Abbasi, C. Gohlke, T. E. Oliphant"}]
+  date: 2020
+  serial-number: "arXiv:2006.10256"
+  doi: "10.1038/s41586-020-2649-2"
+
+"Walt2011":
+  type: article
+  title: "The NumPy Array: A Structure for Efficient Numerical Computation"
+  author: [{name: "S. van der Walt, S. C. Colbert, G. Varoquaux"}]
+  date: 2011
+  parent: {type: periodical, title: "Computing in Science & Engineering", volume: "13"}
+  serial-number: "22–30"
+  doi: "10.1109/MCSE.2011.37"
+
+"haiku2020github":
+  type: article
+  title: "Haiku: Sonnet for JAX"
+  author: [{name: "T. Hennigan, T. Cai, T. Norman, I. Babuschkin"}]
+  date: 2020
+
+"optax2020github":
+  type: article
+  title: "Optax: composable gradient transformation and optimisation, in JAX!"
+  author: [{name: "M. Hessel, D. Budden, F. Viola, M. Rosca, E. Sezener, T. Hennigan"}]
+  date: 2020
+
+"Kingma2015":
+  type: article
+  title: "Adam: A method for stochastic optimization"
+  author: [{name: "D. P. Kingma, J. L. Ba"}]
+  parent: {type: periodical, title: "in: 3rd International Conference on Learning Representations, ICLR 2015 - Conference Track Proceedings, International Conference on Learning Representations, ICLR, 2015"}
+
+"Sod1978a":
+  type: article
+  title: "A survey of several finite difference methods for systems of nonlinear hyperbolic conservation laws"
+  author: [{name: "G. A. Sod"}]
+  date: 1978
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "27"}
+  serial-number: "1–31"
+  doi: "10.1016/0021-9991(78)90023-2"
+
+"Lax1954":
+  type: article
+  title: "Weak solutions of nonlinear hyperbolic equations and their numerical computation"
+  author: [{name: "P. D. Lax"}]
+  date: 1954
+  parent: {type: periodical, title: "Communications on Pure and Applied Mathematics", volume: "7"}
+  serial-number: "159–193"
+  doi: "10.1002/cpa.3160070112"
+
+"Ghia1982":
+  type: article
+  title: "High-Re solutions for incompressible flow using the Navier-Stokes equations and a multigrid method"
+  author: [{name: "U. Ghia, K. N. Ghia, C. T. Shin"}]
+  date: 1982
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "48"}
+  serial-number: "387–411"
+  doi: "10.1016/0021-9991(82)90058-4"
+
+"Pope2000":
+  type: article
+  title: "A 'missing' family of classical orthogonal polynomials"
+  author: [{name: "L. Vinet, A. Zhedanov"}]
+  parent: {type: periodical, title: "Vol. 44, Cambridge University Press, 2011"}
+  doi: "10.1088/1751-8113/44/8/085201"
+
+"Spyropoulos1996":
+  type: article
+  title: "https://doi.org/10.2514/3.13178"
+  author: [{name: "E. T. Spyropoulos, G. A. Blaisdell, Evaluation of the dynamic model for simulations of compressible decaying isotropic turbulence (1996). http://dx.doi.org/10.2514/3.13178"}]
+  doi: "10.2514/3.13178"
+
+"PEERY1988":
+  type: article
+  title: "Blunt-body flow simulations"
+  author: [{name: "K. Peery, S. Imlay"}]
+  parent: {type: periodical, title: "in: 24th Joint Propulsion Conference, American Institute of Aeronautics and Astronautics, Reston, Virigina, 1988"}
+  doi: "10.2514/6.1988-2904"
+
+"Rayleigh1879":
+  type: article
+  title: "VI. On the capillary phenomena of jets"
+  author: [{name: "L. Rayleigh"}]
+  date: 1879
+  parent: {type: periodical, title: "Proceedings of the Royal Society of London 29 (196-199)"}
+  serial-number: "71–97"
+  doi: "10.1098/rspl.1879.0015"
+
+"TaylorG.1934":
+  type: article
+  title: "The formation of emulsions in definable fields of flow"
+  author: [{name: "I. Taylor, G"}]
+  date: 1934
+  parent: {type: periodical, title: "Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character", volume: "146"}
+  serial-number: "501–523"
+  doi: "10.1098/rspa.1934.0169"
+
+"Terashima2009":
+  type: article
+  title: "A front-tracking/ghost-fluid method for fluid interfaces in compressible flows"
+  author: [{name: "H. Terashima, G. Tryggvason"}]
+  date: 2009
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "228"}
+  serial-number: "4012–4037"
+  doi: "10.1016/j.jcp.2009.02.023"
+
+"Haas1987":
+  type: article
+  title: "Interaction of Weak Shock Waves With Cylindrical And Spherical Gas Inhomogeneities"
+  author: [{name: "J. F. Haas"}]
+  date: 1987
+  parent: {type: periodical, title: "Journal of Fluid Mechanics", volume: "181"}
+  serial-number: "41–76"
+  doi: "10.1017/S0022112087002003"
+
+"Brachet1984":
+  type: article
+  title: "The Taylor-Green vortex and fully developed turbulence"
+  author: [{name: "M. E. Brachet, D. Meiron, S. Orszag, B. Nickel, R. Morf, U. Frisch"}]
+  date: 1984
+  parent: {type: periodical, title: "Journal of Statistical Physics 34 (5-6)"}
+  serial-number: "1049–1063"
+  doi: "10.1007/BF01009458"
+
+"Goodfellow2016":
+  type: article
+  title: "Deep Learning"
+  author: [{name: "I. Goodfellow, Y. Bengio, A. Courville"}]
+  parent: {type: periodical, title: "MIT Press, 2016. https://www.deeplearningbook.org/"}
+
+"Duchi2011":
+  type: article
+  title: "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization"
+  author: [{name: "J. Duchi, E. Hazan, Y. Singer"}]
+  date: 2011
+  parent: {type: periodical, title: "Journal of Machine Learning Research", volume: "12"}
+  serial-number: "2121–2159"
+
+"Harten1994":
+  type: article
+  title: "Adaptive Multiresolution Schemes for Shock Computations"
+  author: [{name: "A. Harten"}]
+  date: 1994
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "115"}
+  serial-number: "319–338"
+  doi: "10.1006/jcph.1994.1199"
+
+"Harten1995":
+  type: article
+  title: "Multiresolution algorithms for the numerical solution of hyperbolic conservation laws"
+  author: [{name: "A. Harten"}]
+  date: 1995
+  parent: {type: periodical, title: "Communications on Pure and Applied Mathematics", volume: "48"}
+  serial-number: "1305–1342"
+  doi: "10.1002/cpa.3160481201"
+
+"Romero2020":
+  type: article
+  title: "ZEFR: A GPU-accelerated high-order solver for compressible viscous flows using the flux reconstruction method"
+  author: [{name: "J. Romero, J. Crabill, J. E. Watkins, F. D. Witherden, A. Jameson"}]
+  parent: {type: periodical, title: "Computer Physics Communications 250"}
+  doi: "10.1016/j.cpc.2020.107169"
+
+"Hafner2021b":
+  type: article
+  title: "mpi4jax: Zero-copy MPI communication of JAX arrays"
+  author: [{name: "D. Häfner, F. Vicentini"}]
+  date: 2021
+  parent: {type: periodical, title: "Journal of Open Source Software", volume: "6"}
+  page-range: "3419"
+  doi: "10.21105/joss.03419"

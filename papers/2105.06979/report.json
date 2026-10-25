@@ -1,0 +1,11 @@
+{
+ "paper": "2105.06979",
+ "tikz": 0,
+ "bib": true,
+ "last_errors": "error: citation key `2020A-A...641A..15S` is not present in the bibliography\n    \u250c\u2500 \\\\?\\E:\\phys\\papers\\2105.06979\\main.typ:214:429\n    \u2502\n214 \u2502 The soft X-ray emission from old, non-accreting pulsars such as PSR\u2009J0740$+$6620 is believed to be generated when particles with large ($gt.double 100$) Lorentz factors are produced in pair cascades and deposit their energy deep in the atmosphere of the neutron star (#cite(<1974RvMP...46..815T>, form: \"prose\")@2001ApJ...556..987H @2002ApJ...568..862H @2007ApJ...670..668B\\; see #cite(<2019ApJ...872..162B>, form: \"prose\") and #cite(<2020A-A...641A..15S>, form: \"prose\") for explorations of the consequences for the beaming pattern of emission from the stellar surface if significant energy is in particles with lower Lorentz factors). The specific intensity as a function of the angle between the photon propagation direction and the local surface normal depends on the assumed composition, the ionization state, and the strength (and potentially the orientation) of the surface magnetic field at the point of emission.\n    \u2502                                                                                                                                                                                                                                                                                                                                                                                                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+ "compiled": false,
+ "latexblock": {
+  "before": 0,
+  "after": 0
+ }
+}

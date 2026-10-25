@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never">
+  <info>
+    <title>IOP numeric</title>
+    <id>http://www.zotero.org/styles/iop-numeric</id>
+    <updated>2024-01-01T00:00:00+00:00</updated>
+  </info>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" line-spacing="1" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <names variable="author" suffix=", ">
+        <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", " and="text" delimiter-precedes-last="never"/>
+        <substitute>
+          <names variable="editor"/>
+          <text variable="title"/>
+        </substitute>
+      </names>
+      <date variable="issued" suffix=", ">
+        <date-part name="year"/>
+      </date>
+      <text variable="container-title" font-style="italic"/>
+      <group prefix=" ">
+        <text variable="volume" font-weight="bold"/>
+        <text variable="issue" prefix="(" suffix=")"/>
+      </group>
+      <choose>
+        <if variable="page">
+          <text variable="page" prefix=" "/>
+        </if>
+        <else>
+          <text variable="note" prefix=" "/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

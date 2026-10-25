@@ -1,0 +1,1976 @@
+"deutsch1991quantum":
+  type: article
+  title: ""
+  author: [{name: "Deutsch, J. M."}]
+  date: 1991
+  parent: {type: periodical, title: "Physical Review A", volume: "43"}
+  serial-number: "2046–2049"
+  doi: "10.1103/PhysRevA.43.2046"
+
+"srednicki1994chaos":
+  type: article
+  title: ""
+  author: [{name: "Srednicki, M."}]
+  date: 1994
+  parent: {type: periodical, title: "Physical Review E", volume: "50"}
+  serial-number: "888–901"
+  doi: "10.1103/PhysRevE.50.888"
+
+"nandkishore2015many":
+  type: article
+  title: ""
+  author: [{name: "Nandkishore, R. and Huse, D. A."}]
+  date: 2015
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "6"}
+  serial-number: "15–38"
+  doi: "10.1146/annurev-conmatphys-031214-014726"
+
+"abanin2018review":
+  type: article
+  title: ""
+  author: [{name: "Abanin, D. A. and Altman, E. and Bloch, I. and Serbyn, M."}]
+  date: 2019
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "91"}
+  page-range: "021001"
+  doi: "10.1103/RevModPhys.91.021001"
+
+"suntajs2020quantum":
+  type: article
+  title: ""
+  author: [{name: "untajs, J. and Bona, J. and Prosen, T. and c v Vidmar, L."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "102"}
+  page-range: "062144"
+  doi: "10.1103/PhysRevE.102.062144"
+
+"abanin2021distinguishing":
+  type: article
+  title: ""
+  author: [{name: "Abanin, D. and Bardarson, J. and De Tomasi, G. and Gopalakrishnan, S. and Khemani, V. and Parameswaran, S. and Pollmann, F. and Potter, A. and Serbyn, M. and Vasseur, R."}]
+  date: 2021
+  parent: {type: periodical, title: "Annals of Physics", volume: "427"}
+  page-range: "168415"
+  doi: "https://doi.org/10.1016/j.aop.2021.168415"
+
+"bernien2017probing":
+  type: article
+  title: ""
+  author: [{name: "Bernien, H. and Schwartz, S. and Keesling, A. and Levine, H. and Omran, A. and Pichler, H. and Choi, S. and Zibrov, A. S. and Endres, M. and Greiner, M. and Vuletic, V. and Lukin, M. D."}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "551"}
+  serial-number: "579–584"
+  doi: "10.1038/nature24622"
+
+"turner2017quantum":
+  type: article
+  title: ""
+  author: [{name: "Turner, C. and Michailidis, A. and Abanin, D. and Serbyn, M. and Papic, Z."}]
+  date: 2018
+  parent: {type: periodical, title: "Nature Physics", volume: "14"}
+  serial-number: "745–749"
+  doi: "10.1038/s41567-018-0137-5"
+
+"turner2018quantum":
+  type: article
+  title: ""
+  author: [{name: "Turner, C. J. and Michailidis, A. A. and Abanin, D. A. and Serbyn, M. and Papi, Z."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "155134"
+  doi: "10.1103/PhysRevB.98.155134"
+
+"ho2018periodic":
+  type: article
+  title: ""
+  author: [{name: "Ho, W. W. and Choi, S. and Pichler, H. and Lukin, M. D."}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Letters", volume: "122"}
+  page-range: "040603"
+  doi: "10.1103/PhysRevLett.122.040603"
+
+"khemani2019int":
+  type: article
+  title: ""
+  author: [{name: "Khemani, V. and Laumann, C. R. and Chandran, A."}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review B", volume: "99"}
+  page-range: "161101"
+  doi: "10.1103/PhysRevB.99.161101"
+
+"choi2018emergent":
+  type: article
+  title: ""
+  author: [{name: "Choi, S. and Turner, C. J. and Pichler, H. and Ho, W. W. and Michailidis, A. A. and Papi, Z. and Serbyn, M. and Lukin, M. D. and Abanin, D. A."}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Letters", volume: "122"}
+  page-range: "220603"
+  doi: "10.1103/PhysRevLett.122.220603"
+
+"SerbynReview":
+  type: article
+  title: ""
+  author: [{name: "Serbyn, M. and Abanin, D. A. and Papic, Z."}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Physics", volume: "17"}
+  serial-number: "675–685"
+  doi: "10.1038/s41567-021-01230-2"
+
+"papic2021weak":
+  type: article
+  title: "arXiv:2108.03460"
+  author: [{name: "Papic, Z."}]
+  date: 2021
+
+"moudgalya2018a":
+  type: article
+  title: ""
+  author: [{name: "Moudgalya, S. and Rachel, S. and Bernevig, B. A. and Regnault, N."}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review B", volume: "98"}
+  page-range: "235155"
+  doi: "10.1103/PhysRevB.98.235155"
+
+"aklt1987rigorous":
+  type: article
+  title: ""
+  author: [{name: "Affleck, I. and Kennedy, T. and Lieb, E. H. and Tasaki, H."}]
+  date: 1987
+  parent: {type: periodical, title: "Physical Review Letters", volume: "59"}
+  serial-number: "799–802"
+  doi: "10.1103/PhysRevLett.59.799"
+
+"sala2019ergodicity":
+  type: article
+  title: ""
+  author: [{name: "Sala, P. and Rakovszky, T. and Verresen, R. and Knap, M. and Pollmann, F."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "011047"
+  doi: "10.1103/PhysRevX.10.011047"
+
+"khemani2019local":
+  type: article
+  title: ""
+  author: [{name: "Khemani, V. and Hermele, M. and Nandkishore, R."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "174204"
+  doi: "10.1103/PhysRevB.101.174204"
+
+"moudgalya2019thermalization":
+  type: article
+  title: "Memorial Volume for Shoucheng Zhang"
+  author: [{name: "Moudgalya, S. and Prem, A. and Nandkishore, R. and Regnault, N. and Bernevig, B. A."}]
+  date: 2021
+  serial-number: "147–209"
+
+"zadnik2021foldedxxz1":
+  type: article
+  title: ""
+  author: [{name: "Zadnik, L. and Fagotti, M."}]
+  date: 2021
+  parent: {type: periodical, title: "SciPost Phys. Core", volume: "4"}
+  page-range: "10"
+  doi: "10.21468/SciPostPhysCore.4.2.010"
+
+"polkovnikov2011colloquium":
+  type: article
+  title: ""
+  author: [{name: "Polkovnikov, A. and Sengupta, K. and Silva, A. and Vengalattore, M."}]
+  date: 2011
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "83"}
+  serial-number: "863–883"
+  doi: "10.1103/RevModPhys.83.863"
+
+"d2016quantum":
+  type: article
+  title: ""
+  author: [{name: "D'Alessio, L. and Kafri, Y. and Polkovnikov, A. and Rigol, M."}]
+  date: 2016
+  parent: {type: periodical, title: "Advances in Physics", volume: "65"}
+  serial-number: "239–362"
+  doi: "10.1080/00018732.2016.1198134"
+
+"rigol2008thermalization":
+  type: article
+  title: ""
+  author: [{name: "Rigol, M. and Dunjko, V. and Olshanii, M."}]
+  date: 2008
+  parent: {type: periodical, title: "Nature", volume: "452"}
+  serial-number: "854–858"
+  doi: "10.1038/nature06838"
+
+"beugeling2014finite":
+  type: article
+  title: ""
+  author: [{name: "Beugeling, W. and Moessner, R. and Haque, M."}]
+  date: 2014
+  parent: {type: periodical, title: "Physical Review E", volume: "89"}
+  page-range: "042112"
+  doi: "10.1103/PhysRevE.89.042112"
+
+"huang2022finite":
+  type: article
+  title: "Annals of Physics"
+  author: [{name: "Huang, Y."}]
+  date: 2022
+
+"shiraishimorireply":
+  type: article
+  title: ""
+  author: [{name: "Shiraishi, N. and Mori, T."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "038902"
+  doi: "10.1103/PhysRevLett.121.038902"
+
+"mondaini2018comment":
+  type: article
+  title: ""
+  author: [{name: "Mondaini, R. and Mallayya, K. and Santos, L. F. and Rigol, M."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "038901"
+  doi: "10.1103/PhysRevLett.121.038901"
+
+"kim2014testing":
+  type: article
+  title: ""
+  author: [{name: "Kim, H. and Ikeda, T. N. and Huse, D. A."}]
+  date: 2014
+  parent: {type: periodical, title: "Physical Review E", volume: "90"}
+  page-range: "052105"
+  doi: "10.1103/PhysRevE.90.052105"
+
+"garrison2018does":
+  type: article
+  title: ""
+  author: [{name: "Garrison, J. R. and Grover, T."}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review X", volume: "8"}
+  page-range: "021026"
+  doi: "10.1103/PhysRevX.8.021026"
+
+"stockmann2000quantumchaos":
+  type: article
+  title: ""
+  author: [{name: "Stöckmann, H. J."}]
+  date: 2000
+  parent: {type: periodical, title: "American Journal of Physics", volume: "68"}
+  serial-number: "777–778"
+  doi: "10.1119/1.19544"
+
+"bgs1984chaos":
+  type: article
+  title: ""
+  author: [{name: "Bohigas, O. and Giannoni, M. J. and Schmit, C."}]
+  date: 1984
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "52"}
+  serial-number: "1–4"
+  doi: "10.1103/PhysRevLett.52.1"
+
+"brezin1997sff":
+  type: article
+  title: ""
+  author: [{name: "Brézin, E. and Hikami, S."}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "55"}
+  serial-number: "4067–4083"
+  doi: "10.1103/PhysRevE.55.4067"
+
+"dyson1962brownian":
+  type: article
+  title: ""
+  author: [{name: "Dyson, F. J."}]
+  date: 1962
+  parent: {type: periodical, title: "Journal of Mathematical Physics", volume: "3"}
+  serial-number: "1191–1198"
+  doi: "https://aip.scitation.org/doi/10.1063/1.1703862"
+
+"poilblanc1993poisson":
+  type: article
+  title: ""
+  author: [{name: "Poilblanc, D. and Ziman, T. and Bellissard, J. and Mila, F. and Montambaux, G."}]
+  date: 1993
+  parent: {type: periodical, title: "Europhysics Letters (EPL)", volume: "22"}
+  serial-number: "537–542"
+  doi: "10.1209/0295-5075/22/7/010"
+
+"giraud2020probing":
+  type: article
+  title: ""
+  author: [{name: "Giraud, O. and Macé, N. and Vernier, E. and Alet, F."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "12"}
+  page-range: "011006"
+  doi: "10.1103/PhysRevX.12.011006"
+
+"oganesyan2007localization":
+  type: article
+  title: ""
+  author: [{name: "Oganesyan, V. and Huse, D. A."}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "75"}
+  page-range: "155111"
+  doi: "10.1103/PhysRevB.75.155111"
+
+"atas2013distribution":
+  type: article
+  title: ""
+  author: [{name: "Atas, Y. Y. and Bogomolny, E. and Giraud, O. and Roux, G."}]
+  date: 2013
+  parent: {type: periodical, title: "Physical Review Letters", volume: "110"}
+  page-range: "084101"
+  doi: "10.1103/PhysRevLett.110.084101"
+
+"eisert2010colloquium":
+  type: article
+  title: ""
+  author: [{name: "Eisert, J. and Cramer, M. and Plenio, M. B."}]
+  date: 2010
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "82"}
+  serial-number: "277–306"
+  doi: "10.1103/RevModPhys.82.277"
+
+"nishioka2009entanglement":
+  type: article
+  title: ""
+  author: [{name: "Nishioka, T. and Ryu, S. and Takayanagi, T."}]
+  date: 2009
+  parent: {type: periodical, title: "Journal of Physics A: Mathematical and Theoretical", volume: "42"}
+  page-range: "504008"
+  doi: "10.1088/1751-8113/42/50/504008"
+
+"calabrese2009entanglement":
+  type: article
+  title: ""
+  author: [{name: "Calabrese, P. and Cardy, J."}]
+  date: 2009
+  parent: {type: periodical, title: "Journal of Physics A: Mathematical and Theoretical", volume: "42"}
+  page-range: "504005"
+  doi: "10.1088/1751-8113/42/50/504005"
+
+"page1993":
+  type: article
+  title: ""
+  author: [{name: "Page, D. N."}]
+  date: 1993
+  parent: {type: periodical, title: "Physical Review Letters", volume: "71"}
+  serial-number: "1291–1294"
+  doi: "10.1103/PhysRevLett.71.1291"
+
+"morampudi2020universal":
+  type: article
+  title: ""
+  author: [{name: "Morampudi, S. C. and Chandran, A. and Laumann, C. R."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "050602"
+  doi: "10.1103/PhysRevLett.124.050602"
+
+"schollwock2011density":
+  type: article
+  title: ""
+  author: [{name: "Schollwöck, U."}]
+  date: 2011
+  parent: {type: periodical, title: "Annals of Physics", volume: "326"}
+  serial-number: "96 – 192 january 2011 Special Issue"
+  doi: "https://doi.org/10.1016/j.aop.2010.09.012"
+
+"verstraete2008matrix":
+  type: article
+  title: ""
+  author: [{name: "Verstraete, F. and Murg, V. and Cirac, J. I."}]
+  date: 2008
+  parent: {type: periodical, title: "Advances in Physics", volume: "57"}
+  serial-number: "143–224"
+  doi: "https://www.tandfonline.com/doi/full/10.1080/14789940801912366"
+
+"orus2014practical":
+  type: article
+  title: ""
+  author: [{name: "Orus, R."}]
+  date: 2014
+  parent: {type: periodical, title: "Annals of Physics", volume: "349"}
+  serial-number: "117 – 158"
+  doi: "https://doi.org/10.1016/j.aop.2014.06.013"
+
+"perezgarcia2007matrix":
+  type: article
+  title: ""
+  author: [{name: "Perez-Garcia, D. and Verstraete, F. and Wolf, M. M. and Cirac, J. I."}]
+  date: 2007
+  parent: {type: periodical, title: "Quantum Info. Comput.", volume: "7"}
+  serial-number: "401–430"
+
+"hastings2007area":
+  type: article
+  title: ""
+  author: [{name: "Hastings, M. B."}]
+  date: 2007
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2007"}
+  serial-number: "P08024–P08024"
+  doi: "10.1088/1742-5468/2007/08/p08024"
+
+"kitaev2003fault":
+  type: article
+  title: ""
+  author: [{name: "Kitaev, A."}]
+  date: 2003
+  parent: {type: periodical, title: "Annals of Physics", volume: "303"}
+  serial-number: "2–30"
+  doi: "https://doi.org/10.1016/S0003-4916(02)00018-0"
+
+"kitaev2010topological":
+  type: article
+  title: ""
+  author: [{name: "Kitaev, A. and Laumann, C."}]
+  date: 2010
+  parent: {type: proceedings, title: "Exact Methods in Low-dimensional Statistical Physics and Quantum Computing: Lecture Notes of the Les Houches Summer School: Volume 89, July 2008"}
+
+"faddeev1996algebraic":
+  type: article
+  title: "arXiv:hep-th/9605187"
+  author: [{name: "Faddeev, L. D."}]
+  date: 1996
+
+"deroeck2017stability":
+  type: article
+  title: ""
+  author: [{name: "De Roeck, W. and Huveneers, F. and m c"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "95"}
+  page-range: "155129"
+  doi: "10.1103/PhysRevB.95.155129"
+
+"sels2020dynamical":
+  type: article
+  title: ""
+  author: [{name: "Sels, D. and Polkovnikov, A."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "104"}
+  serial-number: "054105 arXiv"
+  doi: "10.1103/PhysRevE.104.054105"
+
+"crowley2020constructive":
+  type: article
+  title: "arXiv:2012.14393"
+  author: [{name: "Crowley, P. J. D. and Chandran, A."}]
+  date: 2020
+
+"huse2014phenomenology":
+  type: article
+  title: ""
+  author: [{name: "Huse, D. A. and Nandkishore, R. and Oganesyan, V."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "90"}
+  page-range: "174202"
+  doi: "10.1103/PhysRevB.90.174202"
+
+"alba2009excited":
+  type: article
+  title: ""
+  author: [{name: "Alba, V. and Fagotti, M. and Calabrese, P."}]
+  date: 2009
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2009"}
+  serial-number: "P10020"
+  doi: "10.1088/1742-5468/2009/10/p10020"
+
+"vidmar2017entanglement":
+  type: article
+  title: ""
+  author: [{name: "Vidmar, L. and Hackl, L. and Bianchi, E. and Rigol, M."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "119"}
+  page-range: "020601"
+  doi: "10.1103/PhysRevLett.119.020601"
+
+"alba2015eigenstate":
+  type: article
+  title: ""
+  author: [{name: "Alba, V."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "91"}
+  page-range: "155123"
+  doi: "10.1103/PhysRevB.91.155123"
+
+"khemani2014eigenstate":
+  type: article
+  title: ""
+  author: [{name: "Khemani, V. and Chandran, A. and Kim, H. and Sondhi, S. L."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "90"}
+  page-range: "052133"
+  doi: "10.1103/PhysRevE.90.052133"
+
+"heller1984scars":
+  type: article
+  title: ""
+  author: [{name: "Heller, E. J."}]
+  date: 1984
+  parent: {type: periodical, title: "Physical Review Letters", volume: "53"}
+  serial-number: "1515–1518"
+  doi: "10.1103/PhysRevLett.53.1515"
+
+"backer2003numerical":
+  type: article
+  title: "Numerical aspects of eigenvalue and eigenfunction computations for chaotic quantum systems"
+  author: [{name: "Bäcker, A."}]
+  date: 2003
+  parent: {type: proceedings, title: "The Mathematical Aspects of Quantum Maps"}
+  serial-number: "91–144"
+
+"bluvstein2020controlling":
+  type: article
+  title: ""
+  author: [{name: "Bluvstein, D. and Omran, A. and Levine, H. and Keesling, A. and Semeghini, G. and Ebadi, S. and Wang, T. T. and Michailidis, A. A. and Maskara, N. and Ho, W. W. and Choi, S. and Serbyn, M. and Greiner, M. and Vuletic, V. and Lukin, M. D."}]
+  date: 2021
+  parent: {type: periodical, title: "Science", volume: "371"}
+  serial-number: "1355–1359"
+  doi: "10.1126/science.abg2530"
+
+"herviou2021manybody":
+  type: article
+  title: ""
+  author: [{name: "Herviou, L. and Bardarson, J. H. and Regnault, N."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  page-range: "134207"
+  doi: "10.1103/PhysRevB.103.134207"
+
+"alhambra2020revivals":
+  type: article
+  title: ""
+  author: [{name: "Alhambra, A. M. and Anshu, A. and Wilming, H."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "205107"
+  doi: "10.1103/PhysRevB.101.205107"
+
+"moudgalya2018b":
+  type: article
+  title: ""
+  author: [{name: "Moudgalya, S. and Regnault, N. and Bernevig, B. A."}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review B", volume: "98"}
+  page-range: "235156"
+  doi: "10.1103/PhysRevB.98.235156"
+
+"arovas1988extended":
+  type: article
+  title: ""
+  author: [{name: "Arovas, D. P. and Auerbach, A. and Haldane, F. D. M."}]
+  date: 1988
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "60"}
+  serial-number: "531–534"
+  doi: "10.1103/PhysRevLett.60.531"
+
+"arovas1989two":
+  type: article
+  title: ""
+  author: [{name: "Arovas, D. P."}]
+  date: 1989
+  parent: {type: periodical, title: "Physics Letters A", volume: "137"}
+  serial-number: "431 – 433"
+  doi: "https://doi.org/10.1016/0375-9601(89)90921-3"
+
+"iadecola2018exact":
+  type: article
+  title: ""
+  author: [{name: "Iadecola, T. and nidari, M."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "036403"
+  doi: "10.1103/PhysRevLett.123.036403"
+
+"yang1989eta":
+  type: article
+  title: ""
+  author: [{name: "Yang, C. N."}]
+  date: 1989
+  parent: {type: periodical, title: "Physical Review letters", volume: "63"}
+  page-range: "2144"
+
+"yang1990so":
+  type: article
+  title: ""
+  author: [{name: "Yang, C. N. and Zhang, S."}]
+  date: 1990
+  parent: {type: periodical, title: "Modern Physics Letters B", volume: "4"}
+  serial-number: "759–766"
+
+"essler2005one":
+  type: article
+  title: "The one-dimensional Hubbard model"
+  author: [{name: "Essler, F. H. and Frahm, H. and Göhmann, F. and Klümper, A. and Korepin, V. E."}]
+  date: 2005
+
+"barut1965dynamical":
+  type: article
+  title: ""
+  author: [{name: "Barut, A. O. and Böhm, A."}]
+  date: 1965
+  parent: {type: periodical, title: "Phys. Rev.", volume: "139"}
+  serial-number: "(4B) B1107–B1112"
+  doi: "10.1103/PhysRev.139.B1107"
+
+"dothan1965series":
+  type: article
+  title: ""
+  author: [{name: "Dothan, Y. and Gell-Mann, M. and Ne'eman, Y."}]
+  date: 1965
+  parent: {type: periodical, title: "Physics Letters", volume: "17"}
+  serial-number: "148 – 151"
+  doi: "https://doi.org/10.1016/0031-9163(65)90279-9"
+
+"buca2019nonstationary":
+  type: article
+  title: ""
+  author: [{name: "Buča, B. and Tindall, J. and Jaksch, D."}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Communications", volume: "10"}
+  page-range: "1730"
+  doi: "10.1038/s41467-019-09757-y"
+
+"medenjak2020isolated":
+  type: article
+  title: ""
+  author: [{name: "Medenjak, M. and Bua, B. and Jaksch, D."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "041117"
+  doi: "10.1103/PhysRevB.102.041117"
+
+"vafek2017entanglement":
+  type: article
+  title: ""
+  author: [{name: "Vafek, O. and Regnault, N. and Bernevig, B. A."}]
+  date: 2017
+  parent: {type: periodical, title: "SciPost Phys.", volume: "3"}
+  page-range: "043"
+  doi: "10.21468/SciPostPhys.3.6.043"
+
+"moudgalya2020eta":
+  type: article
+  title: ""
+  author: [{name: "Moudgalya, S. and Regnault, N. and Bernevig, B. A."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "085140"
+  doi: "10.1103/PhysRevB.102.085140"
+
+"mark2020eta":
+  type: article
+  title: ""
+  author: [{name: "Mark, D. K. and Motrunich, O. I."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "075132"
+  doi: "10.1103/PhysRevB.102.075132"
+
+"dzyaloshinsky1958thermodynamic":
+  type: article
+  title: ""
+  author: [{name: "Dzyaloshinsky, I."}]
+  date: 1958
+  parent: {type: periodical, title: "Journal of Physics and Chemistry of Solids", volume: "4"}
+  serial-number: "241–255"
+  doi: "https://doi.org/10.1016/0022-3697(58)90076-3"
+
+"moriya1960anisotropic":
+  type: article
+  title: ""
+  author: [{name: "Moriya, T."}]
+  date: 1960
+  parent: {type: periodical, title: "Phys. Rev.", volume: "120"}
+  serial-number: "91–98"
+  doi: "10.1103/PhysRev.120.91"
+
+"dooley2021robust":
+  type: article
+  title: ""
+  author: [{name: "Dooley, S."}]
+  date: 2021
+  parent: {type: periodical, title: "PRX Quantum", volume: "2"}
+  page-range: "020330"
+  doi: "10.1103/PRXQuantum.2.020330"
+
+"schecter2019weak":
+  type: article
+  title: ""
+  author: [{name: "Schecter, M. and Iadecola, T."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "147201"
+  doi: "10.1103/PhysRevLett.123.147201"
+
+"iadecola2020quantum":
+  type: article
+  title: ""
+  author: [{name: "Iadecola, T. and Schecter, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "024306"
+  doi: "10.1103/PhysRevB.101.024306"
+
+"odea2020from":
+  type: article
+  title: ""
+  author: [{name: "O'Dea, N. and Burnell, F. and Chandran, A. and Khemani, V."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "043305"
+  doi: "10.1103/PhysRevResearch.2.043305"
+
+"moudgalya2020large":
+  type: article
+  title: ""
+  author: [{name: "Moudgalya, S. and O'Brien, E. and Bernevig, B. A. and Fendley, P. and Regnault, N."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "085120"
+  doi: "10.1103/PhysRevB.102.085120"
+
+"mark2020unified":
+  type: article
+  title: ""
+  author: [{name: "Mark, D. K. and Lin, C. J. and Motrunich, O. I."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "195131"
+  doi: "10.1103/PhysRevB.101.195131"
+
+"chattopadhyay2019quantum":
+  type: article
+  title: ""
+  author: [{name: "Chattopadhyay, S. and Pichler, H. and Lukin, M. D. and Ho, W. W."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review B", volume: "101"}
+  page-range: "174308"
+  doi: "10.1103/PhysRevB.101.174308"
+
+"shibata2020onsager":
+  type: article
+  title: ""
+  author: [{name: "Shibata, N. and Yoshioka, N. and Katsura, H."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "180604"
+  doi: "10.1103/PhysRevLett.124.180604"
+
+"vanvoorden2021disorder":
+  type: article
+  title: ""
+  author: [{name: "van Voorden, B. and Marcuzzi, M. and Schoutens, K. and Miná, J."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  serial-number: "L220301"
+  doi: "10.1103/PhysRevB.103.L220301"
+
+"hudomal2020quantum":
+  type: article
+  title: ""
+  author: [{name: "Hudomal, A. and Vasic, I. and Regnault, N. and Papic, Z."}]
+  date: 2020
+  parent: {type: periodical, title: "Communications Physics", volume: "3"}
+  page-range: "99"
+  doi: "10.1038/s42005-020-0364-9"
+
+"lee2020exact":
+  type: article
+  title: ""
+  author: [{name: "Lee, K. and Melendrez, R. and Pal, A. and Changlani, H. J."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "241111"
+  doi: "10.1103/PhysRevB.101.241111"
+
+"hart2020compact":
+  type: article
+  title: ""
+  author: [{name: "Hart, O. and De Tomasi, G. and Castelnovo, C."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "043267"
+  doi: "10.1103/PhysRevResearch.2.043267"
+
+"chertkov2021motif":
+  type: article
+  title: ""
+  author: [{name: "Chertkov, E. and Clark, B. K."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "104"}
+  page-range: "104410"
+  doi: "10.1103/PhysRevB.104.104410"
+
+"langlett2021rainbow":
+  type: article
+  title: ""
+  author: [{name: "Langlett, C. M. and Yang, Z. C. and Wildeboer, J. and Gorshkov, A. V. and Iadecola, T. and Xu, S."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "105"}
+  serial-number: "L060301"
+  doi: "10.1103/PhysRevB.105.L060301"
+
+"zhao2021orthogonal":
+  type: article
+  title: ""
+  author: [{name: "Zhao, H. and Smith, A. and Mintert, F. and Knolle, J."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "150601"
+  doi: "10.1103/PhysRevLett.127.150601"
+
+"pirvu2010matrix":
+  type: article
+  title: ""
+  author: [{name: "Pirvu, B. and Murg, V. and Cirac, J. I. and Verstraete, F."}]
+  date: 2010
+  parent: {type: periodical, title: "New Journal of Physics", volume: "12"}
+  page-range: "025012"
+
+"mcculloch2007density":
+  type: article
+  title: ""
+  author: [{name: "McCulloch, I. P."}]
+  date: 2007
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2007"}
+  serial-number: "P10014"
+
+"crosswhite2008fsa":
+  type: article
+  title: ""
+  author: [{name: "Crosswhite, G. M. and Bacon, D."}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "78"}
+  page-range: "012356"
+  doi: "10.1103/PhysRevA.78.012356"
+
+"motruk2016density":
+  type: article
+  title: ""
+  author: [{name: "Motruk, J. and Zaletel, M. P. and Mong, R. S. K. and Pollmann, F."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "93"}
+  page-range: "155139"
+  doi: "10.1103/PhysRevB.93.155139"
+
+"castro2018entanglement":
+  type: article
+  title: ""
+  author: [{name: "Castro-Alvaredo, O. A. and De Fazio, C. and Doyon, B. and Szécsényi, I. M."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "170602"
+  doi: "10.1103/PhysRevLett.121.170602"
+
+"ren2021deformed":
+  type: article
+  title: ""
+  author: [{name: "Ren, J. and Liang, C. and Fang, C."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "4"}
+  page-range: "013155"
+  doi: "10.1103/PhysRevResearch.4.013155"
+
+"iadecola2019quantum":
+  type: article
+  title: ""
+  author: [{name: "Iadecola, T. and Schecter, M. and Xu, S."}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review B", volume: "100"}
+  page-range: "184312"
+  doi: "10.1103/PhysRevB.100.184312"
+
+"lesanovsky2011many":
+  type: article
+  title: ""
+  author: [{name: "Lesanovsky, I."}]
+  date: 2011
+  parent: {type: periodical, title: "Physical Review Letters", volume: "106"}
+  page-range: "025301"
+
+"mori2017eth":
+  type: article
+  title: ""
+  author: [{name: "Shiraishi, N. and Mori, T."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "119"}
+  page-range: "030601"
+  doi: "10.1103/PhysRevLett.119.030601"
+
+"pakrouski2020many":
+  type: article
+  title: ""
+  author: [{name: "Pakrouski, K. and Pallegar, P. N. and Popov, F. K. and Klebanov, I. R."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "230602"
+  doi: "10.1103/PhysRevLett.125.230602"
+
+"ren2020quasisymmetry":
+  type: article
+  title: ""
+  author: [{name: "Ren, J. and Liang, C. and Fang, C."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "120604"
+  doi: "10.1103/PhysRevLett.126.120604"
+
+"tang2021multimagnon":
+  type: article
+  title: "arXiv:2110.11448"
+  author: [{name: "Tang, L. H. and O'Dea, N. and Chandran, A."}]
+  date: 2021
+
+"pakrouski2021group":
+  type: article
+  title: ""
+  author: [{name: "Pakrouski, K. and Pallegar, P. N. and Popov, F. K. and Klebanov, I. R."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "3"}
+  page-range: "043156"
+  doi: "10.1103/PhysRevResearch.3.043156"
+
+"ok2019topological":
+  type: article
+  title: ""
+  author: [{name: "Ok, S. and Choo, K. and Mudry, C. and Castelnovo, C. and Chamon, C. and Neupert, T."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "1"}
+  page-range: "033144"
+  doi: "10.1103/PhysRevResearch.1.033144"
+
+"majumdarghosh1969":
+  type: article
+  title: ""
+  author: [{name: "Majumdar, C. K. and Ghosh, D. K."}]
+  date: 1969
+  parent: {type: periodical, title: "Journal of Mathematical Physics", volume: "10"}
+  serial-number: "1388–1398"
+  doi: "10.1063/1.1664978"
+
+"qi2019determininglocal":
+  type: article
+  title: ""
+  author: [{name: "Qi, X. L. and Ranard, D."}]
+  date: 2019
+  parent: {type: periodical, title: "Quantum", volume: "3"}
+  page-range: "159"
+  doi: "10.22331/q-2019-07-08-159"
+
+"chertkov2018computational":
+  type: article
+  title: ""
+  author: [{name: "Chertkov, E. and Clark, B. K."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "8"}
+  page-range: "031029"
+  doi: "10.1103/PhysRevX.8.031029"
+
+"srivatsa2020quantum":
+  type: article
+  title: ""
+  author: [{name: "Srivatsa, N. S. and Wildeboer, J. and Seidel, A. and Nielsen, A. E. B."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "235106"
+  doi: "10.1103/PhysRevB.102.235106"
+
+"jeyaretnam2021quantum":
+  type: article
+  title: ""
+  author: [{name: "Jeyaretnam, J. and Richter, J. and Pal, A."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "104"}
+  page-range: "014424"
+  doi: "10.1103/PhysRevB.104.014424"
+
+"mcclarty2020disorder":
+  type: article
+  title: ""
+  author: [{name: "McClarty, P. A. and Haque, M. and Sen, A. and Richter, J."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "224303"
+  doi: "10.1103/PhysRevB.102.224303"
+
+"surace2020weakergodicity":
+  type: article
+  title: ""
+  author: [{name: "Surace, F. M. and Giudici, G. and Dalmonte, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Quantum", volume: "4"}
+  page-range: "339"
+  doi: "10.22331/q-2020-10-07-339"
+
+"banerjee2021quantum":
+  type: article
+  title: ""
+  author: [{name: "Banerjee, D. and Sen, A."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "220601"
+  doi: "10.1103/PhysRevLett.126.220601"
+
+"moudgalya2021hilbert":
+  type: article
+  title: ""
+  author: [{name: "Moudgalya, S. and Motrunich, O. I."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "12"}
+  serial-number: "011050 arXiv"
+  doi: "10.1103/PhysRevX.12.011050"
+
+"lesanovsky2012interacting":
+  type: article
+  title: ""
+  author: [{name: "Lesanovsky, I. and Katsura, H."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "86"}
+  page-range: "041601"
+  doi: "10.1103/PhysRevA.86.041601"
+
+"schecter2018many":
+  type: article
+  title: ""
+  author: [{name: "Schecter, M. and Iadecola, T."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "035139"
+  doi: "10.1103/PhysRevB.98.035139"
+
+"moudgalya2020quantum":
+  type: article
+  title: ""
+  author: [{name: "Moudgalya, S. and Bernevig, B. A. and Regnault, N."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "195150"
+  doi: "10.1103/PhysRevB.102.195150"
+
+"trebst2008fibonacci":
+  type: article
+  title: ""
+  author: [{name: "Trebst, S. and Troyer, M. and Wang, Z. and Ludwig, A. W. W."}]
+  date: 2008
+  parent: {type: periodical, title: "Progress of Theoretical Physics Supplement", volume: "176"}
+  serial-number: "384–407"
+  doi: "10.1143/PTPS.176.384"
+
+"chandran2020absence":
+  type: article
+  title: ""
+  author: [{name: "Chandran, A. and Burnell, F. J. and Sondhi, S. L."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "075104"
+  doi: "10.1103/PhysRevB.101.075104"
+
+"moessner2001ising":
+  type: article
+  title: ""
+  author: [{name: "Moessner, R. and Sondhi, S. L."}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "63"}
+  page-range: "224401"
+  doi: "10.1103/PhysRevB.63.224401"
+
+"laumann2012quantum":
+  type: article
+  title: ""
+  author: [{name: "Laumann, C. R. and Moessner, R. and Scardicchio, A. and Sondhi, S. L."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "109"}
+  page-range: "030502"
+  doi: "10.1103/PhysRevLett.109.030502"
+
+"surace2020lattice":
+  type: article
+  title: ""
+  author: [{name: "Surace, F. M. and Mazza, P. P. and Giudici, G. and Lerose, A. and Gambassi, A. and Dalmonte, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "021041"
+  doi: "10.1103/PhysRevX.10.021041"
+
+"chen2021emergent":
+  type: article
+  title: ""
+  author: [{name: "Chen, I. C. and Iadecola, T."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  page-range: "214304"
+  doi: "10.1103/PhysRevB.103.214304"
+
+"fendley2004competing":
+  type: article
+  title: ""
+  author: [{name: "Fendley, P. and Sengupta, K. and Sachdev, S."}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "69"}
+  page-range: "075106"
+  doi: "10.1103/PhysRevB.69.075106"
+
+"michailidis2020slow":
+  type: article
+  title: ""
+  author: [{name: "Michailidis, A. A. and Turner, C. J. and Papi, Z. and Abanin, D. A. and Serbyn, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "011055"
+  doi: "10.1103/PhysRevX.10.011055"
+
+"bull2019systematic":
+  type: article
+  title: ""
+  author: [{name: "Bull, K. and Martin, I. and Papi, Z."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "030601"
+  doi: "10.1103/PhysRevLett.123.030601"
+
+"turner2021correspondence":
+  type: article
+  title: ""
+  author: [{name: "Turner, C. J. and Desaules, J. Y. and Bull, K. and Papi, Z."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "11"}
+  page-range: "021021"
+  doi: "10.1103/PhysRevX.11.021021"
+
+"bull2020quantum":
+  type: article
+  title: ""
+  author: [{name: "Bull, K. and Desaules, J. Y. and Papi, Z."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "165139"
+  doi: "10.1103/PhysRevB.101.165139"
+
+"lin2019exact":
+  type: article
+  title: ""
+  author: [{name: "Lin, C. J. and Motrunich, O. I."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "173401"
+  doi: "10.1103/PhysRevLett.122.173401"
+
+"mark2019new":
+  type: article
+  title: ""
+  author: [{name: "Mark, D. K. and Lin, C. J. and Motrunich, O. I."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review B", volume: "101"}
+  page-range: "094308"
+  doi: "10.1103/PhysRevB.101.094308"
+
+"surace2021exactstability":
+  type: article
+  title: ""
+  author: [{name: "Surace, F. M. and Votto, M. and Lazo, E. G. and Silva, A. and Dalmonte, M. and Giudici, G."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  page-range: "104302"
+  doi: "10.1103/PhysRevB.103.104302"
+
+"karle2021arealaw":
+  type: article
+  title: ""
+  author: [{name: "Karle, V. and Serbyn, M. and Michailidis, A. A."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "060602"
+  doi: "10.1103/PhysRevLett.127.060602"
+
+"shiraishi2019connection":
+  type: article
+  title: ""
+  author: [{name: "Shiraishi, N."}]
+  date: 2019
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2019"}
+  page-range: "083103"
+  doi: "10.1088/1742-5468/ab342e"
+
+"lin2020quantum":
+  type: article
+  title: ""
+  author: [{name: "Lin, C. J. and Calvera, V. and Hsieh, T. H."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "220304"
+  doi: "10.1103/PhysRevB.101.220304"
+
+"michailidis2020stabilizing":
+  type: article
+  title: ""
+  author: [{name: "Michailidis, A. A. and Turner, C. J. and Papi, Z. and Abanin, D. A. and Serbyn, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "022065"
+  doi: "10.1103/PhysRevResearch.2.022065"
+
+"pizorn2012universality":
+  type: article
+  title: "arXiv:1202.3336"
+  author: [{name: "Pizorn, I."}]
+  date: 2012
+
+"caspers1982some":
+  type: article
+  title: ""
+  author: [{name: "Caspers, W. and Magnus, W."}]
+  date: 1982
+  parent: {type: periodical, title: "Physics Letters A", volume: "88"}
+  serial-number: "103–105"
+
+"caspers1984majumdar":
+  type: article
+  title: ""
+  author: [{name: "Caspers, W. and Emmett, K. and Magnus, W."}]
+  date: 1984
+  parent: {type: periodical, title: "Journal of Physics A: Mathematical and General", volume: "17"}
+  page-range: "2687"
+
+"bibikov2017bethe":
+  type: article
+  title: ""
+  author: [{name: "Bibikov, P."}]
+  date: 2018
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2018"}
+  page-range: "043108"
+
+"ren2018slater":
+  type: article
+  title: ""
+  author: [{name: "Ren, J. H. and Ye, M. Y. and Lin, X. M."}]
+  date: 2018
+  parent: {type: periodical, title: "Chinese Phys. B", volume: "27"}
+  page-range: "073102"
+  doi: "10.1088/1674-1056/27/7/073102"
+
+"ye2018exact":
+  type: article
+  title: ""
+  author: [{name: "Ye, M. Y. and Lin, X. M."}]
+  date: 2018
+  parent: {type: periodical, title: "physica status solidi (b)", volume: "255"}
+  page-range: "1700321"
+  doi: "10.1002/pssb.201700321"
+
+"pai2018localization":
+  type: article
+  title: ""
+  author: [{name: "Pai, S. and Pretko, M. and Nandkishore, R. M."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "9"}
+  page-range: "021003"
+  doi: "10.1103/PhysRevX.9.021003"
+
+"ritort2003glassy":
+  type: article
+  title: ""
+  author: [{name: "Ritort, F. and Sollich, P."}]
+  date: 2003
+  parent: {type: periodical, title: "Advances in Physics", volume: "52"}
+  serial-number: "219–342"
+  doi: "10.1080/0001873031000093582"
+
+"bergholtz2005half":
+  type: article
+  title: ""
+  author: [{name: "Bergholtz, E. J. and Karlhede, A."}]
+  date: 2005
+  parent: {type: periodical, title: "Physical Review Letters", volume: "94"}
+  page-range: "026802"
+
+"bergholtz2006one":
+  type: article
+  title: ""
+  author: [{name: "Bergholtz, E. J. and Karlhede, A."}]
+  date: 2006
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2006"}
+  serial-number: "L04001"
+  doi: "10.1088/1742-5468/2006/04/L04001"
+
+"olmos2010thermalization":
+  type: article
+  title: ""
+  author: [{name: "Olmos, B. and Müller, M. and Lesanovsky, I."}]
+  date: 2010
+  parent: {type: periodical, title: "New Journal of Physics", volume: "12"}
+  page-range: "013024"
+  doi: "10.1088/1367-2630/12/1/013024"
+
+"sikora2011extended":
+  type: article
+  title: ""
+  author: [{name: "Sikora, O. and Shannon, N. and Pollmann, F. and Penc, K. and Fulde, P."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "84"}
+  page-range: "115129"
+  doi: "10.1103/PhysRevB.84.115129"
+
+"nakamura2012exactly":
+  type: article
+  title: ""
+  author: [{name: "Nakamura, M. and Wang, Z. Y. and Bergholtz, E. J."}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review Letters", volume: "109"}
+  page-range: "016401"
+  doi: "10.1103/PhysRevLett.109.016401"
+
+"gopalakrishnan2018facilitated":
+  type: article
+  title: ""
+  author: [{name: "Gopalakrishnan, S. and Zakirov, B."}]
+  date: 2018
+  parent: {type: periodical, title: "Quantum Science and Technology", volume: "3"}
+  page-range: "044004"
+  doi: "10.1088/2058-9565/aad759"
+
+"lan2018quantum":
+  type: article
+  title: ""
+  author: [{name: "Lan, Z. and van Horssen, M. and Powell, S. and Garrahan, J. P."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "040603"
+  doi: "10.1103/PhysRevLett.121.040603"
+
+"seidel2005incompressible":
+  type: article
+  title: ""
+  author: [{name: "Seidel, A. and Fu, H. and Lee, D. H. and Leinaas, J. M. and Moore, J."}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "95"}
+  page-range: "266405"
+  doi: "10.1103/PhysRevLett.95.266405"
+
+"bergholtz2008quantum":
+  type: article
+  title: ""
+  author: [{name: "Bergholtz, E. J. and Karlhede, A."}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "77"}
+  page-range: "155308"
+  doi: "10.1103/PhysRevB.77.155308"
+
+"lee2015geometric":
+  type: article
+  title: ""
+  author: [{name: "Lee, C. H. and Papi, Z. and Thomale, R."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "5"}
+  page-range: "041003"
+  doi: "10.1103/PhysRevX.5.041003"
+
+"papic2014solvable":
+  type: article
+  title: ""
+  author: [{name: "Papi, Z."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "90"}
+  page-range: "075304"
+  doi: "10.1103/PhysRevB.90.075304"
+
+"rezayi1994":
+  type: article
+  title: ""
+  author: [{name: "Rezayi, E. H. and Haldane, F. D. M."}]
+  date: 1994
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "50"}
+  serial-number: "17199–17207"
+  doi: "10.1103/PhysRevB.50.17199"
+
+"van2018bloch":
+  type: article
+  title: ""
+  author: [{name: "van Nieuwenburg, E. and Baum, Y. and Refael, G."}]
+  date: 2019
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "116"}
+  serial-number: "9269–9274"
+  doi: "10.1073/pnas.1819316116"
+
+"schulz2019stark":
+  type: article
+  title: ""
+  author: [{name: "Schulz, M. and Hooley, C. A. and Moessner, R. and Pollmann, F."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "040606"
+  doi: "10.1103/PhysRevLett.122.040606"
+
+"taylor2019experimental":
+  type: article
+  title: ""
+  author: [{name: "Taylor, S. R. and Schulz, M. and Pollmann, F. and Moessner, R."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "054206"
+  doi: "10.1103/PhysRevB.102.054206"
+
+"guardado2020subdiffusion":
+  type: article
+  title: ""
+  author: [{name: "Guardado-Sanchez, E. and Morningstar, A. and Spar, B. M. and Brown, P. T. and Huse, D. A. and Bakr, W. S."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "011042"
+  doi: "10.1103/PhysRevX.10.011042"
+
+"scherg2020observing":
+  type: article
+  title: ""
+  author: [{name: "Scherg, S. and Kohlert, T. and Sala, P. and Pollmann, F. and Hebbe Madhusudhana, B. and Bloch, I. and Aidelsburger, M."}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Communications", volume: "12"}
+  page-range: "4490"
+  doi: "10.1038/s41467-021-24726-0"
+
+"kohlert2021experimental":
+  type: article
+  title: "arXiv:2106.15586"
+  author: [{name: "Kohlert, T. and Scherg, S. and Sala, P. and Pollmann, F. and Hebbe Madhusudhana, B. and Bloch, I. and Aidelsburger, M."}]
+  date: 2021
+
+"doggen2021stark":
+  type: article
+  title: ""
+  author: [{name: "Doggen, E. V. H. and Gornyi, I. V. and Polyakov, D. G."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  serial-number: "L100202"
+  doi: "10.1103/PhysRevB.103.L100202"
+
+"lieb1963exact":
+  type: article
+  title: ""
+  author: [{name: "Lieb, E. H. and Liniger, W."}]
+  date: 1963
+  parent: {type: periodical, title: "Physical Review", volume: "130"}
+  serial-number: "1605–1616"
+  doi: "10.1103/PhysRev.130.1605"
+
+"morningstar2020kinetically":
+  type: article
+  title: ""
+  author: [{name: "Morningstar, A. and Khemani, V. and Huse, D. A."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "214205"
+  doi: "10.1103/PhysRevB.101.214205"
+
+"rakovszky2019statistical":
+  type: article
+  title: ""
+  author: [{name: "Rakovszky, T. and Sala, P. and Verresen, R. and Knap, M. and Pollmann, F."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "125126"
+  doi: "10.1103/PhysRevB.101.125126"
+
+"zhang1997tJz":
+  type: article
+  title: ""
+  author: [{name: "Zhang, S. and Karbach, M. and Müller, G. and Stolze, J."}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "55"}
+  serial-number: "6491–6503"
+  doi: "10.1103/PhysRevB.55.6491"
+
+"batista2000tJz":
+  type: article
+  title: ""
+  author: [{name: "Batista, C. D. and Ortiz, G."}]
+  date: 2000
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "85"}
+  serial-number: "4755–4758"
+  doi: "10.1103/PhysRevLett.85.4755"
+
+"bravyi2011SW":
+  type: article
+  title: ""
+  author: [{name: "Bravyi, S. and DiVincenzo, D. P. and Loss, D."}]
+  date: 2011
+  parent: {type: periodical, title: "Annals of Physics", volume: "326"}
+  serial-number: "2793–2826"
+  doi: "https://doi.org/10.1016/j.aop.2011.06.004"
+
+"detomasi2019dynamics":
+  type: article
+  title: ""
+  author: [{name: "De Tomasi, G. and Hetterich, D. and Sala, P. and Pollmann, F."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "100"}
+  page-range: "214313"
+  doi: "10.1103/PhysRevB.100.214313"
+
+"yang2019hilbertspace":
+  type: article
+  title: ""
+  author: [{name: "Yang, Z. C. and Liu, F. and Gorshkov, A. V. and Iadecola, T."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "207602"
+  doi: "10.1103/PhysRevLett.124.207602"
+
+"bastianello2021fragmentation":
+  type: article
+  title: ""
+  author: [{name: "Bastianello, A. and Borla, U. and Moroz, S."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "128"}
+  page-range: "196601"
+  doi: "10.1103/PhysRevLett.128.196601"
+
+"mukherjee2021minimal":
+  type: article
+  title: ""
+  author: [{name: "Mukherjee, B. and Banerjee, D. and Sengupta, K. and Sen, A."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "104"}
+  page-range: "155117"
+  doi: "10.1103/PhysRevB.104.155117"
+
+"mukherjee2021constraint":
+  type: article
+  title: ""
+  author: [{name: "Mukherjee, B. and Cai, Z. and Liu, W. V."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "3"}
+  page-range: "033201"
+  doi: "10.1103/PhysRevResearch.3.033201"
+
+"lee2020frustrationinduced":
+  type: article
+  title: ""
+  author: [{name: "Lee, K. and Pal, A. and Changlani, H. J."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  page-range: "235133"
+  doi: "10.1103/PhysRevB.103.235133"
+
+"hahn2021information":
+  type: article
+  title: ""
+  author: [{name: "Hahn, D. and McClarty, P. A. and Luitz, D. J."}]
+  date: 2021
+  parent: {type: periodical, title: "SciPost Phys.", volume: "11"}
+  page-range: "74"
+  doi: "10.21468/SciPostPhys.11.4.074"
+
+"li2021hilbert":
+  type: article
+  title: ""
+  author: [{name: "Li, W. H. and Deng, X. and Santos, L."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "260601"
+  doi: "10.1103/PhysRevLett.127.260601"
+
+"langlett2021hilbert":
+  type: article
+  title: ""
+  author: [{name: "Langlett, C. M. and Xu, S."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  serial-number: "L220304"
+  doi: "10.1103/PhysRevB.103.L220304"
+
+"richter2021anomalous":
+  type: article
+  title: ""
+  author: [{name: "Richter, J. and Pal, A."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "4"}
+  serial-number: "L012003"
+  doi: "10.1103/PhysRevResearch.4.L012003"
+
+"zadnik2021foldedxxz2":
+  type: article
+  title: ""
+  author: [{name: "Zadnik, L. and Bidzhiev, K. and Fagotti, M."}]
+  date: 2021
+  parent: {type: periodical, title: "SciPost Phys.", volume: "10"}
+  page-range: "99"
+  doi: "10.21468/SciPostPhys.10.5.099"
+
+"pozsgay2021integrable":
+  type: article
+  title: ""
+  author: [{name: "Pozsgay, B. and Gombor, T. and Hutsalyuk, A. and Jiang, Y. and Pristyák, L. and Vernier, E."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "104"}
+  page-range: "044106"
+  doi: "10.1103/PhysRevE.104.044106"
+
+"bidzhiev2021macroscopic":
+  type: article
+  title: ""
+  author: [{name: "Bidzhiev, K. and Fagotti, M. and Zadnik, L."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "128"}
+  page-range: "130603"
+  doi: "10.1103/PhysRevLett.128.130603"
+
+"readsaleur2007":
+  type: article
+  title: ""
+  author: [{name: "Read, N. and Saleur, H."}]
+  date: 2007
+  parent: {type: periodical, title: "Nuclear Physics B", volume: "777"}
+  serial-number: "263 – 315"
+  doi: "https://doi.org/10.1016/j.nuclphysb.2007.03.007"
+
+"khudorozhkov2021hilbert":
+  type: article
+  title: "arXiv:2107.09690"
+  author: [{name: "Khudorozhkov, A. and Tiwari, A. and Chamon, C. and Neupert, T."}]
+  date: 2021
+
+"detomasi2020entanglement":
+  type: article
+  title: ""
+  author: [{name: "De Tomasi, G. and Khaymovich, I. M."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "200602"
+  doi: "10.1103/PhysRevLett.124.200602"
+
+"desaules2021proposal":
+  type: article
+  title: ""
+  author: [{name: "Desaules, J. Y. and Hudomal, A. and Turner, C. J. and Papi, Z."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "210601"
+  doi: "10.1103/PhysRevLett.126.210601"
+
+"feng2021hilbert":
+  type: article
+  title: ""
+  author: [{name: "Feng, X. and Skinner, B."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "4"}
+  page-range: "013053"
+  doi: "10.1103/PhysRevResearch.4.013053"
+
+"chen2018localize":
+  type: article
+  title: ""
+  author: [{name: "Chen, C. and Burnell, F. and Chandran, A."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "085701"
+  doi: "10.1103/PhysRevLett.121.085701"
+
+"mondragonshem2020fate":
+  type: article
+  title: ""
+  author: [{name: "Mondragon-Shem, I. and Vavilov, M. G. and Martin, I."}]
+  date: 2021
+  parent: {type: periodical, title: "PRX Quantum", volume: "2"}
+  serial-number: "030349 arXiv"
+  doi: "10.1103/PRXQuantum.2.030349"
+
+"fendley2012parafermionic":
+  type: article
+  title: ""
+  author: [{name: "Fendley, P."}]
+  date: 2012
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2012"}
+  serial-number: "P11020"
+  doi: "10.1088/1742-5468/2012/11/p11020"
+
+"fendley2016strong":
+  type: article
+  title: ""
+  author: [{name: "Fendley, P."}]
+  date: 2016
+  parent: {type: periodical, title: "Journal of Physics A: Mathematical and Theoretical", volume: "49"}
+  serial-number: "30LT01"
+  doi: "10.1088/1751-8113/49/30/30lt01"
+
+"alicea2016topological":
+  type: article
+  title: ""
+  author: [{name: "Alicea, J. and Fendley, P."}]
+  date: 2016
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "7"}
+  serial-number: "119–139"
+  doi: "10.1146/annurev-conmatphys-031115-011336"
+
+"feldmeier2021emergent":
+  type: article
+  title: ""
+  author: [{name: "Feldmeier, J. and Pollmann, F. and Knap, M."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  page-range: "094303"
+  doi: "10.1103/PhysRevB.103.094303"
+
+"buca2021local":
+  type: article
+  title: ""
+  author: [{name: "Bua, B."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "128"}
+  page-range: "100601"
+  doi: "10.1103/PhysRevLett.128.100601"
+
+"mazurbound1969":
+  type: article
+  title: ""
+  author: [{name: "Mazur, P."}]
+  date: 1969
+  parent: {type: periodical, title: "Physica", volume: "43"}
+  serial-number: "533 – 545"
+  doi: "https://doi.org/10.1016/0031-8914(69)90185-2"
+
+"suzukiequality1971":
+  type: article
+  title: ""
+  author: [{name: "Suzuki, M."}]
+  date: 1971
+  parent: {type: periodical, title: "Physica", volume: "51"}
+  serial-number: "277 – 291"
+  doi: "https://doi.org/10.1016/0031-8914(71)90226-6"
+
+"dhar2020revisiting":
+  type: article
+  title: ""
+  author: [{name: "Dhar, A. and Kundu, A. and Saito, K."}]
+  date: 2021
+  parent: {type: periodical, title: "Chaos, Solitons & Fractals", volume: "144"}
+  page-range: "110618"
+  doi: "https://doi.org/10.1016/j.chaos.2020.110618"
+
+"feldmeier2020anomalous":
+  type: article
+  title: ""
+  author: [{name: "Feldmeier, J. and Sala, P. and De Tomasi, G. and Pollmann, F. and Knap, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "245303"
+  doi: "10.1103/PhysRevLett.125.245303"
+
+"iaconis2019anomalous":
+  type: article
+  title: ""
+  author: [{name: "Iaconis, J. and Vijay, S. and Nandkishore, R."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "100"}
+  page-range: "214301"
+  doi: "10.1103/PhysRevB.100.214301"
+
+"iaconis2021multipole":
+  type: article
+  title: ""
+  author: [{name: "Iaconis, J. and Lucas, A. and Nandkishore, R."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "103"}
+  page-range: "022142"
+  doi: "10.1103/PhysRevE.103.022142"
+
+"moudgalya2021spectral":
+  type: article
+  title: ""
+  author: [{name: "Moudgalya, S. and Prem, A. and Huse, D. A. and Chan, A."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "3"}
+  page-range: "023176"
+  doi: "10.1103/PhysRevResearch.3.023176"
+
+"zhang2020subdiffusion":
+  type: article
+  title: ""
+  author: [{name: "Zhang, P."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "033129"
+  doi: "10.1103/PhysRevResearch.2.033129"
+
+"feldmeier2021critically":
+  type: article
+  title: ""
+  author: [{name: "Feldmeier, J. and Knap, M."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "235301"
+  doi: "10.1103/PhysRevLett.127.235301"
+
+"lin2020slow":
+  type: article
+  title: ""
+  author: [{name: "Lin, C. J. and Chandran, A. and Motrunich, O. I."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "033044"
+  doi: "10.1103/PhysRevResearch.2.033044"
+
+"preskill2018quantumcomputing":
+  type: article
+  title: ""
+  author: [{name: "Preskill, J."}]
+  date: 2018
+  parent: {type: periodical, title: "Quantum", volume: "2"}
+  page-range: "79"
+  doi: "10.22331/q-2018-08-06-79"
+
+"surace2021quantum":
+  type: article
+  title: "arXiv:2107.00884"
+  author: [{name: "Surace, F. M. and Dalmonte, M. and Silva, A."}]
+  date: 2021
+
+"yao2021quantum":
+  type: article
+  title: ""
+  author: [{name: "Yao, Z. and Pan, L. and Liu, S. and Zhai, H."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "105"}
+  page-range: "125123"
+  doi: "10.1103/PhysRevB.105.125123"
+
+"mizuta2020exact":
+  type: article
+  title: ""
+  author: [{name: "Mizuta, K. and Takasan, K. and Kawakami, N."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "033284"
+  doi: "10.1103/PhysRevResearch.2.033284"
+
+"sugiura2021manybody":
+  type: article
+  title: ""
+  author: [{name: "Sugiura, S. and Kuwahara, T. and Saito, K."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "3"}
+  serial-number: "L012010"
+  doi: "10.1103/PhysRevResearch.3.L012010"
+
+"iadecola2020nonergodic":
+  type: article
+  title: ""
+  author: [{name: "Iadecola, T. and Vijay, S."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "180302"
+  doi: "10.1103/PhysRevB.102.180302"
+
+"maskara2021discrete":
+  type: article
+  title: ""
+  author: [{name: "Maskara, N. and Michailidis, A. A. and Ho, W. W. and Bluvstein, D. and Choi, S. and Lukin, M. D. and Serbyn, M."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "090602"
+  doi: "10.1103/PhysRevLett.127.090602"
+
+"pai2019dynamical":
+  type: article
+  title: ""
+  author: [{name: "Pai, S. and Pretko, M."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "136401"
+  doi: "10.1103/PhysRevLett.123.136401"
+
+"mukherjee2020collapse":
+  type: article
+  title: ""
+  author: [{name: "Mukherjee, B. and Nandy, S. and Sen, A. and Sen, D. and Sengupta, K."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "245107"
+  doi: "10.1103/PhysRevB.101.245107"
+
+"pizzi2020timecrystal":
+  type: article
+  title: ""
+  author: [{name: "Pizzi, A. and Malz, D. and De Tomasi, G. and Knolle, J. and Nunnenkamp, A."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "214207"
+  doi: "10.1103/PhysRevB.102.214207"
+
+"yarloo2020homogeneous":
+  type: article
+  title: ""
+  author: [{name: "Yarloo, H. and Emami Kopaei, A. and Langari, A."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "224309"
+  doi: "10.1103/PhysRevB.102.224309"
+
+"zhao2020quantum":
+  type: article
+  title: ""
+  author: [{name: "Zhao, H. and Vovrosh, J. and Mintert, F. and Knolle, J."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "160604"
+  doi: "10.1103/PhysRevLett.124.160604"
+
+"haldar2021dynamical":
+  type: article
+  title: ""
+  author: [{name: "Haldar, A. and Sen, D. and Moessner, R. and Das, A."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "11"}
+  page-range: "021008"
+  doi: "10.1103/PhysRevX.11.021008"
+
+"smith2018dynamical":
+  type: article
+  title: ""
+  author: [{name: "Smith, A. and Knolle, J. and Moessner, R. and Kovrizhin, D. L."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "97"}
+  page-range: "245137"
+  doi: "10.1103/PhysRevB.97.245137"
+
+"kim2016localization":
+  type: article
+  title: ""
+  author: [{name: "Kim, I. H. and Haah, J."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "116"}
+  page-range: "027202"
+  doi: "10.1103/PhysRevLett.116.027202"
+
+"nachtergaele2020lowcomplexity":
+  type: article
+  title: ""
+  author: [{name: "Nachtergaele, B. and Warzel, S. and Young, A."}]
+  date: 2020
+  parent: {type: periodical, title: "Journal of Physics A: Mathematical and Theoretical", volume: "54"}
+  serial-number: "01LT01"
+  doi: "10.1088/1751-8121/abca73"
+
+"nachtergaele2021spectral":
+  type: article
+  title: ""
+  author: [{name: "Nachtergaele, B. and Warzel, S. and Young, A."}]
+  date: 2021
+  parent: {type: periodical, title: "Communications in Mathematical Physics", volume: "383"}
+  serial-number: "1093–1149"
+  doi: "10.1007/s00220-021-03997-0"
+
+"warzel2021bulk":
+  type: article
+  title: "arXiv:2108.10794"
+  author: [{name: "Warzel, S. and Young, A."}]
+  date: 2021
+
+"warzel2021spectral":
+  type: article
+  title: ""
+  author: [{name: "Warze1, S. and Young, A."}]
+  date: 2022
+  parent: {type: periodical, title: "Journal of Mathematical Physics", volume: "63"}
+  serial-number: "041901 ."
+  doi: "10.1063/5.0084677"

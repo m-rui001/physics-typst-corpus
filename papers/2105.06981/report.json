@@ -1,0 +1,6 @@
+{
+ "paper": "2105.06981",
+ "tikz": 0,
+ "bib": true,
+ "last_errors": "error: failed to parse BibLaTeX (expected identifier)\n     \u250c\u2500 \\\\?\\E:\\phys\\papers\\2105.06981\\refs.bib:1955:3\n     \u2502\n1955 \u2502    -adsurl = {http://adsabs.harvard.edu/abs/2008MNRAS.384..449F},\n     \u2502    ^\n\n  while calling `bibliography` at \\\\?\\E:\\phys\\papers\\2105.06981\\main.typ:422:1\n    bibliography(\"refs.bib\")\n\n"
+}

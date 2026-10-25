@@ -1,0 +1,1 @@
+A $lr[ a + b ]$ B $[ a + b ]$ C $99.2 \%$ D $98 \%$ E $sum_(j in e)$ F $product_ell$ G $psi^"(†)"$ H $psi^(dagger)$ I $sum_m | ⟨ E_m | Psi_0 ⟩ |^2 | E_m ⟩ ⟨ E_m |$ J $hat(S)^(plus.minus)_(2l,2l+1) -> hat(S)^(minus.plus)$ K $mod$: $⟨ hat(n)_j mod 2 ⟩$ L $e^((-) i pi sum_(l' < l) x)$ M $lambda_"s"$ O $hat(rho)_("DE")$ P ${ | E_m ⟩ }$ Q $\\{ | E_m ⟩ \\}$

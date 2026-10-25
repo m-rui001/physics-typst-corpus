@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US">
+  <info>
+    <title>Elsevier numeric (bbl-matched)</title>
+    <id>http://local/elsevier-num</id>
+    <updated>2024-01-01T00:00:00+00:00</updated>
+  </info>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true" entry-spacing="1" line-spacing="1">
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <names variable="author">
+        <name delimiter=", " delimiter-precedes-last="never"/>
+      </names>
+      <text variable="title" prefix=", "/>
+      <choose>
+        <if variable="container-title">
+          <group>
+            <text variable="container-title" prefix=", "/>
+            <text variable="volume" prefix=" "/>
+            <text variable="issue" prefix=" (" suffix=")"/>
+            <date variable="issued" prefix=" (" suffix=")">
+              <date-part name="year"/>
+            </date>
+            <text variable="page" prefix=" "/>
+            <text value="."/>
+          </group>
+        </if>
+        <else>
+          <text variable="note"/>
+        </else>
+      </choose>
+      <group>
+        <text variable="DOI" prefix=" " suffix="."/>
+      </group>
+      <text variable="URL" prefix="URL " display="block" font-family="monospace"/>
+    </layout>
+  </bibliography>
+</style>

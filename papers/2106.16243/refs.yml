@@ -1,0 +1,1020 @@
+"PhysRev.56.1184":
+  type: article
+  title: "On Transition Probabilities in Double Beta-Disintegration"
+  author: [{name: "Furry, W. H."}]
+  date: 1939
+  parent: {type: periodical, title: "Phys. Rev.", volume: "56"}
+  page-range: "1184-1193"
+  doi: "10.1103/PhysRev.56.1184"
+
+"doi:10.1142-S0218301311020186":
+  type: article
+  title: "NEUTRINO-LESS DOUBLE BETA DECAY AND PARTICLE PHYSICS"
+  author: [{name: "Rodejohann, W."}]
+  date: 2011
+  parent: {type: periodical, title: "Int. J. Mod. Phys.", volume: "E20"}
+  page-range: "1833-1930"
+  doi: "10.1142/S0218301311020186"
+
+"Vergados_2012":
+  type: article
+  title: "Theory of neutrinoless double-beta decay"
+  author: [{name: "J D Vergados and H Ejiri and F Šimkovic"}]
+  date: 2012
+  parent: {type: periodical, title: "Rept. Prog. Phys.", volume: "75"}
+  page-range: "106301"
+  doi: "10.1088/0034-4885/75/10/106301"
+
+"doi:10.1146/annurev-nucl-101918-023407":
+  type: article
+  title: "Neutrinoless Double-Beta Decay: Status and Prospects"
+  author: [{name: "Dolinski, Michelle J. and Poon, Alan W.P. and Rodejohann, Werner"}]
+  date: 2019
+  parent: {type: periodical, title: "Ann. Rev. Nucl. Part. Sci.", volume: "69"}
+  page-range: "219-251"
+  doi: "10.1146/annurev-nucl-101918-023407"
+
+"Majorana:1937":
+  type: article
+  title: "Theory of the symmetry of electrons and positrons"
+  author: [{name: "Majorana, E."}]
+  date: 1937
+  parent: {type: periodical, title: "Nuovo Cimento", volume: "14"}
+  page-range: "171-184"
+  doi: "10.1007/BF02961314"
+
+"PhysRevD.25.2951":
+  type: article
+  title: "Neutrinoless double-β decay in SU(2)×U(1) theories"
+  author: [{name: "Schechter, J. and Valle, J. W. F."}]
+  date: 1982
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "25"}
+  page-range: "2951-2954"
+  doi: "10.1103/PhysRevD.25.2951"
+
+"Fukugita:1986hr":
+  type: article
+  title: "Baryogenesis Without Grand Unification"
+  author: [{name: "Fukugita, M. and Yanagida, T."}]
+  date: 1986
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B174"}
+  page-range: "45-47"
+  doi: "10.1016/0370-2693(86)91126-3"
+
+"leptogenesis":
+  type: article
+  title: "LEPTOGENESIS AS THE ORIGIN OF MATTER"
+  author: [{name: "Buchmüller, W. and Peccei, R.D. and Yanagida, T."}]
+  date: 2005
+  parent: {type: periodical, title: "Annual Review of Nuclear and Particle Science", volume: "55"}
+  page-range: "311-355"
+  doi: "10.1146/annurev.nucl.55.090704.151558"
+
+"Biller:2021bqx":
+  type: misc
+  title: "Combined Constraints on Majorana Masses from Neutrinoless Double Beta Decay Experiments"
+  author: [{name: "Biller, Steven D."}]
+  date: 2021
+  serial-number: "arXiv:https://arxiv.org/abs/2103.06036"
+
+"Rubakov_1996":
+  type: article
+  title: "Electroweak baryon number non-conservation in the early Universe and in high-energy collisions"
+  author: [{name: "Valerii A Rubakov and M E Shaposhnikov"}]
+  date: 1996
+  parent: {type: periodical, title: "Physics-Uspekhi", volume: "39"}
+  page-range: "461-502"
+  doi: "10.1070/pu1996v039n05abeh000145"
+
+"PhysRevD.98.055029":
+  type: article
+  title: "Neutrinoless double beta decay and the baryon asymmetry of the Universe"
+  author: [{name: "Deppisch, Frank F. and Graf, Lukas and Harz, Julia and Huang, Wei-Chih"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "98"}
+  page-range: "055029"
+  doi: "10.1103/PhysRevD.98.055029"
+
+"Avignone:2007fu":
+  type: article
+  title: "Double Beta Decay, Majorana Neutrinos, and Neutrino Mass"
+  author: [{name: "Avignone, III, Frank T. and Elliott, Steven R. and Engel, Jonathan"}]
+  date: 2008
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "80"}
+  page-range: "481-516"
+  doi: "10.1103/RevModPhys.80.481"
+
+"PhysRevLett.98.053003":
+  type: article
+  title: "Mass and double-beta-decay Q value of Xe-136"
+  author: [{name: "Redshaw, M. and Wingfield, E. and McDaniel, J. and Myers, E. G."}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "98"}
+  page-range: "053003"
+  doi: "10.1103/PhysRevLett.98.053003"
+
+"McCowan:2010zz":
+  type: article
+  title: "Q value for the double-beta decay of Xe-136"
+  author: [{name: "McCowan, P. M. and Barber, R. C."}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev.", volume: "C82"}
+  page-range: "024603"
+  doi: "10.1103/PhysRevC.82.024603"
+
+"Zyla:2020zbs":
+  type: article
+  title: "Review of Particle Physics"
+  author: [{name: "Zyla, P.A. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "PTEP", volume: "2020"}
+  serial-number: "083C01"
+  doi: "10.1093/ptep/ptaa104"
+
+"PhysRevB.20.3486":
+  type: article
+  title: "Dynamical behavior of free electrons in the recombination process in liquid argon, krypton, and xenon"
+  author: [{name: "Kubota, Shinzou and Hishida, Masahiko and Suzuki, Masayo and Ruan(Gen), Jian-zhi"}]
+  date: 1979
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "20"}
+  page-range: "3486-3496"
+  doi: "10.1103/PhysRevB.20.3486"
+
+"PhysRevB.68.054201":
+  type: article
+  title: "Correlated fluctuations between luminescence and ionization in liquid xenon"
+  author: [{name: "Conti, E. and others"}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "68"}
+  page-range: "054201"
+  doi: "10.1103/PhysRevB.68.054201"
+
+"KamLAND-Zen:2016pfg":
+  type: article
+  title: "Search for Majorana Neutrinos near the Inverted Mass Hierarchy Region with KamLAND-Zen"
+  author: [{name: "Gando, A. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "117"}
+  page-range: "082503"
+  doi: "10.1103/PhysRevLett.117.082503"
+
+"zencollaboration2021nylon":
+  type: misc
+  title: "The nylon balloon for xenon loaded liquid scintillator in KamLAND-Zen 800 neutrinoless double-beta decay search experiment"
+  author: [{name: "Y. Gando and others"}]
+  date: 2021
+  serial-number: "arXiv:https://arxiv.org/abs/2104.10452"
+
+"PhysRevLett.125.252502":
+  type: article
+  title: "Final Results of GERDA on the Search for Neutrinoless Double-β Decay"
+  author: [{name: "Agostini, M. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "252502"
+  doi: "10.1103/PhysRevLett.125.252502"
+
+"PhysRevLett.124.122501":
+  type: article
+  title: "Improved Limit on Neutrinoless Double-Beta Decay in ¹³⁰ Te with CUORE"
+  author: [{name: "Adams, D. Q. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "122501"
+  doi: "10.1103/PhysRevLett.124.122501"
+
+"Kotila:2012zza":
+  type: article
+  title: "Phase space factors for double-e̱ta decay"
+  author: [{name: "Kotila, J. and Iachello, F."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "85"}
+  page-range: "034316"
+  doi: "10.1103/PhysRevC.85.034316"
+
+"Rodriguez2010":
+  type: article
+  title: "Energy density functional study of nuclear matrix elements for neutrinoless e̱tae̱ta decay"
+  author: [{name: "Rodriguez, Tomas R. and Martinez-Pinedo, G."}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "105"}
+  page-range: "252503"
+  doi: "10.1103/PhysRevLett.105.252503"
+
+"Menendez2018":
+  type: article
+  title: "Neutrinoless e̱tae̱ta decay mediated by the exchange of light and heavy neutrinos: The role of nuclear structure correlations"
+  author: [{name: "Menéndez, J."}]
+  date: 2018
+  parent: {type: periodical, title: "J. Phys. G", volume: "45"}
+  page-range: "014003"
+  doi: "10.1088/1361-6471/aa9bd4"
+
+"Simkovic2013":
+  type: article
+  title: "0νe̱tae̱ta and 2νe̱tae̱ta nuclear matrix elements, quasiparticle random-phase approximation, and isospin symmetry restoration"
+  author: [{name: "Šimkovic, Fedor and others"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "87"}
+  page-range: "045501"
+  doi: "10.1103/PhysRevC.87.045501"
+
+"Mustonen2013":
+  type: article
+  title: "Large-scale calculations of the double-e̱ta decay of ^76Ge,^130Te,^136Xe, and ^150Nd in the deformed self-consistent Skyrme quasiparticle random-phase approximation"
+  author: [{name: "Mustonen, M. T. and Engel, J."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "87"}
+  page-range: "064302"
+  doi: "10.1103/PhysRevC.87.064302"
+
+"Engel2014":
+  type: article
+  title: "Chiral Two-Body Currents and Neutrinoless Double-Beta Decay in the QRPA"
+  author: [{name: "Engel, J. and Simkovic, F. and Vogel, P."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "89"}
+  page-range: "064308"
+  doi: "10.1103/PhysRevC.89.064308"
+
+"Hyvaerinen2015":
+  type: article
+  title: "Nuclear matrix elements for 0νe̱tae̱ta decays with light or heavy Majorana-neutrino exchange"
+  author: [{name: "Hyvärinen, Juhani and Suhonen, Jouni"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "91"}
+  page-range: "024613"
+  doi: "10.1103/PhysRevC.91.024613"
+
+"Barea2015":
+  type: article
+  title: "0νe̱tae̱ta and 2νe̱tae̱ta nuclear matrix elements in the interacting boson model with isospin restoration"
+  author: [{name: "Barea, J. and Kotila, J. and Iachello, F."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "91"}
+  page-range: "034304"
+  doi: "10.1103/PhysRevC.91.034304"
+
+"Vaquero2013":
+  type: article
+  title: "Shape and pairing fluctuations effects on neutrinoless double beta decay nuclear matrix elements"
+  author: [{name: "Vaquero, Nuria López and Rodríguez, Tomás R. and Egido, J. Luis"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "111"}
+  page-range: "142501"
+  doi: "10.1103/PhysRevLett.111.142501"
+
+"Yao2015":
+  type: article
+  title: "Systematic study of nuclear matrix elements in neutrinoless double-e̱ta decay with a beyond-mean-field covariant density functional theory"
+  author: [{name: "Yao, J. M. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "91"}
+  page-range: "024316"
+  doi: "10.1103/PhysRevC.91.024316"
+
+"Caurier2008":
+  type: article
+  title: "The Influence of pairing on the nuclear matrix elements of the neutrinoless beta beta decays"
+  author: [{name: "Caurier, E. and others"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "100"}
+  page-range: "052503"
+  doi: "10.1103/PhysRevLett.100.052503"
+
+"Suhonen2010":
+  type: article
+  title: "Effects of orbital occupancies and spin-orbit partners on 0 nu beta beta-decay rates"
+  author: [{name: "Suhonen, J. and Civitarese, O."}]
+  date: 2010
+  parent: {type: periodical, title: "Nucl. Phys. A", volume: "847"}
+  page-range: "207-232"
+  doi: "10.1016/j.nuclphysa.2010.08.003"
+
+"Horoi2016":
+  type: article
+  title: "Shell model predictions for ^124Sn double-e̱ta decay"
+  author: [{name: "Horoi, Mihai and Neacsu, Andrei"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "93"}
+  page-range: "024308"
+  doi: "10.1103/PhysRevC.93.024308"
+
+"Meroni2013":
+  type: article
+  title: "Multiple CP non-conserving mechanisms of (e̱tae̱ta)_0ν-decay and nuclei with largely different nuclear matrix elements"
+  author: [{name: "Meroni, A. and Petcov, S. T. and Simkovic, F."}]
+  date: 2013
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "025"
+  doi: "10.1007/JHEP02(2013)025"
+
+"Simkovic2018":
+  type: article
+  title: "0νe̱tae̱ta nuclear matrix elements, neutrino potentials and SU(4) symmetry"
+  author: [{name: "Šimkovic, Fedor and Smetana, Adam and Vogel, Petr"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "98"}
+  page-range: "064325"
+  doi: "10.1103/PhysRevC.98.064325"
+
+"Jokiniemi2018":
+  type: article
+  title: "Neutrinoless e̱ta e̱ta nuclear matrix elements using isovector spin-dipole J^π=2^− data"
+  author: [{name: "Jokiniemi, L. and Ejiri, H. and Frekers, D. and Suhonen, J."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "98"}
+  page-range: "024608"
+  doi: "10.1103/PhysRevC.98.024608"
+
+"Fang2018":
+  type: article
+  title: "0νe̱tae̱ta-decay nuclear matrix element for light and heavy neutrino mass mechanisms from deformed quasiparticle random-phase approximation calculations for ^76Ge, ^82Se, ^130Te, ^136Xe , and ^150Nd with isospin restoration"
+  author: [{name: "Fang, Dong-Liang and Faessler, Amand and Simkovic, Fedoř"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "97"}
+  page-range: "045503"
+  doi: "10.1103/PhysRevC.97.045503"
+
+"Deppisch2020":
+  type: article
+  title: "Analysis of light neutrino exchange and short-range mechanisms in 0νe̱tae̱ta decay"
+  author: [{name: "Deppisch, Frank F. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "102"}
+  page-range: "095016"
+  doi: "10.1103/PhysRevD.102.095016"
+
+"Auger_2012":
+  type: article
+  title: "The EXO-200 detector, part I: detector design and construction"
+  author: [{name: "M Auger and others"}]
+  date: 2012
+  parent: {type: periodical, title: "JINST", volume: "7"}
+  serial-number: "P05010-P05010"
+  doi: "10.1088/1748-0221/7/05/p05010"
+
+"PhysRevLett.109.032505":
+  type: article
+  title: "Search for Neutrinoless Double-Beta Decay in ¹³⁶Xe with EXO-200"
+  author: [{name: "Auger, M. and others"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "109"}
+  page-range: "032505"
+  doi: "10.1103/PhysRevLett.109.032505"
+
+"PhysRevLett.107.212501":
+  type: article
+  title: "Observation of Two-Neutrino Double-Beta Decay in ¹³⁶Xe with the EXO-200 Detector"
+  author: [{name: "Ackerman, N. and others"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "107"}
+  page-range: "212501"
+  doi: "10.1103/PhysRevLett.107.212501"
+
+"PhysRevC.92.015503":
+  type: article
+  title: "Investigation of radioactivity-induced backgrounds in EXO-200"
+  author: [{name: "Albert, J. B. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "92"}
+  page-range: "015503"
+  doi: "10.1103/PhysRevC.92.015503"
+
+"PhysRevC.89.015502":
+  type: article
+  title: "Improved measurement of the 2νββ half-life of ¹³⁶Xe with the EXO-200 detector"
+  author: [{name: "Albert, J. B. and others"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "89"}
+  page-range: "015502"
+  doi: "10.1103/PhysRevC.89.015502"
+
+"EXO_Nature":
+  type: article
+  title: "Search for Majorana neutrinos with the first two years of EXO-200 data"
+  author: [{name: "Albert, J. B. and others"}]
+  date: 2014
+  parent: {type: periodical, title: "Nature", volume: "510"}
+  page-range: "229-234"
+  doi: "10.1038/nature13432"
+
+"PhysRevLett.120.072701":
+  type: article
+  title: "Search for Neutrinoless Double-Beta Decay with the Upgraded EXO-200 Detector"
+  author: [{name: "Albert, J. B. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "120"}
+  page-range: "072701"
+  doi: "10.1103/PhysRevLett.120.072701"
+
+"PhysRevLett.123.161802":
+  type: article
+  title: "Search for Neutrinoless Double-β Decay with the Complete EXO-200 Dataset"
+  author: [{name: "Anton, G. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "161802"
+  doi: "10.1103/PhysRevLett.123.161802"
+
+"PhysRevC.101.065501":
+  type: article
+  title: "Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment"
+  author: [{name: "Anton, G. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "101"}
+  page-range: "065501"
+  doi: "10.1103/PhysRevC.101.065501"
+
+"PhysRevC.95.025502":
+  type: article
+  title: "Measurement of the drift velocity and transverse diffusion of electrons in liquid xenon with the EXO-200 detector"
+  author: [{name: "Albert, J. B. and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "95"}
+  page-range: "025502"
+  doi: "10.1103/PhysRevC.95.025502"
+
+"nEXOpCDR":
+  type: article
+  title: "nEXO Pre-Conceptual Design Report"
+  author: [{name: "Al Kharusi, S. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "pre-print", volume: ""}
+  doi: ""
+
+"PhysRevC.97.065503":
+  type: article
+  title: "Sensitivity and discovery potential of the proposed nEXO experiment to neutrinoless double-β decay"
+  author: [{name: "Albert, J. B. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "97"}
+  page-range: "065503"
+  doi: "10.1103/PhysRevC.97.065503"
+
+"Li_2019":
+  type: article
+  title: "Simulation of charge readout with segmented tiles in nEXO"
+  author: [{name: "Z. Li and others"}]
+  date: 2019
+  parent: {type: periodical, title: "JINST", volume: "14"}
+  serial-number: "P09020-P09020"
+  doi: "10.1088/1748-0221/14/09/p09020"
+
+"Lv:2019res":
+  type: article
+  title: "Reflectance of Silicon Photomultipliers at Vacuum Ultraviolet Wavelengths"
+  author: [{name: "Lv, P. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "IEEE Trans. Nucl. Sci.", volume: "67"}
+  page-range: "2501-2510"
+  doi: "10.1109/TNS.2020.3035172"
+
+"Cui:2020bwf":
+  type: misc
+  title: "Design and Commissioning of the PandaX-4T Cryogenic Distillation System for Krypton and Radon Removal"
+  author: [{name: "Cui, Xiangyi and others"}]
+  date: 2020
+  serial-number: "arXiv:https://arxiv.org/abs/2012.02436"
+
+"Aprile:2017kop":
+  type: article
+  title: "Online^222 Rn removal by cryogenic distillation in the XENON100 experiment"
+  author: [{name: "Aprile, E. and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "77"}
+  page-range: "358"
+  doi: "10.1140/epjc/s10052-017-4902-x"
+
+"Nakarmi_2020":
+  type: article
+  title: "Reflectivity and PDE of VUV4 Hamamatsu SiPMs in liquid xenon"
+  author: [{name: "P. Nakarmi and others"}]
+  date: 2020
+  parent: {type: periodical, title: "JINST", volume: "15"}
+  serial-number: "P01019-P01019"
+  doi: "10.1088/1748-0221/15/01/p01019"
+
+"Jamil:2018tkx":
+  type: article
+  title: "VUV-sensitive Silicon Photomultipliers for Xenon Scintillation Light Detection in nEXO"
+  author: [{name: "Jamil, A. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "IEEE Trans. Nucl. Sci.", volume: "65"}
+  page-range: "2823-2833"
+  doi: "10.1109/TNS.2018.2875668"
+
+"Wagenpfeil:2021ynz":
+  type: misc
+  title: "Reflectivity of VUV-sensitive Silicon Photomultipliers in Liquid Xenon"
+  author: [{name: "Wagenpfeil, M. and others"}]
+  date: 2021
+  serial-number: "arXiv:https://arxiv.org/abs/2104.07997"
+
+"Albert:2015vma":
+  type: article
+  title: "Measurements of the ion fraction and mobility of α- and e̱ta-decay products in liquid xenon using the EXO-200 detector"
+  author: [{name: "Albert, J. B. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "92"}
+  page-range: "045504"
+  doi: "10.1103/PhysRevC.92.045504"
+
+"Gallina:2019fxt":
+  type: article
+  title: "Characterization of the Hamamatsu VUV4 MPPCs for nEXO"
+  author: [{name: "Gallina, G. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A940"}
+  page-range: "371-379"
+  doi: "10.1016/j.nima.2019.05.096"
+
+"Ostrovskiy:2015oja":
+  type: article
+  title: "Characterization of Silicon Photomultipliers for nEXO"
+  author: [{name: "Ostrovskiy, I. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "IEEE Trans. Nucl. Sci.", volume: "62"}
+  page-range: "1825-1836"
+  doi: "10.1109/TNS.2015.2453932"
+
+"Wagenpfeil:2019qri":
+  type: article
+  title: "Reflectance of VUV-sensitive SiPM surfaces in liquid xenon"
+  author: [{name: "Wagenpfeil, Michael and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A936"}
+  page-range: "577-579"
+  doi: "10.1016/j.nima.2018.09.142"
+
+"stiegler2020event":
+  type: article
+  title: "Event Reconstruction in a Liquid Xenon Time Projection Chamber with an Optically-Open Field Cage"
+  author: [{name: "Stiegler, T. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "1000"}
+  page-range: "165239"
+
+"NJOYA2020163965":
+  type: article
+  title: "Measurements of electron transport in liquid and gas Xenon using a laser-driven photocathode"
+  author: [{name: "O. Njoya and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A972"}
+  page-range: "163965"
+  doi: "https://doi.org/10.1016/j.nima.2020.163965"
+
+"AGOSTINELLI2003250":
+  type: article
+  title: "Geant4—a simulation toolkit"
+  author: [{name: "S. Agostinelli and others"}]
+  date: 2003
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A506"}
+  serial-number: "250 - 303"
+  doi: "https://doi.org/10.1016/S0168-9002(03)01368-8"
+
+"1610988":
+  type: article
+  title: "Geant4 developments and applications"
+  author: [{name: "J. Allison and others"}]
+  date: 2006
+  parent: {type: periodical, title: "IEEE Trans. Nucl. Sci.", volume: "53"}
+  page-range: "270-278"
+  doi: "10.1109/TNS.2006.869826"
+
+"ALLISON2016186":
+  type: article
+  title: "Recent developments in Geant4"
+  author: [{name: "J. Allison and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A835"}
+  serial-number: "186 - 225"
+  doi: "https://doi.org/10.1016/j.nima.2016.06.125"
+
+"HFE-7000":
+  type: article
+  title: "3M HFE-7000"
+
+"nest2.0.1":
+  type: article
+  title: ""
+  author: [{name: "M. Szydagis and others"}]
+  date: 2019
+
+"Seibert2011FastOM":
+  type: article
+  title: "Fast Optical Monte Carlo Simulation With Surface-Based Geometries Using Chroma"
+  author: [{name: "S. Seibert and A. Latorre"}]
+  date: 2011
+
+"chroma":
+  type: article
+  title: "Fast Optical Monte Carlo Simulation With Surface-Based Geometries"
+
+"FUJII2015293":
+  type: article
+  title: "High-accuracy measurement of the emission spectrum of liquid xenon in the vacuum ultraviolet region"
+  author: [{name: "Keiko Fujii and others"}]
+  date: 2015
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A795"}
+  serial-number: "293 - 297"
+  doi: "https://doi.org/10.1016/j.nima.2015.05.065"
+
+"Szydagis:2011tk":
+  type: article
+  title: "NEST: A Comprehensive Model for Scintillation Yield in Liquid Xenon"
+  author: [{name: "Szydagis, M. and others"}]
+  date: 2011
+  parent: {type: periodical, title: "JINST", volume: "6"}
+  serial-number: "P10002"
+  doi: "10.1088/1748-0221/6/10/P10002"
+
+"SOLOVOV2004462":
+  type: article
+  title: "Measurement of the refractive index and attenuation length of liquid xenon for its scintillation light"
+  author: [{name: "V.N Solovov and V Chepel and M.I Lopes and A Hitachi and R Ferreira Marques and A.J.P.L Policarpo"}]
+  date: 2004
+  parent: {type: periodical, title: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment", volume: "516"}
+  page-range: "462-474"
+  doi: "https://doi.org/10.1016/j.nima.2003.08.117"
+
+"Hitachi":
+  type: article
+  title: "New approach to the calculation of the refractive index of liquid and solid xenon"
+  author: [{name: "Hitachi, Akira and others"}]
+  date: 2006
+  parent: {type: periodical, title: "The Journal of chemical physics", volume: "123"}
+  page-range: "234508"
+  doi: "10.1063/1.2136879"
+
+"Aprile:2015uzo":
+  type: article
+  title: "Physics reach of the XENON1T dark matter experiment"
+  author: [{name: "Aprile, E. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "JCAP", volume: "04"}
+  page-range: "027"
+  doi: "10.1088/1475-7516/2016/04/027"
+
+"Mount:2017qzi":
+  type: misc
+  title: "LUX-ZEPLIN (LZ) Technical Design Report"
+  author: [{name: "Mount, B.J. and others"}]
+  date: 2017
+  serial-number: "arXiv:https://arxiv.org/abs/1703.09144"
+
+"Baldini:2004ph":
+  type: article
+  title: "Absorption of scintillation light in a 100 l liquid xenon gamma ray detector and expected detector performance"
+  author: [{name: "Baldini, A. and others"}]
+  date: 2005
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A545"}
+  page-range: "753-764"
+  doi: "10.1016/j.nima.2005.02.029"
+
+"Virdee:1991rv":
+  type: article
+  title: "Observation of the UV scintillation light from high-energy electron showers in liquid xenon"
+  author: [{name: "Virdee, T.S."}]
+  date: 1991
+  parent: {type: proceedings, title: "2nd International Conference on Calorimetry in High-energy Physics"}
+  page-range: "325-330"
+
+"CHEPEL1994500":
+  type: article
+  title: "Purification of liquid xenon and impurity monitoring for a PET detector"
+  author: [{name: "V.Y. Chepel and M.I. Lopes and R. [Ferreira Marques] and A.J.P.L. Policarpo"}]
+  date: 1994
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A349"}
+  serial-number: "500 - 505"
+  doi: "https://doi.org/10.1016/0168-9002(94)91217-3"
+
+"Kravitz:2019zqv":
+  type: article
+  title: "Measurements of Angle-Resolved Reflectivity of PTFE in Liquid Xenon with IBEX"
+  author: [{name: "Kravitz, S. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "80"}
+  page-range: "262"
+  doi: "10.1140/epjc/s10052-020-7800-6"
+
+"Neves:2016tcw":
+  type: article
+  title: "Measurement of the absolute reflectance of polytetrafluoroethylene (PTFE) immersed in liquid xenon"
+  author: [{name: "Neves, F. and others"}]
+  date: 2017
+  parent: {type: periodical, title: "JINST", volume: "12"}
+  serial-number: "P01017"
+  doi: "10.1088/1748-0221/12/01/P01017"
+
+"vuv_mirror":
+  type: article
+  title: "VUV Coatings"
+
+"vuv_mirror2":
+  type: article
+  title: "VUV Coatings"
+
+"freesnell":
+  type: article
+  title: "The FreeSnell Thin-Film Optical Simulator"
+
+"Jewell:2017dzi":
+  type: article
+  title: "Characterization of an Ionization Readout Tile for nEXO"
+  author: [{name: "Jewell, M. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "JINST", volume: "13"}
+  serial-number: "P01006"
+  doi: "10.1088/1748-0221/13/01/P01006"
+
+"doi:10.1063-1.3243762":
+  type: article
+  title: "Optical Constants and Inelastic Electron-Scattering Data for 17 Elemental Metals"
+  author: [{name: "Werner,Wolfgang S. M. and Glantschnig,Kathrin and Ambrosch-Draxl,Claudia"}]
+  date: 2009
+  parent: {type: periodical, title: "Journal of Physical and Chemical Reference Data", volume: "38"}
+  page-range: "1013-1092"
+  doi: "10.1063/1.3243762"
+
+"7780459":
+  type: article
+  title: "Deep Residual Learning for Image Recognition"
+  author: [{name: "K. He and X. Zhang and S. Ren and J. Sun"}]
+  date: 2016
+  parent: {type: proceedings, title: "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", volume: ""}
+  page-range: "770-778"
+  doi: "10.1109/CVPR.2016.90"
+
+"paszke2017automatic":
+  type: article
+  title: "Automatic differentiation in PyTorch"
+  author: [{name: "Paszke, Adam and others"}]
+  date: 2017
+
+"Hoppe:2014nva":
+  type: article
+  title: "Reduction of radioactive backgrounds in electroformed copper for ultra-sensitive radiation detectors"
+  author: [{name: "Hoppe, E. W. and Aalseth, C. E. and Farmer, O. T. and Hossbach, T. W. and Liezers, M. and Miley, H. S. and Overman, N. R. and Reeves, J. H."}]
+  date: 2014
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A764"}
+  page-range: "116-121"
+  doi: "10.1016/j.nima.2014.06.082"
+
+"Abgrall:2016cct":
+  type: article
+  title: "The Majorana Demonstrator radioassay program"
+  author: [{name: "Abgrall, N. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A828"}
+  page-range: "22-36"
+  doi: "10.1016/j.nima.2016.04.070"
+
+"Maneschg:2008":
+  type: article
+  title: "Measurements of extremely low radioactivity levels in stainless steel for GERDA"
+  author: [{name: "Maneschg, W. and Laubenstein, M. and Budjas, D. and Hampel, W. and Heusser, G. and Knöpfle, K.T. and Schwingenheuer, B. and Simgen, H."}]
+  date: 2008
+  parent: {type: periodical, title: "NIM A", volume: "593"}
+  page-range: "448"
+  doi: "10.1007/JHEP09(2020)178"
+
+"RadonLZ":
+  type: article
+  title: "The LUX-ZEPLIN (LZ) radioactivity and cleanliness control programs"
+  author: [{name: "Akerib, D.S. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "80"}
+  page-range: "1044"
+  doi: "10.1140/epjc/s10052-020-8420-x"
+
+"RadonXenon1T":
+  type: misc
+  title: "222Rn emanation measurements for the XENON1T experiment"
+  author: [{name: "Aprile, E. and others"}]
+  date: 2020
+  serial-number: "arXiv:https://arxiv.org/abs/2009.13981"
+
+"PhysRevD.73.053004":
+  type: article
+  title: "Muon-induced background study for underground laboratories"
+  author: [{name: "Mei, D.-M. and Hime, A."}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "73"}
+  page-range: "053004"
+  doi: "10.1103/PhysRevD.73.053004"
+
+"Browne20072173":
+  type: article
+  title: "Nuclear Data Sheets 108, 2173"
+  author: [{name: "E. Browne and J. K. Tuli"}]
+  date: 2007
+
+"diVacri:2020aqc":
+  type: article
+  title: "Direct method for the quantitative analysis of surface contamination on ultra-low background materials from exposure to dust"
+  author: [{name: "di Vacri, M. L. and Arnquist, I. J. and Scorza, S. and Hoppe, E. W. and Hall, Jeter"}]
+  date: 2021
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "994"}
+  page-range: "165051"
+  doi: "10.1016/j.nima.2021.165051"
+
+"NSR2012WA38":
+  type: article
+  title: "The AME2012 atomic mass evaluation (II). Tables, graphs and references"
+  author: [{name: "M. Wang and others"}]
+  date: 2012
+  parent: {type: periodical, title: "Chin.Phys.C", volume: "36"}
+  page-range: "1603"
+
+"CARLSON1969267":
+  type: article
+  title: "Half-lives of some short-lived mass-separated gaseous fission products and their daughters"
+  author: [{name: "G.C. Carlson and W.C. Schick and W.L. Talbert and F.K. Wohn"}]
+  date: 1969
+  parent: {type: periodical, title: "Nuclear Physics A", volume: "125"}
+  page-range: "267-275"
+  doi: "https://doi.org/10.1016/0375-9474(69)91072-0"
+
+"Akerib:2017iwt":
+  type: article
+  title: "Identification of Radiopure Titanium for the LZ Dark Matter Experiment and Future Rare Event Searches"
+  author: [{name: "Akerib, D. S. and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Astropart. Phys.", volume: "96"}
+  page-range: "1-10"
+  doi: "10.1016/j.astropartphys.2017.09.002"
+
+"Feldman:1997qc":
+  type: article
+  title: "A Unified approach to the classical statistical analysis of small signals"
+  author: [{name: "Feldman, Gary J. and Cousins, Robert D."}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D57"}
+  page-range: "3873-3889"
+  doi: "10.1103/PhysRevD.57.3873"
+
+"de_Barros_2011":
+  type: article
+  title: "Solar neutrino–electron scattering as background limitation for double-beta decay"
+  author: [{name: "N F de Barros and K Zuber"}]
+  date: 2011
+  parent: {type: periodical, title: "J. Phys. G: Nucl. Part. Phys.", volume: "38"}
+  page-range: "105201"
+  doi: "10.1088/0954-3899/38/10/105201"
+
+"tsang2018treatment":
+  type: misc
+  title: "Treatment of material radioassay measurements in projecting sensitivity for low-background experiments"
+  author: [{name: "R. H. M. Tsang and others"}]
+  date: 2018
+  serial-number: "arXiv:https://arxiv.org/abs/1808.05307"
+
+"Aharmim:2011yq":
+  type: article
+  title: "Measurement of the ν_e and Total ^8B Solar Neutrino Fluxes with the Sudbury Neutrino Observatory Phase-III Data Set"
+  author: [{name: "Aharmim, B. and others"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "87"}
+  page-range: "015502"
+  doi: "10.1103/PhysRevC.87.015502"
+
+"Dobi:2011zx":
+  type: article
+  title: "Xenon purity analysis for EXO-200 via mass spectrometry"
+  author: [{name: "Dobi, A. and others"}]
+  date: 2012
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "675"}
+  page-range: "40-46"
+  doi: "10.1016/j.nima.2012.01.066"
+
+"PhysRevD.101.062001":
+  type: article
+  title: "Improved measurement of ⁸B solar neutrinos with 1.5 kt·y of Borexino exposure"
+  author: [{name: "Agostini, M. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "101"}
+  page-range: "062001"
+  doi: "10.1103/PhysRevD.101.062001"
+
+"iminuit":
+  type: article
+  title: "scikit-hep/iminuit"
+  author: [{name: "Hans Dembinski and Piti Ongmongkolkul et al."}]
+  date: 2020
+  doi: "10.5281/zenodo.4310361"
+
+"1975CoPhC..10..343J":
+  type: article
+  title: "Minuit -- A System for Function Minimization and Analysis of the Parameter Errors and Correlations"
+  author: [{name: "James, F. and Roos, M."}]
+  date: 1975
+  parent: {type: periodical, title: "Computer Physics Communications", volume: "10"}
+  page-range: "343-367"
+  doi: "10.1016/0010-4655(75)90039-9"
+
+"Wilks1938":
+  type: article
+  title: "The Large-Sample Distribution of the Likelihood Ratio for Testing Composite Hypotheses"
+  author: [{name: "Wilks, S. S."}]
+  date: 1938
+  parent: {type: periodical, title: "Ann. Math. Statist.", volume: "9"}
+  page-range: "60-62"
+  doi: "10.1214/aoms/1177732360"
+
+"Bhattiprolu:2020mwi":
+  type: article
+  title: "Criteria for projected discovery and exclusion sensitivities of counting experiments"
+  author: [{name: "Bhattiprolu, Prudhvi N. and Martin, Stephen P. and Wells, James D."}]
+  date: 2021
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "81"}
+  page-range: "123"
+  doi: "10.1140/epjc/s10052-020-08819-6"
+
+"Cowan:2010js":
+  type: article
+  title: "Asymptotic formulae for likelihood-based tests of new physics"
+  author: [{name: "Cowan, Glen and Cranmer, Kyle and Gross, Eilam and Vitells, Ofer"}]
+  date: 2011
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "71"}
+  page-range: "1554"
+  doi: "10.1140/epjc/s10052-011-1554-0"
+
+"Kumar:2015tna":
+  type: article
+  title: "Vectorlike Leptons at the Large Hadron Collider"
+  author: [{name: "Kumar, Nilanjana and Martin, Stephen P."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "92"}
+  page-range: "115018"
+  doi: "10.1103/PhysRevD.92.115018"
+
+"Forero:2014bxa":
+  type: article
+  title: "Neutrino oscillations refitted"
+  author: [{name: "Forero, D. V. and Tortola, M. and Valle, J. W. F."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "90"}
+  page-range: "093006"
+  doi: "10.1103/PhysRevD.90.093006"
+
+"PhysRevD.103.013004":
+  type: article
+  title: "Neutrino mass ordering in light of recent data"
+  author: [{name: "Kelly, Kevin J. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "013004"
+  doi: "10.1103/PhysRevD.103.013004"
+
+"10.3389/fspas.2018.00036":
+  type: article
+  title: "Neutrino Mass Ordering from Oscillations and Beyond: 2018 Status and Future Prospects"
+  author: [{name: "de Salas, Pablo F. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Frontiers in Astronomy and Space Sciences", volume: "5"}
+  page-range: "36"
+  doi: "10.3389/fspas.2018.00036"
+
+"Esteban:2020cvm":
+  type: article
+  title: "The fate of hints: updated global analysis of three-flavor neutrino oscillations"
+  author: [{name: "Esteban, Ivan and Gonzalez-Garcia, M. C. and Maltoni, Michele and Schwetz, Thomas and Zhou, Albert"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+  page-range: "178"
+  doi: "10.1007/JHEP09(2020)178"
+
+"Doke:1988rq":
+  type: article
+  title: "Fundamental Properties of Liquid Argon, Krypton and Xenon as Radiation Detector Media"
+  author: [{name: "Doke, T."}]
+  date: 1981
+  parent: {type: periodical, title: "Portugal. Phys.", volume: "12"}
+  page-range: "9-48"
+
+"Abe:2016nxk":
+  type: article
+  title: "Solar Neutrino Measurements in Super-Kamiokande-IV"
+  author: [{name: "Abe, K. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "94"}
+  page-range: "052010"
+  doi: "10.1103/PhysRevD.94.052010"
+
+"Wang2012":
+  type: article
+  title: "The Ame2012 atomic mass evaluation"
+  author: [{name: "M. Wang and others"}]
+  date: 2012
+  page-range: "1603-2014"
+  doi: "10.1088/1674-1137/36/12/003"
+
+"SINGH2008517":
+  type: article
+  title: "Nuclear Data Sheets for A = 135"
+  author: [{name: "Balraj Singh and others"}]
+  date: 2008
+  parent: {type: periodical, title: "Nuclear Data Sheets", volume: "109"}
+  page-range: "517-698"
+  doi: "https://doi.org/10.1016/j.nds.2008.02.001"

@@ -1,0 +1,355 @@
+"Gando2016":
+  type: article
+  title: ""
+  author: [{name: "A. Gando and others, (KamLAND-Zen Collaboration)"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "117"}
+  page-range: "082503"
+
+"Harigaya2012":
+  type: article
+  title: ""
+  author: [{name: "K. Harigaya, M. Ibe, and T. T. Yanagida"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "86"}
+  page-range: "013002"
+
+"Asaka2020":
+  type: article
+  title: ""
+  author: [{name: "T. Asaka, Y. Heo, and T. Yoshida"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "811"}
+  page-range: "135956"
+
+"Asai2020":
+  type: article
+  title: ""
+  author: [{name: "K. Asai"}]
+  date: 2020
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "80"}
+  page-range: "76"
+
+"Gando2012a":
+  type: article
+  title: ""
+  author: [{name: "A. Gando and others, (KamLAND-Zen Collaboration)"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "85"}
+  page-range: "045504"
+
+"Gando2012b":
+  type: article
+  title: ""
+  author: [{name: "A. Gando and others, (KamLAND-Zen Collaboration)"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "86"}
+  page-range: "021601"
+
+"Gando2013a":
+  type: article
+  title: ""
+  author: [{name: "A. Gando and others, (KamLAND-Zen Collaboration)"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "110"}
+  page-range: "062502"
+
+"Asakura2016":
+  type: article
+  title: ""
+  author: [{name: "K. Asakura and others, (KamLAND Collaboration)"}]
+  date: 2016
+  parent: {type: periodical, title: "Nucl. Phys. A", volume: "946"}
+  page-range: "171"
+
+"Gando2019":
+  type: article
+  title: ""
+  author: [{name: "A. Gando and others, (KamLAND-Zen Collaboration)"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "192501"
+
+"Gando2021":
+  type: article
+  title: ""
+  author: [{name: "Y. Gando and others, (KamLAND-Zen Collaboration)"}]
+  date: 2021
+  parent: {type: periodical, title: "JINST", volume: "16"}
+  serial-number: "P08023"
+
+"Agostinelli2003":
+  type: article
+  title: ""
+  author: [{name: "S. Agostinelli and others"}]
+  date: 2003
+  parent: {type: periodical, title: "Nucl. Instr. Meth. A", volume: "506"}
+  page-range: "250"
+
+"Allison2006":
+  type: article
+  title: ""
+  author: [{name: "J. Allison and others"}]
+  date: 2006
+  parent: {type: periodical, title: "IEEE Trans. Nucl. Sci.", volume: "53"}
+  page-range: "270"
+
+"Li2023":
+  type: article
+  title: ""
+  author: [{name: "A. Li and others"}]
+  date: 2023
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "107"}
+  page-range: "014323"
+
+"Serenelli2011":
+  type: article
+  title: ""
+  author: [{name: "A. M. Serenelli, W. C. Haxton, and C. Pe na-Garay"}]
+  date: 2011
+  parent: {type: periodical, title: "Astrophys. J.", volume: "743"}
+  page-range: "24"
+
+"Ejiri2014":
+  type: article
+  title: ""
+  author: [{name: "H. Ejiri and S. R. Elliott"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "89"}
+  page-range: "055501"
+
+"Frekers2013":
+  type: article
+  title: ""
+  author: [{name: "D. Frekers, P. Puppe, J. H. Thies, and H. Ejiri"}]
+  date: 2013
+  parent: {type: periodical, title: "Nucl. Phys. A", volume: "916"}
+  page-range: "219"
+
+"Abe2010":
+  type: article
+  title: ""
+  author: [{name: "S. Abe and others, (KamLAND Collaboration)"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "81"}
+  page-range: "025807"
+
+"Li2014":
+  type: article
+  title: ""
+  author: [{name: "S. W. Li and J. F. Beacom"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "89"}
+  page-range: "045801"
+
+"Li2015a":
+  type: article
+  title: ""
+  author: [{name: "S. W. Li and J. F. Beacom"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "91"}
+  page-range: "105005"
+
+"Li2015b":
+  type: article
+  title: ""
+  author: [{name: "S. W. Li and J. F. Beacom"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "92"}
+  page-range: "105033"
+
+"Zhang2016":
+  type: article
+  title: ""
+  author: [{name: "Y. Zhang and others, (Super-Kamiokande Collaboration)"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "93"}
+  page-range: "012004"
+
+"BOHLEN2014211":
+  type: article
+  title: ""
+  author: [{name: "T. Böhlen and others"}]
+  date: 2014
+  parent: {type: periodical, title: "Nuclear Data Sheets", volume: "120"}
+  page-range: "211"
+
+"Ferrari:898301":
+  type: article
+  title: "em FLUKA: A multi-particle transport code (program version 2005) CERN Yellow Reports: Monographs (CERN, Geneva, 2005)"
+  author: [{name: "A. Ferrari and et al."}]
+
+"Giot2013":
+  type: article
+  title: ""
+  author: [{name: "L. Giot and others"}]
+  date: 2013
+  parent: {type: periodical, title: "Nucl. Phys. A", volume: "899"}
+  page-range: "116"
+
+"Napolitani2007":
+  type: article
+  title: ""
+  author: [{name: "P. Napolitani and others"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "76"}
+  page-range: "064609"
+
+"PhysRevD.57.3873_FCmethod":
+  type: article
+  title: ""
+  author: [{name: "G. J. Feldman and R. D. Cousins"}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "57"}
+  page-range: "3873"
+
+"Kotila2012":
+  type: article
+  title: ""
+  author: [{name: "J. Kotila and F. Iachello"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "85"}
+  page-range: "034316"
+
+"Stoica2013":
+  type: article
+  title: "Phys. Rev. C bf 88, 037303 (2013); updated in arXiv:1411.5506v3"
+  author: [{name: "S. Stoica and M. Mirea"}]
+
+"PhysRevLett.111.142501":
+  type: article
+  title: ""
+  author: [{name: "N. L. Vaquero, T. R. Rodríguez, and J. L. Egido"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "111"}
+  page-range: "142501"
+
+"PhysRevC.91.024316":
+  type: article
+  title: ""
+  author: [{name: "J. M. Yao, L. S. Song, K. Hagino, P. Ring, and J. Meng"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "91"}
+  page-range: "024316"
+
+"Rodriguez2010":
+  type: article
+  title: ""
+  author: [{name: "T. R. Rodríguez and G. Martínez-Pinedo"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "105"}
+  page-range: "252503"
+
+"Deppisch2020":
+  type: article
+  title: ""
+  author: [{name: "F. F. Deppisch, L. Graf, F. Iachello, and J. Kotila"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "102"}
+  page-range: "095016"
+
+"PhysRevC.91.034304":
+  type: article
+  title: ""
+  author: [{name: "J. Barea, J. Kotila, and F. Iachello"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "91"}
+  page-range: "034304"
+
+"PhysRevC.101.044315":
+  type: article
+  title: ""
+  author: [{name: "L. Coraggio, A. Gargano, N. Itaco, R. Mancino, and F. Nowacki"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "101"}
+  page-range: "044315"
+
+"Horoi2015":
+  type: article
+  title: ""
+  author: [{name: "A. Neacsu and M. Horoi"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "91"}
+  page-range: "024309"
+
+"Menendez2009":
+  type: article
+  title: ""
+  author: [{name: "J. Menendez, A. Poves, E. Caurier, and F. Nowacki"}]
+  date: 2009
+  parent: {type: periodical, title: "Nucl. Phys. A", volume: "818"}
+  page-range: "139"
+
+"PhysRevC.102.044303":
+  type: article
+  title: ""
+  author: [{name: "J. Terasaki"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "102"}
+  page-range: "044303"
+
+"PhysRevC.91.024613":
+  type: article
+  title: ""
+  author: [{name: "J. Hyvärinen and J. Suhonen"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "91"}
+  page-range: "024613"
+
+"PhysRevC.87.045501":
+  type: article
+  title: ""
+  author: [{name: "F. Šimkovic, V. Rodin, A. Faessler, and P. Vogel"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "87"}
+  page-range: "045501"
+
+"PhysRevC.87.064302":
+  type: article
+  title: ""
+  author: [{name: "M. T. Mustonen and J. Engel"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "87"}
+  page-range: "064302"
+
+"PhysRevC.97.045503":
+  type: article
+  title: ""
+  author: [{name: "D.-L. Fang, A. Faessler, and F. Šimkovic"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "97"}
+  page-range: "045503"
+
+"DellOro2014":
+  type: article
+  title: ""
+  author: [{name: "S. Dell'Oro, S. Marcocci, and F. Vissani"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "90"}
+  page-range: "033005"
+
+"NuFIT2020":
+  type: article
+  title: ""
+  author: [{name: "Nufit 5.0, available at http://www.nu-fit.org (2020)."}]
+
+"Agostini2020":
+  type: article
+  title: ""
+  author: [{name: "M. Agostini and others, (GERDA Collaboration)"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "252502"
+
+"Adams2022":
+  type: article
+  title: ""
+  author: [{name: "D. Q. Adams and others, (CUORE Collaboration)"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature", volume: "604"}
+  page-range: "53"
+
+"SuppMat":
+  type: article
+  title: ""
+  author: [{name: "See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevLett.130.051801 for a table of Δχ² profile as a function of ¹36Xe neutrinoless double-beta decay half-life with the KamLAND-Zen 400 and 800 data."}]

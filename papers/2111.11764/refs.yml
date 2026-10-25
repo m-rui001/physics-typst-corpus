@@ -1,0 +1,3325 @@
+"dmtau":
+  type: article
+  title: "Multi-frequency Scatter Broadening Evolution of Pulsars. I"
+  author: [{name: "Krishnakumar, M. A. and Joshi, Bhal Chandra and Manoharan, P. K."}]
+  date: 2017
+  parent: {type: periodical, title: "apj", volume: "846"}
+  page-range: "104"
+  doi: "10.3847/1538-4357/aa7af2"
+
+"Gaia-CRF2":
+  type: article
+  title: "Gaia Data Release 2. The celestial reference frame (Gaia-CRF2)"
+  author: [{name: "Gaia Collaboration and Mignard, F. and Klioner, S. A. and Lindegren, L. and Hern\\'andez, J. and Bastian, U. and Bombrun, A. and Hobbs, D. and Lammers, U. and Michalik, D. and Ramos-Lerate, M. and Biermann, M. and Fern\\'andez-Hern\\'andez, J. and Geyer, R. and Hilger, T. and Siddiqui, H. I. and Steidelm\\\"uller, H. and Babusiaux, C. and Barache, C. and Lambert, S. and Andrei, A. H. and Bourda, G. and Charlot, P. and Brown, A. G. A. and Vallenari, A. and Prusti, T. and de Bruijne, J. H. J. and Bailer-Jones, C. A. L. and Evans, D. W. and Eyer, L. and Jansen, F. and Jordi, C. and Luri, X. and Panem, C. and Pourbaix, D. and Randich, S. and Sartoretti, P. and Soubiran, C. and van Leeuwen, F. and Walton, N. A. and Arenou, F. and Cropper, M. and Drimmel, R. and Katz, D. and Lattanzi, M. G. and Bakker, J. and Cacciari, C. and Casta\\~neda, J. and Chaoul, L. and Cheek, N. and De Angeli, F. and Fabricius, C. and Guerra, R. and Holl, B. and Masana, E. and Messineo, R. and Mowlavi, N. and Nienartowicz, K. and Panuzzo, P. and Portell, J. and Riello, M. and Seabroke, G. M. and Tanga, P. and Th\\'evenin, F. and Gracia-Abril, G. and Comoretto, G. and Garcia-Reinaldos, M. and Teyssier, D. and Altmann, M. and Andrae, R. and Audard, M. and Bellas-Velidis, I. and Benson, K. and Berthier, J. and Blomme, R. and Burgess, P. and Busso, G. and Carry, B. and Cellino, A. and Clementini, G. and Clotet, M. and Creevey, O. and Davidson, M. and De Ridder, J. and Delchambre, L. and Dell'Oro, A. and Ducourant, C. and Fouesneau, M. and Fr\\'emat, Y. and Galluccio, L. and Garc\\'\\ia-Torres, M. and Gonz\\'alez-N\\'u\\~nez, J. and Gonz\\'alez-Vidal, J. J. and Gosset, E. and Guy, L. P. and Halbwachs, J. -L. and Hambly, N. C. and Harrison, D. L. and Hestroffer, D. and Hodgkin, S. T. and Hutton, A. and Jasniewicz, G. and Jean-Antoine-Piccolo, A. and Jordan, S. and Korn, A. J. and Krone-Martins, A. and Lanzafame, A. C. and Lebzelter, T. and L\\\"offler, W. and Manteiga, M. and Marrese, P. M. and Mart\\'\\in-Fleitas, J. M. and Moitinho, A. and Mora, A. and Muinonen, K. and Osinde, J. and Pancino, E. and Pauwels, T. and Petit, J. -M. and Recio-Blanco, A. and Richards, P. J. and Rimoldini, L. and Robin, A. C. and Sarro, L. M. and Siopis, C. and Smith, M. and Sozzetti, A. and S\\\"uveges, M. and Torra, J. and van Reeven, W. and Abbas, U. and Abreu Aramburu, A. and Accart, S. and Aerts, C. and Altavilla, G. and \\'Alvarez, M. A. and Alvarez, R. and Alves, J. and Anderson, R. I. and Anglada Varela, E. and Antiche, E. and Antoja, T. and Arcay, B. and Astraatmadja, T. L. and Bach, N. and Baker, S. G. and Balaguer-N\\'u\\~nez, L. and Balm, P. and Barata, C. and Barbato, D. and Barblan, F. and Barklem, P. S. and Barrado, D. and Barros, M. and Barstow, M. A. and Bartholom\\'e Mu\\~noz, L. and Bassilana, J. -L. and Becciani, U. and Bellazzini, M. and Berihuete, A. and Bertone, S. and Bianchi, L. and Bienaym\\'e, O. and Blanco-Cuaresma, S. and Boch, T. and Boeche, C. and Borrachero, R. and Bossini, D. and Bouquillon, S. and Bragaglia, A. and Bramante, L. and Breddels, M. A. and Bressan, A. and Brouillet, N. and Br\\\"usemeister, T. and Brugaletta, E. and Bucciarelli, B. and Burlacu, A. and Busonero, D. and Butkevich, A. G. and Buzzi, R. and Caffau, E. and Cancelliere, R. and Cannizzaro, G. and Cantat-Gaudin, T. and Carballo, R. and Carlucci, T. and Carrasco, J. M. and Casamiquela, L. and Castellani, M. and Castro-Ginard, A. and Chemin, L. and Chiavassa, A. and Cocozza, G. and Costigan, G. and Cowell, S. and Crifo, F. and Crosta, M. and Crowley, C. and Cuypers, J. and Dafonte, C. and Damerdji, Y. and Dapergolas, A. and David, P. and David, M. and de Laverny, P. and De Luise, F. and De March, R. and de Souza, R. and de Torres, A. and Debosscher, J. and del Pozo, E. and Delbo, M. and Delgado, A. and Delgado, H. E. and Diakite, S. and Diener, C. and Distefano, E. and Dolding, C. and Drazinos, P. and Dur\\'an, J. and Edvardsson, B. and Enke, H. and Eriksson, K. and Esquej, P. and Eynard Bontemps, G. and Fabre, C. and Fabrizio, M. and Faigler, S. and Falc\\~ao, A. J. and Farr\\“as Casas, M. and Federici, L. and Fedorets, G. and Fernique, P. and Figueras, F. and Filippi, F. and Findeisen, K. and Fonti, A. and Fraile, E. and Fraser, M. and Fr\\'ezouls, B. and Gai, M. and Galleti, S. and Garabato, D. and Garc\\'\\ia-Sedano, F. and Garofalo, A. and Garralda, N. and Gavel, A. and Gavras, P. and Gerssen, J. and Giacobbe, P. and Gilmore, G. and Girona, S. and Giuffrida, G. and Glass, F. and Gomes, M. and Granvik, M. and Gueguen, A. and Guerrier, A. and Guiraud, J. and Guti\\'e, R. and Haigron, R. and Hatzidimitriou, D. and Hauser, M. and Haywood, M. and Heiter, U. and Helmi, A. and Heu, J. and Hofmann, W. and Holland, G. and Huckle, H. E. and Hypki, A. and Icardi, V. and Janßen, K. and Jevardat de Fombelle, G. and Jonker, P. G. and Juh\\'asz, A. L. and Julbe, F. and Karampelas, A. and Kewley, A. and Klar, J. and Kochoska, A. and Kohley, R. and Kolenberg, K. and Kontizas, M. and Kontizas, E. and Koposov, S. E. and Kordopatis, G. and Kostrzewa-Rutkowska, Z. and Koubsky, P. and Lanza, A. F. and Lasne, Y. and Lavigne, J. -B. and Le Fustec, Y. and Le Poncin-Lafitte, C. and Lebreton, Y. and Leccia, S. and Leclerc, N. and Lecoeur-Taibi, I. and Lenhardt, H. and Leroux, F. and Liao, S. and Licata, E. and Lindstrøm, H. E. P. and Lister, T. A. and Livanou, E. and Lobel, A. and L\\'opez, M. and Managau, S. and Mann, R. G. and Mantelet, G. and Marchal, O. and Marchant, J. M. and Marconi, M. and Marinoni, S. and Marschalk\\'o, G. and Marshall, D. J. and Martino, M. and Marton, G. and Mary, N. and Massari, D. and Matijevi\\vc, G. and Mazeh, T. and McMillan, P. J. and Messina, S. and Millar, N. R. and Molina, D. and Molinaro, R. and Moln\\'ar, L. and Montegriffo, P. and Mor, R. and Morbidelli, R. and Morel, T. and Morris, D. and Mulone, A. F. and Muraveva, T. and Musella, I. and Nelemans, G. and Nicastro, L. and Noval, L. and O'Mullane, W. and Ord\\'enovic, C. and Ord\\'o\\~nez-Blanco, D. and Osborne, P. and Pagani, C. and Pagano, I. and Pailler, F. and Palacin, H. and Palaversa, L. and Panahi, A. and Pawlak, M. and Piersimoni, A. M. and Pineau, F. -X. and Plachy, E. and Plum, G. and Poggio, E. and Poujoulet, E. and Pr\\vsa, A. and Pulone, L. and Racero, E. and Ragaini, S. and Rambaux, N. and Regibo, S. and Reyl\\'e, C. and Riclet, F. and Ripepi, V. and Riva, A. and Rivard, A. and Rixon, G. and Roegiers, T. and Roelens, M. and Romero-G\\'omez, M. and Rowell, N. and Royer, F. and Ruiz-Dern, L. and Sadowski, G. and Sagrist\\“a Sell\\”es, T. and Sahlmann, J. and Salgado, J. and Salguero, E. and Sanna, N. and Santana-Ros, T. and Sarasso, M. and Savietto, H. and Schultheis, M. and Sciacca, E. and Segol, M. and Segovia, J. C. and S\\'egransan, D. and Shih, I. -C. and Siltala, L. and Silva, A. F. and Smart, R. L. and Smith, K. W. and Solano, E. and Solitro, F. and Sordo, R. and Soria Nieto, S. and Souchay, J. and Spagna, A. and Spoto, F. and Stampa, U. and Steele, I. A. and Stephenson, C. A. and Stoev, H. and Suess, F. F. and Surdej, J. and Szabados, L. and Szegedi-Elek, E. and Tapiador, D. and Taris, F. and Tauran, G. and Taylor, M. B. and Teixeira, R. and Terrett, D. and Teyssandier, P. and Thuillot, W. and Titarenko, A. and Torra Clotet, F. and Turon, C. and Ulla, A. and Utrilla, E. and Uzzi, S. and Vaillant, M. and Valentini, G. and Valette, V. and van Elteren, A. and Van Hemelryck, E. and van Leeuwen, M. and Vaschetto, M. and Vecchiato, A. and Veljanoski, J. and Viala, Y. and Vicente, D. and Vogt, S. and von Essen, C. and Voss, H. and Votruba, V. and Voutsinas, S. and Walmsley, G. and Weiler, M. and Wertz, O. and Wevers, T. and Wyrzykowski, Ł. and Yoldas, A. and \\vZerjal, M. and Ziaeepour, H. and Zorec, J. and Zschocke, S. and Zucker, S. and Zurbach, C. and Zwitter, T."}]
+  date: 2018
+  parent: {type: periodical, title: "aa", volume: "616"}
+  serial-number: "A14"
+  doi: "10.1051/0004-6361/201832916"
+
+"ATNF":
+  type: article
+  title: "ATNF Pulsar Catalogue"
+
+"Cordes19ARAA":
+  type: article
+  title: "Fast Radio Bursts: An Extragalactic Enigma"
+  author: [{name: "Cordes, James M. and Chatterjee, Shami"}]
+  date: 2019
+  parent: {type: periodical, title: "araa", volume: "57"}
+  page-range: "417-465"
+  doi: "10.1146/annurev-astro-091918-104501"
+
+"Petroff19AAR":
+  type: article
+  title: "Fast radio bursts"
+  author: [{name: "Petroff, E. and Hessels, J. W. T. and Lorimer, D. R."}]
+  date: 2019
+  parent: {type: periodical, title: "Astron. Astrophys. Rev.", volume: "27"}
+  page-range: "4"
+  doi: "10.1007/s00159-019-0116-6"
+
+"Lorimer07Sci":
+  type: article
+  title: "A Bright Millisecond Radio Burst of Extragalactic Origin"
+  author: [{name: "Lorimer, D. R. and Bailes, M. and McLaughlin, M. A. and Narkevic, D. J. and Crawford, F."}]
+  date: 2007
+  parent: {type: periodical, title: "science", volume: "318"}
+  page-range: "777-780"
+  doi: "10.1126/science.1147532"
+
+"Sironi11":
+  type: article
+  title: "Acceleration of Particles at the Termination Shock of a Relativistic Striped Wind"
+  author: [{name: "Sironi, Lorenzo and Spitkovsky, Anatoly"}]
+  date: 2011
+  parent: {type: periodical, title: "apj", volume: "741"}
+  page-range: "39"
+  doi: "10.1088/0004-637X/741/1/39"
+
+"Spitler16Nat":
+  type: article
+  title: "A repeating fast radio burst"
+  author: [{name: "Spitler, L. G. and Scholz, P. and Hessels, J. W. T. and Bogdanov, S. and Brazier, A. and Camilo, F. and Chatterjee, S. and Cordes, J. M. and Crawford, F. and Deneva, J. and Ferdman, R. D. and Freire, P. C. C. and Kaspi, V. M. and Lazarus, P. and Lynch, R. and Madsen, E. C. and McLaughlin, M. A. and Patel, C. and Ransom, S. M. and Seymour, A. and Stairs, I. H. and Stappers, B. W. and van Leeuwen, J. and Zhu, W. W."}]
+  date: 2016
+  parent: {type: periodical, title: "nat", volume: "531"}
+  page-range: "202-205"
+  doi: "10.1038/nature17168"
+
+"CHIME19Nat02":
+  type: article
+  title: "A second source of repeating fast radio bursts"
+  author: [{name: "CHIME/FRB Collaboration and Amiri, M. and Bandura, K. and Bhardwaj, M. and Boubel, P. and Boyce, M. M. and Boyle, P. J and . Brar, C. and Burhanpurkar, M. and Cassanelli, T. and Chawla, P. and Cliche, J. F. and Cubranic, D. and Deng, M. and Denman, N. and Dobbs, M. and Fandino, M. and Fonseca, E. and Gaensler, B. M. and Gilbert, A. J. and Gill, A. and Giri, U. and Good, D. C. and Halpern, M. and Hanna, D. S. and Hill, A. S. and Hinshaw, G. and H\\\"ofer, C. and Josephy, A. and Kaspi, V. M. and Landecker, T. L. and Lang, D. A. and Lin, H. -H. and Masui, K. W. and Mckinven, R. and Mena-Parra, J. and Merryfield, M. and Michilli, D. and Milutinovic, N. and Moatti, C. and Naidu, A. and Newburgh, L. B. and Ng, C. and Patel, C. and Pen, U. and Pinsonneault-Marotte, T. and Pleunis, Z. and Rafiei-Ravandi, M. and Rahman, M. and Ransom, S. M. and Renard, A. and Scholz, P. and Shaw, J. R. and Siegel, S. R. and Smith, K. M. and Stairs, I. H. and Tendulkar, S. P. and Tretyakov, I. and Vanderlinde, K. and Yadav, P."}]
+  date: 2019
+  parent: {type: periodical, title: "nat", volume: "566"}
+  page-range: "235-238"
+  doi: "10.1038/s41586-018-0864-x"
+
+"BD16":
+  type: article
+  title: "A supernova scenario for magnetic fields and rotation measures in galaxies"
+  author: [{name: "Beck, Alexander M. and Dolag, Klaus"}]
+  date: 2016
+  parent: {type: proceedings, title: "From Interstellar Clouds to Star-Forming Galaxies: Universal Processes?", volume: "315"}
+  serial-number: "E6"
+  doi: "10.1017/S1743921316007675"
+
+"CHIME19ApJL":
+  type: article
+  title: "CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources"
+  author: [{name: "CHIME/FRB Collaboration and Andersen, B. C. and Bandura, K. and Bhardwaj, M. and Boubel, P. and Boyce, M. M. and Boyle, P. J. and Brar, C. and Cassanelli, T. and Chawla, P. and Cubranic, D. and Deng, M. and Dobbs, M. and Fandino, M. and Fonseca, E. and Gaensler, B. M. and Gilbert, A. J. and Giri, U. and Good, D. C. and Halpern, M. and Hill, A. S. and Hinshaw, G. and H\\\"ofer, C. and Josephy, A. and Kaspi, V. M. and Kothes, R. and Landecker, T. L. and Lang, D. A. and Li, D. Z. and Lin, H. -H. and Masui, K. W. and Mena-Parra, J. and Merryfield, M. and Mckinven, R. and Michilli, D. and Milutinovic, N. and Naidu, A. and Newburgh, L. B. and Ng, C. and Patel, C. and Pen, U. and Pinsonneault-Marotte, T. and Pleunis, Z. and Rafiei-Ravandi, M. and Rahman, M. and Ransom, S. M. and Renard, A. and Scholz, P. and Siegel, S. R. and Singh, S. and Smith, K. M. and Stairs, I. H. and Tendulkar, S. P. and Tretyakov, I. and Vanderlinde, K. and Yadav, P. and Zwaniga, A. V."}]
+  date: 2019
+  parent: {type: periodical, title: "apjl", volume: "885"}
+  serial-number: "L24"
+  doi: "10.3847/2041-8213/ab4a80"
+
+"Palaniswamy18":
+  type: article
+  title: "Are There Multiple Populations of Fast Radio Bursts?"
+  author: [{name: "Palaniswamy, Divya and Li, Ye and Zhang, Bing"}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J.", volume: "854"}
+  serial-number: "L12"
+  doi: "10.3847/2041-8213/aaaa63"
+
+"Caleb19MN":
+  type: article
+  title: "Are all fast radio bursts repeating sources?"
+  author: [{name: "Caleb, M. and Stappers, B. W. and Rajwade, K. and Flynn, C."}]
+  date: 2019
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "484"}
+  page-range: "5500-5508"
+  doi: "10.1093/mnras/stz386"
+
+"Petroff16PASA":
+  type: article
+  title: "FRBCAT: The Fast Radio Burst Catalogue"
+  author: [{name: "Petroff, E. and Barr, E. D. and Jameson, A. and Keane, E. F. and Bailes, M. and Kramer, M. and Morello, V. and Tabbara, D. and van Straten, W."}]
+  date: 2016
+  parent: {type: periodical, title: "Publ. Astron. Soc. Aust.", volume: "33"}
+  serial-number: "e045"
+  doi: "10.1017/pasa.2016.35"
+
+"Kumar19ApJL":
+  type: article
+  title: "Faint Repetitions from a Bright Fast Radio Burst Source"
+  author: [{name: "Kumar, Pravir and Shannon, R. M. and Osłowski, Stefan and Qiu, Hao and Bhandari, Shivani and Farah, Wael and Flynn, Chris and Kerr, Matthew and Lorimer, D. R. and Macquart, J. -P. and Ng, Cherry and Phillips, C. J. and Price, Danny C. and Spiewak, Ren\\'ee"}]
+  date: 2019
+  parent: {type: periodical, title: "Astro-phys. J.", volume: "887"}
+  serial-number: "L30"
+  doi: "10.3847/2041-8213/ab5b08"
+
+"Petroff15b":
+  type: article
+  title: "A survey of FRB fields: limits on repeatability"
+  author: [{name: "Petroff, E. and Johnston, S. and Keane, E. F. and van Straten, W. and Bailes, M. and Barr, E. D. and Barsdell, B. R. and Burke-Spolaor, S. and Caleb, M. and Champion, D. J. and Flynn, C. and Jameson, A. and Kramer, M. and Ng, C. and Possenti, A. and Stappers, B. W."}]
+  date: 2015
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "454"}
+  page-range: "457-462"
+  doi: "10.1093/mnras/stv1953"
+
+"Hessels19ApJL":
+  type: article
+  title: "FRB 121102 Bursts Show Complex Time-Frequency Structure"
+  author: [{name: "Hessels, J. W. T. and Spitler, L. G. and Seymour, A. D. and Cordes, J. M. and Michilli, D. and Lynch, R. S. and Gourdji, K. and Archibald, A. M. and Bassa, C. G. and Bower, G. C. and Chatterjee, S. and Connor, L. and Crawford, F. and Deneva, J. S. and Gajjar, V. and Kaspi, V. M. and Keimpema, A. and Law, C. J. and Marcote, B. and McLaughlin, M. A. and Paragi, Z. and Petroff, E. and Ransom, S. M. and Scholz, P. and Stappers, B. W. and Tendulkar, S. P."}]
+  date: 2019
+  parent: {type: periodical, title: "apjl", volume: "876"}
+  serial-number: "L23"
+  doi: "10.3847/2041-8213/ab13ae"
+
+"Luo18MN":
+  type: article
+  title: "On the normalized FRB luminosity function"
+  author: [{name: "Luo, R. and Lee, K. and Lorimer, D. R. and Zhang, B."}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "481"}
+  page-range: "2320-2337"
+  doi: "10.1093/mnras/sty2364"
+
+"Luo19MN":
+  type: article
+  title: "On the FRB luminosity function"
+  author: [{name: "Luo, R. and Men, Y.-P. and Lee, K.-J. and Wang W.-Y. and Lorimer, D. R. and Zhang, B."}]
+  date: 2019
+  parent: {type: periodical, title: "mnras"}
+
+"Price19MN":
+  type: article
+  title: "A fast radio burst with frequency-dependent polarization detected during Breakthrough Listen observations"
+  author: [{name: "Price, D. C. and Foster, G. and Geyer, M. and van Straten, W. and Gajjar, V. and Hellbourg, G. and Karastergiou, A. and Keane, E. F. and Siemion, A. P. V. and Arcavi, I. and Bhat, R. and Caleb, M. and Chang, S. -W. and Croft, S. and DeBoer, D. and de Pater, I. and Drew, J. and Enriquez, J. E. and Farah, W. and Gizani, N. and Green, J. A. and Isaacson, H. and Hickish, J. and Jameson, A. and Lebofsky, M. and MacMahon, D. H. E. and M\\\"oller, A. and Onken, C. A. and Petroff, E. and Werthimer, D. and Wolf, C. and Worden, S. P. and Zhang, Y. G."}]
+  date: 2019
+  parent: {type: periodical, title: "mnras", volume: "486"}
+  page-range: "3636-3646"
+  doi: "10.1093/mnras/stz958"
+
+"Michilli18Nat":
+  type: article
+  title: "An extreme magneto-ionic environment associated with the fast radio burst source FRB 121102"
+  author: [{name: "Michilli, D. and Seymour, A. and Hessels, J. W. T. and Spitler, L. G. and Gajjar, V. and Archibald, A. M. and Bower, G. C. and Chatterjee, S. and Cordes, J. M. and Gourdji, K. and Heald, G. H. and Kaspi, V. M. and Law, C. J. and Sobey, C. and Adams, E. A. K. and Bassa, C. G. and Bogdanov, S. and Brinkman, C. and Demorest, P. and Fernand ez, F. and Hellbourg, G. and Lazio, T. J. W. and Lynch, R. S. and Maddox, N. and Marcote, B. and McLaughlin, M. A. and Paragi, Z. and Ransom, S. M. and Scholz, P. and Siemion, A. P. V. and Tendulkar, S. P. and van Rooy, P. and Wharton, R. S. and Whitlow, D."}]
+  date: 2018
+  parent: {type: periodical, title: "nature", volume: "553"}
+  page-range: "182-185"
+  doi: "10.1038/nature25149"
+
+"Katz14PRD":
+  type: article
+  title: "Coherent emission in fast radio bursts"
+  author: [{name: "Katz, J. I."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "89"}
+  page-range: "103009"
+  doi: "10.1103/PhysRevD.89.103009"
+
+"Kumar17MN":
+  type: article
+  title: "Fast radio burst source properties and curvature radiation model"
+  author: [{name: "Kumar, P. and Lu, W. and Bhattacharya, M."}]
+  date: 2017
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "468"}
+  page-range: "2726-2739"
+  doi: "10.1093/mnras/stx665"
+
+"YangZhang18ApJ":
+  type: article
+  title: "Bunching Coherent Curvature Radiation in Three-dimensional Magnetic Field Geometry: Application to Pulsars and Fast Radio Bursts"
+  author: [{name: "Yang, Yuan-Pei and Zhang, Bing"}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J.", volume: "868"}
+  page-range: "31"
+  doi: "10.3847/1538-4357/aae685"
+
+"Lyubarsky14MN":
+  type: article
+  title: "A model for fast extragalactic radio bursts"
+  author: [{name: "Lyubarsky, Y."}]
+  date: 2014
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "442"}
+  serial-number: "L9-L13"
+  doi: "10.1093/mnrasl/slu046"
+
+"Metzger19MN":
+  type: article
+  title: "Fast radio bursts as synchrotron maser emission from decelerating relativistic blast waves"
+  author: [{name: "Metzger, Brian D. and Margalit, Ben and Sironi, Lorenzo"}]
+  date: 2019
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "485"}
+  page-range: "4091-4106"
+  doi: "10.1093/mnras/stz700"
+
+"Plotnikov19MN":
+  type: article
+  title: "The synchrotron maser emission from relativistic shocks in Fast Radio Bursts: 1D PIC simulations of cold pair plasmas"
+  author: [{name: "Plotnikov, Illya and Sironi, Lorenzo"}]
+  date: 2019
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "485"}
+  page-range: "3816-3833"
+  doi: "10.1093/mnras/stz640"
+
+"Manchester77":
+  type: article
+  title: "Pulsars"
+  author: [{name: "Manchester, Richard N. and Taylor, Joseph H."}]
+  date: 1977
+
+"Levin12MN":
+  type: article
+  title: "Radio emission evolution, polarimetry and multifrequency single pulse analysis of the radio magnetar PSR J1622-4950"
+  author: [{name: "Levin, L. and Bailes, M. and Bates, S. D. and Bhat, N. D. R. and Burgay, M. and Burke-Spolaor, S. and D'Amico, N. and Johnston, S. and Keith, M. J. and Kramer, M. and Milia, S. and Possenti, A. and Stappers, B. and van Straten, W."}]
+  date: 2012
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "422"}
+  page-range: "2489-2500"
+  doi: "10.1111/j.1365-2966.2012.20807.x"
+
+"Eatough13Nat":
+  type: article
+  title: "A strong magnetic field around the supermassive black hole at the centre of the Galaxy"
+  author: [{name: "Eatough, R. P. and Falcke, H. and Karuppusamy, R. and Lee, K. J. and Champion, D. J. and Keane, E. F. and Desvignes, G. and Schnitzeler, D. H. F. M. and Spitler, L. G. and Kramer, M. and Klein, B. and Bassa, C. and Bower, G. C. and Brunthaler, A. and Cognard, I. and Deller, A. T. and Demorest, P. B. and Freire, P. C. C. and Kraus, A. and Lyne, A. G. and Noutsos, A. and Stappers, B. and Wex, N."}]
+  date: 2013
+  parent: {type: periodical, title: "nature", volume: "501"}
+  page-range: "391-394"
+  doi: "10.1038/nature12499"
+
+"Camilo16ApJ":
+  type: article
+  title: "Radio Disappearance of the Magnetar XTE J1810-197 and Continued X-ray Timing"
+  author: [{name: "Camilo, F. and Ransom, S. M. and Halpern, J. P. and Alford, J. A. J. and Cognard, I. and Reynolds, J. E. and Johnston, S. and Sarkissian, J. and van Straten, W."}]
+  date: 2016
+  parent: {type: periodical, title: "apj", volume: "820"}
+  page-range: "110"
+  doi: "10.3847/0004-637X/820/2/110"
+
+"Wang19ApJL":
+  type: article
+  title: "On the Time--Frequency Downward Drifting of Repeating Fast Radio Bursts"
+  author: [{name: "Wang, Weiyang and Zhang, Bing and Chen, Xuelei and Xu, Renxin"}]
+  date: 2019
+  parent: {type: periodical, title: "apj", volume: "876"}
+  serial-number: "L15"
+  doi: "10.3847/2041-8213/ab1aab"
+
+"Murase16MN":
+  type: article
+  title: "A burst in a wind bubble and the impact on baryonic ejecta: high-energy gamma-ray flashes and afterglows from fast radio bursts and pulsar-driven supernova remnants"
+  author: [{name: "Murase, K. and Kashiyama, K. and M\\'esz\\'aros, P."}]
+  date: 2016
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "461"}
+  page-range: "1498-1511"
+  doi: "10.1093/mnras/stw1328"
+
+"Metzger17ApJ":
+  type: article
+  title: "Millisecond Magnetar Birth Connects FRB 121102 to Superluminous Supernovae and Long-duration Gamma-Ray Bursts"
+  author: [{name: "Metzger, B. D. and Berger, E. and Margalit, B."}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J.", volume: "841"}
+  page-range: "14"
+  doi: "10.3847/1538-4357/aa633d"
+
+"Zhang17ApJL":
+  type: article
+  title: "A “Cosmic Comb” Model of Fast Radio Bursts"
+  author: [{name: "Zhang, B."}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J.", volume: "836"}
+  serial-number: "L32"
+  doi: "10.3847/2041-8213/aa5ded"
+
+"Zhang18ApJL":
+  type: article
+  title: "FRB 121102: A Repeatedly Combed Neutron Star by a Nearby Low-luminosity Accreting Supermassive Black Hole"
+  author: [{name: "Zhang, B."}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J.", volume: "854"}
+  serial-number: "L21"
+  doi: "10.3847/2041-8213/aaadba"
+
+"Oppermann18MN":
+  type: article
+  title: "On the non-Poissonian repetition pattern of FRB121102"
+  author: [{name: "Oppermann, Niels and Yu, Hao-Ran and Pen, Ue-Li"}]
+  date: 2018
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "475"}
+  page-range: "5109-5115"
+  doi: "10.1093/mnras/sty004"
+
+"HA16":
+  type: article
+  title: "A Decade of Developing Radio-Astronomy Instrumentation using CASPER Open-Source Technology"
+  author: [{name: "Hickish, Jack and Abdurashidova, Zuhra and Ali, Zaki and Buch, Kaushal D. and Chaudhari, Sandeep C. and Chen, Hong and Dexter, Matthew and Domagalski, Rachel Simone and Ford, John and Foster, Griffin and George, David and Greenberg, Joe and Greenhill, Lincoln and Isaacson, Adam and Jiang, Homin and Jones, Glenn and Kapp, Francois and Kriel, Henno and Lacasse, Rich and Lutomirski, Andrew and MacMahon, David and Manley, Jason and Martens, Andrew and McCullough, Randy and Muley, Mekhala V. and New, Wesley and Parsons, Aaron and Price, Daniel C. and Primiani, Rurik A. and Ray, Jason and Siemion, Andrew and van Tonder, Verees\\'e and Vertatschitsch, Laura and Wagner, Mark and Weintroub, Jonathan and Werthimer, Dan"}]
+  date: 2016
+  parent: {type: periodical, title: "Journal of Astronomical Instrumentation", volume: "5"}
+  page-range: "1641001-12"
+  doi: "10.1142/S2251171716410014"
+
+"Men19MN":
+  type: article
+  title: "Piggyback search for fast radio bursts using Nanshan 26 m and Kunming 40 m radio telescopes - I. Observing and data analysis systems, discovery of a mysterious peryton"
+  author: [{name: "Men, Y. P. and Luo, R. and Chen, M. Z. and Hao, L. F. and Lee, K. J. and Li, J. and Li, Z. X. and Liu, Z. Y. and Pei, X. and Wen, Z. G. and Wu, J. J. and Xu, Y. H. and Xu, R. X. and Yuan, J. P. and Zhang, C. F."}]
+  date: 2019
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "488"}
+  page-range: "3957-3971"
+  doi: "10.1093/mnras/stz1931"
+
+"CL02arXiv":
+  type: article
+  title: "NE2001.I. A New Model for the Galactic Distribution of Free Electrons and its Fluctuations"
+  author: [{name: "Cordes, J. M. and Lazio, T. J. W."}]
+  date: 2002
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "astro-ph/0207156"
+
+"HvSM04":
+  type: article
+  title: "PSRCHIVE and PSRFITS: An Open Approach to Radio Pulsar Data Storage and Analysis"
+  author: [{name: "Hotan, A. W. and van Straten, W. and Manchester, R. N."}]
+  date: 2004
+  parent: {type: periodical, title: "Publ. Astron. Soc. Aust.", volume: "21"}
+  page-range: "302-309"
+  doi: "10.1071/AS04022"
+
+"Feroz09MN":
+  type: article
+  title: "MULTINEST: an efficient and robust Bayesian inference tool for cosmology and particle physics"
+  author: [{name: "Feroz, F. and Hobson, M. P. and Bridges, M."}]
+  date: 2009
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "398"}
+  page-range: "1601-1614"
+  doi: "10.1111/j.1365-2966.2009.14548.x"
+
+"Keane11MN":
+  type: article
+  title: "Rotating Radio Transients: new discoveries, timing solutions and musings"
+  author: [{name: "Keane, E. F. and Kramer, M. and Lyne, A. G. and Stappers, B. W. and McLaughlin, M. A."}]
+  date: 2011
+  parent: {type: periodical, title: "mnras", volume: "415"}
+  page-range: "3065-3080"
+  doi: "10.1111/j.1365-2966.2011.18917.x"
+
+"Keane12MN":
+  type: article
+  title: "On the origin of a highly dispersed coherent radio burst"
+  author: [{name: "Keane, E. F. and Stappers, B. W. and Kramer, M. and Lyne, A. G."}]
+  date: 2012
+  parent: {type: periodical, title: "mnras", volume: "425"}
+  serial-number: "L71-L75"
+  doi: "10.1111/j.1745-3933.2012.01306.x"
+
+"Thornton13Sci":
+  type: article
+  title: "A Population of Fast Radio Bursts at Cosmological Distances"
+  author: [{name: "Thornton, D. and Stappers, B. and Bailes, M. and Barsdell, B. and Bates, S. and Bhat, N. D. R. and Burgay, M. and Burke-Spolaor, S. and Champion, D. J. and Coster, P. and D'Amico, N. and Jameson, A. and Johnston, S. and Keith, M. and Kramer, M. and Levin, L. and Milia, S. and Ng, C. and Possenti, A. and van Straten, W."}]
+  date: 2013
+  parent: {type: periodical, title: "science", volume: "341"}
+  page-range: "53-56"
+  doi: "10.1126/science.1236789"
+
+"Burke-Spolaor14ApJ":
+  type: article
+  title: "The Galactic Position Dependence of Fast Radio Bursts and the Discovery of FRB011025"
+  author: [{name: "Burke-Spolaor, S. and Bannister, K. W."}]
+  date: 2014
+  parent: {type: periodical, title: "apj", volume: "792"}
+  page-range: "19"
+  doi: "10.1088/0004-637X/792/1/19"
+
+"Spitler14ApJ":
+  type: article
+  title: "Fast Radio Burst Discovered in the Arecibo Pulsar ALFA Survey"
+  author: [{name: "Spitler, L. G. and Cordes, J. M. and Hessels, J. W. T. and Lorimer, D. R. and McLaughlin, M. A. and Chatterjee, S. and Crawford, F. and Deneva, J. S. and Kaspi, V. M. and Wharton, R. S. and Allen, B. and Bogdanov, S. and Brazier, A. and Camilo, F. and Freire, P. C. C. and Jenet, F. A. and Karako-Argaman, C. and Knispel, B. and Lazarus, P. and Lee, K. J. and van Leeuwen, J. and Lynch, R. and Ransom, S. M. and Scholz, P. and Siemens, X. and Stairs, I. H. and Stovall, K. and Swiggum, J. K. and Venkataraman, A. and Zhu, W. W. and Aulbert, C. and Fehrmann, H."}]
+  date: 2014
+  parent: {type: periodical, title: "Astrophys. J.", volume: "790"}
+  page-range: "101"
+  doi: "10.1088/0004-637X/790/2/101"
+
+"Petroff15a":
+  type: article
+  title: "A real-time fast radio burst: polarization detection and multiwavelength follow-up"
+  author: [{name: "Petroff, E. and Bailes, M. and Barr, E. D. and Barsdell, B. R. and Bhat, N. D. R. and Bian, F. and Burke-Spolaor, S. and Caleb, M. and Champion, D. and Chandra, P. and Da Costa, G. and Delvaux, C. and Flynn, C. and Gehrels, N. and Greiner, J. and Jameson, A. and Johnston, S. and Kasliwal, M. M. and Keane, E. F. and Keller, S. and Kocz, J. and Kramer, M. and Leloudas, G. and Malesani, D. and Mulchaey, J. S. and Ng, C. and Ofek, E. O. and Perley, D. A. and Possenti, A. and Schmidt, B. P. and Shen, Y. and Stappers, B. and Tisserand, P. and van Straten, W. and Wolf, C."}]
+  date: 2015
+  parent: {type: periodical, title: "mnras", volume: "447"}
+  page-range: "246-255"
+  doi: "10.1093/mnras/stu2419"
+
+"Ravi15ApJ":
+  type: article
+  title: "A Fast Radio Burst in the Direction of the Carina Dwarf Spheroidal Galaxy"
+  author: [{name: "Ravi, V. and Shannon, R. M. and Jameson, A."}]
+  date: 2015
+  parent: {type: periodical, title: "apjl", volume: "799"}
+  serial-number: "L5"
+  doi: "10.1088/2041-8205/799/1/L5"
+
+"Masui15Nat":
+  type: article
+  title: "Dense magnetized plasma associated with a fast radio burst"
+  author: [{name: "Masui, K. and Lin, H.-H. and Sievers, J. and Anderson, C. J. and Chang, T.-C. and Chen, X. and Ganguly, A. and Jarvis, M. and Kuo, C.-Y. and Li, Y.-C. and Liao, Y.-W. and McLaughlin, M. and Pen, U.-L. and Peterson, J. B. and Roman, A. and Timbie, P. T. and Voytek, T. and Yadav, J. K."}]
+  date: 2015
+  parent: {type: periodical, title: "nature", volume: "528"}
+  page-range: "523-525"
+  doi: "10.1038/nature15769"
+
+"Champion16MN":
+  type: article
+  title: "Five new fast radio bursts from the HTRU high-latitude survey at Parkes: first evidence for two-component bursts"
+  author: [{name: "Champion, D. J. and Petroff, E. and Kramer, M. and Keith, M. J. and Bailes, M. and Barr, E. D. and Bates, S. D. and Bhat, N. D. R. and Burgay, M. and Burke-Spolaor, S. and Flynn, C. M. L. and Jameson, A. and Johnston, S. and Ng, C. and Levin, L. and Possenti, A. and Stappers, B. W. and van Straten, W. and Thornton, D. and Tiburzi, C. and Lyne, A. G."}]
+  date: 2016
+  parent: {type: periodical, title: "mnras", volume: "460"}
+  serial-number: "L30-L34"
+  doi: "10.1093/mnrasl/slw069"
+
+"Keane16Nat":
+  type: article
+  title: "The host galaxy of a fast radio burst"
+  author: [{name: "Keane, E. F. and Johnston, S. and Bhandari, S. and Barr, E. and Bhat, N. D. R. and Burgay, M. and Caleb, M. and Flynn, C. and Jameson, A. and Kramer, M. and Petroff, E. and Possenti, A. and van Straten, W. and Bailes, M. and Burke-Spolaor, S. and Eatough, R. P. and Stappers, B. W. and Totani, T. and Honma, M. and Furusawa, H. and Hattori, T. and Morokuma, T. and Niino, Y. and Sugai, H. and Terai, T. and Tominaga, N. and Yamasaki, S. and Yasuda, N. and Allen, R. and Cooke, J. and Jencson, J. and Kasliwal, M. M. and Kaplan, D. L. and Tingay, S. J. and Williams, A. and Wayth, R. and Chandra, P. and Perrodin, D. and Berezina, M. and Mickaliger, M. and Bassa, C."}]
+  date: 2016
+  parent: {type: periodical, title: "nature", volume: "530"}
+  page-range: "453-456"
+  doi: "10.1038/nature17140"
+
+"Ravi16Sci":
+  type: article
+  title: "The magnetic field and turbulence of the cosmic web measured using a brilliant fast radio burst"
+  author: [{name: "Ravi, V. and Shannon, R. M. and Bailes, M. and Bannister, K. and Bhandari, S. and Bhat, N. D. R. and Burke-Spolaor, S. and Caleb, M. and Flynn, C. and Jameson, A. and Johnston, S. and Keane, E. F. and Kerr, M. and Tiburzi, C. and Tuntsov, A. V. and Vedantham, H. K."}]
+  date: 2016
+  parent: {type: periodical, title: "science", volume: "354"}
+  page-range: "1249-1252"
+  doi: "10.1126/science.aaf6807"
+
+"Petroff17MN":
+  type: article
+  title: "A polarized fast radio burst at low Galactic latitude"
+  author: [{name: "Petroff, E. and Burke-Spolaor, S. and Keane, E. F. and McLaughlin, M. A. and Miller, R. and Andreoni, I. and Bailes, M. and Barr, E. D. and Bernard, S. R. and Bhandari, S. and et al."}]
+  date: 2017
+  parent: {type: periodical, title: "mnras", volume: "469"}
+  page-range: "4465-4482"
+  doi: "10.1093/mnras/stx1098"
+
+"Caleb17MN":
+  type: article
+  title: "The first interferometric detections of fast radio bursts"
+  author: [{name: "Caleb, M. and Flynn, C. and Bailes, M. and Barr, E. D. and Bateman, T. and Bhandari, S. and Campbell-Wilson, D. and Farah, W. and Green, A. J. and Hunstead, R. W. and Jameson, A. and Jankowski, F. and Keane, E. F. and Parthasarathy, A. and Ravi, V. and Rosado, P. A. and van Straten, W. and Venkatraman Krishnan, V."}]
+  date: 2017
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "468"}
+  page-range: "3746-3756"
+  doi: "10.1093/mnras/stx638"
+
+"Bannister17ApJ":
+  type: article
+  title: "The Detection of an Extremely Bright Fast Radio Burst in a Phased Array Feed Survey"
+  author: [{name: "Bannister, K. W. and Shannon, R. M. and Macquart, J.-P. and Flynn, C. and Edwards, P. G. and O'Neill, M. and Osłowski, S. and Bailes, M. and Zackay, B. and Clarke, N. and D'Addario, L. R. and Dodson, R. and Hall, P. J. and Jameson, A. and Jones, D. and Navarro, R. and Trinh, J. T. and Allison, J. and Anderson, C. S. and Bell, M. and Chippendale, A. P. and Collier, J. D. and Heald, G. and Heywood, I. and Hotan, A. W. and Lee-Waddell, K. and Madrid, J. P. and Marvil, J. and McConnell, D. and Popping, A. and Voronkov, M. A. and Whiting, M. T. and Allen, G. R. and Bock, D. C.-J. and Brodrick, D. P. and Cooray, F. and DeBoer, D. R. and Diamond, P. J. and Ekers, R. and Gough, R. G. and Hampson, G. A. and Harvey-Smith, L. and Hay, S. G. and Hayman, D. B. and Jackson, C. A. and Johnston, S. and Koribalski, B. S. and McClure-Griffiths, N. M. and Mirtschin, P. and Ng, A. and Norris, R. P. and Pearce, S. E. and Phillips, C. J. and Roxby, D. N. and Troup, E. R. and Westmeier, T."}]
+  date: 2017
+  parent: {type: periodical, title: "apjl", volume: "841"}
+  serial-number: "L12"
+  doi: "10.3847/2041-8213/aa71ff"
+
+"Farah17ATel":
+  type: article
+  title: "Real-time detection of a Fast Radio Burst at the Molonglo Radio Telescope"
+  author: [{name: "Farah, W. and Flynn, C. and Jameson, A. and Bailes, M. and Andreoni, I. and Bateman, T. and Barr, E. D. and Bhandari, S. and Caleb, M. and Campbell-Wilson, D. and Deller, A. and Green, A. J. and Hunstead, R. W. and Jankowski, F. and Keane, E. F. and Krishnan, V. V. and Plant, K. and O'Neill, M. and Oslowski, S. and Parthasarathy, A. and Ravi, V. and Temby, D."}]
+  date: 2017
+  parent: {type: periodical, title: "The Astronomer's Telegram", volume: "10697"}
+
+"Farah18MN":
+  type: article
+  title: "FRB microstructure revealed by the real-time detection of FRB170827"
+  author: [{name: "Farah, W. and Flynn, C. and Bailes, M. and Jameson, A. and Bannister, K. W. and Barr, E. D. and Bateman, T. and Bhandari, S. and Caleb, M. and Campbell-Wilson, D. and Chang, S.-W. and Deller, A. and Green, A. J. and Hunstead, R. and Jankowski, F. and Keane, E. and Macquart, J.-P. and M\\\"oller, A. and Onken, C. A. and Osłowski, S. and Parthasarathy, A. and Plant, K. and Ravi, V. and Shannon, R. M. and Tucker, B. E. and Venkatraman Krishnan, V. and Wolf, C."}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "478"}
+  page-range: "1209-1217"
+  doi: "10.1093/mnras/sty1122"
+
+"Bhandari18MN":
+  type: article
+  title: "The SUrvey for Pulsars and Extragalactic Radio Bursts - II. New FRB discoveries and their follow-up"
+  author: [{name: "Bhandari, S. and Keane, E. F. and Barr, E. D. and Jameson, A. and Petroff, E. and Johnston, S. and Bailes, M. and Bhat, N. D. R. and Burgay, M. and Burke-Spolaor, S. and Caleb, M. and Eatough, R. P. and Flynn, C. and Green, J. A. and Jankowski, F. and Kramer, M. and Krishnan, V. V. and Morello, V. and Possenti, A. and Stappers, B. and Tiburzi, C. and van Straten, W. and Andreoni, I. and Butterley, T. and Chandra, P. and Cooke, J. and Corongiu, A. and Coward, D. M. and Dhillon, V. S. and Dodson, R. and Hardy, L. K. and Howell, E. J. and Jaroenjittichai, P. and Klotz, A. and Littlefair, S. P. and Marsh, T. R. and Mickaliger, M. and Muxlow, T. and Perrodin, D. and Pritchard, T. and Sawangwit, U. and Terai, T. and Tominaga, N. and Torne, P. and Totani, T. and Trois, A. and Turpin, D. and Niino, Y. and Wilson, R. W. and Albert, A. and Andr\\'e, M. and Anghinolfi, M. and Anton, G. and Ardid, M. and Aubert, J.-J. and Avgitas, T. and Baret, B. and Barrios-Mart\\'\\i, J. and Basa, S. and Belhorma, B. and Bertin, V. and Biagi, S. and Bormuth, R. and Bourret, S. and Bouwhuis, M. C. and Br\\^anza\\c s, H. and Bruijn, R. and Brunner, J. and Busto, J. and Capone, A. and Caramete, L. and Carr, J. and Celli, S. and Moursli, R. C. E. and Chiarusi, T. and Circella, M. and Coelho, J. A. B. and Coleiro, A. and Coniglione, R. and Costantini, H. and Coyle, P. and Creusot, A. and D\\'\\iaz, A. F. and Deschamps, A. and De Bonis, G. and Distefano, C. and Palma, I. D. and Domi, A. and Donzaud, C. and Dornic, D. and Drouhin, D. and Eberl, T. and Bojaddaini, I. E. and Khayati, N. E. and Els\\\"asser, D. and Enzenh\\\"ofer, A. and Ettahiri, A. and Fassi, F. and Felis, I. and Fusco, L. A. and Gay, P. and Giordano, V. and Glotin, H. and Gregoire, T. and Gracia-Ruiz, R. and Graf, K. and Hallmann, S. and van Haren, H. and Heijboer, A. J. and Hello, Y. and Hern\\'andez-Rey, J. J. and H\\\"oßl, J. and Hofest\\\"adt, J. and Hugon, C. and Illuminati, G. and James, C. W. and de Jong, M. and Jongen, M. and Kadler, M. and Kalekin, O. and Katz, U. and Kießling, D. and Kouchner, A. and Kreter, M. and Kreykenbohm, I. and Kulikovskiy, V. and Lachaud, C. and Lahmann, R. and Lef\\“evre, D. and Leonora, E. and Loucatos, S. and Marcelin, M. and Margiotta, A. and Marinelli, A. and Mart\\'\\inez-Mora, J. A. and Mele, R. and Melis, K. and Michael, T. and Migliozzi, P. and Moussa, A. and Navas, S. and Nezri, E. and Organokov, M. and P\\v av\\v ala\\c s, G. E. and Pellegrino, C. and Perrina, C. and Piattelli, P. and Popa, V. and Pradier, T. and Quinn, L. and Racca, C. and Riccobene, G. and S\\'anchez-Losa, A. and Salda\\~na, M. and Salvadori, I. and Samtleben, D. F. E. and Sanguineti, M. and Sapienza, P. and Sch\\\"ussler, F. and Sieger, C. and Spurio, M. and Stolarczyk, T. and Taiuti, M. and Tayalati, Y. and Trovato, A. and Turpin, D. and T\\\"onnis, C. and Vallage, B. and Van Elewyck, V. and Versari, F. and Vivolo, D. and Vizzocca, A. and Wilms, J. and Zornoza, J. D. and Z\\'u\\~niga, J."}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "475"}
+  page-range: "1427-1446"
+  doi: "10.1093/mnras/stx3074"
+
+"Shannon17ATel":
+  type: article
+  title: "Real-time detection of a low-latitude Fast Radio Burst during observations of PSR J1545-4550"
+  author: [{name: "Shannon, R. M. and Oslowski, S. and Zhang, S. and Bailes, M. and Bhat, R. N. D. and Coles, W. A. and Dai, S. and Dempsey, J. and Hobbs, G. and Keith, M. J. and Kerr, M. and Jameson, A. and Manchester, R. N. and Lasky, P. D. and Levin, Y. and Parthasarathy, A. and Ravi, V. and Reardon, D. J. and Rosado, P. A. and Russell, C. J. and Sarkissian, J. M. and Spiewak, R. and van Straten, W. and Toomey, L. and Wang, J. B. and Wen, L. and You, X.-P. and Zhang, L. and Zhu, X.-J."}]
+  date: 2017
+  parent: {type: periodical, title: "The Astronomer's Telegram", volume: "11046"}
+
+"Oslowski18ATel1":
+  type: article
+  title: "Real-time detection of an extremely high signal-to-noise ratio fast radio burst during observations of PSR J2124-3358"
+  author: [{name: "Oslowski, S. and Shannon, R. M.~. and Jameson, A. and Sarkissian, J. M.~. and Bailes, M. and Andreoni, I. and Bhat, N. D. R.~. and Coles, W. A. and Dai, S. and Dempsey, J. and Hobbs, G. and Keith, M. J. and Kerr, M. and Manchester, R. N. and Lasky, P. D. and Levin, Y. and Parthasarathy, A. and Ravi, V. and Reardon, D. J. and Rosado, P. A. and Russell, C. J. and Spiewak, R. and Van Straten, W. and Toomey, L. and Wang, J. B. and Wen, L. and You, X.-P. and Zhang, L. and Zhang, S. and Zhu, X.-J."}]
+  date: 2018
+  parent: {type: periodical, title: "The Astronomer's Telegram", volume: "11385"}
+
+"Oslowski18ATel2":
+  type: article
+  title: "A second fast radio burst discovered with Parkes Telescope within 50 hours: FRB180311 in the direction of PSR J2129-5721"
+  author: [{name: "Oslowski, S. and Shannon, R. M. and Jameson, A. and Hobbs, G. and Bailes, M. and Bhat, N. D. R. and Coles, W. A. and Dai, S. and Dempsey, J. and Keith, M. J. and Kerr, M. and Manchester, R. N. and Lasky, D. P. and Levin, Y. and Parthasarathy, A. and Ravi, V. and Reardon, D. J. and Russell, C. J. and Sarkissian, J. M. and Spiewak, R. and Van Straten, W. and Toomey, L. and Wang, J. B. and Wen, L. and You, X.-P. and Zhang, L. and Zhang, S. and Zhu, X.-J."}]
+  date: 2018
+  parent: {type: periodical, title: "The Astronomer's Telegram", volume: "11396"}
+
+"McQuinn14ApJ":
+  type: article
+  title: "Locating the ”Missing” Baryons with Extragalactic Dispersion Measure Estimates"
+  author: [{name: "McQuinn, M."}]
+  date: 2014
+  parent: {type: periodical, title: "ApJL", volume: "780"}
+  serial-number: "L33"
+  doi: "10.1088/2041-8205/780/2/L33"
+
+"Zhou14PRD":
+  type: article
+  title: "Fast radio bursts as a cosmic probe?"
+  author: [{name: "Zhou, B. and Li, X. and Wang, T. and Fan, Y.-Z. and Wei, D.-M."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "89"}
+  page-range: "107303"
+  doi: "10.1103/PhysRevD.89.107303"
+
+"Gao14ApJ":
+  type: article
+  title: "Fast Radio Burst/Gamma-Ray Burst Cosmography"
+  author: [{name: "Gao, H. and Li, Z. and Zhang, B."}]
+  date: 2014
+  parent: {type: periodical, title: "apj", volume: "788"}
+  page-range: "189"
+  doi: "10.1088/0004-637X/788/2/189"
+
+"Masui15PRL":
+  type: article
+  title: "Dispersion Distance and the Matter Distribution of the Universe in Dispersion Space"
+  author: [{name: "Masui, K. W. and Sigurdson, K."}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review Letters", volume: "115"}
+  page-range: "121301"
+  doi: "10.1103/PhysRevLett.115.121301"
+
+"Wei15PRL":
+  type: article
+  title: "Testing Einstein's Equivalence Principle With Fast Radio Bursts"
+  author: [{name: "Wei, J.-J. and Gao, H. and Wu, X.-F. and M\\'esz\\'aros, P."}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review Letters", volume: "115"}
+  page-range: "261101"
+  doi: "10.1103/PhysRevLett.115.261101"
+
+"Tingay16ApJ":
+  type: article
+  title: "Limits on Einstein’s Equivalence Principle from the First Localized Fast Radio Burst FRB 150418"
+  author: [{name: "Tingay, S. J. and Kaplan, D. L."}]
+  date: 2016
+  parent: {type: periodical, title: "ApJL", volume: "820"}
+  serial-number: "L31"
+  doi: "10.3847/2041-8205/820/2/L31"
+
+"Zhang16arXiv":
+  type: article
+  title: "Testing Einstein's Equivalence Principle with Cosmological Fast Radio Bursts behind Clusters of Galaxies"
+  author: [{name: "Zhang, S.-N."}]
+  date: 2016
+  parent: {type: periodical, title: "ArXiv e-prints"}
+
+"Wu16ApJ":
+  type: article
+  title: "Constraints on the Photon Mass with Fast Radio Bursts"
+  author: [{name: "Wu, X.-F. and Zhang, S.-B. and Gao, H. and Wei, J.-J. and Zou, Y.-C. and Lei, W.-H. and Zhang, B. and Dai, Z.-G. and M\\'esz\\'aros, P."}]
+  date: 2016
+  parent: {type: periodical, title: "ApJL", volume: "822"}
+  serial-number: "L15"
+  doi: "10.3847/2041-8205/822/1/L15"
+
+"Bonetti16PLB":
+  type: article
+  title: "Photon mass limits from fast radio bursts"
+  author: [{name: "Bonetti, L. and Ellis, J. and Mavromatos, N. E. and Sakharov, A. S. and Sarkisyan-Grinbaum, E. K. and Spallicci, A. D. A. M."}]
+  date: 2016
+  parent: {type: periodical, title: "Physics Letters B", volume: "757"}
+  page-range: "548-552"
+  doi: "10.1016/j.physletb.2016.04.035"
+
+"Bonetti17PLB":
+  type: article
+  title: "FRB 121102 casts new light on the photon mass"
+  author: [{name: "Bonetti, L. and Ellis, J. and Mavromatos, N. E. and Sakharov, A. S. and Sarkisyan-Grinbaum, E. K. and Spallicci, A. D. A. M."}]
+  date: 2017
+  parent: {type: periodical, title: "Physics Letters B", volume: "768"}
+  page-range: "326-329"
+  doi: "10.1016/j.physletb.2017.03.014"
+
+"Shao17PRD":
+  type: article
+  title: "Bayesian framework to constrain the photon mass with a catalog of fast radio bursts"
+  author: [{name: "Shao, L. and Zhang, B."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "95"}
+  page-range: "123010"
+  doi: "10.1103/PhysRevD.95.123010"
+
+"EP09AL":
+  type: article
+  title: "On the possible observational manifestation of the impact of a supernova shock on the neutron star magnetosphere"
+  author: [{name: "Egorov, A. E. and Postnov, K. A."}]
+  date: 2009
+  parent: {type: periodical, title: "Astronomy Letters", volume: "35"}
+  page-range: "241-246"
+  doi: "10.1134/S1063773709040033"
+
+"FR14AandA":
+  type: article
+  title: "Fast radio bursts: the last sign of supramassive neutron stars"
+  author: [{name: "Falcke, H. and Rezzolla, L."}]
+  date: 2014
+  parent: {type: periodical, title: "aa", volume: "562"}
+  serial-number: "A137"
+  doi: "10.1051/0004-6361/201321996"
+
+"Zhang14ApJ":
+  type: article
+  title: "A Possible Connection between Fast Radio Bursts and Gamma-Ray Bursts"
+  author: [{name: "Zhang, B."}]
+  date: 2014
+  parent: {type: periodical, title: "ApJL", volume: "780"}
+  serial-number: "L21"
+  doi: "10.1088/2041-8205/780/2/L21"
+
+"Yu14JCAP":
+  type: article
+  title: "Implications of fast radio bursts for superconducting cosmic strings"
+  author: [{name: "Yu, Y.-W. and Cheng, K.-S. and Shiu, G. and Tye, H."}]
+  date: 2014
+  parent: {type: periodical, title: "J. Cosmol. Astropart. Phys.", volume: "11"}
+  page-range: "40"
+  doi: "10.1088/1475-7516/2014/11/040"
+
+"Kashiyama13ApJ":
+  type: article
+  title: "Cosmological Fast Radio Bursts from Binary White Dwarf Mergers"
+  author: [{name: "Kashiyama, K. and Ioka, K. and M\\'esz\\'aros, P."}]
+  date: 2013
+  parent: {type: periodical, title: "ApJL", volume: "776"}
+  serial-number: "L39"
+  doi: "10.1088/2041-8205/776/2/L39"
+
+"Pen15ApJ":
+  type: article
+  title: "Local Circumnuclear Magnetar Solution to Extragalactic Fast Radio Bursts"
+  author: [{name: "Pen, U.-L. and Connor, L."}]
+  date: 2015
+  parent: {type: periodical, title: "apj", volume: "807"}
+  page-range: "179"
+  doi: "10.1088/0004-637X/807/2/179"
+
+"Loeb14MN":
+  type: article
+  title: "Fast radio bursts may originate from nearby flaring stars"
+  author: [{name: "Loeb, A. and Shvartzvald, Y. and Maoz, D."}]
+  date: 2014
+  parent: {type: periodical, title: "mnras", volume: "439"}
+  serial-number: "L46-L50"
+  doi: "10.1093/mnrasl/slt177"
+
+"PP10":
+  type: article
+  title: "Hyperflares of SGRs as an engine for millisecond extragalactic radio bursts"
+  author: [{name: "Popov, S. B. and Postnov, K. A."}]
+  date: 2010
+  parent: {type: proceedings, title: "Evolution of Cosmic Objects through their Physical Activity"}
+  page-range: "129-132"
+
+"PP13arXiv":
+  type: article
+  title: "Millisecond extragalactic radio bursts as magnetar flares"
+  author: [{name: "Popov, S. B. and Postnov, K. A."}]
+  date: 2013
+  parent: {type: periodical, title: "ArXiv e-prints"}
+
+"Totani2013PASJ":
+  type: article
+  title: "Cosmological Fast Radio Bursts from Binary Neutron Star Mergers"
+  author: [{name: "Totani, T."}]
+  date: 2013
+  parent: {type: periodical, title: "Publ. Astron. Soc. Japan", volume: "65"}
+  serial-number: "L12"
+  doi: "10.1093/pasj/65.5.L12"
+
+"Waxman17ApJ":
+  type: article
+  title: "On the Origin of Fast Radio Bursts (FRBs)"
+  author: [{name: "Waxman, E."}]
+  date: 2017
+  parent: {type: periodical, title: "apj", volume: "842"}
+  page-range: "34"
+  doi: "10.3847/1538-4357/aa713e"
+
+"Ghisellini2017MN":
+  type: article
+  title: "Synchrotron masers and fast radio bursts"
+  author: [{name: "Ghisellini, G."}]
+  date: 2017
+  parent: {type: periodical, title: "mnras", volume: "465"}
+  serial-number: "L30-L33"
+  doi: "10.1093/mnrasl/slw202"
+
+"Luan2014ApJ":
+  type: article
+  title: "Physical Constraints on Fast Radio Bursts"
+  author: [{name: "Luan, J. and Goldreich, P."}]
+  date: 2014
+  parent: {type: periodical, title: "ApJL", volume: "785"}
+  serial-number: "L26"
+  doi: "10.1088/2041-8205/785/2/L26"
+
+"YMW16":
+  type: article
+  title: "A New Electron-density Model for Estimation of Pulsar and FRB Distances"
+  author: [{name: "Yao, J. M. and Manchester, R. N. and Wang, N."}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J.", volume: "835"}
+  page-range: "29"
+  doi: "10.3847/1538-4357/835/1/29"
+
+"Ioka03ApJ":
+  type: article
+  title: "The Cosmic Dispersion Measure from Gamma-Ray Burst Afterglows: Probing the Reionization History and the Burst Environment"
+  author: [{name: "Ioka, K."}]
+  date: 2003
+  parent: {type: periodical, title: "ApJL", volume: "598"}
+  serial-number: "L79-L82"
+  doi: "10.1086/380598"
+
+"Inoue04MN":
+  type: article
+  title: "Probing the cosmic reionization history and local environment of gamma-ray bursts through radio dispersion"
+  author: [{name: "Inoue, S."}]
+  date: 2004
+  parent: {type: periodical, title: "mnras", volume: "348"}
+  page-range: "999-1008"
+  doi: "10.1111/j.1365-2966.2004.07359.x"
+
+"DZ14ApJ":
+  type: article
+  title: "Cosmological Implications of Fast Radio Burst/Gamma-Ray Burst Associations"
+  author: [{name: "Deng, W. and Zhang, B."}]
+  date: 2014
+  parent: {type: periodical, title: "ApJL", volume: "783"}
+  serial-number: "L35"
+  doi: "10.1088/2041-8205/783/2/L35"
+
+"LK12HPA":
+  type: article
+  title: "Handbook of Pulsar Astronomy"
+  author: [{name: "Lorimer, D. R. and Kramer, M."}]
+  date: 2012
+  parent: {type: proceedings, title: "Handbook of Pulsar Astronomy, by D. R. Lorimer , M. Kramer, Cambridge, UK: Cambridge University Press, 2012"}
+
+"Planck16AandA":
+  type: article
+  title: "Planck 2015 results. XIII. Cosmological parameters"
+  author: [{name: "Planck Collaboration and Ade, P. A. R. and Aghanim, N. and Arnaud, M. and Ashdown, M. and Aumont, J. and Baccigalupi, C. and Banday, A. J. and Barreiro, R. B. and Bartlett, J. G. and et al."}]
+  date: 2016
+  parent: {type: periodical, title: "aa", volume: "594"}
+  serial-number: "A13"
+  doi: "10.1051/0004-6361/201525830"
+
+"Dolag15MN":
+  type: article
+  title: "Constraints on the distribution and energetics of fast radio bursts using cosmological hydrodynamic simulations"
+  author: [{name: "Dolag, K. and Gaensler, B. M. and Beck, A. M. and Beck, M. C."}]
+  date: 2015
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "451"}
+  page-range: "4277-4289"
+  doi: "10.1093/mnras/stv1190"
+
+"Keith2010MNRAS.409..619K":
+  type: article
+  title: "The High Time Resolution Universe Pulsar Survey - I. System configuration and initial discoveries"
+  author: [{name: "Keith, M. J. and Jameson, A. and van Straten, W. and Bailes, M. and Johnston, S. and Kramer, M. and Possenti, A. and Bates, S. D. and Bhat, N. D. R. and Burgay, M. and Burke-Spolaor, S. and D'Amico, N. and Levin, L. and McMahon, P. L. and Milia, S. and Stappers, B. W."}]
+  date: 2010
+  parent: {type: periodical, title: "mnras", volume: "409"}
+  page-range: "619-627"
+  doi: "10.1111/j.1365-2966.2010.17325.x"
+
+"Carbone2014arXiv1411.7928C":
+  type: article
+  title: "New methods to constrain the radio transient rate: results from a survey of four fields with LOFAR"
+  author: [{name: "Carbone, D. and van der Horst, A. J. and Wijers, R. A. M. J. and Swinbank, J. D. and Rowlinson, A. and Broderick, J. W. and Cendes, Y. N. and Stewart, A. J. and Bell, M. E. and Breton, R. P. and Corbel, S. and Eisl\\\"offel, J. and Fender, R. P. and Grießmeier, J. M. and Hessels, J. W. T. and Jonker, P. G. and Kramer, M. and Law, C. J. and Miller-Jones, J. C. A. and Pietka, M. and Scheers, L. H. A. and Stappers, B. W. and van Leeuwen, J. and Wijnands, R. and Zarka, P."}]
+  date: 2014
+  parent: {type: periodical, title: "ArXiv e-prints"}
+
+"Burke-Spolaor2011MNRAS.416.2465B":
+  type: article
+  title: "The High Time Resolution Universe Pulsar Survey - III. Single-pulse searches and preliminary analysis"
+  author: [{name: "Burke-Spolaor, S. and Bailes, M. and Johnston, S. and Bates, S. D. and Bhat, N. D. R. and Burgay, M. and D'Amico, N. and Jameson, A. and Keith, M. J. and Kramer, M. and Levin, L. and Milia, S. and Possenti, A. and Stappers, B. and van Straten, W."}]
+  date: 2011
+  parent: {type: periodical, title: "mnras", volume: "416"}
+  page-range: "2465-2476"
+  doi: "10.1111/j.1365-2966.2011.18521.x"
+
+"XH15RAA":
+  type: article
+  title: "Extragalactic dispersion measures of fast radio bursts"
+  author: [{name: "Xu, J. and Han, J. L."}]
+  date: 2015
+  parent: {type: periodical, title: "raa", volume: "15"}
+  page-range: "1629"
+  doi: "10.1088/1674-4527/15/10/002"
+
+"Thornton13PhDT":
+  type: article
+  title: "The High Time Resolution Radio Sky"
+  author: [{name: "Thornton, D."}]
+  date: 2013
+
+"Reynolds77ApJ":
+  type: article
+  title: "Pulsar dispersion measures and H-alpha emission measures - Limits on the electron density and filling factor for the ionized interstellar gas"
+  author: [{name: "Reynolds, R. J."}]
+  date: 1977
+  parent: {type: periodical, title: "apj", volume: "216"}
+  page-range: "433-439"
+  doi: "10.1086/155484"
+
+"BS80ApJS":
+  type: article
+  title: "The universe at faint magnitudes. I - Models for the galaxy and the predicted star counts"
+  author: [{name: "Bahcall, J. N. and Soneira, R. M."}]
+  date: 1980
+  parent: {type: periodical, title: "apjsup", volume: "44"}
+  page-range: "73-110"
+  doi: "10.1086/190685"
+
+"BS84ApJS":
+  type: article
+  title: "Comparisons of a standard galaxy model with stellar observations in five fields"
+  author: [{name: "Bahcall, J. N. and Soneira, R. M."}]
+  date: 1984
+  parent: {type: periodical, title: "apjsup", volume: "55"}
+  page-range: "67-99"
+  doi: "10.1086/190948"
+
+"Bahcall86AR":
+  type: article
+  title: "Star counts and galactic structure"
+  author: [{name: "Bahcall, J. N."}]
+  date: 1986
+  parent: {type: periodical, title: "ARA&A", volume: "24"}
+  page-range: "577-611"
+  doi: "10.1146/annurev.aa.24.090186.003045"
+
+"Young76AJ":
+  type: article
+  title: "Tables of functions for a spherical galaxy obeying the 7-1/1 law in projection"
+  author: [{name: "Young, P. J."}]
+  date: 1976
+  parent: {type: periodical, title: "aj", volume: "81"}
+  page-range: "807"
+  doi: "10.1086/111959"
+
+"MB03AR":
+  type: article
+  title: "Hot Gas in and around Elliptical Galaxies"
+  author: [{name: "Mathews, W. G. and Brighenti, F."}]
+  date: 2003
+  parent: {type: periodical, title: "araa", volume: "41"}
+  page-range: "191-239"
+  doi: "10.1146/annurev.astro.41.090401.094542"
+
+"Shen03MN":
+  type: article
+  title: "The size distribution of galaxies in the Sloan Digital Sky Survey"
+  author: [{name: "Shen, S. and Mo, H. J. and White, S. D. M. and Blanton, M. R. and Kauffmann, G. and Voges, W. and Brinkmann, J. and Csabai, I."}]
+  date: 2003
+  parent: {type: periodical, title: "mnras", volume: "343"}
+  page-range: "978-994"
+  doi: "10.1046/j.1365-8711.2003.06740.x"
+
+"Nakamura03AJ":
+  type: article
+  title: "The Luminosity Function of Morphologically Classified Galaxies in the Sloan Digital Sky Survey"
+  author: [{name: "Nakamura, O. and Fukugita, M. and Yasuda, N. and Loveday, J. and Brinkmann, J. and Schneider, D. P. and Shimasaku, K. and SubbaRao, M."}]
+  date: 2003
+  parent: {type: periodical, title: "aj", volume: "125"}
+  page-range: "1682-1688"
+  doi: "10.1086/368135"
+
+"Nakamura04AJ":
+  type: article
+  title: "The H$α$ Luminosity Function of Morphologically Classified Galaxies in the Sloan Digital Sky Survey"
+  author: [{name: "Nakamura, O. and Fukugita, M. and Brinkmann, J. and Schneider, D. P."}]
+  date: 2004
+  parent: {type: periodical, title: "aj", volume: "127"}
+  page-range: "2511-2521"
+  doi: "10.1086/386350"
+
+"FG83ApJ":
+  type: article
+  title: "Further evidence for M87's massive, dark halo"
+  author: [{name: "Fabricant, D. and Gorenstein, P."}]
+  date: 1983
+  parent: {type: periodical, title: "apj", volume: "267"}
+  page-range: "535-546"
+  doi: "10.1086/160890"
+
+"ZMS93MN":
+  type: article
+  title: "Multicolour surface photometry of NGC 4486 (M87) and its jet"
+  author: [{name: "Zeilinger, W. W. and Møller, P. and Stiavelli, M."}]
+  date: 1993
+  parent: {type: periodical, title: "mnras", volume: "261"}
+  page-range: "175-184"
+  doi: "10.1093/mnras/261.1.175"
+
+"Connor16MN":
+  type: article
+  title: "Non-cosmological FRBs from young supernova remnant pulsars"
+  author: [{name: "Connor, L. and Sievers, J. and Pen, U.-L."}]
+  date: 2016
+  parent: {type: periodical, title: "mnras", volume: "458"}
+  serial-number: "L19-L23"
+  doi: "10.1093/mnrasl/slv124"
+
+"Cordes16MN":
+  type: article
+  title: "Supergiant pulses from extragalactic neutron stars"
+  author: [{name: "Cordes, J. M. and Wasserman, I."}]
+  date: 2016
+  parent: {type: periodical, title: "mnras", volume: "457"}
+  page-range: "232-257"
+  doi: "10.1093/mnras/stv2948"
+
+"Lyutikov16MN":
+  type: article
+  title: "Fast radio bursts as giant pulses from young rapidly rotating pulsars"
+  author: [{name: "Lyutikov, M. and Burzawa, L. and Popov, S. B."}]
+  date: 2016
+  parent: {type: periodical, title: "mnras", volume: "462"}
+  page-range: "941-950"
+  doi: "10.1093/mnras/stw1669"
+
+"Williams2016ApJ...821L..22W":
+  type: article
+  title: "No Precise Localization for FRB 150418: Claimed Radio Transient Is AGN Variability"
+  author: [{name: "Williams, P. K. G. and Berger, E."}]
+  date: 2016
+  parent: {type: periodical, title: "ApJL", volume: "821"}
+  serial-number: "L22"
+  doi: "10.3847/2041-8205/821/2/L22"
+
+"Dai16ApJ":
+  type: article
+  title: "Repeating Fast Radio Bursts from Highly Magnetized Pulsars Traveling through Asteroid Belts"
+  author: [{name: "Dai, Z. G. and Wang, J. S. and Wu, X. F. and Huang, Y. F."}]
+  date: 2016
+  parent: {type: periodical, title: "apj", volume: "829"}
+  page-range: "27"
+  doi: "10.3847/0004-637X/829/1/27"
+
+"Katz16ApJ":
+  type: article
+  title: "How Soft Gamma Repeaters Might Make Fast Radio Bursts"
+  author: [{name: "Katz, J. I."}]
+  date: 2016
+  parent: {type: periodical, title: "apj", volume: "826"}
+  page-range: "226"
+  doi: "10.3847/0004-637X/826/2/226"
+
+"Dai2017ApJ...838L...7D":
+  type: article
+  title: "Radio Emission from Pulsar Wind Nebulae without Surrounding Supernova Ejecta: Application to FRB 121102"
+  author: [{name: "Dai, Z. G. and Wang, J. S. and Yu, Y. W."}]
+  date: 2017
+  parent: {type: periodical, title: "ApJL", volume: "838"}
+  serial-number: "L7"
+  doi: "10.3847/2041-8213/aa6745"
+
+"Law17ApJ":
+  type: article
+  title: "A Multi-telescope Campaign on FRB 121102: Implications for the FRB Population"
+  author: [{name: "Law, C. J. and Abruzzo, M. W. and Bassa, C. G. and Bower, G. C. and Burke-Spolaor, S. and Butler, B. J. and Cantwell, T. and Carey, S. H. and Chatterjee, S. and Cordes, J. M. and Demorest, P. and Dowell, J. and Fender, R. and Gourdji, K. and Grainge, K. and Hessels, J. W. T. and Hickish, J. and Kaspi, V. M. and Lazio, T. J. W. and McLaughlin, M. A. and Michilli, D. and Mooley, K. and Perrott, Y. C. and Ransom, S. M. and Razavi-Ghods, N. and Rupen, M. and Scaife, A. and Scott, P. and Scholz, P. and Seymour, A. and Spitler, L. G. and Stovall, K. and Tendulkar, S. P. and Titterington, D. and Wharton, R. S. and Williams, P. K. G."}]
+  date: 2017
+  parent: {type: periodical, title: "apj", volume: "850"}
+  page-range: "76"
+  doi: "10.3847/1538-4357/aa9700"
+
+"Bassa2016MNRAS.463L..36B":
+  type: article
+  title: "Optical and radio astrometry of the galaxy associated with FRB 150418"
+  author: [{name: "Bassa, C. G. and Beswick, R. and Tingay, S. J. and Keane, E. F. and Bhandari, S. and Johnston, S. and Totani, T. and Tominaga, N. and Yasuda, N. and Stappers, B. W. and Barr, E. D. and Kramer, M. and Possenti, A."}]
+  date: 2016
+  parent: {type: periodical, title: "mnras", volume: "463"}
+  serial-number: "L36-L40"
+  doi: "10.1093/mnrasl/slw151"
+
+"Lynden-Bell1971MNRAS.155...95L":
+  type: article
+  title: "A method of allowing for known observational selection in small samples applied to 3CR quasars"
+  author: [{name: "Lynden-Bell, D."}]
+  date: 1971
+  parent: {type: periodical, title: "mnras", volume: "155"}
+  page-range: "95"
+  doi: "10.1093/mnras/155.1.95"
+
+"Giroletti2016AandA...593L..16G":
+  type: article
+  title: "FRB 150418: clues to its nature from European VLBI Network and e-MERLIN observations"
+  author: [{name: "Giroletti, M. and Marcote, B. and Garrett, M. A. and Paragi, Z. and Yang, J. and Hada, K. and Muxlow, T. W. B. and Cheung, C. C."}]
+  date: 2016
+  parent: {type: periodical, title: "aa", volume: "593"}
+  serial-number: "L16"
+  doi: "10.1051/0004-6361/201629172"
+
+"Schechter76ApJ":
+  type: article
+  title: "An analytic expression for the luminosity function for galaxies."
+  author: [{name: "Schechter, P."}]
+  date: 1976
+  parent: {type: periodical, title: "apj", volume: "203"}
+  page-range: "297-306"
+  doi: "10.1086/154079"
+
+"Cavagnolo09ApJS":
+  type: article
+  title: "Intracluster Medium Entropy Profiles for a Chandra Archival Sample of Galaxy Clusters"
+  author: [{name: "Cavagnolo, K. W. and Donahue, M. and Voit, G. M. and Sun, M."}]
+  date: 2009
+  parent: {type: periodical, title: "apjsup", volume: "182"}
+  page-range: "12-32"
+  doi: "10.1088/0067-0049/182/1/12"
+
+"Chatterjee17Nat":
+  type: article
+  title: "A direct localization of a fast radio burst and its host"
+  author: [{name: "Chatterjee, S. and Law, C. J. and Wharton, R. S. and Burke-Spolaor, S. and Hessels, J. W. T. and Bower, G. C. and Cordes, J. M. and Tendulkar, S. P. and Bassa, C. G. and Demorest, P. and Butler, B. J. and Seymour, A. and Scholz, P. and Abruzzo, M. W. and Bogdanov, S. and Kaspi, V. M. and Keimpema, A. and Lazio, T. J. W. and Marcote, B. and McLaughlin, M. A. and Paragi, Z. and Ransom, S. M. and Rupen, M. and Spitler, L. G. and van Langevelde, H. J."}]
+  date: 2017
+  parent: {type: periodical, title: "nat", volume: "541"}
+  page-range: "58-61"
+  doi: "10.1038/nature20797"
+
+"Tendulkar17ApJ":
+  type: article
+  title: "The Host Galaxy and Redshift of the Repeating Fast Radio Burst FRB 121102"
+  author: [{name: "Tendulkar, S. P. and Bassa, C. G. and Cordes, J. M. and Bower, G. C. and Law, C. J. and Chatterjee, S. and Adams, E. A. K. and Bogdanov, S. and Burke-Spolaor, S. and Butler, B. J. and Demorest, P. and Hessels, J. W. T. and Kaspi, V. M. and Lazio, T. J. W. and Maddox, N. and Marcote, B. and McLaughlin, M. A. and Paragi, Z. and Ransom, S. M. and Scholz, P. and Seymour, A. and Spitler, L. G. and van Langevelde, H. J. and Wharton, R. S."}]
+  date: 2017
+  parent: {type: periodical, title: "apjl", volume: "834"}
+  serial-number: "L7"
+  doi: "10.3847/2041-8213/834/2/L7"
+
+"Marcote2017ApJ...834L...8M":
+  type: article
+  title: "The Repeating Fast Radio Burst FRB 121102 as Seen on Milliarcsecond Angular Scales"
+  author: [{name: "Marcote, B. and Paragi, Z. and Hessels, J. W. T. and Keimpema, A. and van Langevelde, H. J. and Huang, Y. and Bassa, C. G. and Bogdanov, S. and Bower, G. C. and Burke-Spolaor, S. and Butler, B. J. and Campbell, R. M. and Chatterjee, S. and Cordes, J. M. and Demorest, P. and Garrett, M. A. and Ghosh, T. and Kaspi, V. M. and Law, C. J. and Lazio, T. J. W. and McLaughlin, M. A. and Ransom, S. M. and Salter, C. J. and Scholz, P. and Seymour, A. and Siemion, A. and Spitler, L. G. and Tendulkar, S. P. and Wharton, R. S."}]
+  date: 2017
+  parent: {type: periodical, title: "ApJL", volume: "834"}
+  serial-number: "L8"
+  doi: "10.3847/2041-8213/834/2/L8"
+
+"Lyne1985MNRAS.213..613L":
+  type: article
+  title: "The galactic population of pulsars"
+  author: [{name: "Lyne, A. G. and Manchester, R. N. and Taylor, J. H."}]
+  date: 1985
+  parent: {type: periodical, title: "mnras", volume: "213"}
+  page-range: "613-639"
+  doi: "10.1093/mnras/213.3.613"
+
+"TC93":
+  type: article
+  title: "Pulsar distances and the galactic distribution of free electrons"
+  author: [{name: "Taylor, J. H. and Cordes, J. M."}]
+  date: 1993
+  parent: {type: periodical, title: "apj", volume: "411"}
+  page-range: "674-684"
+  doi: "10.1086/172870"
+
+"Gomez2001AJ....122..908G":
+  type: article
+  title: "A Reexamination of the Distribution of Galactic Free Electrons"
+  author: [{name: "G\\'omez, G. C. and Benjamin, R. A. and Cox, D. P."}]
+  date: 2001
+  parent: {type: periodical, title: "aj", volume: "122"}
+  page-range: "908-920"
+  doi: "10.1086/321180"
+
+"Cao17ApJ":
+  type: article
+  title: "Constraining the Age of a Magnetar Possibly Associated with FRB 121102"
+  author: [{name: "Cao, X.-F. and Yu, Y.-W. and Dai, Z.-G."}]
+  date: 2017
+  parent: {type: periodical, title: "ApJL", volume: "839"}
+  serial-number: "L20"
+  doi: "10.3847/2041-8213/aa6af2"
+
+"Yang17ApJ":
+  type: article
+  title: "Large Host-galaxy Dispersion Measure of Fast Radio Bursts"
+  author: [{name: "Yang, Y.-P. and Luo, R. and Li, Z. and Zhang, B."}]
+  date: 2017
+  parent: {type: periodical, title: "ApJL", volume: "839"}
+  serial-number: "L25"
+  doi: "10.3847/2041-8213/aa6c2e"
+
+"Hubble1936rene.book.....H":
+  type: article
+  title: "Realm of the Nebulae"
+  author: [{name: "Hubble, E. P."}]
+  date: 1936
+  parent: {type: proceedings, title: "Realm of the Nebulae, by E.P. Hubble.~ New Haven: Yale University Press, 1936.~ ISBN 9780300025002"}
+
+"Graham2005AJ....130.1535G":
+  type: article
+  title: "Total Galaxy Magnitudes and Effective Radii from Petrosian Magnitudes and Radii"
+  author: [{name: "Graham, A. W. and Driver, S. P. and Petrosian, V. and Conselice, C. J. and Bershady, M. A. and Crawford, S. M. and Goto, T."}]
+  date: 2005
+  parent: {type: periodical, title: "aj", volume: "130"}
+  page-range: "1535-1544"
+  doi: "10.1086/444475"
+
+"She2017ApJ...835..223S":
+  type: article
+  title: "Chandra Survey of Nearby Galaxies: The Catalog"
+  author: [{name: "She, R. and Ho, L. C. and Feng, H."}]
+  date: 2017
+  parent: {type: periodical, title: "apj", volume: "835"}
+  page-range: "223"
+  doi: "10.3847/1538-4357/835/2/223"
+
+"Binggeli1988ARAandA..26..509B":
+  type: article
+  title: "The luminosity function of galaxies"
+  author: [{name: "Binggeli, B. and Sandage, A. and Tammann, G. A."}]
+  date: 1988
+  parent: {type: periodical, title: "araa", volume: "26"}
+  page-range: "509-560"
+  doi: "10.1146/annurev.aa.26.090188.002453"
+
+"Kokubo17ApJ":
+  type: article
+  title: "H$α$ Intensity Map of the Repeating Fast Radio Burst FRB 121102 Host Galaxy from Subaru/Kyoto 3DII AO-assisted Optical Integral-field Spectroscopy"
+  author: [{name: "Kokubo, M. and Mitsuda, K. and Sugai, H. and Ozaki, S. and Minowa, Y. and Hattori, T. and Hayano, Y. and Matsubayashi, K. and Shimono, A. and Sako, S. and Doi, M."}]
+  date: 2017
+  parent: {type: periodical, title: "apj", volume: "844"}
+  page-range: "95"
+  doi: "10.3847/1538-4357/aa7b2d"
+
+"Bassa17ApJ":
+  type: article
+  title: "FRB 121102 Is Coincident with a Star-forming Region in Its Host Galaxy"
+  author: [{name: "Bassa, C. G. and Tendulkar, S. P. and Adams, E. A. K. and Maddox, N. and Bogdanov, S. and Bower, G. C. and Burke-Spolaor, S. and Butler, B. J. and Chatterjee, S. and Cordes, J. M. and Hessels, J. W. T. and Kaspi, V. M. and Law, C. J. and Marcote, B. and Paragi, Z. and Ransom, S. M. and Scholz, P. and Spitler, L. G. and van Langevelde, H. J."}]
+  date: 2017
+  parent: {type: periodical, title: "ApJL", volume: "843"}
+  serial-number: "L8"
+  doi: "10.3847/2041-8213/aa7a0c"
+
+"Scholz16ApJ":
+  type: article
+  title: "The Repeating Fast Radio Burst FRB 121102: Multi-wavelength Observations and Additional Bursts"
+  author: [{name: "Scholz, P. and Spitler, L. G. and Hessels, J. W. T. and Chatterjee, S. and Cordes, J. M. and Kaspi, V. M. and Wharton, R. S. and Bassa, C. G. and Bogdanov, S. and Camilo, F. and Crawford, F. and Deneva, J. and van Leeuwen, J. and Lynch, R. and Madsen, E. C. and McLaughlin, M. A. and Mickaliger, M. and Parent, E. and Patel, C. and Ransom, S. M. and Seymour, A. and Stairs, I. H. and Stappers, B. W. and Tendulkar, S. P."}]
+  date: 2016
+  parent: {type: periodical, title: "apj", volume: "833"}
+  page-range: "177"
+  doi: "10.3847/1538-4357/833/2/177"
+
+"Bietenholz2017arXiv170707746B":
+  type: article
+  title: "On the Possibility of Fast Radio Bursts from Inside Supernovae: The Case of SN 1986J"
+  author: [{name: "Bietenholz, M. F. and Bartel, N."}]
+  date: 2017
+  parent: {type: periodical, title: "ArXiv e-prints"}
+
+"Ng17CHIME":
+  type: article
+  title: "CHIME FRB: An application of FFT beamforming for a radio telescope"
+  author: [{name: "Ng, C. and Vanderlinde, K. and Paradise, A. and Klages, P. and Masui, K. and Smith, K. and Bandura, K. and Boyle, P. J. and Dobbs, M. and Kaspi, V. and Renard, A. and Shaw, J. R. and Stairs, I. and Tretyakov, I."}]
+  date: 2017
+  parent: {type: periodical, title: "ArXiv e-prints"}
+
+"Macquart10PASA":
+  type: article
+  title: "The Commensal Real-Time ASKAP Fast-Transients (CRAFT) Survey"
+  author: [{name: "Macquart, J.-P. and Bailes, M. and Bhat, N. D. R. and Bower, G. C. and Bunton, J. D. and Chatterjee, S. and Colegate, T. and Cordes, J. M. and D'Addario, L. and Deller, A. and Dodson, R. and Fender, R. and Haines, K. and Halll, P. and Harris, C. and Hotan, A. and Johnston, S. and Jones, D. L. and Keith, M. and Koay, J. Y. and Lazio, T. J. W. and Majid, W. and Murphy, T. and Navarro, R. and Phillips, C. and Quinn, P. and Preston, R. A. and Stansby, B. and Stairs, I. and Stappers, B. and Staveley-Smith, L. and Tingay, S. and Thompson, D. and van Straten, W. and Wagstaff, K. and Warren, M. and Wayth, R. and Wen, L. and CRAFT Collaboration"}]
+  date: 2010
+  parent: {type: periodical, title: "PASA", volume: "27"}
+  page-range: "272-282"
+  doi: "10.1071/AS09082"
+
+"Booth12AfrSk":
+  type: article
+  title: "An Overview of the MeerKAT Project"
+  author: [{name: "Booth, R. S. and Jonas, J. L."}]
+  date: 2012
+  parent: {type: periodical, title: "African Skies", volume: "16"}
+  page-range: "101"
+
+"Zheng14ApJ":
+  type: article
+  title: "Probing the Intergalactic Medium with Fast Radio Bursts"
+  author: [{name: "Zheng, Z. and Ofek, E. O. and Kulkarni, S. R. and Neill, J. D. and Juric, M."}]
+  date: 2014
+  parent: {type: periodical, title: "apj", volume: "797"}
+  page-range: "71"
+  doi: "10.1088/0004-637X/797/1/71"
+
+"SWS03":
+  type: article
+  title: "Highly Ionized High-Velocity Gas in the Vicinity of the Galaxy"
+  author: [{name: "Sembach, K. R. and Wakker, B. P. and Savage, B. D. and Richter, P. and Meade, M. and Shull, J. M. and Jenkins, E. B. and Sonneborn, G. and Moos, H. W."}]
+  date: 2003
+  parent: {type: periodical, title: "apjsup", volume: "146"}
+  page-range: "165-208"
+  doi: "10.1086/346231"
+
+"GM08":
+  type: article
+  title: "The Vertical Structure of Warm Ionised Gas in the Milky Way"
+  author: [{name: "Gaensler, B. M. and Madsen, G. J. and Chatterjee, S. and Mao, S. A."}]
+  date: 2008
+  parent: {type: periodical, title: "PASA", volume: "25"}
+  page-range: "184-200"
+  doi: "10.1071/AS08004"
+
+"BL07":
+  type: article
+  title: "X-Ray Absorption from the Milky Way Halo and the Local Group"
+  author: [{name: "Bregman, J. N. and Lloyd-Davies, E. J."}]
+  date: 2007
+  parent: {type: periodical, title: "apj", volume: "669"}
+  page-range: "990-1002"
+  doi: "10.1086/521321"
+
+"Jaynes03":
+  type: article
+  title: "Probability Theory: The Logic of Science (Vol 1)"
+  author: [{name: "Jaynes, E. T."}]
+  date: 2003
+
+"Gregory2005":
+  type: article
+  title: "Bayesian Logical Data Analysis for the Physical Sciences: A Comparative Approach with “Mathematica” Support"
+  author: [{name: "Gregory, P. C."}]
+  date: 2005
+  parent: {type: proceedings, title: "Bayesian Logical Data Analysis for the Physical Sciences: A Comparative Approach with “Mathematica” Support. Edited by P. C. Gregory. ISBN 0 521 84150 X (hardback); QA279.5.G74 2005 519.5'42 -- dc22; 200445930. Published by Cambridge University Press, Cambridge, UK, 2005."}
+
+"Skilling04":
+  type: article
+  title: "Nested Sampling"
+  author: [{name: "Skilling, J."}]
+  date: 2004
+  parent: {type: proceedings, title: "American Institute of Physics Conference Series", volume: "735"}
+  page-range: "395-405"
+  doi: "10.1063/1.1835238"
+
+"NR3":
+  type: article
+  title: "Numerical Recipes 3rd Edition: The Art of Scientific Computing"
+  author: [{name: "Press, William H. and Teukolsky, Saul A. and Vetterling, William T. and Flannery, Brian P."}]
+  date: 2007
+
+"Fisz63":
+  type: article
+  title: "Probability theory and mathematical statistics"
+  author: [{name: "Fisz, Marek"}]
+  date: 1963
+
+"LP82PhST":
+  type: article
+  title: "Some nonlinear mechanisms of pulsar emission"
+  author: [{name: "Lominadze, J. G. and Pataraia, A. D."}]
+  date: 1982
+  parent: {type: periodical, title: "Physica Scripta Volume T", volume: "2"}
+  page-range: "215-222"
+  doi: "10.1088/0031-8949/1982/T2A/028"
+
+"GBI06PPM":
+  type: article
+  title: "Physics of the Pulsar Magnetosphere"
+  author: [{name: "Gurevich, A. V. and Beskin, V. S. and Istomin, Y. N."}]
+  date: 2006
+
+"Cole01MN":
+  type: article
+  title: "The 2dF galaxy redshift survey: near-infrared galaxy luminosity functions"
+  author: [{name: "Cole, S. and Norberg, P. and Baugh, C. M. and Frenk, C. S. and Bland-Hawthorn, J. and Bridges, T. and Cannon, R. and Colless, M. and Collins, C. and Couch, W. and Cross, N. and Dalton, G. and De Propris, R. and Driver, S. P. and Efstathiou, G. and Ellis, R. S. and Glazebrook, K. and Jackson, C. and Lahav, O. and Lewis, I. and Lumsden, S. and Maddox, S. and Madgwick, D. and Peacock, J. A. and Peterson, B. A. and Sutherland, W. and Taylor, K."}]
+  date: 2001
+  parent: {type: periodical, title: "mnras", volume: "326"}
+  page-range: "255-273"
+  doi: "10.1046/j.1365-8711.2001.04591.x"
+
+"HB06ApJ":
+  type: article
+  title: "On the Normalization of the Cosmic Star Formation History"
+  author: [{name: "Hopkins, A. M. and Beacom, J. F."}]
+  date: 2006
+  parent: {type: periodical, title: "apj", volume: "651"}
+  page-range: "142-154"
+  doi: "10.1086/506610"
+
+"Kenn98":
+  type: article
+  title: "Star Formation in Galaxies Along the Hubble Sequence"
+  author: [{name: "Kennicutt, Jr., R. C."}]
+  date: 1998
+  parent: {type: periodical, title: "araa", volume: "36"}
+  page-range: "189-232"
+  doi: "10.1146/annurev.astro.36.1.189"
+
+"KTC94ApJ":
+  type: article
+  title: "Past and future star formation in disk galaxies"
+  author: [{name: "Kennicutt, Jr., R. C. and Tamblyn, P. and Congdon, C. E."}]
+  date: 1994
+  parent: {type: periodical, title: "apj", volume: "435"}
+  page-range: "22-36"
+  doi: "10.1086/174790"
+
+"TF1977AA":
+  type: article
+  title: "A new method of determining distances to galaxies."
+  author: [{name: "Tully, R. B. and Fisher, J. R."}]
+  date: 1977
+  parent: {type: periodical, title: "aa", volume: "500"}
+  page-range: "105-117"
+
+"Holmberg1958":
+  type: article
+  title: "A photographic photometry of extragalactic nebulae."
+  author: [{name: "Holmberg, E."}]
+  date: 1958
+  parent: {type: periodical, title: "Meddelanden fran Lunds Astronomiska Observatorium Serie II", volume: "136"}
+  page-range: "1"
+
+"MPD98ApJ":
+  type: article
+  title: "The Star Formation History of Field Galaxies"
+  author: [{name: "Madau, P. and Pozzetti, L. and Dickinson, M."}]
+  date: 1998
+  parent: {type: periodical, title: "apj", volume: "498"}
+  page-range: "106-116"
+  doi: "10.1086/305523"
+
+"RL86":
+  type: article
+  title: "Radiative Processes in Astrophysics"
+  author: [{name: "Rybicki, G. B. and Lightman, A. P."}]
+  date: 1986
+  parent: {type: proceedings, title: "Radiative Processes in Astrophysics"}
+
+"SBH17":
+  type: article
+  title: "Simultaneous X-Ray, Gamma-Ray, and Radio Observations of the Repeating Fast Radio Burst FRB 121102"
+  author: [{name: "Scholz, P. and Bogdanov, S. and Hessels, J. W. T. and Lynch, R. S. and Spitler, L. G. and Bassa, C. G. and Bower, G. C. and Burke-Spolaor, S. and Butler, B. J. and Chatterjee, S. and Cordes, J. M. and Gourdji, K. and Kaspi, V. M. and Law, C. J. and Marcote, B. and McLaughlin, M. A. and Michilli, D. and Paragi, Z. and Ransom, S. M. and Seymour, A. and Tendulkar, S. P. and Wharton, R. S."}]
+  date: 2017
+  parent: {type: periodical, title: "apj", volume: "846"}
+  page-range: "80"
+  doi: "10.3847/1538-4357/aa8456"
+
+"MFL06":
+  type: article
+  title: "Discovery of 14 Radio Pulsars in a Survey of the Magellanic Clouds"
+  author: [{name: "Manchester, R. N. and Fan, G. and Lyne, A. G. and Kaspi, V. M. and Crawford, F."}]
+  date: 2006
+  parent: {type: periodical, title: "apj", volume: "649"}
+  page-range: "235-242"
+  doi: "10.1086/505461"
+
+"Zhang16ApJL":
+  type: article
+  title: "Mergers of Charged Black Holes: Gravitational-wave Events, Short Gamma-Ray Bursts, and Fast Radio Bursts"
+  author: [{name: "Zhang, B."}]
+  date: 2016
+  parent: {type: periodical, title: "ApJL", volume: "827"}
+  serial-number: "L31"
+  doi: "10.3847/2041-8205/827/2/L31"
+
+"Iwazaki15PRD":
+  type: article
+  title: "Axion stars and fast radio bursts"
+  author: [{name: "Iwazaki, A."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "91"}
+  page-range: "023008"
+  doi: "10.1103/PhysRevD.91.023008"
+
+"Katz17MN":
+  type: article
+  title: "FRB as products of accretion disc funnels"
+  author: [{name: "Katz, J. I."}]
+  date: 2017
+  parent: {type: periodical, title: "mnras", volume: "471"}
+  serial-number: "L92-L95"
+  doi: "10.1093/mnrasl/slx113"
+
+"Wang18ApJ":
+  type: article
+  title: "FRB 121102: A Starquake-induced Repeater?"
+  author: [{name: "Wang, W. and Luo, R. and Yue, H. and Chen, X. and Lee, K. and Xu, R."}]
+  date: 2018
+  parent: {type: periodical, title: "apj", volume: "852"}
+  page-range: "140"
+  doi: "10.3847/1538-4357/aaa025"
+
+"CSS12":
+  type: article
+  title: "Radio broadcasts from superconducting strings"
+  author: [{name: "Cai, Y.-F. and Sabancilar, E. and Steer, D. A. and Vachaspati, T."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "86"}
+  page-range: "043521"
+  doi: "10.1103/PhysRevD.86.043521"
+
+"CSV12":
+  type: article
+  title: "Radio bursts from superconducting strings"
+  author: [{name: "Cai, Y.-F. and Sabancilar, E. and Vachaspati, T."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "85"}
+  page-range: "023530"
+  doi: "10.1103/PhysRevD.85.023530"
+
+"LB71":
+  type: article
+  title: "A method of allowing for known observational selection in small samples applied to 3CR quasars"
+  author: [{name: "Lynden-Bell, D."}]
+  date: 1971
+  parent: {type: periodical, title: "mnras", volume: "155"}
+  page-range: "95"
+  doi: "10.1093/mnras/155.1.95"
+
+"MTA83":
+  type: article
+  title: "Analysis of complete quasar samples to obtain parameters of luminosity and evolution functions"
+  author: [{name: "Marshall, H. L. and Tananbaum, H. and Avni, Y. and Zamorani, G."}]
+  date: 1983
+  parent: {type: periodical, title: "apj", volume: "269"}
+  page-range: "35-41"
+  doi: "10.1086/161016"
+
+"KFV08":
+  type: article
+  title: "A Flexible Method of Estimating Luminosity Functions"
+  author: [{name: "Kelly, B. C. and Fan, X. and Vestergaard, M."}]
+  date: 2008
+  parent: {type: periodical, title: "apj", volume: "682"}
+  page-range: "874-895"
+  doi: "10.1086/589501"
+
+"CLM13":
+  type: article
+  title: "Constraining the luminosity function parameters and population size of radio pulsars in globular clusters"
+  author: [{name: "Chennamangalam, J. and Lorimer, D. R. and Mandel, I. and Bagchi, M."}]
+  date: 2013
+  parent: {type: periodical, title: "mnras", volume: "431"}
+  page-range: "874-881"
+  doi: "10.1093/mnras/stt205"
+
+"BST88":
+  type: article
+  title: "The luminosity function of galaxies"
+  author: [{name: "Binggeli, B. and Sandage, A. and Tammann, G. A."}]
+  date: 1988
+  parent: {type: periodical, title: "araa", volume: "26"}
+  page-range: "509-560"
+  doi: "10.1146/annurev.aa.26.090188.002453"
+
+"BFW01":
+  type: article
+  title: "Evidence for Reionization at z\\~6: Detection of a Gunn-Peterson Trough in a z=6.28 Quasar"
+  author: [{name: "Becker, R. H. and Fan, X. and White, R. L. and Strauss, M. A. and Narayanan, V. K. and Lupton, R. H. and Gunn, J. E. and Annis, J. and Bahcall, N. A. and Brinkmann, J. and Connolly, A. J. and Csabai, I. and Czarapata, P. C. and Doi, M. and Heckman, T. M. and Hennessy, G. S. and Ivezi\\'c, \\v Z. and Knapp, G. R. and Lamb, D. Q. and McKay, T. A. and Munn, J. A. and Nash, T. and Nichol, R. and Pier, J. R. and Richards, G. T. and Schneider, D. P. and Stoughton, C. and Szalay, A. S. and Thakar, A. R. and York, D. G."}]
+  date: 2001
+  parent: {type: periodical, title: "aj", volume: "122"}
+  page-range: "2850-2857"
+  doi: "10.1086/324231"
+
+"KE2012AR":
+  type: article
+  title: "Star Formation in the Milky Way and Nearby Galaxies"
+  author: [{name: "Kennicutt, R. C. and Evans, N. J."}]
+  date: 2012
+  parent: {type: periodical, title: "araa", volume: "50"}
+  page-range: "531-608"
+  doi: "10.1146/annurev-astro-081811-125610"
+
+"LTM16":
+  type: article
+  title: "European Pulsar Timing Array limits on an isotropic stochastic gravitational-wave background"
+  author: [{name: "Lentati, L. and Taylor, S. R. and Mingarelli, C. M. F. and Sesana, A. and Sanidas, S. A. and Vecchio, A. and Caballero, R. N. and Lee, K. J. and van Haasteren, R. and Babak, S. and Bassa, C. G. and Brem, P. and Burgay, M. and Champion, D. J. and Cognard, I. and Desvignes, G. and Gair, J. R. and Guillemot, L. and Hessels, J. W. T. and Janssen, G. H. and Karuppusamy, R. and Kramer, M. and Lassus, A. and Lazarus, P. and Liu, K. and Osłowski, S. and Perrodin, D. and Petiteau, A. and Possenti, A. and Purver, M. B. and Rosado, P. A. and Smits, R. and Stappers, B. and Theureau, G. and Tiburzi, C. and Verbiest, J. P. W."}]
+  date: 2015
+  parent: {type: periodical, title: "mnras", volume: "453"}
+  page-range: "2576-2598"
+  doi: "10.1093/mnras/stv1538"
+
+"Verbiest12ApJ":
+  type: article
+  title: "On Pulsar Distance Measurements and Their Uncertainties"
+  author: [{name: "Verbiest, J. P. W. and Weisberg, J. M. and Chael, A. A. and Lee, K. J. and Lorimer, D. R."}]
+  date: 2012
+  parent: {type: periodical, title: "apj", volume: "755"}
+  page-range: "39"
+  doi: "10.1088/0004-637X/755/1/39"
+
+"Wang17":
+  type: article
+  title: "Special issue on QTT"
+  author: [{name: "Wang, N."}]
+  date: 2017
+  parent: {type: periodical, title: "Scientia Sinica Physica, Mechanica & Astronomica", volume: "47"}
+  page-range: "059501"
+  doi: "10.1360/SSPMA2017-00082"
+
+"Nan11":
+  type: article
+  title: "The Five-Hundred Aperture Spherical Radio Telescope (fast) Project"
+  author: [{name: "Nan, R. and Li, D. and Jin, C. and Wang, Q. and Zhu, L. and Zhu, W. and Zhang, H. and Yue, Y. and Qian, L."}]
+  date: 2011
+  parent: {type: periodical, title: "International Journal of Modern Physics D", volume: "20"}
+  page-range: "989-1024"
+  doi: "10.1142/S0218271811019335"
+
+"Macquart15SKA":
+  type: article
+  title: "Fast Transients at Cosmological Distances with the SKA"
+  author: [{name: "Macquart, J. P. and Keane, E. and Grainge, K. and McQuinn, M. and Fender, R. and Hessels, J. and Deller, A. and Bhat, R. and Breton, R. and Chatterjee, S. and Law, C. and Lorimer, D. and Ofek, E. O. and Pietka, M. and Spitler, L. and Stappers, B. and Trott, C."}]
+  date: 2015
+  parent: {type: periodical, title: "Advancing Astrophysics with the Square Kilometre Array (AASKA14)"}
+  page-range: "55"
+
+"Macquart19ApJ":
+  type: article
+  title: "The Spectral Properties of the Bright Fast Radio Burst Population"
+  author: [{name: "Macquart, J. -P. and Shannon, R. M. and Bannister, K. W. and James, C. W. and Ekers, R. D. and Bunton, J. D."}]
+  date: 2019
+  parent: {type: periodical, title: "apj", volume: "872"}
+  serial-number: "L19"
+  doi: "10.3847/2041-8213/ab03d6"
+
+"VLM10MN":
+  type: article
+  title: "Lutz-Kelker bias in pulsar parallax measurements"
+  author: [{name: "Verbiest, J. P. W. and Lorimer, D. R. and McLaughlin, M. A."}]
+  date: 2010
+  parent: {type: periodical, title: "mnras", volume: "405"}
+  page-range: "564-572"
+  doi: "10.1111/j.1365-2966.2010.16488.x"
+
+"Yu14ApJ":
+  type: article
+  title: "Revisiting the Dispersion Measure of Fast Radio Bursts Associated with Gamma-Ray Burst Afterglows"
+  author: [{name: "Yu, Y.-W."}]
+  date: 2014
+  parent: {type: periodical, title: "apj", volume: "796"}
+  page-range: "93"
+  doi: "10.1088/0004-637X/796/2/93"
+
+"Fukugita98ApJ":
+  type: article
+  title: "The Cosmic Baryon Budget"
+  author: [{name: "Fukugita, M. and Hogan, C. J. and Peebles, P. J. E."}]
+  date: 1998
+  parent: {type: periodical, title: "apj", volume: "503"}
+  page-range: "518-530"
+  doi: "10.1086/306025"
+
+"FCK06AR":
+  type: article
+  title: "Observational Constraints on Cosmic Reionization"
+  author: [{name: "Fan, X. and Carilli, C. L. and Keating, B."}]
+  date: 2006
+  parent: {type: periodical, title: "araa", volume: "44"}
+  page-range: "415-462"
+  doi: "10.1146/annurev.astro.44.051905.092514"
+
+"McQuinn09ApJ":
+  type: article
+  title: "He II Reionization and its Effect on the Intergalactic Medium"
+  author: [{name: "McQuinn, M. and Lidz, A. and Zaldarriaga, M. and Hernquist, L. and Hopkins, P. F. and Dutta, S. and Faucher-Gigu\\“ere, C.-A."}]
+  date: 2009
+  parent: {type: periodical, title: "apj", volume: "694"}
+  page-range: "842-866"
+  doi: "10.1088/0004-637X/694/2/842"
+
+"Foster18MN":
+  type: article
+  title: "ALFABURST: a commensal search for fast radio bursts with Arecibo"
+  author: [{name: "Foster, G. and Karastergiou, A. and Golpayegani, G. and Surnis, M. and Lorimer, D. R. and Chennamangalam, J. and McLaughlin, M. and Armour, W. and Cobb, J. and MacMahon, D. H. E. and Pei, X. and Rajwade, K. and Siemion, A. P. V. and Werthimer, D. and Williams, C. J."}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "474"}
+  page-range: "3847-3856"
+  doi: "10.1093/mnras/stx3038"
+
+"LandauEM":
+  type: article
+  title: "Electrodynamics of continuous media"
+  author: [{name: "Landau, L. D. and Lifshitz, E. M."}]
+  date: 1960
+  parent: {type: proceedings, title: "Energy Conversion Management"}
+
+"Will97":
+  type: article
+  title: "Estimating galaxy luminosity functions."
+  author: [{name: "Willmer, C. N. A."}]
+  date: 1997
+  parent: {type: periodical, title: "aj", volume: "114"}
+  page-range: "898-912"
+  doi: "10.1086/118522"
+
+"MD14":
+  type: article
+  title: "Cosmic Star-Formation History"
+  author: [{name: "Madau, P. and Dickinson, M."}]
+  date: 2014
+  parent: {type: periodical, title: "araa", volume: "52"}
+  page-range: "415-486"
+  doi: "10.1146/annurev-astro-081811-125615"
+
+"IVC16":
+  type: article
+  title: "Distance and luminosity probability distributions derived from parallax and flux with their measurement errors. With application to the millisecond pulsar PSR J0218+4232"
+  author: [{name: "Igoshev, A. and Verbunt, F. and Cator, E."}]
+  date: 2016
+  parent: {type: periodical, title: "aa", volume: "591"}
+  serial-number: "A123"
+  doi: "10.1051/0004-6361/201527471"
+
+"Petrosian76ApJ":
+  type: article
+  title: "Surface brightness and evolution of galaxies"
+  author: [{name: "Petrosian, V."}]
+  date: 1976
+  parent: {type: periodical, title: "ApJL", volume: "209"}
+  serial-number: "L1-L5"
+  doi: "10.1086/182253"
+
+"Geng15ApJ":
+  type: article
+  title: "Fast Radio Bursts: Collisions between Neutron Stars and Asteroids/Comets"
+  author: [{name: "Geng, J. J. and Huang, Y. F."}]
+  date: 2015
+  parent: {type: periodical, title: "apj", volume: "809"}
+  page-range: "24"
+  doi: "10.1088/0004-637X/809/1/24"
+
+"Wang16ApJ":
+  type: article
+  title: "Fast Radio Bursts from the Inspiral of Double Neutron Stars"
+  author: [{name: "Wang, J.-S. and Yang, Y.-P. and Wu, X.-F. and Dai, Z.-G. and Wang, F.-Y."}]
+  date: 2016
+  parent: {type: periodical, title: "ApJL", volume: "822"}
+  serial-number: "L7"
+  doi: "10.3847/2041-8205/822/1/L7"
+
+"Staveley-Smith96PASA":
+  type: article
+  title: "The Parkes 21 CM multibeam receiver"
+  author: [{name: "Staveley-Smith, L. and Wilson, W. E. and Bird, T. S. and Disney, M. J. and Ekers, R. D. and Freeman, K. C. and Haynes, R. F. and Sinclair, M. W. and Vaile, R. A. and Webster, R. L. and Wright, A. E."}]
+  date: 1996
+  parent: {type: periodical, title: "PASA", volume: "13"}
+  page-range: "243-248"
+
+"Niino18ApJ":
+  type: article
+  title: "Fast Radio Bursts’ Recipes for the Distributions of Dispersion Measures, Flux Densities, and Fluences"
+  author: [{name: "Niino, Y."}]
+  date: 2018
+  parent: {type: periodical, title: "apj", volume: "858"}
+  page-range: "4"
+  doi: "10.3847/1538-4357/aab9a9"
+
+"Lu18MN":
+  type: article
+  title: "On the radiation mechanism of repeating fast radio bursts"
+  author: [{name: "Lu, W. and Kumar, P."}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "477"}
+  page-range: "2470-2493"
+  doi: "10.1093/mnras/sty716"
+
+"Rees77Nat":
+  type: article
+  title: "A better way of searching for black-hole explosions"
+  author: [{name: "Rees, M. J."}]
+  date: 1977
+  parent: {type: periodical, title: "nat", volume: "266"}
+  page-range: "333"
+  doi: "10.1038/266333a0"
+
+"Liu16ApJ":
+  type: article
+  title: "Fast Radio Bursts and Their Gamma-Ray or Radio Afterglows as Kerr-Newman Black Hole Binaries"
+  author: [{name: "Liu, T. and Romero, G. E. and Liu, M.-L. and Li, A."}]
+  date: 2016
+  parent: {type: periodical, title: "apj", volume: "826"}
+  page-range: "82"
+  doi: "10.3847/0004-637X/826/1/82"
+
+"Romero16PRD":
+  type: article
+  title: "Mechanism for fast radio bursts"
+  author: [{name: "Romero, G. E. and del Valle, M. V. and Vieyro, F. L."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "93"}
+  page-range: "023001"
+  doi: "10.1103/PhysRevD.93.023001"
+
+"Vieyro17AandA":
+  type: article
+  title: "A model for the repeating FRB 121102 in the AGN scenario"
+  author: [{name: "Vieyro, F. L. and Romero, G. E. and Bosch-Ramon, V. and Marcote, B. and del Valle, M. V."}]
+  date: 2017
+  parent: {type: periodical, title: "aa", volume: "602"}
+  serial-number: "A64"
+  doi: "10.1051/0004-6361/201730556"
+
+"Zhang18arXiv":
+  type: article
+  title: "FRB Energetics and detectability from high redshifts"
+  author: [{name: "Zhang, B."}]
+  date: 2018
+  parent: {type: periodical, title: "ArXiv e-prints"}
+
+"GDL16":
+  type: article
+  title: "A Neutron Star-White Dwarf Binary Model for Repeating Fast Radio Burst 121102"
+  author: [{name: "Gu, W.-M. and Dong, Y.-Z. and Liu, T. and Ma, R. and Wang, J."}]
+  date: 2016
+  parent: {type: periodical, title: "ApJL", volume: "823"}
+  serial-number: "L28"
+  doi: "10.3847/2041-8205/823/2/L28"
+
+"BWOptics":
+  type: article
+  title: "Principles of optics : electromagnetic theory of propagation, interference and diffraction of light"
+  date: 1999
+  parent: {type: proceedings, title: "Principles of optics : electromagnetic theory of propagation, interference and diffraction of light / Max Born and Emil Wolf ; with contributions by A.B. Bhatia ... [et al.]. Cambridge [England] ; New York : Cambridge University Press, 1999."}
+
+"GSP18":
+  type: article
+  title: "Highest-frequency detection of FRB 121102 at 4-8 GHz using the Breakthrough Listen Digital Backend at the Green Bank Telescope"
+  author: [{name: "Gajjar, V. and Siemion, A. P. V. and Price, D. C. and Law, C. J. and Michilli, D. and Hessels, J. W. T. and Chatterjee, S. and Archibald, A. M. and Bower, G. C. and Brinkman, C. and Burke-Spolaor, S. and Cordes, J. M. and Croft, S. and Enriquez, J. E. and Foster, G. and Gizani, N. and Hellbourg, G. and Isaacson, H. and Kaspi, V. M. and Lazio, T. J. W. and Lebofsky, M. and Lynch, R. S. and MacMahon, D. and McLaughlin, M. A. and Ransom, S. M. and Scholz, P. and Seymour, A. and Spitler, L. G. and Tendulkar, S. P. and Werthimer, D. and Zhang, Y. G."}]
+  date: 2018
+  parent: {type: periodical, title: "ArXiv e-prints"}
+
+"KSL12":
+  type: article
+  title: "Crab giant pulses at low frequencies"
+  author: [{name: "Karuppusamy, R. and Stappers, B. W. and Lee, K. J."}]
+  date: 2012
+  parent: {type: periodical, title: "aa", volume: "538"}
+  serial-number: "A7"
+  doi: "10.1051/0004-6361/201117667"
+
+"HWX16":
+  type: article
+  title: "Spectral indices for radio emission of 228 pulsars"
+  author: [{name: "Han, J. and Wang, C. and Xu, J. and Han, J.-L."}]
+  date: 2016
+  parent: {type: periodical, title: "raa", volume: "16"}
+  page-range: "159"
+  doi: "10.1088/1674-4527/16/10/159"
+
+"JVK18":
+  type: article
+  title: "Spectral properties of 441 radio pulsars"
+  author: [{name: "Jankowski, F. and van Straten, W. and Keane, E. F. and Bailes, M. and Barr, E. D. and Johnston, S. and Kerr, M."}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "473"}
+  page-range: "4436-4458"
+  doi: "10.1093/mnras/stx2476"
+
+"PGS16":
+  type: article
+  title: "The rate and luminosity function of long gamma ray bursts"
+  author: [{name: "Pescalli, A. and Ghirlanda, G. and Salvaterra, R. and Ghisellini, G. and Vergani, S. D. and Nappo, F. and Salafia, O. S. and Melandri, A. and Covino, S. and G\\\"otz, D."}]
+  date: 2016
+  parent: {type: periodical, title: "aa", volume: "587"}
+  serial-number: "A40"
+  doi: "10.1051/0004-6361/201526760"
+
+"SZL15":
+  type: article
+  title: "Extragalactic High-energy Transients: Event Rate Densities and Luminosity Functions"
+  author: [{name: "Sun, H. and Zhang, B. and Li, Z."}]
+  date: 2015
+  parent: {type: periodical, title: "apj", volume: "812"}
+  page-range: "33"
+  doi: "10.1088/0004-637X/812/1/33"
+
+"CYZ18":
+  type: article
+  title: "Compact Binary Mergers and the Event Rate of Fast Radio Bursts"
+  author: [{name: "Cao, X.-F. and Yu, Y.-W. and Zhou, X."}]
+  date: 2018
+  parent: {type: periodical, title: "apj", volume: "858"}
+  page-range: "89"
+  doi: "10.3847/1538-4357/aabadd"
+
+"Vazza18MNRAS":
+  type: article
+  title: "Probing the origin of extragalactic magnetic fields with Fast Radio Bursts"
+  author: [{name: "Vazza, F. and Br\\\"uggen, M. and Hinz, P. M. and Wittor, D. and Locatelli, N. and Gheller, C."}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "480"}
+  page-range: "3907-3915"
+  doi: "10.1093/mnras/sty1968"
+
+"Shannon18Nat":
+  type: article
+  title: "The dispersion-brightness relation for fast radio bursts from a wide-field survey."
+  author: [{name: "Shannon, R. M. and Macquart, J.-P. and Bannister, K. W. and Ekers, R. D. and James, C. W. and Oslowski, S. and Qiu, H. and Sammons, M. and Hotan, A. W. and Voronkov, M. A. and Beresford, R. J. and Brothers, M. and Brown, A. J. and Bunton, J. D. and Chippendale, A. P. and Haskins, C. and Leach, M. and Marquarding, M. and McConnell, D. and Pilawa, M. A. and Sadler, E. M. and Troup, E. R. and Tuthill, J. and Whiting, M. T. and Allison, J. R. and Anderson, C. S. and Bell, M. E. and Collier, J. D. and Gurkan, G. and Heald, G. and Riseley, C. J."}]
+  date: 2018
+  parent: {type: periodical, title: "nat", volume: "562"}
+  page-range: "386-390"
+
+"Patel18ApJ":
+  type: article
+  title: "PALFA Single-pulse Pipeline: New Pulsars, Rotating Radio Transients, and a Candidate Fast Radio Burst"
+  author: [{name: "Patel, C. and Agarwal, D. and Bhardwaj, M. and Boyce, M. M. and Brazier, A. and Chatterjee, S. and Chawla, P. and Kaspi, V. M. and Lorimer, D. R. and McLaughlin, M. A. and Parent, E. and Pleunis, Z. and Ransom, S. M. and Scholz, P. and Wharton, R. S. and Zhu, W. W. and Alam, M. and Caballero Valdez, K. and Camilo, F. and Cordes, J. M. and Crawford, F. and Deneva, J. S. and Ferdman, R. D. and Freire, P. C. C. and Hessels, J. W. T. and Nguyen, B. and Stairs, I. and Stovall, K. and van Leeuwen, J."}]
+  date: 2018
+  parent: {type: periodical, title: "Astrophys. J.", volume: "869"}
+  page-range: "181"
+  doi: "10.3847/1538-4357/aaee65"
+
+"Lawrence17AJ":
+  type: article
+  title: "The Nonhomogeneous Poisson Process for Fast Radio Burst Rates"
+  author: [{name: "Lawrence, E. and Vander Wiel, S. and Law, C. and Burke Spolaor, S. and Bower, G. C."}]
+  date: 2017
+  parent: {type: periodical, title: "aj", volume: "154"}
+  page-range: "117"
+  doi: "10.3847/1538-3881/aa844e"
+
+"Masui13ApJ":
+  type: article
+  title: "Measurement of 21 cm Brightness Fluctuations at z ~ 0.8 in Cross-correlation"
+  author: [{name: "Masui, K. W. and Switzer, E. R. and Banavar, N. and Bandura, K. and Blake, C. and Calin, L. -M. and Chang, T. -C. and Chen, X. and Li, Y. -C. and Liao, Y. -W. and Natarajan, A. and Pen, U. -L. and Peterson, J. B. and Shaw, J. R. and Voytek, T. C."}]
+  date: 2013
+  parent: {type: periodical, title: "apj", volume: "763"}
+  serial-number: "L20"
+  doi: "10.1088/2041-8205/763/1/L20"
+
+"Platts18arXiv":
+  type: article
+  title: "A Living Theory Catalogue for Fast Radio Bursts"
+  author: [{name: "Platts, E. and Weltman, A. and Walters, A. and Tendulkar, S. P. and Gordin, J. E. B. and Kandhai, S."}]
+  date: 2018
+  parent: {type: periodical, title: "ArXiv e-prints"}
+
+"Abbott17PRL":
+  type: article
+  title: "GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral"
+  author: [{name: "Abbott, B. P. and Abbott, R. and Abbott, T. D. and Acernese, F. and Ackley, K. and Adams, C. and Adams, T. and Addesso, P. and Adhikari, R. X. and Adya, V. B. and et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Physical Review Letters", volume: "119"}
+  page-range: "161101"
+  doi: "10.1103/PhysRevLett.119.161101"
+
+"Taylor14ApJ":
+  type: article
+  title: "The Core Collapse Supernova Rate from the SDSS-II Supernova Survey"
+  author: [{name: "Taylor, M. and Cinabro, D. and Dilday, B. and Galbany, L. and Gupta, R. R. and Kessler, R. and Marriner, J. and Nichol, R. C. and Richmond, M. and Schneider, D. P. and Sollerman, J."}]
+  date: 2014
+  parent: {type: periodical, title: "apj", volume: "792"}
+  page-range: "135"
+  doi: "10.1088/0004-637X/792/2/135"
+
+"Cao18ApJ":
+  type: article
+  title: "Compact Binary Mergers and the Event Rate of Fast Radio Bursts"
+  author: [{name: "Cao, X.-F. and Yu, Y.-W. and Zhou, X."}]
+  date: 2018
+  parent: {type: periodical, title: "apj", volume: "858"}
+  page-range: "89"
+  doi: "10.3847/1538-4357/aabadd"
+
+"Abb16a":
+  type: article
+  title: "Observation of Gravitational Waves from a Binary Black Hole Merger"
+  author: [{name: "Abbott, B. P. and Abbott, R. and Abbott, T. D. and Abernathy, M. R. and Acernese, F. and Ackley, K. and Adams, C. and Adams, T. and Addesso, P. and Adhikari, R. X. and et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "116"}
+  page-range: "061102"
+  doi: "10.1103/PhysRevLett.116.061102"
+
+"Abb16b":
+  type: article
+  title: "Binary Black Hole Mergers in the First Advanced LIGO Observing Run"
+  author: [{name: "Abbott, B. P. and Abbott, R. and Abbott, T. D. and Abernathy, M. R. and Acernese, F. and Ackley, K. and Adams, C. and Adams, T. and Addesso, P. and Adhikari, R. X. and et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review X", volume: "6"}
+  page-range: "041015"
+  doi: "10.1103/PhysRevX.6.041015"
+
+"Bad12":
+  type: article
+  title: "The Merger Rate of Binary White Dwarfs in the Galactic Disk"
+  author: [{name: "Badenes, C. and Maoz, D."}]
+  date: 2012
+  parent: {type: periodical, title: "ApJL", volume: "749"}
+  serial-number: "L11"
+  doi: "10.1088/2041-8205/749/1/L11"
+
+"Li11MNb":
+  type: article
+  title: "Nearby supernova rates from the Lick Observatory Supernova Search - III. The rate-size relation, and the rates as a function of galaxy Hubble type and colour"
+  author: [{name: "Li, W. and Chornock, R. and Leaman, J. and Filippenko, A. V. and Poznanski, D. and Wang, X. and Ganeshalingam, M. and Mannucci, F."}]
+  date: 2011
+  parent: {type: periodical, title: "mnras", volume: "412"}
+  page-range: "1473-1507"
+  doi: "10.1111/j.1365-2966.2011.18162.x"
+
+"Liv18":
+  type: article
+  title: "On the progenitors of Type Ia supernovae"
+  author: [{name: "Livio, M. and Mazzali, P."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rep.", volume: "736"}
+  page-range: "1-23"
+  doi: "10.1016/j.physrep.2018.02.002"
+
+"Maoz18":
+  type: article
+  title: "The separation distribution and merger rate of double white dwarfs: improved constraints"
+  author: [{name: "Maoz, D. and Hallakoun, N. and Badenes, C."}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "476"}
+  page-range: "2584-2590"
+  doi: "10.1093/mnras/sty339"
+
+"Map18":
+  type: article
+  title: "The cosmic merger rate of neutron stars and black holes"
+  author: [{name: "Mapelli, M. and Giacobbo, N."}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "479"}
+  page-range: "4391-4398"
+  doi: "10.1093/mnras/sty1613"
+
+"Web84":
+  type: article
+  title: "Double white dwarfs as progenitors of R Coronae Borealis stars and Type I supernovae"
+  author: [{name: "Webbink, R. F."}]
+  date: 1984
+  parent: {type: periodical, title: "apj", volume: "277"}
+  page-range: "355-360"
+  doi: "10.1086/161701"
+
+"Gal12":
+  type: article
+  title: "Luminous Supernovae"
+  author: [{name: "Gal-Yam, A."}]
+  date: 2012
+  parent: {type: periodical, title: "Science", volume: "337"}
+  page-range: "927"
+  doi: "10.1126/science.1203601"
+
+"Pod04":
+  type: article
+  title: "The Rates of Hypernovae and Gamma-Ray Bursts: Implications for Their Progenitors"
+  author: [{name: "Podsiadlowski, Ph. and Mazzali, P. A. and Nomoto, K. and Lazzati, D. and Cappellaro, E."}]
+  date: 2004
+  parent: {type: periodical, title: "apj", volume: "607"}
+  serial-number: "L17-L20"
+  doi: "10.1086/421347"
+
+"Zen18":
+  type: article
+  title: "Neutron star - white dwarf mergers: Early evolution, physical properties, and outcomes"
+  author: [{name: "Zenati, Yossef and Perets, Hagai B. and Toonen, Silvia"}]
+  date: 2018
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1807.09777"
+
+"Too18":
+  type: article
+  title: "The demographics of neutron star - white dwarf mergers. Rates, delay-time distributions, and progenitors"
+  author: [{name: "Toonen, S. and Perets, H. B. and Igoshev, A. P. and Michaely, E. and Zenati, Y."}]
+  date: 2018
+  parent: {type: periodical, title: "aa", volume: "619"}
+  serial-number: "A53"
+  doi: "10.1051/0004-6361/201833164"
+
+"CHIME19Nat01":
+  type: article
+  title: "Observations of fast radio bursts at frequencies down to 400 megahertz"
+  author: [{name: "CHIME/FRB Collaboration and Amiri, M. and Bandura, K. and Bhardwaj, M. and Boubel, P. and Boyce, M. M. and Boyle, P. J. and Brar, C. and Burhanpurkar, M. and Chawla, P. and Cliche, J. F. and Cubranic, D. and Deng, M. and Denman, N. and Dobbs, M. and Fand ino, M. and Fonseca, E. and Gaensler, B. M. and Gilbert, A. J. and Giri, U. and Good, D. C. and Halpern, M. and Hanna, D and Hill, A. S. and Hinshaw, G. and H\\\"ofer, C. and Josephy, A. and Kaspi, V. M. and Landecker, T. L. and Lang, D. A. and Masui, K. W. and Mckinven, R. and Mena-Parra, J. and Merryfield, M. and Milutinovic, N. and Moatti, C. and Naidu, A. and Newburgh, L. B. and Ng, C. and Patel, C. and Pen, U. and Pinsonneault-Marotte, T. and Pleunis, Z. and Rafiei-Ravandi, M. and Ransom, S. M. and Renard, A. and Scholz, P. and Shaw, J. R. and Siegel, S. R. and Smith, K. M. and Stairs, I. H. and Tendulkar, S. P. and Tretyakov, I. and Vand erlinde, K. and Yadav, P."}]
+  date: 2019
+  parent: {type: periodical, title: "nat", volume: "566"}
+  page-range: "230-234"
+  doi: "10.1038/s41586-018-0867-7"
+
+"Deng18arXiv":
+  type: article
+  title: "The Energy Function and Cosmic Formation Rate of Fast Radio Bursts"
+  author: [{name: "Deng, Can-Min and Wei, Jun-Jie and Wu, Xue-Feng"}]
+  date: 2018
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1811.09483"
+
+"James19MN":
+  type: article
+  title: "Limits on the population of repeating fast radio bursts from the ASKAP/CRAFT lat50 survey"
+  author: [{name: "James, C. W."}]
+  date: 2019
+  parent: {type: periodical, title: "mnras", volume: "486"}
+  page-range: "5934-5950"
+  doi: "10.1093/mnras/stz1224"
+
+"Vedantham16ApJ":
+  type: article
+  title: "The Fluence and Distance Distributions of Fast Radio Bursts"
+  author: [{name: "Vedantham, H. K. and Ravi, V. and Hallinan, G. and Shannon, R. M."}]
+  date: 2016
+  parent: {type: periodical, title: "apj", volume: "830"}
+  page-range: "75"
+  doi: "10.3847/0004-637X/830/2/75"
+
+"ME18MN":
+  type: article
+  title: "Fast radio burst event rate counts - I. Interpreting the observations"
+  author: [{name: "Macquart, J. -P. and Ekers, R. D."}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "474"}
+  page-range: "1900-1908"
+  doi: "10.1093/mnras/stx2825"
+
+"Caleb16MN":
+  type: article
+  title: "Are the distributions of fast radio burst properties consistent with a cosmological population?"
+  author: [{name: "Caleb, M. and Flynn, C. and Bailes, M. and Barr, E. D. and Hunstead, R. W. and Keane, E. F. and Ravi, V. and van Straten, W."}]
+  date: 2016
+  parent: {type: periodical, title: "mnras", volume: "458"}
+  page-range: "708-717"
+  doi: "10.1093/mnras/stw175"
+
+"Locatelli18arXiv":
+  type: article
+  title: "The luminosity--volume test for cosmological Fast Radio Bursts"
+  author: [{name: "Locatelli, Nicola and Ronchi, Michele and Ghirlanda, Giancarlo and Ghisellini, Gabriele"}]
+  date: 2018
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1811.10641"
+
+"Connor18ApJ":
+  type: article
+  title: "On Detecting Repetition from Fast Radio Bursts"
+  author: [{name: "Connor, Liam and Petroff, Emily"}]
+  date: 2018
+  parent: {type: periodical, title: "apj", volume: "861"}
+  serial-number: "L1"
+  doi: "10.3847/2041-8213/aacd02"
+
+"Connor16MNa":
+  type: article
+  title: "FRB repetition and non-Poissonian statistics"
+  author: [{name: "Connor, Liam and Pen, Ue-Li and Oppermann, Niels"}]
+  date: 2016
+  parent: {type: periodical, title: "mnras", volume: "458"}
+  serial-number: "L89-L93"
+  doi: "10.1093/mnrasl/slw026"
+
+"Connor16MNb":
+  type: article
+  title: "Constraints on the FRB rate at 700-900 MHz"
+  author: [{name: "Connor, Liam and Lin, Hsiu-Hsien and Masui, Kiyoshi and Oppermann, Niels and Pen, Ue-Li and Peterson, Jeffrey B. and Roman, Alexander and Sievers, Jonathan"}]
+  date: 2016
+  parent: {type: periodical, title: "mnras", volume: "460"}
+  page-range: "1054-1058"
+  doi: "10.1093/mnras/stw907"
+
+"CHIME18ApJ":
+  type: article
+  title: "The CHIME Fast Radio Burst Project: System Overview"
+  author: [{name: "CHIME/FRB Collaboration and Amiri, M. and Bandura, K. and Berger, P. and Bhardwaj, M. and Boyce, M. M. and Boyle, P. J. and Brar, C. and Burhanpurkar, M. and Chawla, P. and Chowdhury, J. and Cliche, J. -F. and Cranmer, M. D. and Cubranic, D. and Deng, M. and Denman, N. and Dobbs, M. and Fandino, M. and Fonseca, E. and Gaensler, B. M. and Giri, U. and Gilbert, A. J. and Good, D. C. and Guliani, S. and Halpern, M. and Hinshaw, G. and H\\\"ofer, C. and Josephy, A. and Kaspi, V. M. and Landecker, T. L. and Lang, D. and Liao, H. and Masui, K. W. and Mena-Parra, J. and Naidu, A. and Newburgh, L. B. and Ng, C. and Patel, C. and Pen, U. -L. and Pinsonneault-Marotte, T. and Pleunis, Z. and Rafiei Ravandi, M. and Ransom, S. M. and Renard, A. and Scholz, P. and Sigurdson, K. and Siegel, S. R. and Smith, K. M. and Stairs, I. H. and Tendulkar, S. P. and Vand erlinde, K. and Wiebe, D. V."}]
+  date: 2018
+  parent: {type: periodical, title: "apj", volume: "863"}
+  page-range: "48"
+  doi: "10.3847/1538-4357/aad188"
+
+"Chen12IJMPS":
+  type: article
+  title: "The Tianlai Project: a 21CM Cosmology Experiment"
+  author: [{name: "Chen, Xuelei"}]
+  date: 2012
+  parent: {type: proceedings, title: "International Journal of Modern Physics Conference Series", volume: "12"}
+  page-range: "256-263"
+  doi: "10.1142/S2010194512006459"
+
+"James19PASA":
+  type: article
+  title: "The performance and calibration of the CRAFT fly's eye fast radio burst survey"
+  author: [{name: "James, C. W. and Bannister, K. W. and Macquart, J. -P. and Ekers, R. D. and Oslowski, S. and Shannon, R. M. and Allison, J. R. and Chippendale, A. P. and Collier, J. D. and Franzen, T. and Hotan, A. W. and Leach, M. and McConnell, D. and Pilawa, M. A. and Voronkov, M. A. and Whiting, M. T."}]
+  date: 2019
+  parent: {type: periodical, title: "Publications of the Astronomical Society of Australia", volume: "36"}
+  serial-number: "e009"
+  doi: "10.1017/pasa.2019.1"
+
+"Bera16MN":
+  type: article
+  title: "On modelling the Fast Radio Burst population and event rate predictions"
+  author: [{name: "Bera, Apurba and Bhattacharyya, Siddhartha and Bharadwaj, Somnath and Bhat, N. D. Ramesh and Chengalur, Jayaram N."}]
+  date: 2016
+  parent: {type: periodical, title: "mnras", volume: "457"}
+  page-range: "2530-2539"
+  doi: "10.1093/mnras/stw177"
+
+"Farah19arXiv":
+  type: article
+  title: "Five new real-time detections of Fast Radio Bursts with UTMOST"
+  author: [{name: "Farah, W. and Flynn, C. and Bailes, M. and Jameson, A. and Bateman, T. and Campbell-Wilson, D. and Day, C. K. and Deller, A. T. and Green, A. J. and Gupta, V. and Hunstead, R. and Lower, M. E. and Osłowski, S. and Parthasarathy, A. and Price, D. C. and Ravi, V. and Shannon, R. M. and Sutherland , A. and Temby, D. and Krishnan, V. Venkatraman and Caleb, M. and Chang, S. -W. and Cruces, M. and Roy, J. and Morello, V. and Onken, C. A. and Stappers, B. W. and Wolf, C."}]
+  date: 2019
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1905.02293"
+
+"Zhang19MN":
+  type: article
+  title: "A new fast radio burst in the data sets containing the Lorimer burst"
+  author: [{name: "Zhang, S.-B. and Hobbs, G. and Dai, S. and Toomey, L. and Staveley-Smith, L. and Russell, C. J. and Wu, X. -F."}]
+  date: 2019
+  parent: {type: periodical, title: "mnras", volume: "484"}
+  serial-number: "L147-L150"
+  doi: "10.1093/mnrasl/slz023"
+
+"CHIME200428":
+  type: article
+  title: "A bright millisecond-duration radio burst from a Galactic magnetar"
+  author: [{name: "CHIME/FRB Collaboration and Andersen, B. C. and Bandura, K. M. and Bhardwaj, M. and Bij, A. and Boyce, M. M. and Boyle, P. J. and Brar, C. and Cassanelli, T. and Chawla, P. and Chen, T. and Cliche, J. -F. and Cook, A. and Cubranic, D. and Curtin, A. P. and Denman, N. T. and Dobbs, M. and Dong, F. Q. and Fandino, M. and Fonseca, E. and Gaensler, B. M. and Giri, U. and Good, D. C. and Halpern, M. and Hill, A. S. and Hinshaw, G. F. and H\\\"ofer, C. and Josephy, A. and Kania, J. W. and Kaspi, V. M. and Landecker, T. L. and Leung, C. and Li, D. Z. and Lin, H. -H. and Masui, K. W. and McKinven, R. and Mena-Parra, J. and Merryfield, M. and Meyers, B. W. and Michilli, D. and Milutinovic, N. and Mirhosseini, A. and M\\\"unchmeyer, M. and Naidu, A. and Newburgh, L. B. and Ng, C. and Patel, C. and Pen, U. -L. and Pinsonneault-Marotte, T. and Pleunis, Z. and Quine, B. M. and Rafiei-Ravandi, M. and Rahman, M. and Ransom, S. M. and Renard, A. and Sanghavi, P. and Scholz, P. and Shaw, J. R. and Shin, K. and Siegel, S. R. and Singh, S. and Smegal, R. J. and Smith, K. M. and Stairs, I. H. and Tan, C. M. and Tendulkar, S. P. and Tretyakov, I. and Vanderlinde, K. and Wang, H. and Wulf, D. and Zwaniga, A. V."}]
+  date: 2020
+  parent: {type: periodical, title: "nat", volume: "587"}
+  page-range: "54-58"
+  doi: "10.1038/s41586-020-2863-y"
+
+"Bocheneck20":
+  type: article
+  title: "A fast radio burst associated with a Galactic magnetar"
+  author: [{name: "Bochenek, C. D. and Ravi, V. and Belov, K. V. and Hallinan, G. and Kocz, J. and Kulkarni, S. R. and McKenna, D. L."}]
+  date: 2020
+  parent: {type: periodical, title: "nat", volume: "587"}
+  page-range: "59-62"
+  doi: "10.1038/s41586-020-2872-x"
+
+"Zhang20Nature":
+  type: article
+  title: "The physical mechanisms of fast radio bursts"
+  author: [{name: "Zhang, Bing"}]
+  date: 2020
+  parent: {type: periodical, title: "nat", volume: "587"}
+  page-range: "45-53"
+  doi: "10.1038/s41586-020-2828-1"
+
+"Li11MN":
+  type: article
+  title: "Nearby supernova rates from the Lick Observatory Supernova Search - II. The observed luminosity functions and fractions of supernovae in a complete sample"
+  author: [{name: "Li, Weidong and Leaman, Jesse and Chornock, Ryan and Filippenko, Alexei V. and Poznanski, Dovi and Ganeshalingam, Mohan and Wang, Xiaofeng and Modjaz, Maryam and Jha, Saurabh and Foley, Ryan J. and Smith, Nathan"}]
+  date: 2011
+  parent: {type: periodical, title: "mnras", volume: "412"}
+  page-range: "1441-1472"
+  doi: "10.1111/j.1365-2966.2011.18160.x"
+
+"CHP12":
+  type: article
+  title: "The Swift short gamma-ray burst rate density: implications for binary neutron star merger rates"
+  author: [{name: "Coward, D. M. and Howell, E. J. and Piran, T. and Stratta, G. and Branchesi, M. and Bromberg, O. and Gendre, B. and Burman, R. R. and Guetta, D."}]
+  date: 2012
+  parent: {type: periodical, title: "mnras", volume: "425"}
+  page-range: "2668-2673"
+  doi: "10.1111/j.1365-2966.2012.21604.x"
+
+"CTP07":
+  type: article
+  title: "How common are long gamma-ray bursts in the local Universe?"
+  author: [{name: "Chapman, Robert and Tanvir, Nial R. and Priddey, Robert S. and Levan, Andrew J."}]
+  date: 2007
+  parent: {type: periodical, title: "mnras", volume: "382"}
+  serial-number: "L21-L25"
+  doi: "10.1111/j.1745-3933.2007.00381.x"
+
+"Petroff19MN":
+  type: article
+  title: "A fast radio burst with a low dispersion measure"
+  author: [{name: "Petroff, E. and Oostrum, L. C. and Stappers, B. W. and Bailes, M. and Barr, E. D. and Bates, S. and Bhandari, S. and Bhat, N. D. R. and Burgay, M. and Burke-Spolaor, S. and Cameron, A. D. and Champion, D. J. and Eatough, R. P. and Flynn, C. M. L. and Jameson, A. and Johnston, S. and Keane, E. F. and Keith, M. J. and Kramer, M. and Levin, L. and Morello, V. and Ng, C. and Possenti, A. and Ravi, V. and van Straten, W. and Thornton, D. and Tiburzi, C."}]
+  date: 2019
+  parent: {type: periodical, title: "mnras", volume: "482"}
+  page-range: "3109-3115"
+  doi: "10.1093/mnras/sty2909"
+
+"Thompson09arXiv":
+  type: article
+  title: "A High Rate of White Dwarf-Neutron Star Mergers &amp; Their Transients"
+  author: [{name: "Thompson, Todd A. and Kistler, Matthew D. and Stanek, K. Z."}]
+  date: 2009
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:0912.0009"
+
+"BM12ApJ":
+  type: article
+  title: "The Merger Rate of Binary White Dwarfs in the Galactic Disk"
+  author: [{name: "Badenes, Carles and Maoz, Dan"}]
+  date: 2012
+  parent: {type: periodical, title: "apj", volume: "749"}
+  serial-number: "L11"
+  doi: "10.1088/2041-8205/749/1/L11"
+
+"Connor19arXiv":
+  type: article
+  title: "Interpreting the distributions of FRB observables"
+  author: [{name: "Connor, Liam"}]
+  date: 2019
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1905.00755"
+
+"Ofek07ApJ":
+  type: article
+  title: "Soft Gamma-Ray Repeaters in Nearby Galaxies: Rate, Luminosity Function, and Fraction among Short Gamma-Ray Bursts"
+  author: [{name: "Ofek, E. O."}]
+  date: 2007
+  parent: {type: periodical, title: "apj", volume: "659"}
+  page-range: "339-346"
+  doi: "10.1086/511147"
+
+"Kulkarni14ApJ":
+  type: article
+  title: "Giant Sparks at Cosmological Distances?"
+  author: [{name: "Kulkarni, S. R. and Ofek, E. O. and Neill, J. D. and Zheng, Z. and Juric, M."}]
+  date: 2014
+  parent: {type: periodical, title: "apj", volume: "797"}
+  page-range: "70"
+  doi: "10.1088/0004-637X/797/1/70"
+
+"Cordes17APJ":
+  type: article
+  title: "Lensing of Fast Radio Bursts by Plasma Structures in Host Galaxies"
+  author: [{name: "Cordes, J. M. and Wasserman, I. and Hessels, J. W. T. and Lazio, T. J. W. and Chatterjee, S. and Wharton, R. S."}]
+  date: 2017
+  parent: {type: periodical, title: "apj", volume: "842"}
+  page-range: "35"
+  doi: "10.3847/1538-4357/aa74da"
+
+"DKL19":
+  type: article
+  title: "Radio emission from a pulsar’s magnetic pole revealed by general relativity"
+  author: [{name: "Desvignes, Gregory and Kramer, Michael and Lee, Kejia and van Leeuwen, Joeri and Stairs, Ingrid and Jessner, Axel and Cognard, Isma\\\"el and Kasian, Laura and Lyne, Andrew and Stappers, Ben W."}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "365"}
+  page-range: "1013-1017"
+  doi: "10.1126/science.aav7272"
+
+"Lyubarsky14":
+  type: article
+  title: "A model for fast extragalactic radio bursts."
+  author: [{name: "Lyubarsky, Yu."}]
+  date: 2014
+  parent: {type: periodical, title: "mnras", volume: "442"}
+  serial-number: "L9-L13"
+  doi: "10.1093/mnrasl/slu046"
+
+"Beloborodov17":
+  type: article
+  title: "A Flaring Magnetar in FRB 121102?"
+  author: [{name: "Beloborodov, Andrei M."}]
+  date: 2017
+  parent: {type: periodical, title: "apjl", volume: "843"}
+  serial-number: "L26"
+  doi: "10.3847/2041-8213/aa78f3"
+
+"Han18":
+  type: article
+  title: "Pulsar Rotation Measures and Large-scale Magnetic Field Reversals in the Galactic Disk"
+  author: [{name: "Han, J. L. and Manchester, R. N. and van Straten, W. and Demorest, P."}]
+  date: 2018
+  parent: {type: periodical, title: "apjs", volume: "234"}
+  page-range: "11"
+  doi: "10.3847/1538-4365/aa9c45"
+
+"Murase16":
+  type: article
+  title: "A burst in a wind bubble and the impact on baryonic ejecta: high-energy gamma-ray flashes and afterglows from fast radio bursts and pulsar-driven supernova remnants"
+  author: [{name: "Murase, Kohta and Kashiyama, Kazumi and M\\'esz\\'aros, Peter"}]
+  date: 2016
+  parent: {type: periodical, title: "mnras", volume: "461"}
+  page-range: "1498-1511"
+  doi: "10.1093/mnras/stw1328"
+
+"Metzger17":
+  type: article
+  title: "Millisecond Magnetar Birth Connects FRB 121102 to Superluminous Supernovae and Long-duration Gamma-Ray Bursts"
+  author: [{name: "Metzger, Brian D. and Berger, Edo and Margalit, Ben"}]
+  date: 2017
+  parent: {type: periodical, title: "apj", volume: "841"}
+  page-range: "14"
+  doi: "10.3847/1538-4357/aa633d"
+
+"Jiang19SCPMA":
+  type: article
+  title: "Commissioning progress of the FAST"
+  author: [{name: "Jiang, Peng and Yue, YouLing and Gan, HengQian and Yao, Rui and Li, Hui and Pan, GaoFeng and Sun, JingHai and Yu, DongJun and Liu, HongFei and Tang, NingYu and Qian, Lei and Lu, JiGuang and Yan, Jun and Peng, Bo and Zhang, ShuXin and Wang, QiMing and Li, Qi and Li, Di"}]
+  date: 2019
+  parent: {type: periodical, title: "scpma", volume: "62"}
+  page-range: "959502"
+  doi: "10.1007/s11433-018-9376-1"
+
+"Jiang20RAA":
+  type: article
+  title: "The fundamental performance of FAST with 19-beam receiver at L band"
+  author: [{name: "Jiang, Peng and Tang, Ning-Yu and Hou, Li-Gang and Liu, Meng-Ting and Kr\\vco, Marko and Qian, Lei and Sun, Jing-Hai and Ching, Tao-Chung and Liu, Bin and Duan, Yan and Yue, You-Ling and Gan, Heng-Qian and Yao, Rui and Li, Hui and Pan, Gao-Feng and Yu, Dong-Jun and Liu, Hong-Fei and Li, Di and Peng, Bo and Yan, Jun and FAST Collaboration"}]
+  date: 2020
+  parent: {type: periodical, title: "raa", volume: "20"}
+  page-range: "064"
+  doi: "10.1088/1674-4527/20/5/64"
+
+"Ravi19NA":
+  type: article
+  title: "The prevalence of repeating fast radio bursts"
+  author: [{name: "Ravi, Vikram"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Astronomy", volume: "3"}
+  page-range: "928-931"
+  doi: "10.1038/s41550-019-0831-y"
+
+"Beloborodov19":
+  type: article
+  title: "Blast Waves from Magnetar Flares and Fast Radio Bursts"
+  author: [{name: "Beloborodov, Andrei M."}]
+  date: 2019
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1908.07743"
+
+"fast19beam":
+  type: article
+  title: "Design and laboratory testing of the five hundred meter aperture spherical telescope (FAST) 19 beam L-band receiver"
+  author: [{name: "Dunning, Alex and Bowen, Mark and Castillo, Santiago and Chung, Yoon and Doherty, Paul and George, Daniel and Hayman, Douglas and Jeganathan, Kanapathippillai and Kanoniuk, Henry and Mackay, Simon and Reilly, Les and Roush, Peter and Smart, Sean and Shaw, Robert and Smith, Stephanie and Tzioumis, Tasso and Venables, Veronica-Claire"}]
+  date: 2017
+  page-range: "1-4"
+  doi: "10.23919/URSIGASS.2017.8105012"
+
+"Qiu19MN":
+  type: article
+  title: "A survey of the Galactic plane for dispersed radio pulses with the Australian Square Kilometre Array Pathfinder"
+  author: [{name: "Qiu, Hao and Bannister, K. W. and Shannon, R. M. and Murphy, Tara and Bhandari, Shivani and Agarwal, Devansh and Lorimer, D. R. and Bunton, J. D."}]
+  date: 2019
+  parent: {type: periodical, title: "Mon. Not. R. Astron. Soc.", volume: "486"}
+  page-range: "166-174"
+  doi: "10.1093/mnras/stz748"
+
+"Marcote20Nat":
+  type: article
+  title: "A repeating fast radio burst source localised to a nearby spiral galaxy"
+  author: [{name: "Marcote, B. and Nimmo, K. and Hessels, J. W. T. and Tendulkar, S. P. and Bassa, C. G. and Paragi, Z. and Keimpema, A. and Bhardwaj, M. and Karuppusamy, R. and Kaspi, V. M. and Law, C. J. and Michilli, D. and Aggarwal, K. and Andersen, B. and Archibald, A. M. and Bandura, K. and Bower, G. C. and Boyle, P. J. and Brar, C. and Burke-Spolaor, S. and Butler, B. J. and Cassanelli, T. and Chawla, P. and Demorest, P. and Dobbs, M. and Fonseca, E. and Giri, U. and Good, D. C. and Gourdji, K. and Josephy, A. and Kirichenko, A. Yu. and Kirsten, F. and Landecker, T. L. and Lang, D. and Lazio, T. J. W. and Li, D. Z. and Lin, H. -H. and Linford, J. D. and Masui, K. and Mena-Parra, J. and Naidu, A. and Ng, C. and Patel, C. and Pen, U. -L. and Pleunis, Z. and Rafiei-Ravandi, M. and Rahman, M. and Renard, A. and Scholz, P. and Siegel, S. R. and Smith, K. M. and Stairs, I. H. and Vanderlinde, K. and Zwaniga, A. V."}]
+  date: 2020
+  parent: {type: periodical, title: "nat"}
+  serial-number: "arXiv:2001.02222"
+
+"CHIME20arXiv":
+  type: article
+  title: "Nine New Repeating Fast Radio Burst Sources from CHIME/FRB"
+  author: [{name: "Fonseca, E. and Andersen, B. C. and Bhardwaj, M. and Chawla, P. and Good, D. C. and Josephy, A. and Kaspi, V. M. and Masui, K. W. and Mckinven, R. and Michilli, D. and Pleunis, Z. and Shin, K. and Tendulkar, S. P. and Bandura, K. M. and Boyle, P. J. and Brar, C. and Cassanelli, T. and Cubranic, D. and Dobbs, M. and Dong, F. Q. and Gaensler, B. M. and Hinshaw, G. and Land ecker, T. L. and Leung, C. and Li, D. Z. and Lin, H. -H. and Mena-Parra, J. and Merryfield, M. and Naidu, A. and Ng, C. and Patel, C. and Pen, U. and Rafiei-Ravandi, M. and Rahman, M. and Ransom, S. M. and Scholz, P. and Smith, K. M. and Stairs, I. H. and Vanderlinde, K. and Yadav, P. and Zwaniga, A. V."}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2001.03595"
+
+"RadhakrishnanApL1969":
+  type: article
+  title: "Magnetic Poles and the Polarization Structure of Pulsar Radiation"
+  author: [{name: "Radhakrishnan, V. and Cooke, D. J."}]
+  date: 1969
+  parent: {type: periodical, title: "Astrophys. Lett.", volume: "3"}
+  page-range: "225"
+
+"rmsyn15":
+  type: article
+  title: "Rotation measure synthesis revisited."
+  author: [{name: "Schnitzeler, D. H. F. M. and Lee, K. J."}]
+  date: 2015
+  parent: {type: periodical, title: "mnras", volume: "447"}
+  serial-number: "L26-L30"
+  doi: "10.1093/mnrasl/slu171"
+
+"2015MNRAS.450.3579S":
+  type: article
+  title: "Polarization signatures of unresolved radio sources"
+  author: [{name: "Schnitzeler, D. H. F. M. and Banfield, J. K. and Lee, K. J."}]
+  date: 2015
+  parent: {type: periodical, title: "mnras", volume: "450"}
+  page-range: "3579-3596"
+  doi: "10.1093/mnras/stv708"
+
+"DBC17":
+  type: article
+  title: "Design and laboratory testing of the five hundred meter aperture spherical telescope (FAST) 19 beam L-band receiver"
+  author: [{name: "Dunning, A. and Bowen, M. and Castillo, S. and Chung, Y. and Doherty, P. and George, D. and Hayman, D. B. and Jeganathan, K. and Kanoniuk, H. and Mackay, S. and others"}]
+  date: 2017
+  parent: {type: proceedings, title: "XXXIInd International Union of Radio Science general assembly and scientific symposium, Montreal"}
+  serial-number: "J9-1"
+
+"SL17":
+  type: article
+  title: "Finding a faint polarized signal in wide-band radio data"
+  author: [{name: "Schnitzeler, D. H. F. M. and Lee, K. J."}]
+  date: 2017
+  parent: {type: periodical, title: "mnras", volume: "466"}
+  page-range: "378-391"
+  doi: "10.1093/mnras/stw3104"
+
+"Deng14":
+  type: article
+  title: "Cosmological Implications of Fast Radio Burst/Gamma-Ray Burst Associations"
+  author: [{name: "Deng, Wei and Zhang, Bing"}]
+  date: 2014
+  parent: {type: periodical, title: "apjl", volume: "783"}
+  serial-number: "L35"
+  doi: "10.1088/2041-8205/783/2/L35"
+
+"XuHan14":
+  type: article
+  title: "Redshift evolution of extragalactic rotation measures"
+  author: [{name: "Xu, J. and Han, J. L."}]
+  date: 2014
+  parent: {type: periodical, title: "mnras", volume: "442"}
+  page-range: "3329-3337"
+  doi: "10.1093/mnras/stu1018"
+
+"Cho20":
+  type: article
+  title: "Spectropolarimetric Analysis of FRB 181112 at Microsecond Resolution: Implications for Fast Radio Burst Emission Mechanism"
+  author: [{name: "Cho, Hyerin and Macquart, Jean-Pierre and Shannon, Ryan M. and Deller, Adam T. and Morrison, Ian S. and Ekers, Ron D. and Bannister, Keith W. and Farah, Wael and Qiu, Hao and Sammons, Mawson W. and Bailes, Matthew and Bhandari, Shivani and Day, Cherie K. and James, Clancy W. and Phillips, Chris J. and Prochaska, J. Xavier and Tuthill, John"}]
+  date: 2020
+  parent: {type: periodical, title: "apjl", volume: "891"}
+  serial-number: "L38"
+  doi: "10.3847/2041-8213/ab7824"
+
+"SSH13":
+  type: article
+  title: "Calibrating high-precision Faraday rotation measurements for LOFAR and the next generation of low-frequency radio telescopes"
+  author: [{name: "Sotomayor-Beltran, C. and Sobey, C. and Hessels, J. W. T. and de Bruyn, G. and Noutsos, A. and Alexov, A. and Anderson, J. and Asgekar, A. and Avruch, I. M. and Beck, R. and Bell, M. E. and Bell, M. R. and Bentum, M. J. and Bernardi, G. and Best, P. and Birzan, L. and Bonafede, A. and Breitling, F. and Broderick, J. and Brouw, W. N. and Br\\\"uggen, M. and Ciardi, B. and de Gasperin, F. and Dettmar, R. -J. and van Duin, A. and Duscha, S. and Eisl\\\"offel, J. and Falcke, H. and Fallows, R. A. and Fender, R. and Ferrari, C. and Frieswijk, W. and Garrett, M. A. and Grießmeier, J. and Grit, T. and Gunst, A. W. and Hassall, T. E. and Heald, G. and Hoeft, M. and Horneffer, A. and Iacobelli, M. and Juette, E. and Karastergiou, A. and Keane, E. and Kohler, J. and Kramer, M. and Kondratiev, V. I. and Koopmans, L. V. E. and Kuniyoshi, M. and Kuper, G. and van Leeuwen, J. and Maat, P. and Macario, G. and Markoff, S. and McKean, J. P. and Mulcahy, D. D. and Munk, H. and Orru, E. and Paas, H. and Pandey-Pommier, M. and Pilia, M. and Pizzo, R. and Polatidis, A. G. and Reich, W. and R\\\"ottgering, H. and Serylak, M. and Sluman, J. and Stappers, B. W. and Tagger, M. and Tang, Y. and Tasse, C. and ter Veen, S. and Vermeulen, R. and van Weeren, R. J. and Wijers, R. A. M. J. and Wijnholds, S. J. and Wise, M. W. and Wucknitz, O. and Yatawatta, S. and Zarka, P."}]
+  date: 2013
+  parent: {type: periodical, title: "aa", volume: "552"}
+  serial-number: "A58"
+  doi: "10.1051/0004-6361/201220728"
+
+"Lyutikov20":
+  type: article
+  title: "Radius-to-frequency Mapping and FRB Frequency Drifts"
+  author: [{name: "Lyutikov, Maxim"}]
+  date: 2020
+  parent: {type: periodical, title: "apj", volume: "889"}
+  page-range: "135"
+  doi: "10.3847/1538-4357/ab55de"
+
+"Zhangy18":
+  type: article
+  title: "Fast Radio Burst 121102 Pulse Detection and Periodicity: A Machine Learning Approach"
+  author: [{name: "Zhang, Yunfan Gerry and Gajjar, Vishal and Foster, Griffin and Siemion, Andrew and Cordes, James and Law, Casey and Wang, Yu"}]
+  date: 2018
+  parent: {type: periodical, title: "apj", volume: "866"}
+  page-range: "149"
+  doi: "10.3847/1538-4357/aadf31"
+
+"Zhang20":
+  type: article
+  title: "Fast Radio Bursts from Interacting Binary Neutron Star Systems"
+  author: [{name: "Zhang, Bing"}]
+  date: 2020
+  parent: {type: periodical, title: "apjl", volume: "890"}
+  serial-number: "L24"
+  doi: "10.3847/2041-8213/ab7244"
+
+"NKK09":
+  type: article
+  title: "Phase-resolved Faraday rotation in pulsars"
+  author: [{name: "Noutsos, A. and Karastergiou, A. and Kramer, M. and Johnston, S. and Stappers, B. W."}]
+  date: 2009
+  parent: {type: periodical, title: "mnras", volume: "396"}
+  page-range: "1559-1572"
+  doi: "10.1111/j.1365-2966.2009.14806.x"
+
+"DCD20":
+  type: article
+  title: "High time resolution and polarisation properties of ASKAP-localised fast radio bursts"
+  author: [{name: "Day, Cherie K. and Deller, A. T. and Shannon, R. M. and Qiu, Hao and Bannister, Keith W. and Bhandari, S. and Ekers, Ron and Flynn, Chris and James, C. W. and Macquart, J. -P. and Mahony, Elizabeth K. and Prochaska, J. Xavier"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2005.13162"
+
+"SL14":
+  type: article
+  title: "Pulse Broadening Measurements from the Galactic Center Pulsar J1745-2900"
+  author: [{name: "Spitler, L. G. and Lee, K. J. and Eatough, R. P. and Kramer, M. and Karuppusamy, R. and Bassa, C. G. and Cognard, I. and Desvignes, G. and Lyne, A. G. and Stappers, B. W. and Bower, G. C. and Cordes, J. M. and Champion, D. J. and Falcke, H."}]
+  date: 2014
+  parent: {type: periodical, title: "apjl", volume: "780"}
+  serial-number: "L3"
+  doi: "10.1088/2041-8205/780/1/L3"
+
+"JK18":
+  type: article
+  title: "Polarimetry of 600 pulsars from observations at 1.4 GHz with the Parkes radio telescope"
+  author: [{name: "Johnston, Simon and Kerr, Matthew"}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "474"}
+  page-range: "4629-4636"
+  doi: "10.1093/mnras/stx3095"
+
+"CHIMEAtel":
+  type: article
+  title: "Recent high activity from a repeating Fast Radio Burst discovered by CHIME/FRB"
+  author: [{name: "CHIME/FRB Collaboration"}]
+  date: 2021
+  parent: {type: periodical, title: "The Astronomer's Telegram", volume: "14497"}
+  page-range: "1"
+
+"LiBing2019":
+  type: article
+  title: "Statistical properties of the repeating fast radio burst source FRB 121102"
+  author: [{name: "Li, Bing and Li, Long-Biao and Zhang, Zhi-Bin and Geng, Jin-Jun and Song, Li-Ming and Huang, Yong-Feng and Yang, Yuan-Pei"}]
+  date: 2019
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:1901.03484"
+
+"LiDi2021":
+  type: article
+  title: "A bimodal burst energy distribution of a repeating fast radio burst source"
+  author: [{name: "Li, D. and Wang, P. and Zhu, W. W. and Zhang, B. and Zhang, X. X. and Duan, R. and Zhang, Y. K. and Feng, Y. and Tang, N. Y. and Chatterjee, S. and Cordes, J. M. and Cruces, M. and Dai, S. and Gajjar, V. and Hobbs, G. and Jin, C. and Kramer, M. and Lorimer, D. R. and Miao, C. C. and Niu, C. H. and Niu, J. R. and Pan, Z. C. and Qian, L. and Spitler, L. and Werthimer, D. and Zhang, G. Q. and Wang, F. Y. and Xie, X. Y. and Yue, Y. L. and Zhang, L. and Zhi, Q. J. and Zhu, Y."}]
+  date: 2021
+  parent: {type: periodical, title: "nature", volume: "598"}
+  page-range: "267-271"
+  doi: "10.1038/s41586-021-03878-5"
+
+"McKinnon2014":
+  type: article
+  title: "The Analytical Solution to the Temporal Broadening of a Gaussian-Shaped Radio Pulse by Multipath Scattering from a Thin Screen in the Interstellar Medium"
+  author: [{name: "McKinnon, M. M."}]
+  date: 2014
+  parent: {type: periodical, title: "pasp", volume: "126"}
+  page-range: "476"
+  doi: "10.1086/676975"
+
+"Cordes2021":
+  type: article
+  title: "Redshift Estimation and Constraints on Intergalactic and Interstellar Media from Dispersion and Scattering of Fast Radio Bursts"
+  author: [{name: "Cordes, James M. and Ocker, Stella Koch and Chatterjee, Shami"}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2108.01172"
+
+"Main2021":
+  type: article
+  title: "Scintillation time-scale measurement of the highly active FRB20201124A"
+  author: [{name: "Main, R. A. and Hilmarsson, G. H. and Marthi, V. R. and Spitler, L. G. and Wharton, R. S. and Bethapudi, S. and Li, D. Z. and Lin, H. -H."}]
+  date: 2022
+  parent: {type: periodical, title: "mnras", volume: "509"}
+  page-range: "3172-3180"
+  doi: "10.1093/mnras/stab3218"
+
+"CHIME20Nat":
+  type: article
+  title: "Periodic activity from a fast radio burst source"
+  author: [{name: "CHIME/FRB Collaboration and Amiri, M. and Andersen, B. C. and Bandura, K. M. and Bhardwaj, M. and Boyle, P. J. and Brar, C. and Chawla, P. and Chen, T. and Cliche, J. F. and Cubranic, D. and Deng, M. and Denman, N. T. and Dobbs, M. and Dong, F. Q. and Fandino, M. and Fonseca, E. and Gaensler, B. M. and Giri, U. and Good, D. C. and Halpern, M. and Hessels, J. W. T. and Hill, A. S. and H\\\"ofer, C. and Josephy, A. and Kania, J. W. and Karuppusamy, R. and Kaspi, V. M. and Keimpema, A. and Kirsten, F. and Landecker, T. L. and Lang, D. A. and Leung, C. and Li, D. Z. and Lin, H. -H. and Marcote, B. and Masui, K. W. and McKinven, R. and Mena-Parra, J. and Merryfield, M. and Michilli, D. and Milutinovic, N. and Mirhosseini, A. and Naidu, A. and Newburgh, L. B. and Ng, C. and Nimmo, K. and Paragi, Z. and Patel, C. and Pen, U. -L. and Pinsonneault-Marotte, T. and Pleunis, Z. and Rafiei-Ravandi, M. and Rahman, M. and Ransom, S. M. and Renard, A. and Sanghavi, P. and Scholz, P. and Shaw, J. R. and Shin, K. and Siegel, S. R. and Singh, S. and Smegal, R. J. and Smith, K. M. and Stairs, I. H. and Tendulkar, S. P. and Tretyakov, I. and Vanderlinde, K. and Wang, H. and Wang, X. and Wulf, D. and Yadav, P. and Zwaniga, A. V."}]
+  date: 2020
+  parent: {type: periodical, title: "nat", volume: "582"}
+  page-range: "351-355"
+  doi: "10.1038/s41586-020-2398-2"
+
+"Pleunis2021":
+  type: article
+  title: "LOFAR Detection of 110-188 MHz Emission and Frequency-dependent Activity from FRB 20180916B"
+  author: [{name: "Pleunis, Z. and Michilli, D. and Bassa, C. G. and Hessels, J. W. T. and Naidu, A. and Andersen, B. C. and Chawla, P. and Fonseca, E. and Gopinath, A. and Kaspi, V. M. and Kondratiev, V. I. and Li, D. Z. and Bhardwaj, M. and Boyle, P. J. and Brar, C. and Cassanelli, T. and Gupta, Y. and Josephy, A. and Karuppusamy, R. and Keimpema, A. and Kirsten, F. and Leung, C. and Marcote, B. and Masui, K. W. and Mckinven, R. and Meyers, B. W. and Ng, C. and Nimmo, K. and Paragi, Z. and Rahman, M. and Scholz, P. and Shin, K. and Smith, K. M. and Stairs, I. H. and Tendulkar, S. P."}]
+  date: 2021
+  parent: {type: periodical, title: "apjl", volume: "911"}
+  serial-number: "L3"
+  doi: "10.3847/2041-8213/abec72"
+
+"Platts2021":
+  type: article
+  title: "An analysis of the time-frequency structure of several bursts from FRB 121102 detected with MeerKAT"
+  author: [{name: "Platts, E. and Caleb, M. and Stappers, B. W. and Main, R. A. and Weltman, A. and Shock, J. P. and Kramer, M. and Bezuidenhout, M. C. and Jankowski, F. and Morello, V. and Possenti, A. and Rajwade, K. M. and Rhodes, L. and Wu, J."}]
+  date: 2021
+  parent: {type: periodical, title: "mnras", volume: "505"}
+  page-range: "3041-3053"
+  doi: "10.1093/mnras/stab1544"
+
+"Marthi2020":
+  type: article
+  title: "Detection of 15 bursts from the fast radio burst 180916.J0158+65 with the upgraded Giant Metrewave Radio Telescope"
+  author: [{name: "Marthi, V. R. and Gautam, T. and Li, D. Z. and Lin, H. -H. and Main, R. A. and Naidu, A. and Pen, U. -L. and Wharton, R. S."}]
+  date: 2020
+  parent: {type: periodical, title: "mnras", volume: "499"}
+  serial-number: "L16-L20"
+  doi: "10.1093/mnrasl/slaa148"
+
+"Simard2020":
+  type: article
+  title: "Scintillation Can Explain the Spectral Structure of the Bright Radio Burst from SGR 1935+2154"
+  author: [{name: "Simard, Dana and Ravi, Vikram"}]
+  date: 2020
+  parent: {type: periodical, title: "apjl", volume: "899"}
+  serial-number: "L21"
+  doi: "10.3847/2041-8213/abaa40"
+
+"Hilmarsson2021":
+  type: article
+  title: "Rotation Measure Evolution of the Repeating Fast Radio Burst Source FRB 121102"
+  author: [{name: "Hilmarsson, G. H. and Michilli, D. and Spitler, L. G. and Wharton, R. S. and Demorest, P. and Desvignes, G. and Gourdji, K. and Hackstein, S. and Hessels, J. W. T. and Nimmo, K. and Seymour, A. D. and Kramer, M. and Mckinven, R."}]
+  date: 2021
+  parent: {type: periodical, title: "apjl", volume: "908"}
+  serial-number: "L10"
+  doi: "10.3847/2041-8213/abdec0"
+
+"Gruzinov2019":
+  type: article
+  title: "Conversion Measure of Faraday Rotation-Conversion with Application to Fast Radio Bursts"
+  author: [{name: "Gruzinov, Andrei and Levin, Yuri"}]
+  date: 2019
+  parent: {type: periodical, title: "apj", volume: "876"}
+  page-range: "74"
+  doi: "10.3847/1538-4357/ab0fa3"
+
+"Li21":
+  type: article
+  title: "HXMT identification of a non-thermal X-ray burst from SGR J1935+2154 and with FRB 200428."
+  author: [{name: "Li, C. K. and Lin, L. and Xiong, S. L. and Ge, M. Y. and Li, X. B. and Li, T. P. and Lu, F. J. and Zhang, S. N. and Tuo, Y. L. and Nang, Y. and Zhang, B. and Xiao, S. and Chen, Y. and Song, L. M. and Xu, Y. P. and Liu, C. Z. and Jia, S. M. and Cao, X. L. and Qu, J. L. and Zhang, S. and Gu, Y. D. and Liao, J. Y. and Zhao, X. F. and Tan, Y. and Nie, J. Y. and Zhao, H. S. and Zheng, S. J. and Zheng, Y. G. and Luo, Q. and Cai, C. and Li, B. and Xue, W. C. and Bu, Q. C. and Chang, Z. and Chen, G. and Chen, L. and Chen, T. X. and Chen, Y. B. and Chen, Y. P. and Cui, W. and Cui, W. W. and Deng, J. K. and Dong, Y. W. and Du, Y. Y. and Fu, M. X. and Gao, G. H. and Gao, H. and Gao, M. and Gu, Y. D. and Guan, J. and Guo, C. C. and Han, D. W. and Huang, Y. and Huo, J. and Jiang, L. H. and Jiang, W. C. and Jin, J. and Jin, Y. J. and Kong, L. D. and Li, G. and Li, M. S. and Li, W. and Li, X. and Li, X. F. and Li, Y. G. and Li, Z. W. and Liang, X. H. and Liu, B. S. and Liu, G. Q. and Liu, H. W. and Liu, X. J. and Liu, Y. N. and Lu, B. and Lu, X. F. and Luo, T. and Ma, X. and Meng, B. and Ou, G. and Sai, N. and Shang, R. C. and Song, X. Y. and Sun, L. and Tao, L. and Wang, C. and Wang, G. F. and Wang, J. and Wang, W. S. and Wang, Y. S. and Wen, X. Y. and Wu, B. B. and Wu, B. Y. and Wu, M. and Xiao, G. C. and Xu, H. and Yang, J. W. and Yang, S. and Yang, Y. J. and Yang, Y. J. and Yi, Q. B. and Yin, Q. Q. and You, Y. and Zhang, W. C. and Zhang, W. Z. and Zhang, Y. and Zhang, Y. and Zhang, Y. F. and Zhang, Y. J. and Zhang, Z. and Zhang, Z. and Zhang, Z. L. and Zhou, D. K. and Zhou, J. F. and Zhu, Y. and Zhu, Y. X. and Zhuang, R. L."}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Astronomy", volume: "5"}
+  page-range: "378"
+
+"Ridnaia21":
+  type: article
+  title: "A peculiar hard X-ray counterpart of a Galactic fast radio burst"
+  author: [{name: "Ridnaia, A. and Svinkin, D. and Frederiks, D. and Bykov, A. and Popov, S. and Aptekar, R. and Golenetskii, S. and Lysenko, A. and Tsvetkova, A. and Ulanov, M. and Cline, T. L."}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Astronomy", volume: "5"}
+  page-range: "372-377"
+  doi: "10.1038/s41550-020-01265-0"
+
+"Mereghetti20":
+  type: article
+  title: "INTEGRAL Discovery of a Burst with Associated Radio Emission from the Magnetar SGR 1935+2154"
+  author: [{name: "Mereghetti, S. and Savchenko, V. and Ferrigno, C. and G\\\"otz, D. and Rigoselli, M. and Tiengo, A. and Bazzano, A. and Bozzo, E. and Coleiro, A. and Courvoisier, T. J. -L. and Doyle, M. and Goldwurm, A. and Hanlon, L. and Jourdain, E. and von Kienlin, A. and Lutovinov, A. and Martin-Carrillo, A. and Molkov, S. and Natalucci, L. and Onori, F. and Panessa, F. and Rodi, J. and Rodriguez, J. and S\\'anchez-Fern\\'andez, C. and Sunyaev, R. and Ubertini, P."}]
+  date: 2020
+  parent: {type: periodical, title: "apjl", volume: "898"}
+  serial-number: "L29"
+  doi: "10.3847/2041-8213/aba2cf"
+
+"Fong21":
+  type: article
+  title: "Chronicling the Host Galaxy Properties of the Remarkable Repeating FRB 20201124A"
+  author: [{name: "Fong, Wen-fai and Dong, Yuxin and Leja, Joel and Bhandari, Shivani and Day, Cherie K. and Deller, Adam T. and Kumar, Pravir and Prochaska, J. Xavier and Scott, Danica R. and Bannister, Keith W. and Eftekhari, Tarraneh and Gordon, Alexa C. and Heintz, Kasper E. and James, Clancy W. and Kilpatrick, Charles D. and Mahony, Elizabeth K. and Rouco Escorial, Alicia and Ryder, Stuart D. and Shannon, Ryan M. and Tejos, Nicolas"}]
+  date: 2021
+  parent: {type: periodical, title: "apjl", volume: "919"}
+  serial-number: "L23"
+  doi: "10.3847/2041-8213/ac242b"
+
+"Ravi21":
+  type: article
+  title: "The host galaxy and persistent radio counterpart of FRB 20201124A"
+  author: [{name: "Ravi, Vikram and Law, Casey J. and Li, Dongzi and Aggarwal, Kshitij and Bhardwaj, Mohit and Burke-Spolaor, Sarah and Connor, Liam and Lazio, T. Joseph W. and Simard, Dana and Somalwar, Jean and Tendulkar, Shriharsh P."}]
+  date: 2022
+  parent: {type: periodical, title: "mnras", volume: "513"}
+  page-range: "982-990"
+  doi: "10.1093/mnras/stac465"
+
+"Piro21":
+  type: article
+  title: "The fast radio burst FRB 20201124A in a star-forming region: Constraints to the progenitor and multiwavelength counterparts"
+  author: [{name: "Piro, L. and Bruni, G. and Troja, E. and O'Connor, B. and Panessa, F. and Ricci, R. and Zhang, B. and Burgay, M. and Dichiara, S. and Lee, K. J. and Lotti, S. and Niu, J. R. and Pilia, M. and Possenti, A. and Trudu, M. and Xu, H. and Zhu, W. W. and Kutyrev, A. S. and Veilleux, S."}]
+  date: 2021
+  parent: {type: periodical, title: "aa", volume: "656"}
+  serial-number: "L15"
+  doi: "10.1051/0004-6361/202141903"
+
+"Kewley2001":
+  type: article
+  title: "Theoretical Modeling of Starburst Galaxies"
+  author: [{name: "Kewley, L. J. and Dopita, M. A. and Sutherland, R. S. and Heisler, C. A. and Trevena, J."}]
+  date: 2001
+  parent: {type: periodical, title: "apj", volume: "556"}
+  page-range: "121-140"
+  doi: "10.1086/321545"
+
+"Kauffmann2003":
+  type: article
+  title: "The host galaxies of active galactic nuclei"
+  author: [{name: "Kauffmann, Guinevere and Heckman, Timothy M. and Tremonti, Christy and Brinchmann, Jarle and Charlot, St\\'ephane and White, Simon D. M. and Ridgway, Susan E. and Brinkmann, Jon and Fukugita, Masataka and Hall, Patrick B. and Ivezi\\'c, \\vZeljko and Richards, Gordon T. and Schneider, Donald P."}]
+  date: 2003
+  parent: {type: periodical, title: "mnras", volume: "346"}
+  page-range: "1055-1077"
+  doi: "10.1111/j.1365-2966.2003.07154.x"
+
+"BPT1981":
+  type: article
+  title: "Classification parameters for the emission-line spectra of extragalactic objects."
+  author: [{name: "Baldwin, J. A. and Phillips, M. M. and Terlevich, R."}]
+  date: 1981
+  parent: {type: periodical, title: "pasp", volume: "93"}
+  page-range: "5-19"
+  doi: "10.1086/130766"
+
+"Luo20Nat":
+  type: article
+  title: "Diverse polarization angle swings from a repeating fast radio burst source"
+  author: [{name: "Luo, R. and Wang, B. J. and Men, Y. P. and Zhang, C. F. and Jiang, J. C. and Xu, H. and Wang, W. Y. and Lee, K. J. and Han, J. L. and Zhang, B. and Caballero, R. N. and Chen, M. Z. and Chen, X. L. and Gan, H. Q. and Guo, Y. J. and Hao, L. F. and Huang, Y. X. and Jiang, P. and Li, H. and Li, J. and Li, Z. X. and Luo, J. T. and Pan, J. and Pei, X. and Qian, L. and Sun, J. H. and Wang, M. and Wang, N. and Wen, Z. G. and Xu, R. X. and Xu, Y. H. and Yan, J. and Yan, W. M. and Yu, D. J. and Yuan, J. P. and Zhang, S. B. and Zhu, Y."}]
+  date: 2020
+  parent: {type: periodical, title: "nat", volume: "586"}
+  page-range: "693-696"
+  doi: "10.1038/s41586-020-2827-2"
+
+"Piro18":
+  type: article
+  title: "The Dispersion and Rotation Measure of Supernova Remnants and Magnetized Stellar Winds: Application to Fast Radio Bursts"
+  author: [{name: "Piro, Anthony L. and Gaensler, B. M."}]
+  date: 2018
+  parent: {type: periodical, title: "apj", volume: "861"}
+  page-range: "150"
+  doi: "10.3847/1538-4357/aac9bc"
+
+"CHIMEFRB20201124A":
+  type: article
+  title: "A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A"
+  author: [{name: "Lanman, Adam E. and Andersen, Bridget C. and Chawla, Pragya and Josephy, Alexander and Noble, Gavin and Kaspi, Victoria M. and Bandura, Kevin and Bhardwaj, Mohit and Boyle, P. J. and Brar, Charanjot and Breitman, Daniela and Cassanelli, Tomas and Dong, Fengqiu (Adam) and Fonseca, Emmanuel and Gaensler, B. M. and Good, Deborah and Kaczmarek, Jane and Leung, Calvin and Masui, Kiyoshi W. and Meyers, B. W. and Ng, Cherry and Patel, Chitrang and Pearlman, Aaron B. and Petroff, Emily and Pleunis, Ziggy and Rafiei-Ravandi, Masoud and Rahman, Mubdi and Sanghavi, Pranav and Scholz, Paul and Shin, Kaitlyn and Stairs, Ingrid and Tendulkar, Shriharsh and Zwaniga, Andrew"}]
+  date: 2022
+  parent: {type: periodical, title: "apj", volume: "927"}
+  page-range: "59"
+  doi: "10.3847/1538-4357/ac4bc7"
+
+"HilmarssonFRB20201124A":
+  type: article
+  title: "Polarization properties of FRB 20201124A from detections with the Effelsberg 100-m radio telescope"
+  author: [{name: "Hilmarsson, G. H. and Spitler, L. G. and Main, R. A. and Li, D. Z."}]
+  date: 2021
+  parent: {type: periodical, title: "mnras", volume: "508"}
+  page-range: "5354-5361"
+  doi: "10.1093/mnras/stab2936"
+
+"FRB20201124AEVN":
+  type: article
+  title: "Milliarcsecond Localization of the Repeating FRB 20201124A"
+  author: [{name: "Nimmo, K. and Hewitt, D. M. and Hessels, J. W. T. and Kirsten, F. and Marcote, B. and Bach, U. and Blaauw, R. and Burgay, M. and Corongiu, A. and Feiler, R. and Gawro\\'nski, M. P. and Giroletti, M. and Karuppusamy, R. and Keimpema, A. and Kharinov, M. A. and Lindqvist, M. and Maccaferri, G. and Melnikov, A. and Mikhailov, A. and Ould-Boukattine, O. S. and Paragi, Z. and Pilia, M. and Possenti, A. and Snelders, M. P. and Surcis, G. and Trudu, M. and Venturi, T. and Vlemmings, W. and Wang, N. and Yang, J. and Yuan, J."}]
+  date: 2022
+  parent: {type: periodical, title: "apjl", volume: "927"}
+  serial-number: "L3"
+  doi: "10.3847/2041-8213/ac540f"
+
+"FRB20201124AEVNatel":
+  type: article
+  title: "VLBI localization of FRB 20201124A and absence of persistent emission on milliarcsecond scales"
+  author: [{name: "Marcote, B. and Kirsten, F. and Hessels, J. W. T. and Nimmo, K. and Keimpema, A. and Paragi, Z. and Bach, U. and Burgay, M. and Corongiu, A. and Feiler, R. and Forss\\'en, O. and Gawronski, M. and Giroletti, M. and Gopinath, A. and Hewitt, D. M. and Karuppusamy, R. and Kramer, M. and Ould-Boukattine, O. S. and Pilia, M. and Snelders, M. P. and Spitler, L. and Surcis, G. and Trudu, M. and Yang, J."}]
+  date: 2021
+  parent: {type: periodical, title: "The Astronomer's Telegram", volume: "14603"}
+  page-range: "1"
+
+"CosmologyDistance":
+  type: article
+  title: "A Cosmology Calculator for the World Wide Web"
+  author: [{name: "Wright, E. L."}]
+  date: 2006
+  parent: {type: periodical, title: "pasp", volume: "118"}
+  page-range: "1711-1715"
+  doi: "10.1086/510102"
+
+"GruzinovLevin2019":
+  type: article
+  title: "Conversion Measure of Faraday Rotation-Conversion with Application to Fast Radio Bursts"
+  author: [{name: "Gruzinov, Andrei and Levin, Yuri"}]
+  date: 2019
+  parent: {type: periodical, title: "apj", volume: "876"}
+  page-range: "74"
+  doi: "10.3847/1538-4357/ab0fa3"
+
+"VedanthamRavi2019":
+  type: article
+  title: "Faraday conversion and magneto-ionic variations in fast radio bursts"
+  author: [{name: "Vedantham, H. K. and Ravi, V."}]
+  date: 2019
+  parent: {type: periodical, title: "mnras", volume: "485"}
+  serial-number: "L78-L82"
+  doi: "10.1093/mnrasl/slz038"
+
+"Kramer2007":
+  type: article
+  title: "Polarized radio emission from a magnetar"
+  author: [{name: "Kramer, M. and Stappers, B. W. and Jessner, A. and Lyne, A. G. and Jordan, C. A."}]
+  date: 2007
+  parent: {type: periodical, title: "mnras", volume: "377"}
+  page-range: "107-119"
+  doi: "10.1111/j.1365-2966.2007.11622.x"
+
+"TEMPO2ref":
+  type: article
+  title: "TEMPO2, a new pulsar-timing package - I. An overview"
+  author: [{name: "Hobbs, G. B. and Edwards, R. T. and Manchester, R. N."}]
+  date: 2006
+  parent: {type: periodical, title: "mnras", volume: "369"}
+  page-range: "655-672"
+  doi: "10.1111/j.1365-2966.2006.10302.x"
+
+"Taylor1992":
+  type: article
+  title: "Pulsar Timing and Relativistic Gravity"
+  author: [{name: "Taylor, J. H."}]
+  date: 1992
+  parent: {type: periodical, title: "Philos. Trans. Royal Soc. A", volume: "341"}
+  page-range: "117-134"
+  doi: "10.1098/rsta.1992.0088"
+
+"Cordes1986":
+  type: article
+  title: "Refractive and Diffractive Scattering in the Interstellar Medium"
+  author: [{name: "Cordes, J. M. and Pidwerbetsky, A. and Lovelace, R. V. E."}]
+  date: 1986
+  parent: {type: periodical, title: "apj", volume: "310"}
+  page-range: "737"
+  doi: "10.1086/164728"
+
+"Cordes1985":
+  type: article
+  title: "Small-scale electron density turbulence in the interstellar medium."
+  author: [{name: "Cordes, J. M. and Weisberg, J. M. and Boriakoff, V."}]
+  date: 1985
+  parent: {type: periodical, title: "apj", volume: "288"}
+  page-range: "221-247"
+  doi: "10.1086/162784"
+
+"Licquia2015":
+  type: article
+  title: "Unveiling the Milky Way: A New Technique for Determining the Optical Color and Luminosity of Our Galaxy"
+  author: [{name: "Licquia, Timothy C. and Newman, Jeffrey A. and Brinchmann, Jarle"}]
+  date: 2015
+  parent: {type: periodical, title: "apj", volume: "809"}
+  page-range: "96"
+  doi: "10.1088/0004-637X/809/1/96"
+
+"Bhandari20ApJL":
+  type: article
+  title: "The Host Galaxies and Progenitors of Fast Radio Bursts Localized with the Australian Square Kilometre Array Pathfinder"
+  author: [{name: "Bhandari, Shivani and Sadler, Elaine M. and Prochaska, J. Xavier and Simha, Sunil and Ryder, Stuart D. and Marnoch, Lachlan and Bannister, Keith W. and Macquart, Jean-Pierre and Flynn, Chris and Shannon, Ryan M. and Tejos, Nicolas and Corro-Guerra, Felipe and Day, Cherie K. and Deller, Adam T. and Ekers, Ron and Lopez, Sebastian and Mahony, Elizabeth K. and Nu\\~nez, Consuelo and Phillips, Chris"}]
+  date: 2020
+  parent: {type: periodical, title: "apjl", volume: "895"}
+  serial-number: "L37"
+  doi: "10.3847/2041-8213/ab672e"
+
+"LiZhang20ApJL":
+  type: article
+  title: "A Comparative Study of Host Galaxy Properties between Fast Radio Bursts and Stellar Transients"
+  author: [{name: "Li, Ye and Zhang, Bing"}]
+  date: 2020
+  parent: {type: periodical, title: "apjl", volume: "899"}
+  serial-number: "L6"
+  doi: "10.3847/2041-8213/aba907"
+
+"Sheinis2002":
+  type: article
+  title: "ESI, a New Keck Observatory Echellette Spectrograph and Imager"
+  author: [{name: "Sheinis, A. I. and Bolte, M. and Epps, H. W. and Kibrick, R. I. and Miller, J. S. and Radovan, M. V. and Bigelow, B. C. and Sutin, B. M."}]
+  date: 2002
+  parent: {type: periodical, title: "pasp", volume: "114"}
+  page-range: "851-865"
+  doi: "10.1086/341706"
+
+"Oke1995":
+  type: article
+  title: "The Keck Low-Resolution Imaging Spectrometer"
+  author: [{name: "Oke, J. B. and Cohen, J. G. and Carr, M. and Cromer, J. and Dingizian, A. and Harris, F. H. and Labrecque, S. and Lucinio, R. and Schaal, W. and Epps, H. and Miller, J."}]
+  date: 1995
+  parent: {type: periodical, title: "pasp", volume: "107"}
+  page-range: "375"
+  doi: "10.1086/133562"
+
+"Rockosi2010":
+  type: article
+  title: "The low-resolution imaging spectrograph red channel CCD upgrade: fully depleted, high-resistivity CCDs for Keck"
+  author: [{name: "Rockosi, C. and Stover, R. and Kibrick, R. and Lockwood, C. and Peck, M. and Cowley, D. and Bolte, M. and Adkins, S. and Alcott, B. and Allen, S. L. and Brown, B. and Cabak, G. and Deich, W., and Hilyard, D., and Kassis, M., and Lanclos, K., and Lewis, J., and Pfister, T., and Phillips, A., and Robinson, L., and Saylor, M., and Thompson, M., and Ward, J., and Wei, M., and Wright, C."}]
+  date: 2010
+  parent: {type: proceedings, title: "Ground-based and Airborne Instrumentation for Astronomy III", volume: "7735"}
+  serial-number: "77350R"
+  doi: "10.1117/12.856818"
+
+"Perley2019":
+  type: article
+  title: "Fully Automated Reduction of Longslit Spectroscopy with the Low Resolution Imaging Spectrometer at the Keck Observatory"
+  author: [{name: "Perley, Daniel A."}]
+  date: 2019
+  parent: {type: periodical, title: "pasp", volume: "131"}
+  page-range: "084503"
+  doi: "10.1088/1538-3873/ab215d"
+
+"Filippenko1982":
+  type: article
+  title: "The importance of atmospheric differential refraction in spectrophotometry."
+  author: [{name: "Filippenko, A. V."}]
+  date: 1982
+  parent: {type: periodical, title: "pasp", volume: "94"}
+  page-range: "715-721"
+  doi: "10.1086/131052"
+
+"Pan-STARRS12020":
+  type: article
+  title: "The Pan-STARRS1 Database and Data Products"
+  author: [{name: "Flewelling, H. A. and Magnier, E. A. and Chambers, K. C. and Heasley, J. N. and Holmberg, C. and Huber, M. E. and Sweeney, W. and Waters, C. Z. and Calamida, A. and Casertano, S. and Chen, X. and Farrow, D. and Hasinger, G. and Henderson, R. and Long, K. S. and Metcalfe, N. and Narayan, G. and Nieto-Santisteban, M. A. and Norberg, P. and Rest, A. and Saglia, R. P. and Szalay, A. and Thakar, A. R. and Tonry, J. L. and Valenti, J. and Werner, S. and White, R. and Denneau, L. and Draper, P. W. and Hodapp, K. W. and Jedicke, R. and Kaiser, N. and Kudritzki, R. P. and Price, P. A. and Wainscoat, R. J. and Chastel, S. and McLean, B. and Postman, M. and Shiao, B."}]
+  date: 2020
+  parent: {type: periodical, title: "apjs", volume: "251"}
+  page-range: "7"
+  doi: "10.3847/1538-4365/abb82d"
+
+"Cardelli1989":
+  type: article
+  title: "The Relationship between Infrared, Optical, and Ultraviolet Extinction"
+  author: [{name: "Cardelli, Jason A. and Clayton, Geoffrey C. and Mathis, John S."}]
+  date: 1989
+  parent: {type: periodical, title: "apj", volume: "345"}
+  page-range: "245"
+  doi: "10.1086/167900"
+
+"Schlafly2011":
+  type: article
+  title: "Measuring Reddening with Sloan Digital Sky Survey Stellar Spectra and Recalibrating SFD"
+  author: [{name: "Schlafly, Edward F. and Finkbeiner, Douglas P."}]
+  date: 2011
+  parent: {type: periodical, title: "apj", volume: "737"}
+  page-range: "103"
+  doi: "10.1088/0004-637X/737/2/103"
+
+"Wizinowich06":
+  type: article
+  title: "The W. M. Keck Observatory Laser Guide Star Adaptive Optics System: Overview"
+  author: [{name: "Wizinowich, Peter L. and Le Mignant, David and Bouchez, Antonin H. and Campbell, Randy D. and Chin, Jason C. Y. and Contos, Adam R. and van Dam, Marcos A. and Hartman, Scott K. and Johansson, Erik M. and Lafon, Robert E. and Lewis, Hilton and Stomski, Paul J. and Summers, Douglas M. and Brown, Curtis G. and Danforth, Pamela M. and Max, Claire E. and Pennington, Deanna M."}]
+  date: 2006
+  parent: {type: periodical, title: "pasp", volume: "118"}
+  page-range: "297-309"
+  doi: "10.1086/499290"
+
+"Cordes1998":
+  type: article
+  title: "Diffractive Interstellar Scintillation Timescales and Velocities"
+  author: [{name: "Cordes, J. M. and Rickett, B. J."}]
+  date: 1998
+  parent: {type: periodical, title: "apj", volume: "507"}
+  page-range: "846-860"
+  doi: "10.1086/306358"
+
+"Calzetti2000":
+  type: article
+  title: "The Dust Content and Opacity of Actively Star-forming Galaxies"
+  author: [{name: "Calzetti, Daniela and Armus, Lee and Bohlin, Ralph C. and Kinney, Anne L. and Koornneef, Jan and Storchi-Bergmann, Thaisa"}]
+  date: 2000
+  parent: {type: periodical, title: "apj", volume: "533"}
+  page-range: "682-695"
+  doi: "10.1086/308692"
+
+"Heintz2020":
+  type: article
+  title: "Host Galaxy Properties and Offset Distributions of Fast Radio Bursts: Implications for Their Progenitors"
+  author: [{name: "Heintz, Kasper E. and Prochaska, J. Xavier and Simha, Sunil and Platts, Emma and Fong, Wen-fai and Tejos, Nicolas and Ryder, Stuart D. and Aggerwal, Kshitij and Bhandari, Shivani and Day, Cherie K. and Deller, Adam T. and Kilpatrick, Charles D. and Law, Casey J. and Macquart, Jean-Pierre and Mannings, Alexandra and Marnoch, Lachlan J. and Sadler, Elaine M. and Shannon, Ryan M."}]
+  date: 2020
+  parent: {type: periodical, title: "apj", volume: "903"}
+  page-range: "152"
+  doi: "10.3847/1538-4357/abb6fb"
+
+"Blanc2015":
+  type: article
+  title: "IZI: Inferring the Gas Phase Metallicity (Z) and Ionization Parameter (q) of Ionized Nebulae Using Bayesian Statistics"
+  author: [{name: "Blanc, Guillermo A. and Kewley, Lisa and Vogt, Fr\\'ed\\'eric P. A. and Dopita, Michael A."}]
+  date: 2015
+  parent: {type: periodical, title: "apj", volume: "798"}
+  page-range: "99"
+  doi: "10.1088/0004-637X/798/2/99"
+
+"Mingozzi2020":
+  type: article
+  title: "SDSS IV MaNGA: Metallicity and ionisation parameter in local star-forming galaxies from Bayesian fitting to photoionisation models"
+  author: [{name: "Mingozzi, M. and Belfiore, F. and Cresci, G. and Bundy, K. and Bershady, M. and Bizyaev, D. and Blanc, G. and Boquien, M. and Drory, N. and Fu, H. and Maiolino, R. and Riffel, R. and Schaefer, A. and Storchi-Bergmann, T. and Telles, E. and Tremonti, C. and Zakamska, N. and Zhang, K."}]
+  date: 2020
+  parent: {type: periodical, title: "aa", volume: "636"}
+  serial-number: "A42"
+  doi: "10.1051/0004-6361/201937203"
+
+"DengZhang2014":
+  type: article
+  title: "Cosmological Implications of Fast Radio Burst/Gamma-Ray Burst Associations"
+  author: [{name: "Deng, Wei and Zhang, Bing"}]
+  date: 2014
+  parent: {type: periodical, title: "apjl", volume: "783"}
+  serial-number: "L35"
+  doi: "10.1088/2041-8205/783/2/L35"
+
+"Hirschauer2018":
+  type: article
+  title: "Metal Abundances of KISS Galaxies. VI. New Metallicity Relations for the KISS Sample of Star-forming Galaxies"
+  author: [{name: "Hirschauer, Alec S. and Salzer, John J. and Janowiecki, Steven and Wegner, Gary A."}]
+  date: 2018
+  parent: {type: periodical, title: "aj", volume: "155"}
+  page-range: "82"
+  doi: "10.3847/1538-3881/aaa4ba"
+
+"Peng2010":
+  type: article
+  title: "Detailed Decomposition of Galaxy Images. II. Beyond Axisymmetric Models"
+  author: [{name: "Peng, Chien Y. and Ho, Luis C. and Impey, Chris D. and Rix, Hans-Walter"}]
+  date: 2010
+  parent: {type: periodical, title: "aj", volume: "139"}
+  page-range: "2097-2129"
+  doi: "10.1088/0004-6256/139/6/2097"
+
+"Belfiore2018":
+  type: article
+  title: "SDSS IV MaNGA - sSFR profiles and the slow quenching of discs in green valley galaxies"
+  author: [{name: "Belfiore, Francesco and Maiolino, Roberto and Bundy, Kevin and Masters, Karen and Bershady, Matthew and Oyarz\\'un, Grecco A. and Lin, Lihwai and Cano-Diaz, Mariana and Wake, David and Spindler, Ashley and Thomas, Daniel and Brownstein, Joel R. and Drory, Niv and Yan, Renbin"}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "477"}
+  page-range: "3014-3029"
+  doi: "10.1093/mnras/sty768"
+
+"Law2021":
+  type: article
+  title: "SDSS-IV MaNGA: Refining Strong Line Diagnostic Classifications Using Spatially Resolved Gas Dynamics"
+  author: [{name: "Law, David R. and Ji, Xihan and Belfiore, Francesco and Bershady, Matthew A. and Cappellari, Michele and Westfall, Kyle B. and Yan, Renbin and Bizyaev, Dmitry and Brownstein, Joel R. and Drory, Niv and Andrews, Brett H."}]
+  date: 2021
+  parent: {type: periodical, title: "apj", volume: "915"}
+  page-range: "35"
+  doi: "10.3847/1538-4357/abfe0a"
+
+"Caleb18MN":
+  type: article
+  title: "The SUrvey for Pulsars and Extragalactic Radio Bursts--III. Polarization properties of FRBs 160102 and 151230"
+  author: [{name: "Caleb, Manisha and Keane, EF and Van Straten, W and Kramer, Michael and Macquart, Jean-Pierre and Bailes, M and Barr, ED and Bhat, NDR and Bhandari, S and Burgay, MARTA and others"}]
+  date: 2018
+  parent: {type: periodical, title: "mnras", volume: "478"}
+  page-range: "2046-2055"
+
+"OslowskiMN19":
+  type: article
+  title: "Commensal discovery of four fast radio bursts during Parkes Pulsar Timing Array observations"
+  author: [{name: "Osłowski, S and Shannon, RM and Ravi, V and Kaczmarek, JF and Zhang, S and Hobbs, G and Bailes, M and Russell, CJ and van Straten, W and James, CW and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Monthly Notices of the Royal Astronomical Society", volume: "488"}
+  page-range: "868-875"
+
+"Johnston05":
+  type: article
+  title: "Radio observations of PSR B1259-63 through the 2004 periastron passage"
+  author: [{name: "Johnston, Simon and Ball, Lewis and Wang, N. and Manchester, R. N."}]
+  date: 2005
+  parent: {type: periodical, title: "mnras", volume: "358"}
+  page-range: "1069-1075"
+  doi: "10.1111/j.1365-2966.2005.08854.x"
+
+"Kirsten2021":
+  type: article
+  title: "A repeating fast radio burst source in a globular cluster"
+  author: [{name: "Kirsten, F. and Marcote, B. and Nimmo, K. and Hessels, J. W. T. and Bhardwaj, M. and Tendulkar, S. P. and Keimpema, A. and Yang, J. and Snelders, M. P. and Scholz, P. and Pearlman, A. B. and Law, C. J. and Peters, W. M. and Giroletti, M. and Paragi, Z. and Bassa, C. and Hewitt, D. M. and Bach, U. and Bezrukovs, V. and Burgay, M. and Buttaccio, S. T. and Conway, J. E. and Corongiu, A. and Feiler, R. and Forss\\'en, O. and Gawro\\'nski, M. P. and Karuppusamy, R. and Kharinov, M. A. and Lindqvist, M. and Maccaferri, G. and Melnikov, A. and Ould-Boukattine, O. S. and Possenti, A. and Surcis, G. and Wang, N. and Yuan, J. and Aggarwal, K. and Anna-Thomas, R. and Bower, G. C. and Blaauw, R. and Burke-Spolaor, S. and Cassanelli, T. and Clarke, T. E. and Fonseca, E. and Gaensler, B. M. and Gopinath, A. and Kaspi, V. M. and Kassim, N. and Lazio, T. J. W. and Leung, C. and Li, D. Z. and Lin, H. H. and Masui, K. W. and Mckinven, R. and Michilli, D. and Mikhailov, A. and Ng, C. and Orbidans, A. and Pen, U. L. and Petroff, E. and Rahman, M. and Ransom, S. M. and Shin, K. and Smith, K. M. and Stairs, I. H. and Vlemmings, W."}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2105.11445"
+
+"Li2020":
+  type: article
+  title: "A Comparative Study of Host Galaxy Properties between Fast Radio Bursts and Stellar Transients"
+  author: [{name: "Li, Ye and Zhang, Bing"}]
+  date: 2020
+  parent: {type: periodical, title: "apjl", volume: "899"}
+  serial-number: "L6"
+  doi: "10.3847/2041-8213/aba907"
+
+"Chatterjee2017":
+  type: article
+  title: "A direct localization of a fast radio burst and its host"
+  author: [{name: "Chatterjee, S. and Law, C. J. and Wharton, R. S. and Burke-Spolaor, S. and Hessels, J. W. T. and Bower, G. C. and Cordes, J. M. and Tendulkar, S. P. and Bassa, C. G. and Demorest, P. and Butler, B. J. and Seymour, A. and Scholz, P. and Abruzzo, M. W. and Bogdanov, S. and Kaspi, V. M. and Keimpema, A. and Lazio, T. J. W. and Marcote, B. and McLaughlin, M. A. and Paragi, Z. and Ransom, S. M. and Rupen, M. and Spitler, L. G. and van Langevelde, H. J."}]
+  date: 2017
+  parent: {type: periodical, title: "nat", volume: "541"}
+  page-range: "58-61"
+  doi: "10.1038/nature20797"
+
+"Marcote2020":
+  type: article
+  title: "A repeating fast radio burst source localized to a nearby spiral galaxy"
+  author: [{name: "Marcote, B. and Nimmo, K. and Hessels, J. W. T. and Tendulkar, S. P. and Bassa, C. G. and Paragi, Z. and Keimpema, A. and Bhardwaj, M. and Karuppusamy, R. and Kaspi, V. M. and Law, C. J. and Michilli, D. and Aggarwal, K. and Andersen, B. and Archibald, A. M. and Bandura, K. and Bower, G. C. and Boyle, P. J. and Brar, C. and Burke-Spolaor, S. and Butler, B. J. and Cassanelli, T. and Chawla, P. and Demorest, P. and Dobbs, M. and Fonseca, E. and Giri, U. and Good, D. C. and Gourdji, K. and Josephy, A. and Kirichenko, A. Yu. and Kirsten, F. and Landecker, T. L. and Lang, D. and Lazio, T. J. W. and Li, D. Z. and Lin, H. -H. and Linford, J. D. and Masui, K. and Mena-Parra, J. and Naidu, A. and Ng, C. and Patel, C. and Pen, U. -L. and Pleunis, Z. and Rafiei-Ravandi, M. and Rahman, M. and Renard, A. and Scholz, P. and Siegel, S. R. and Smith, K. M. and Stairs, I. H. and Vanderlinde, K. and Zwaniga, A. V."}]
+  date: 2020
+  parent: {type: periodical, title: "nat", volume: "577"}
+  page-range: "190-194"
+  doi: "10.1038/s41586-019-1866-z"
+
+"Bhandari2021":
+  type: article
+  title: "Characterizing the Fast Radio Burst Host Galaxy Population and its Connection to Transients in the Local and Extragalactic Universe"
+  author: [{name: "Bhandari, Shivani and Heintz, Kasper E. and Aggarwal, Kshitij and Marnoch, Lachlan and Day, Cherie K. and Sydnor, Jessica and Burke-Spolaor, Sarah and Law, Casey J. and Xavier Prochaska, J. and Tejos, Nicolas and Bannister, Keith W. and Butler, Bryan J. and Deller, Adam T. and Ekers, R. D. and Flynn, Chris and Fong, Wen-fai and James, Clancy W. and Lazio, T. Joseph W. and Luo, Rui and Mahony, Elizabeth K. and Ryder, Stuart D. and Sadler, Elaine M. and Shannon, Ryan M. and Han, JinLin and Lee, Kejia and Zhang, Bing"}]
+  date: 2022
+  parent: {type: periodical, title: "aj", volume: "163"}
+  page-range: "69"
+  doi: "10.3847/1538-3881/ac3aec"
+
+"Narayan1996":
+  type: article
+  title: "Lectures on Gravitational Lensing"
+  author: [{name: "Narayan, Ramesh and Bartelmann, Matthias"}]
+  date: 1996
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "astro-ph/9606001"
+
+"XuHan2014":
+  type: article
+  title: "A compiled catalog of rotation measures of radio point sources"
+  author: [{name: "Xu, Jun and Han, Jin-Lin"}]
+  date: 2014
+  parent: {type: periodical, title: "raa", volume: "14"}
+  page-range: "942-958"
+  doi: "10.1088/1674-4527/14/8/005"
+
+"Desvignes2018":
+  type: article
+  title: "Large Magneto-ionic Variations toward the Galactic Center Magnetar, PSR J1745-2900"
+  author: [{name: "Desvignes, G. and Eatough, R. P. and Pen, U. L. and Lee, K. J. and Mao, S. A. and Karuppusamy, R. and Schnitzeler, D. H. F. M. and Falcke, H. and Kramer, M. and Wucknitz, O. and Spitler, L. G. and Torne, P. and Liu, K. and Bower, G. C. and Cognard, I. and Lyne, A. G. and Stappers, B. W."}]
+  date: 2018
+  parent: {type: periodical, title: "apjl", volume: "852"}
+  serial-number: "L12"
+  doi: "10.3847/2041-8213/aaa2f8"
+
+"HuangShcherbakov2011":
+  type: article
+  title: "Faraday conversion and rotation in uniformly magnetized relativistic plasmas"
+  author: [{name: "Huang, Lei and Shcherbakov, Roman V."}]
+  date: 2011
+  parent: {type: periodical, title: "mnras", volume: "416"}
+  page-range: "2574-2592"
+  doi: "10.1111/j.1365-2966.2011.19207.x"
+
+"Beniamini2021":
+  type: article
+  title: "Faraday depolarization and induced circular polarization by multipath propagation with application to FRBs"
+  author: [{name: "Beniamini, Paz and Kumar, Pawan and Narayan, Ramesh"}]
+  date: 2022
+  parent: {type: periodical, title: "mnras", volume: "510"}
+  page-range: "4654-4668"
+  doi: "10.1093/mnras/stab3730"
+
+"Ouellette2017":
+  type: article
+  title: "The Spectroscopy and H-band Imaging of Virgo Cluster Galaxies (SHIVir) Survey: Scaling Relations and the Stellar-to-total Mass Relation"
+  author: [{name: "Ouellette, Nathalie N. -Q. and Courteau, St\\'ephane and Holtzman, Jon A. and Dutton, Aaron A. and Cappellari, Michele and Dalcanton, Julianne J. and McDonald, Michael and Roediger, Joel C. and Taylor, James E. and Tully, R. Brent and C\\^ot\\'e, Patrick and Ferrarese, Laura and Peng, Eric W."}]
+  date: 2017
+  parent: {type: periodical, title: "apj", volume: "843"}
+  page-range: "74"
+  doi: "10.3847/1538-4357/aa74b1"
+
+"Press1989":
+  type: article
+  title: "Fast Algorithm for Spectral Analysis of Unevenly Sampled Data"
+  author: [{name: "Press, William H. and Rybicki, George B."}]
+  date: 1989
+  parent: {type: periodical, title: "apj", volume: "338"}
+  page-range: "277"
+  doi: "10.1086/167197"
+
+"JA98":
+  type: article
+  title: "The Effects of Digitization on Nonstationary Stochastic Signals with Applications to Pulsar Signal Baseband Recording"
+  author: [{name: "Jenet, F. A. and Anderson, S. B."}]
+  date: 1998
+  parent: {type: periodical, title: "pasp", volume: "110"}
+  page-range: "1467-1478"
+  doi: "10.1086/316273"
+
+"Lomb1976":
+  type: article
+  title: "Least-Squares Frequency Analysis of Unequally Spaced Data"
+  author: [{name: "Lomb, N. R."}]
+  date: 1976
+  parent: {type: periodical, title: "apss", volume: "39"}
+  page-range: "447-462"
+  doi: "10.1007/BF00648343"
+
+"Sazonov69":
+  type: article
+  title: "Generation and Transfer of Polarized Synchrotron Radiation."
+  author: [{name: "Sazonov, V. N."}]
+  date: 1969
+  parent: {type: periodical, title: "sovast", volume: "13"}
+  page-range: "396"
+
+"Zou2021":
+  type: article
+  title: "Periodicity Search on X-Ray Bursts of SGR J1935+2154 Using 8.5 yr of Fermi/GBM Data"
+  author: [{name: "Zou, Jin-Hang and Zhang, Bin-Bin and Zhang, Guo-Qiang and Yang, Yu-Han and Shao, Lang and Wang, Fa-Yin"}]
+  date: 2021
+  parent: {type: periodical, title: "apjl", volume: "923"}
+  serial-number: "L30"
+  doi: "10.3847/2041-8213/ac3759"
+
+"Cai2021":
+  type: article
+  title: "Search for gamma-ray bursts and gravitational wave electromagnetic counterparts with High Energy X-ray Telescope of Insight-HXMT"
+  author: [{name: "Cai, C. and Xiong, S. L. and Li, C. K. and Liu, C. Z. and Zhang, S. N. and Li, X. B. and Song, L. M. and Li, B. and Xiao, S. and Yi, Q. B. and Zhu, Y. and Zheng, Y. G. and Chen, W. and Luo, Q. and Huang, Y. and Song, X. Y. and Zhao, H. S. and Zhao, Y. and Zhang, Z. and Bu, Q. C. and Cao, X. L. and Chang, Z. and Chen, L. and Chen, T. X. and Chen, Y. B. and Chen, Y. and Chen, Y. P. and Cui, W. W. and Du, Y. Y. and Gao, G. H. and Gao, H. and Ge, M. Y. and Gu, Y. D. and Guan, J. and Guo, C. C. and Han, D. W. and Huo, J. and Jia, S. M. and Jiang, W. C. and Jin, J. and Kong, L. D. and Li, G. and Li, T. P. and Li, W. and Li, X. and Li, X. F. and Li, Z. W. and Liang, X. H. and Liao, J. Y. and Liu, B. S. and Liu, H. W. and Liu, H. X. and Liu, X. J. and Lu, F. J. and Lu, X. F. and Luo, T. and Ma, R. C. and Ma, X. and Meng, B. and Nang, Y. and Nie, J. Y. and Ou, G. and Qu, J. L. and Ren, X. Q. and Sai, N. and Sun, L. and Tan, Y. and Tao, L. and Tuo, Y. L. and Wang, C. and Wang, L. J. and Wang, P. J. and Wang, W. S. and Wang, Y. S. and Wen, X. Y. and Wu, B. B. and Wu, B. Y. and Wu, M. and Xiao, G. C. and Xu, Y. P. and Yang, R. J. and Yang, S. and Yang, Y. J. and Yang, Y. R. and Yang, X. J. and Yin, Q. Q. and You, Y. and Zhang, F. and Zhang, H. M. and Zhang, J. and Zhang, P. and Zhang, S. and Zhang, W. C. and Zhang, W. and Zhang, Y. F. and Zhang, Y. H. and Zhao, X. F. and Zheng, S. J. and Zhou, D. K."}]
+  date: 2021
+  parent: {type: periodical, title: "mnras", volume: "508"}
+  page-range: "3910-3920"
+  doi: "10.1093/mnras/stab2760"
+
+"XuAtel2021":
+  type: article
+  title: "FAST detection and localization of FRB20201124A"
+  author: [{name: "Xu, Heng and Niu, Jiarui and Lee, Kejia and Zhu, Weiwei and Zhang, Bing and Feng, Yi and Wang, Bojun and Xu, Jiangwei and Zhang, Chunfeng and Zhou, Dejiang and Project, FAST FRB Key Science"}]
+  date: 2021
+  parent: {type: periodical, title: "The Astronomer's Telegram", volume: "14518"}
+  page-range: "1"
+
+"Kumar2021":
+  type: article
+  title: "Circularly polarized radio emission from the repeating fast radio burst source FRB 20201124A"
+  author: [{name: "Kumar, P. and Shannon, R. M. and Lower, M. E. and Bhandari, S. and Deller, A. T. and Flynn, C. and Keane, E. F."}]
+  date: 2022
+  parent: {type: periodical, title: "mnras", volume: "512"}
+  page-range: "3400-3413"
+  doi: "10.1093/mnras/stac683"
+
+"katz19":
+  type: article
+  title: "Fast radio burst energetics and sources"
+  author: [{name: "Katz, J. I."}]
+  date: 2019
+  parent: {type: periodical, title: "mnras", volume: "487"}
+  page-range: "491-501"
+  doi: "10.1093/mnras/stz1250"
+
+"LWZ2021":
+  type: article
+  title: "A bimodal burst energy distribution of a repeating fast radio burst source"
+  author: [{name: "Li, D. and Wang, P. and Zhu, W. W. and Zhang, B. and Zhang, X. X. and Duan, R. and Zhang, Y. K. and Feng, Y. and Tang, N. Y. and Chatterjee, S. and Cordes, J. M. and Cruces, M. and Dai, S. and Gajjar, V. and Hobbs, G. and Jin, C. and Kramer, M. and Lorimer, D. R. and Miao, C. C. and Niu, C. H. and Niu, J. R. and Pan, Z. C. and Qian, L. and Spitler, L. and Werthimer, D. and Zhang, G. Q. and Wang, F. Y. and Xie, X. Y. and Yue, Y. L. and Zhang, L. and Zhi, Q. J. and Zhu, Y."}]
+  date: 2021
+  parent: {type: periodical, title: "nature", volume: "598"}
+  page-range: "267-271"
+  doi: "10.1038/s41586-021-03878-5"
+
+"MLK21":
+  type: article
+  title: "Resolving the Emission Regions of the Crab Pulsar's Giant Pulses"
+  author: [{name: "Main, Robert and Lin, Rebecca and van Kerkwijk, Marten H. and Pen, Ue-Li and Rudnitskii, Alexei G. and Popov, Mikhail V. and Soglasnov, Vladimir A. and Lyutikov, Maxim"}]
+  date: 2021
+  parent: {type: periodical, title: "apj", volume: "915"}
+  page-range: "65"
+  doi: "10.3847/1538-4357/ac01c6"
+
+"GBR98":
+  type: article
+  title: "Interstellar Optics"
+  author: [{name: "Gwinn, C. R. and Britton, M. C. and Reynolds, J. E. and Jauncey, D. L. and King, E. A. and McCulloch, P. M. and Lovell, J. E. J. and Preston, R. A."}]
+  date: 1998
+  parent: {type: periodical, title: "apj", volume: "505"}
+  page-range: "928-940"
+  doi: "10.1086/306178"
+
+"TIM21":
+  type: article
+  title: "Statistical modelling of the cosmological dispersion measure"
+  author: [{name: "Takahashi, Ryuichi and Ioka, Kunihito and Mori, Asuka and Funahashi, Koki"}]
+  date: 2021
+  parent: {type: periodical, title: "mnras", volume: "502"}
+  page-range: "2615-2629"
+  doi: "10.1093/mnras/stab170"
+
+"MH67":
+  type: article
+  title: "Galactic H II Regions. I. Observations of Their Continuum Radiation at the Frequency 5 GHz"
+  author: [{name: "Mezger, P. G. and Henderson, A. P."}]
+  date: 1967
+  parent: {type: periodical, title: "apj", volume: "147"}
+  page-range: "471"
+  doi: "10.1086/149030"
+
+"ZXM21":
+  type: article
+  title: "Fast radio burst detection in the presence of coloured noise"
+  author: [{name: "Zhang, C. F. and Xu, J. W. and Men, Y. P. and Deng, X. H. and Xu, Heng and Jiang, J. C. and Wang, B. J. and Lee, K. J. and Li, J. and Yuan, J. P. and Liu, Z. Y. and Huang, Y. X. and Xu, Y. H. and Li, Z. X. and Hao, L. F. and Luo, J. T. and Dai, S. and Luo, R. and Zakie, Hassan and Ma, Z. Y."}]
+  date: 2021
+  parent: {type: periodical, title: "mnras", volume: "503"}
+  page-range: "5223-5231"
+  doi: "10.1093/mnras/stab823"
+
+"ARG16":
+  type: article
+  title: "Fast Radio Bursts as Probes of Magnetic Fields in the Intergalactic Medium"
+  author: [{name: "Akahori, Takuya and Ryu, Dongsu and Gaensler, B. M."}]
+  date: 2016
+  parent: {type: periodical, title: "apj", volume: "824"}
+  page-range: "105"
+  doi: "10.3847/0004-637X/824/2/105"
+
+"WPK84":
+  type: article
+  title: "The rotation measure distribution of QSOs and of intervening clouds :magnetic fields and column densities."
+  author: [{name: "Welter, G. L. and Perry, J. J. and Kronberg, P. P."}]
+  date: 1984
+  parent: {type: periodical, title: "apj", volume: "279"}
+  page-range: "19-39"
+  doi: "10.1086/161862"

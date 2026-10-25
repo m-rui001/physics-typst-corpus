@@ -1,0 +1,1 @@
+A $x^(y)$ B $x^{y}$ C $(-1)^(l+1)$ D $(-1)^{l+1}$ E $psi^(dagger)$ F $psi^dagger$ G $S^(+)$ H $S^+$ I $""^(87)"Rb"$ J $""^{87}"Rb"$ K $x^(-)$ L $S^(plus.minus)$ M $b_\{j in e\}^(dagger)$ N $e^(- i pi x)$

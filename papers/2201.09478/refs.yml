@@ -1,0 +1,427 @@
+"QJ":
+  type: article
+  title: ""
+  author: [{name: "H. J. Carmichael"}]
+  date: 1993
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "70"}
+  page-range: "2273"
+  doi: "10.1103/PhysRevLett.70.2273"
+
+"uedareview":
+  type: article
+  title: ""
+  author: [{name: "Y. Ashida and Z. Gong and M. Ueda"}]
+  date: 2020
+  parent: {type: periodical, title: "Advances in Physics", volume: "69"}
+  page-range: "249"
+  doi: "10.1080/00018732.2021.1876991"
+
+"ptbender":
+  type: article
+  title: ""
+  author: [{name: "C. M. Bender"}]
+  date: 2007
+  parent: {type: periodical, title: "Reports on Progress in Physics", volume: "70"}
+  page-range: "947"
+  doi: "10.1088/0034-4885/70/6/r03"
+
+"ptreview1":
+  type: article
+  title: ""
+  author: [{name: "R. El-Ganainy and K. G. Makris and M. Khajavikhan and Z. H. Musslimani and S. Rotter and D. N. Christodoulides"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature Physics", volume: "14"}
+  page-range: "11"
+  doi: "10.1038/nphys4323"
+
+"ptreview2":
+  type: article
+  title: ""
+  author: [{name: "Ș. K. Özdemir and S. Rotter and F. Nori and L. Yang"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature materials", volume: "18"}
+  page-range: "783"
+  doi: "10.1038/s41563-019-0304-9"
+
+"ptreview3":
+  type: article
+  title: ""
+  author: [{name: "M.-A. Miri and A. Alù"}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "363"}
+  serial-number: "eaar7709"
+  doi: "10.1126/science.aar7709"
+
+"nonrecNature":
+  type: article
+  title: ""
+  author: [{name: "M. Fruchart and R. Hanai and P. B. Littlewood and V. Vitelli"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "592"}
+  page-range: "363"
+  doi: "10.1038/s41586-021-03375-9"
+
+"nonHtopo1":
+  type: article
+  title: ""
+  author: [{name: "K. Kawabata and K. Shiozaki and M. Ueda and M. Sato"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "9"}
+  page-range: "041015"
+  doi: "10.1103/PhysRevX.9.041015"
+
+"nonHtopo2":
+  type: article
+  title: ""
+  author: [{name: "H. Zhou and J. Y. Lee"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  page-range: "235112"
+  doi: "10.1103/PhysRevB.99.235112"
+
+"WZ1":
+  type: article
+  title: ""
+  author: [{name: "S. Yao and Z. Wang"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "086803"
+  doi: "10.1103/PhysRevLett.121.086803"
+
+"murakami":
+  type: article
+  title: ""
+  author: [{name: "K. Yokomizo and S. Murakami"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "066404"
+  doi: "10.1103/PhysRevLett.123.066404"
+
+"WZ2":
+  type: article
+  title: ""
+  author: [{name: "S. Yao and F. Song and Z. Wang"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "136802"
+  doi: "10.1103/PhysRevLett.121.136802"
+
+"ThomalePRB":
+  type: article
+  title: ""
+  author: [{name: "C. H. Lee and R. Thomale"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  page-range: "201103"
+  doi: "10.1103/PhysRevB.99.201103"
+
+"Budich":
+  type: article
+  title: ""
+  author: [{name: "F. K. Kunst and E. Edvardsson and J. C. Budich and E. J. Bergholtz"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "026808"
+  doi: "10.1103/PhysRevLett.121.026808"
+
+"mcdonald":
+  type: article
+  title: ""
+  author: [{name: "A. McDonald and T. Pereg-Barnea and A. A. Clerk"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "8"}
+  page-range: "041031"
+  doi: "10.1103/PhysRevX.8.041031"
+
+"alvarez":
+  type: article
+  title: ""
+  author: [{name: "V. M. Martinez Alvarez and J. E. Barrios Vargas and L. E. F. Foa Torres"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "97"}
+  page-range: "121401"
+  doi: "10.1103/PhysRevB.97.121401"
+
+"fangchenskin":
+  type: article
+  title: ""
+  author: [{name: "K. Zhang and Z. Yang and C. Fang"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "126402"
+  doi: "10.1103/PhysRevLett.125.126402"
+
+"kawabataskin":
+  type: article
+  title: ""
+  author: [{name: "N. Okuma and K. Kawabata and K. Shiozaki and M. Sato"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "086801"
+  doi: "10.1103/PhysRevLett.124.086801"
+
+"stefano":
+  type: article
+  title: ""
+  author: [{name: "S. Longhi"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "1"}
+  page-range: "023013"
+  doi: "10.1103/PhysRevResearch.1.023013"
+
+"yzsgbz":
+  type: article
+  title: ""
+  author: [{name: "Z. Yang and K. Zhang and C. Fang and J. Hu"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "226402"
+  doi: "10.1103/PhysRevLett.125.226402"
+
+"tianshu":
+  type: article
+  title: ""
+  author: [{name: "T.-S. Deng and W. Yi"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "100"}
+  page-range: "035102"
+  doi: "10.1103/PhysRevB.100.035102"
+
+"lli":
+  type: article
+  title: ""
+  author: [{name: "L. Li and C. H. Lee and S. Mu and J. Gong"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature communications", volume: "11"}
+  page-range: "1"
+  doi: "10.1038/s41467-020-18917-4"
+
+"Zhou2021":
+  type: article
+  title: ""
+  author: [{name: "L. Zhou and H. Li and W. Yi and X. Cui"}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv:2111.04196"}
+
+"Guo2021":
+  type: article
+  title: ""
+  author: [{name: "S. Guo and C. Dong and F. Zhang and J. Hu and Z. Yang"}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv:2111.04220"}
+
+"tianyuquench":
+  type: article
+  title: ""
+  author: [{name: "T. Li and J.-Z. Sun and Y.-S. Zhang and W. Yi"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "3"}
+  page-range: "023022"
+  doi: "10.1103/PhysRevResearch.3.023022"
+
+"wzopen":
+  type: article
+  title: ""
+  author: [{name: "F. Song and S. Yao and Z. Wang"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "170401"
+  doi: "10.1103/PhysRevLett.123.170401"
+
+"stefanoopen":
+  type: article
+  title: ""
+  author: [{name: "S. Longhi"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "201103"
+  doi: "10.1103/PhysRevB.102.201103"
+
+"teskin":
+  type: article
+  title: ""
+  author: [{name: "T. Helbig and T. Hofmann and S. Imhof and M. Abdelghany and T. Kiessling and L. Molenkamp and C. H. Lee and A. Szameit and M. Greiter and R. Thomale"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "747"
+  doi: "10.1038/s41567-020-0922-9"
+
+"photonskin":
+  type: article
+  title: ""
+  author: [{name: "L. Xiao and T. Deng and K. Wang and G. Zhu and Z. Wang and W. Yi and P. Xue"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "761"
+  doi: "10.1038/s41567-020-0836-6"
+
+"XDW-21":
+  type: article
+  title: ""
+  author: [{name: "L. Xiao and T. Deng and K. Wang and Z. Wang and W. Yi and P. Xue"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "230402"
+  doi: "10.1103/PhysRevLett.126.230402"
+
+"metaskin":
+  type: article
+  title: ""
+  author: [{name: "A. Ghatak and M. Brandenbourger and J. van Wezel and C. Coulais"}]
+  date: 2020
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "117"}
+  page-range: "29561"
+  doi: "10.1073/pnas.2010580117"
+
+"teskin2d":
+  type: article
+  title: ""
+  author: [{name: "T. Hofmann and T. Helbig and F. Schindler and N. Salgo and M. Brzezińska and M. Greiter and T. Kiessling and D. Wolf and A. Vollhardt and A. Kabaši and C. H. Lee and A. Bilušić and R. Thomale and T. Neupert"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "023265"
+  doi: "10.1103/PhysRevResearch.2.023265"
+
+"scienceskin":
+  type: article
+  title: ""
+  author: [{name: "S. Weidemann and M. Kremer and T. Helbig and T. Hofmann and A. Stegmaier and M. Greiter and R. Thomale and A. Szameit"}]
+  date: 2020
+  parent: {type: periodical, title: "Science", volume: "368"}
+  page-range: "311"
+  doi: "10.1126/science.aaz8727"
+
+"Meier2016":
+  type: article
+  title: ""
+  author: [{name: "E. J. Meier and F. A. An and B. Gadway"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "93"}
+  page-range: "051602"
+  doi: "10.1103/PhysRevA.93.051602"
+
+"Meier2018":
+  type: article
+  title: ""
+  author: [{name: "E. J. Meier and F. A. An and A. Dauphin and M. Maffei and P. Massignan and T. L. Hughes and B. Gadway"}]
+  date: 2018
+  parent: {type: periodical, title: "Science", volume: "362"}
+  page-range: "929"
+  doi: "10.1126/science.aat3406"
+
+"Lapp2019":
+  type: article
+  title: ""
+  author: [{name: "S. Lapp and J. Ang'ong'a and F. A. An and B. Gadway"}]
+  date: 2019
+  parent: {type: periodical, title: "New Journal of Physics", volume: "21"}
+  page-range: "045006"
+  doi: "10.1088/1367-2630/ab1147"
+
+"Xie2019":
+  type: article
+  title: ""
+  author: [{name: "D. Xie and W. Gou and T. Xiao and B. Gadway and B. Yan"}]
+  date: 2019
+  parent: {type: periodical, title: "npj Quantum Information", volume: "5"}
+  page-range: "1"
+  doi: "10.1038/s41534-019-0159-6"
+
+"Xie2018":
+  type: article
+  title: ""
+  author: [{name: "D. Xie and D. Wang and W. Gou and W. Bu and B. Yan"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Opt. Soc. Am. B", volume: "35"}
+  page-range: "500"
+  doi: "10.1364/JOSAB.35.000500"
+
+"yanring":
+  type: article
+  title: ""
+  author: [{name: "W. Gou and T. Chen and D. Xie and T. Xiao and T.-S. Deng and B. Gadway and W. Yi and B. Yan"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "070402"
+  doi: "10.1103/PhysRevLett.124.070402"
+
+"Chen2021":
+  type: article
+  title: ""
+  author: [{name: "T. Chen and W. Gou and D. Xie and T. Xiao and W. Yi and J. Jing and B. Yan"}]
+  date: 2021
+  parent: {type: periodical, title: "npj Quantum Information", volume: "7"}
+  page-range: "1"
+  doi: "10.1038/s41534-021-00417-y"
+
+"supp":
+  type: article
+  title: "See Supplemental Materials for details, which includes Refs. 10, 11, 17, 18, 39, 46-49."
+
+"lyaexp":
+  type: article
+  title: ""
+  author: [{name: "Q. Lin and T. Li and L. Xiao and K. Wang and W. Yi and P. Xue"}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv:2108.01097"}
+
+"Xie2020":
+  type: article
+  title: ""
+  author: [{name: "D. Xie and T.-S. Deng and T. Xiao and W. Gou and T. Chen and W. Yi and B. Yan"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "050502"
+  doi: "10.1103/PhysRevLett.124.050502"
+
+"Wang2022":
+  type: article
+  title: ""
+  author: [{name: "Y. Wang and J.-H. Zhang and Y. Li and J. Wu and W. Liu and F. Mei and Y. Hu and L. Xiao and J. Ma and C. Chin and S. Jia"}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2204.12730"}
+
+"yanlocal":
+  type: article
+  title: ""
+  author: [{name: "T. Xiao and D. Xie and Z. Dong and T. Chen and W. Yi and B. Yan"}]
+  date: 2021
+  parent: {type: periodical, title: "Science Bulletin", volume: "66"}
+  page-range: "2175"
+  doi: "10.1016/j.scib.2021.07.025"
+
+"PRx2014":
+  type: article
+  title: ""
+  author: [{name: "N. Goldman and J. Dalibard"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "4"}
+  page-range: "031027"
+  doi: "10.1103/PhysRevX.4.031027"
+
+"epjd2020":
+  type: article
+  title: ""
+  author: [{name: "T. Xiao and D. Xie and W. Gou and T.-S. Deng and W. Yi and B. Yan"}]
+  date: 2020
+  parent: {type: periodical, title: "Eur. Phys. J. D.", volume: "74"}
+  page-range: "152"
+  doi: "10.1140/epjd/e2020-10019-6"
+
+"gberry1":
+  type: article
+  title: ""
+  author: [{name: "S.-D. Liang and G.-Y. Huang"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "87"}
+  page-range: "012118"
+  doi: "10.1103/PhysRevA.87.012118"
+
+"gberry2":
+  type: article
+  title: ""
+  author: [{name: "S. Lieu"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "97"}
+  page-range: "045106"
+  doi: "10.1103/PhysRevB.97.045106"

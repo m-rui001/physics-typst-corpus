@@ -1,0 +1,1000 @@
+"Kelly:2020fkv":
+  type: article
+  title: "Back to (Mass-)Square(d) One: The Neutrino Mass Ordering in Light of Recent Data"
+  author: [{name: "Kelly, Kevin James, Machado, Pedro AN, Parke, Stephen J, Perez Gonzalez, Yuber F, and Zukanovich-Funchal, Renata"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "013004"
+  doi: "10.1103/PhysRevD.103.013004"
+
+"Abe:2019vii":
+  type: article
+  title: "Constraint on the matter–antimatter symmetry-violating phase in neutrino oscillations"
+  author: [{name: "Abe, K. and et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Nature", volume: "580"}
+  page-range: "339-344"
+  doi: "10.1038/s41586-020-2177-0"
+
+"Chatterjee:2020kkm":
+  type: article
+  title: "Non-standard neutrino interactions as a solution to the NOνA and T2K discrepancy"
+  author: [{name: "Chatterjee, Sabya Sachi and Palazzo, Antonio"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "051802"
+  doi: "10.1103/PhysRevLett.126.051802"
+
+"Denton:2020uda":
+  type: article
+  title: "CP -Violating Neutrino Nonstandard Interactions in Long-Baseline-Accelerator Data"
+  author: [{name: "Denton, Peter B., Gehrlein, Julia, and Pestes, Rebekah"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "051801"
+  doi: "10.1103/PhysRevLett.126.051801"
+
+"Fukuda:1998mi":
+  type: article
+  title: "Evidence for oscillation of atmospheric neutrinos"
+  author: [{name: "Fukuda, Y. and et al."}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "81"}
+  page-range: "1562-1567"
+  doi: "10.1103/PhysRevLett.81.1562"
+
+"Fukuda:2002pe":
+  type: article
+  title: "Determination of solar neutrino oscillation parameters using 1496 days of Super-Kamiokande I data"
+  author: [{name: "Fukuda, S. and et al."}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "539"}
+  page-range: "179-187"
+  doi: "10.1016/S0370-2693(02)02090-7"
+
+"Ahmad:2002jz":
+  type: article
+  title: "Direct evidence for neutrino flavor transformation from neutral current interactions in the Sudbury Neutrino Observatory"
+  author: [{name: "Ahmad, Q. R. and et al."}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "89"}
+  page-range: "011301"
+  doi: "10.1103/PhysRevLett.89.011301"
+
+"Eguchi:2002dm":
+  type: article
+  title: "First results from KamLAND: Evidence for reactor anti-neutrino disappearance"
+  author: [{name: "Eguchi, K. and et al."}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "90"}
+  page-range: "021802"
+  doi: "10.1103/PhysRevLett.90.021802"
+
+"Michael:2006rx":
+  type: article
+  title: "Observation of muon neutrino disappearance with the MINOS detectors and the NuMI neutrino beam"
+  author: [{name: "Michael, D. G. and et al."}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "97"}
+  page-range: "191801"
+  doi: "10.1103/PhysRevLett.97.191801"
+
+"Abe:2011sj":
+  type: article
+  title: "Indication of Electron Neutrino Appearance from an Accelerator-produced Off-axis Muon Neutrino Beam"
+  author: [{name: "Abe, K. and et al."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "107"}
+  page-range: "041801"
+  doi: "10.1103/PhysRevLett.107.041801"
+
+"Abe:2011fz":
+  type: article
+  title: "Indication of Reactor ν̄ₑ Disappearance in the Double Chooz Experiment"
+  author: [{name: "Abe, Y. and et al."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "108"}
+  page-range: "131801"
+  doi: "10.1103/PhysRevLett.108.131801"
+
+"An:2012eh":
+  type: article
+  title: "Observation of electron-antineutrino disappearance at Daya Bay"
+  author: [{name: "An, F. P. and et al."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "108"}
+  page-range: "171803"
+  doi: "10.1103/PhysRevLett.108.171803"
+
+"Ahn:2012nd":
+  type: article
+  title: "Observation of Reactor Electron Antineutrino Disappearance in the RENO Experiment"
+  author: [{name: "Ahn, J. K. and et al."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "108"}
+  page-range: "191802"
+  doi: "10.1103/PhysRevLett.108.191802"
+
+"Mohapatra:2006gs":
+  type: article
+  title: "Neutrino Mass and New Physics"
+  author: [{name: "Mohapatra, R. N. and Smirnov, A. Y."}]
+  date: 2006
+  parent: {type: periodical, title: "Ann. Rev. Nucl. Part. Sci.", volume: "56"}
+  page-range: "569-628"
+  doi: "10.1146/annurev.nucl.56.080805.140534"
+
+"Nunokawa:2007qh":
+  type: article
+  title: "CP Violation and Neutrino Oscillations"
+  author: [{name: "Nunokawa, Hiroshi, Parke, Stephen J., and Valle, Jose W. F."}]
+  date: 2008
+  parent: {type: periodical, title: "Prog. Part. Nucl. Phys.", volume: "60"}
+  page-range: "338-402"
+  doi: "10.1016/j.ppnp.2007.10.001"
+
+"Altarelli:2010gt":
+  type: article
+  title: "Discrete Flavor Symmetries and Models of Neutrino Mixing"
+  author: [{name: "Altarelli, Guido and Feruglio, Ferruccio"}]
+  date: 2010
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "82"}
+  page-range: "2701-2729"
+  doi: "10.1103/RevModPhys.82.2701"
+
+"Harrison:2002et":
+  type: article
+  title: "mu - tau reflection symmetry in lepton mixing and neutrino oscillations"
+  author: [{name: "Harrison, P. F. and Scott, W. G."}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "547"}
+  page-range: "219-228"
+  doi: "10.1016/S0370-2693(02)02772-7"
+
+"King:2015aea":
+  type: article
+  title: "Models of Neutrino Mass, Mixing and CP Violation"
+  author: [{name: "King, Stephen F."}]
+  date: 2015
+  parent: {type: periodical, title: "J. Phys. G", volume: "42"}
+  page-range: "123001"
+  doi: "10.1088/0954-3899/42/12/123001"
+
+"Petcov:2017ggy":
+  type: article
+  title: "Discrete Flavour Symmetries, Neutrino Mixing and Leptonic CP Violation"
+  author: [{name: "Petcov, S. T."}]
+  date: 2018
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "78"}
+  page-range: "709"
+  doi: "10.1140/epjc/s10052-018-6158-5"
+
+"Pascoli:2002xq":
+  type: article
+  title: "The SNO solar neutrino data, neutrinoless double beta decay and neutrino mass spectrum"
+  author: [{name: "Pascoli, S. and Petcov, S. T."}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "544"}
+  page-range: "239-250"
+  doi: "10.1016/S0370-2693(02)02510-8"
+
+"Bahcall:2004ip":
+  type: article
+  title: "What can we learn from neutrinoless double beta decay experiments?"
+  author: [{name: "Bahcall, John N., Murayama, Hitoshi, and Pena-Garay, Carlos"}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "70"}
+  page-range: "033012"
+  doi: "10.1103/PhysRevD.70.033012"
+
+"Ayres:2007tu":
+  type: article
+  title: "The NOvA Technical Design Report"
+  author: [{name: "Ayres, D. S. and et al."}]
+  date: 2007
+  doi: "10.2172/935497"
+
+"Adamson:2015dkw":
+  type: article
+  title: "The NuMI Neutrino Beam"
+  author: [{name: "Adamson, P. and et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "806"}
+  page-range: "279-306"
+  doi: "10.1016/j.nima.2015.08.063"
+
+"Mufson:2015kga":
+  type: article
+  title: "Liquid scintillator production for the NOvA experiment"
+  author: [{name: "Mufson, S. and et al."}]
+  date: 2015
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "799"}
+  page-range: "1-9"
+  doi: "10.1016/j.nima.2015.07.026"
+
+"Agostinelli:2002hh":
+  type: article
+  title: "GEANT4--a simulation toolkit"
+  author: [{name: "Agostinelli, S. and et al."}]
+  date: 2003
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "506"}
+  page-range: "250-303"
+  doi: "10.1016/S0168-9002(03)01368-8"
+
+"Aliaga:2016oaz":
+  type: article
+  title: "Neutrino Flux Predictions for the NuMI Beam"
+  author: [{name: "Aliaga, L. and et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "94"}
+  page-range: "092005"
+  doi: "10.1103/PhysRevD.94.092005, 10.1103/PhysRevD.95.039903"
+
+"Paley:2014rpb":
+  type: article
+  title: "Measurement of Charged Pion Production Yields off the NuMI Target"
+  author: [{name: "Paley, J. M. and et al."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "90"}
+  page-range: "032001"
+  doi: "10.1103/PhysRevD.90.032001"
+
+"Alt:2006fr":
+  type: article
+  title: "Inclusive production of charged pions in p+C collisions at 158-GeV/c beam momentum"
+  author: [{name: "Alt, C. and et al."}]
+  date: 2007
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "49"}
+  page-range: "897-917"
+  doi: "10.1140/epjc/s10052-006-0165-7"
+
+"Abgrall:2011ae":
+  type: article
+  title: "Measurements of Cross Sections and Charged Pion Spectra in Proton-Carbon Interactions at 31 GeV/c"
+  author: [{name: "Abgrall, N and et al."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "84"}
+  page-range: "034604"
+  doi: "10.1103/PhysRevC.84.034604"
+
+"Barton:1982dg":
+  type: article
+  title: "Experimental Study of the a-Dependence of Inclusive Hadron Fragmentation"
+  author: [{name: "Barton, D. S. and et al."}]
+  date: 1983
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "27"}
+  page-range: "2580"
+  doi: "10.1103/PhysRevD.27.2580"
+
+"Psihas:2018czu":
+  type: article
+  title: "Measurement of Long Baseline Neutrino Oscillations and Improvements from Deep Learning"
+  author: [{name: "Psihas, Fernanda"}]
+  date: 2018
+  doi: "10.2172/1437288"
+
+"Seun:2007zz":
+  type: article
+  title: "Measurement of π-K ratios from the NuMI target"
+  author: [{name: "Seun, Sin Man"}]
+  date: 2007
+  doi: "10.2172/935004"
+
+"Tinti:2010zz":
+  type: article
+  title: "Sterile neutrino oscillations in MINOS and hadron production in pC collisions"
+  author: [{name: "Tinti, Gemma Maria"}]
+  date: 2010
+  doi: "10.2172/992263"
+
+"Lebedev:2007zz":
+  type: article
+  title: "Ratio of pion kaon production in proton carbon interactions"
+  author: [{name: "Lebedev, Andrey V."}]
+  date: 2007
+  doi: "10.2172/948174"
+
+"Baatar:2012fua":
+  type: article
+  title: "Inclusive production of protons, anti-protons, neutrons, deuterons and tritons in p+C collisions at 158 GeV/c beam momentum"
+  author: [{name: "Baatar, B. and et al."}]
+  date: 2013
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "73"}
+  page-range: "2364"
+  doi: "10.1140/epjc/s10052-013-2364-3"
+
+"Skubic:1978fi":
+  type: article
+  title: "Neutral Strange Particle Production by 300-GeV Protons"
+  author: [{name: "Skubic, P. and et al."}]
+  date: 1978
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "18"}
+  page-range: "3115-3144"
+  doi: "10.1103/PhysRevD.18.3115"
+
+"Denisov:1973zv":
+  type: article
+  title: "Absorption cross-sections for pions, kaons, protons and anti-protons on complex nuclei in the 6-GeV/c to 60-GeV/c momentum range"
+  author: [{name: "Denisov, S. P., Donskov, S. V., Gorin, e̊lax Yu. P., Krasnokutsky, R. N., Petrukhin, A. I., Prokoshkin, e̊lax Yu. D., and Stoyanova, D. A."}]
+  date: 1973
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "61"}
+  page-range: "62-76"
+  doi: "10.1016/0550-3213(73)90351-9"
+
+"Carroll:1978hc":
+  type: article
+  title: "Absorption Cross-Sections of π±, K±, p and a̱rp on Nuclei Between 60 GeV/c and 280 GeV/c"
+  author: [{name: "Carroll, A. S. and et al."}]
+  date: 1979
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "80"}
+  page-range: "319-322"
+  doi: "10.1016/0370-2693(79)90226-0"
+
+"Abe:2012av":
+  type: article
+  title: "T2K neutrino flux prediction"
+  author: [{name: "Abe, K. and et al."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "87"}
+  page-range: "012001"
+  doi: "10.1103/PhysRevD.87.012001, 10.1103/PhysRevD.87.019902"
+
+"Gaisser:1975et":
+  type: article
+  title: "On the Relation Between Proton Proton and Proton-Nucleus Cross-Sections at Very High-Energies"
+  author: [{name: "Gaisser, T. K., Yodh, G. B., Barger, Vernon D., and Halzen, F."}]
+  date: 1975
+  parent: {type: proceedings, title: "Proceedings of the 14th International Cosmic Ray Converence", volume: "7"}
+  page-range: "2161-2166"
+
+"Cronin:1957zz":
+  type: article
+  title: "Cross Sections of Nuclei for High-Energy Pions"
+  author: [{name: "Cronin, J. W., Cool, R., and Abashian, A."}]
+  date: 1957
+  parent: {type: periodical, title: "Phys. Rev.", volume: "107"}
+  page-range: "1121-1130"
+  doi: "10.1103/PhysRev.107.1121"
+
+"Allaby:1969de":
+  type: article
+  title: "Total cross-sections of pi-minus, k-minus, and anti-p on protons and deuterons in the momentum range 20-65 gev/c"
+  author: [{name: "Allaby, J. V. and et al."}]
+  date: 1969
+  parent: {type: periodical, title: "Phys. Lett.", volume: "30B"}
+  page-range: "500-505"
+  doi: "10.1016/0370-2693(69)90184-1"
+
+"Longo:1962zz":
+  type: article
+  title: "Nucleon and Nuclear Cross Sections for Positive Pions and Protons above 1.4 Bev/c"
+  author: [{name: "Longo, Michael J. and Moyer, Burton J."}]
+  date: 1962
+  parent: {type: periodical, title: "Phys. Rev.", volume: "125"}
+  page-range: "701-713"
+  doi: "10.1103/PhysRev.125.701"
+
+"Bobchenko:1979hp":
+  type: article
+  title: "Measurement of total inelastic cross-sections from proton interactions with Nuclei in the momentum range from 5 GeV/c to 9 GeV/c and pi mesons from with nuclei in the momentum range from 1.75 GeV/c to 6.5 GeV/c"
+  author: [{name: "Bobchenko, B. M. and et al."}]
+  date: 1979
+  parent: {type: periodical, title: "Sov. J. Nucl. Phys.", volume: "30"}
+  page-range: "805"
+
+"Fedorov:1977an":
+  type: article
+  title: "Total Inelastic Cross-Sections for pi Mesons on Nuclei in the 2-GeV/c to 6-GeV/c Momentum Range"
+  author: [{name: "Fedorov, V. B., Grishuk, e̊lax Yu. G., Kosov, M. V., Leksin, G. A., Pivnyuk, N. A., Shevchenko, S. V., Stolin, V. L., Vlasov, A. V., and Vorobev, L. S."}]
+  date: 1978
+  parent: {type: periodical, title: "Sov. J. Nucl. Phys.", volume: "27"}
+  page-range: "222"
+
+"Abrams:1969jm":
+  type: article
+  title: "Total cross-sections of K+- mesons and anti-protons on nucleons up to 3.3-GeV/c"
+  author: [{name: "Abrams, R. J., Cool, R. L., Giacomelli, G., Kycia, T. F., Leontic, B. A., Li, K. K., and Michael, D. N."}]
+  date: 1970
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "1"}
+  page-range: "1917-1935"
+  doi: "10.1103/PhysRevD.1.1917"
+
+"Andreopoulos:2009rq":
+  type: article
+  title: "The GENIE Neutrino Monte Carlo Generator"
+  author: [{name: "Andreopoulos, C. and et al."}]
+  date: 2010
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "614"}
+  page-range: "87-104"
+  doi: "10.1016/j.nima.2009.12.009"
+
+"Andreopoulos:2015wxa":
+  type: misc
+  title: "The GENIE Neutrino Monte Carlo Generator: Physics and User Manual"
+  author: [{name: "Andreopoulos, Costas, Barry, Christopher, Dytman, Steve, Gallagher, Hugh, Golan, Tomasz, Hatcher, Robert, Perdue, Gabriel, and Yarba, Julia"}]
+  date: 2015
+  serial-number: "arXiv:1510.05494"
+
+"Nieves:2004wx":
+  type: article
+  title: "Inclusive quasi-elastic neutrino reactions"
+  author: [{name: "Nieves, J., Amaro, Jose Enrique, and Valverde, M."}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "70"}
+  page-range: "055503"
+  doi: "10.1103/PhysRevC.70.055503, 10.1103/PhysRevC.72.019902"
+
+"Nieves:2011pp":
+  type: article
+  title: "Inclusive Charged--Current Neutrino--Nucleus Reactions"
+  author: [{name: "Nieves, J., Ruiz Simo, I., and Vicente Vacas, M. J."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "83"}
+  page-range: "045501"
+  doi: "10.1103/PhysRevC.83.045501"
+
+"Gran:2013kda":
+  type: article
+  title: "Neutrino-nucleus quasi-elastic and 2p2h interactions up to 10 GeV"
+  author: [{name: "Gran, R., Nieves, J., Sanchez, F., and Vicente Vacas, M. J."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "88"}
+  page-range: "113007"
+  doi: "10.1103/PhysRevD.88.113007"
+
+"Martini:2009uj":
+  type: article
+  title: "A Unified approach for nucleon knock-out, coherent and incoherent pion production in neutrino interactions with nuclei"
+  author: [{name: "Martini, M., Ericson, M., Chanfray, G., and Marteau, J."}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "80"}
+  page-range: "065501"
+  doi: "10.1103/PhysRevC.80.065501"
+
+"Pandey:2014tza":
+  type: article
+  title: "Low-energy excitations and quasielastic contribution to electron-nucleus and neutrino-nucleus scattering in the continuum random-phase approximation"
+  author: [{name: "Pandey, V., Jachowicz, N., Van Cuyck, T., Ryckebusch, J., and Martini, M."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "92"}
+  page-range: "024606"
+  doi: "10.1103/PhysRevC.92.024606"
+
+"Meyer:2016oeg":
+  type: article
+  title: "Deuterium target data for precision neutrino-nucleus cross sections"
+  author: [{name: "Meyer, Aaron S., Betancourt, Minerba, Gran, Richard, and Hill, Richard J."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "93"}
+  page-range: "113015"
+  doi: "10.1103/PhysRevD.93.113015"
+
+"Bodek:1981wr":
+  type: article
+  title: "Further Studies of Fermi Motion Effects in Lepton Scattering from Nuclear Targets"
+  author: [{name: "Bodek, A. and Ritchie, J. L."}]
+  date: 1981
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "24"}
+  page-range: "1400"
+  doi: "10.1103/PhysRevD.24.1400"
+
+"Katori:2013eoa":
+  type: article
+  title: "Meson Exchange Current (MEC) Models in Neutrino Interaction Generators"
+  author: [{name: "Katori, Teppei"}]
+  date: 2015
+  parent: {type: periodical, title: "AIP Conf. Proc.", volume: "1663"}
+  page-range: "030001"
+  doi: "10.1063/1.4919465"
+
+"Berger:2007rq":
+  type: article
+  title: "Lepton mass effects in single pion production by neutrinos"
+  author: [{name: "Berger, Ch. and Sehgal, L. M."}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "76"}
+  page-range: "113004"
+  doi: "10.1103/PhysRevD.76.113004"
+
+"Berger:2008xs":
+  type: article
+  title: "PCAC and coherent pion production by low energy neutrinos"
+  author: [{name: "Berger, Ch. and Sehgal, L. M."}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "79"}
+  page-range: "053003"
+  doi: "10.1103/PhysRevD.79.053003"
+
+"Bodek:2002ps":
+  type: article
+  title: "Higher twist, xi(omega) scaling, and effective LO PDFs for lepton scattering in the few GeV region"
+  author: [{name: "Bodek, A and Yang, U. K."}]
+  date: 2003
+  parent: {type: periodical, title: "J. Phys. G", volume: "29"}
+  page-range: "1899-1906"
+  doi: "10.1088/0954-3899/29/8/369"
+
+"Yang:2009zx":
+  type: article
+  title: "A Hadronization Model for Few-GeV Neutrino Interactions"
+  author: [{name: "Yang, T., Andreopoulos, C., Gallagher, H., Hoffmann, K., and Kehayias, P."}]
+  date: 2009
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "63"}
+  page-range: "1-10"
+  doi: "10.1140/epjc/s10052-009-1094-z"
+
+"Sjostrand:2006za":
+  type: article
+  title: "PYTHIA 6.4 Physics and Manual"
+  author: [{name: "Sjostrand, Torbjorn, Mrenna, Stephen, and Skands, Peter Z."}]
+  date: 2006
+  parent: {type: periodical, title: "JHEP", volume: "05"}
+  page-range: "26"
+  doi: "10.1088/1126-6708/2006/05/026"
+
+"GENIE:2021zuu":
+  type: misc
+  title: "Neutrino-Nucleon Cross-Section Model Tuning in GENIE v3"
+  author: [{name: "Tena-Vidal, Júlia and et al."}]
+  date: 2021
+  serial-number: "arXiv:2104.09179"
+
+"Tena-Vidal:2018misc":
+  type: article
+  title: "Tuning the pion production with GENIE version 3"
+  author: [{name: "Tena-Vidal, Júlia"}]
+  date: 2018
+
+"Salcedo:1987md":
+  type: article
+  title: "Computer Simulation of Inclusive Pion Nuclear Reactions"
+  author: [{name: "Salcedo, L. L., Oset, E., Vicente-Vacas, M. J., and Garcia-Recio, C."}]
+  date: 1988
+  parent: {type: periodical, title: "Nucl. Phys. A", volume: "484"}
+  page-range: "557-592"
+  doi: "10.1016/0375-9474(88)90310-7"
+
+"Allardyce:1973ce":
+  type: article
+  title: "Pion reaction cross-sections and nuclear sizes"
+  author: [{name: "Allardyce, B. W. and et al."}]
+  date: 1973
+  parent: {type: periodical, title: "Nucl. Phys. A", volume: "209"}
+  page-range: "1-51"
+  doi: "10.1016/0375-9474(73)90049-3"
+
+"Saunders:1996ic":
+  type: article
+  title: "Reaction and total cross-sections for low-energy pi+ and pi- on isospin zero nuclei"
+  author: [{name: "Saunders, A., Hoeibraten, S., Kraushaar, J. J., Kriss, B. J., Peterson, R. J., Ristinen, R. A., Brack, J. T., Hofman, G., Gibson, E. F., and Morris, C. L."}]
+  date: 1996
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "53"}
+  page-range: "1745-1752"
+  doi: "10.1103/PhysRevC.53.1745"
+
+"Meirav:1988pn":
+  type: article
+  title: "Low-energy Pion - Nucleus Potentials From Differential and Integral Data"
+  author: [{name: "Meirav, O., Friedman, E., Johnson, R. R., Olszewski, R., and Weber, P."}]
+  date: 1989
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "40"}
+  page-range: "843-849"
+  doi: "10.1103/PhysRevC.40.843"
+
+"Levenson:1983xu":
+  type: article
+  title: "Inclusive pion scattering in the delta (1232) region"
+  author: [{name: "Levenson, S. M. and et al."}]
+  date: 1983
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "28"}
+  page-range: "326-332"
+  doi: "10.1103/PhysRevC.28.326"
+
+"Ashery:1981tq":
+  type: article
+  title: "True Absorption and Scattering of Pions on Nuclei"
+  author: [{name: "Ashery, D., Navon, I., Azuelos, G., Walter, H. K., Pfeiffer, H. J., and Schleputz, F. W."}]
+  date: 1981
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "23"}
+  page-range: "2173-2185"
+  doi: "10.1103/PhysRevC.23.2173"
+
+"Ashery:1984ne":
+  type: article
+  title: "Inclusive pion single charge exchange reactions"
+  author: [{name: "Ashery, D. and et al."}]
+  date: 1984
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "30"}
+  page-range: "946-951"
+  doi: "10.1103/PhysRevC.30.946"
+
+"PinzonGuerra:2016uae":
+  type: article
+  title: "Measurement of σABS and σCX of π⁺ on carbon by the Dual Use Experiment at TRIUMF (DUET)"
+  author: [{name: "Pinzon Guerra, E. S. and et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "95"}
+  page-range: "045203"
+  doi: "10.1103/PhysRevC.95.045203"
+
+"Gran:2018fxa":
+  type: article
+  title: "Antineutrino Charged-Current Reactions on Hydrocarbon with Low Momentum Transfer"
+  author: [{name: "Gran, R. and et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "120"}
+  page-range: "221805"
+  doi: "10.1103/PhysRevLett.120.221805"
+
+"Sternheimer:1952jn":
+  type: article
+  title: "The Density Effect for Ionization Loss in Materials"
+  author: [{name: "Sternheimer, R. M."}]
+  date: 1952
+  parent: {type: periodical, title: "Phys. Rev.", volume: "88"}
+  page-range: "851-859"
+  doi: "10.1103/PhysRev.88.851"
+
+"Aurisano:2015oxj":
+  type: article
+  title: "The NOvA simulation chain"
+  author: [{name: "Aurisano, A., Backhouse, C., Hatcher, R., Mayer, N., Musser, J., Patterson, R., Schroeter, R., and Sousa, A."}]
+  date: 2015
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "664"}
+  page-range: "072002"
+  doi: "10.1088/1742-6596/664/7/072002"
+
+"Aurisano:2016jvx":
+  type: article
+  title: "A Convolutional Neural Network Neutrino Event Classifier"
+  author: [{name: "Aurisano, A., Radovic, A., Rocco, D., Himmel, A., Messier, M. D., Niner, E., Pawloski, G., Psihas, F., Sousa, A., and Vahle, P."}]
+  date: 2016
+  parent: {type: periodical, title: "JINST", volume: "11"}
+  serial-number: "P09001"
+  doi: "10.1088/1748-0221/11/09/P09001"
+
+"Pershey:2018gtf":
+  type: article
+  title: "A Measurement of νₑ Appearance and νμ Disappearance Neutrino Oscillations with the NOvA Experiment"
+  author: [{name: "Pershey, Daniel Stephen"}]
+  date: 2018
+  doi: "10.2172/1484186"
+
+"supplemental-numu":
+  type: article
+  title: "See Supplemental Material at [[To be inserted by publisher] for the muon neutrino distributions in each quartile of hadronic energy fraction"
+  date: 2021
+
+"NOvA:2018gge":
+  type: article
+  title: "New constraints on oscillation parameters from νₑ appearance and νμ disappearance in the NOvA experiment"
+  author: [{name: "Acero, M. A. and et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "98"}
+  page-range: "032012"
+  doi: "10.1103/PhysRevD.98.032012"
+
+"Gran:2017psn":
+  type: misc
+  title: "Model Uncertainties for Valencia RPA Effect for MINERvA"
+  author: [{name: "Gran, Richard"}]
+  date: 2017
+  serial-number: "arXiv:1705.02932"
+
+"Megias:2016fjk":
+  type: article
+  title: "Charged-current neutrino-nucleus reactions within the superscaling meson-exchange current approach"
+  author: [{name: "Megias, G. D., Amaro, J. E., Barbaro, M. B., Caballero, J. A., Donnelly, T. W., and Ruiz Simo, I."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "94"}
+  page-range: "093004"
+  doi: "10.1103/PhysRevD.94.093004"
+
+"AguilarArevalo:2010bm":
+  type: article
+  title: "Measurement of Neutrino-Induced Charged-Current Charged Pion Production Cross Sections on Mineral Oil at Eν∼ 1 GeV"
+  author: [{name: "Aguilar-Arevalo, A. A. and et al."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "83"}
+  page-range: "052007"
+  doi: "10.1103/PhysRevD.83.052007"
+
+"Adamson:2014pgc":
+  type: article
+  title: "Study of quasielastic scattering using charged-current ?? -iron interactions in the MINOS near detector"
+  author: [{name: "Adamson, P. and et al."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "91"}
+  page-range: "012005"
+  doi: "10.1103/PhysRevD.91.012005"
+
+"McGivern:2016bwh":
+  type: article
+  title: "Cross sections for νμ and a̱r νμ induced pion production on hydrocarbon in the few-GeV region using MINERvA"
+  author: [{name: "McGivern, C. L. and et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "94"}
+  page-range: "052005"
+  doi: "10.1103/PhysRevD.94.052005"
+
+"Altinok:2017xua":
+  type: article
+  title: "Measurement of νμ charged-current single π⁰ production on hydrocarbon in the few-GeV region using MINERvA"
+  author: [{name: "Altinok, O. and et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "96"}
+  page-range: "072003"
+  doi: "10.1103/PhysRevD.96.072003"
+
+"Rein:1980wg":
+  type: article
+  title: "Neutrino Excitation of Baryon Resonances and Single Pion Production"
+  author: [{name: "Rein, Dieter and Sehgal, Lalit M."}]
+  date: 1981
+  parent: {type: periodical, title: "Annals Phys.", volume: "133"}
+  page-range: "79-153"
+  doi: "10.1016/0003-4916(81)90242-6"
+
+"Conrad:1997ne":
+  type: article
+  title: "Precision measurements with high-energy neutrino beams"
+  author: [{name: "Conrad, Janet M., Shaevitz, Michael H., and Bolton, Tim"}]
+  date: 1998
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "70"}
+  page-range: "1341-1392"
+  doi: "10.1103/RevModPhys.70.1341"
+
+"Hayato:2009zz":
+  type: article
+  title: "A neutrino interaction simulation program library NEUT"
+  author: [{name: "Hayato, Yoshinari"}]
+  date: 2009
+  parent: {type: periodical, title: "Acta Phys. Polon. B", volume: "40"}
+  page-range: "2477-2489"
+
+"dePerio:2014kak":
+  type: article
+  title: "Joint Three-flavour Oscillation Analysis of νμ Disappearance and νₑ Appearance in the T2K Neutrino Beam"
+  author: [{name: "de Perio, Patrick"}]
+  date: 2014
+
+"PinzonGuerra:2018rju":
+  type: article
+  title: "Using world charged π±-nucleus scattering data to constrain an intranuclear cascade model"
+  author: [{name: "Pinzon Guerra, E. S. and et al."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "99"}
+  page-range: "052007"
+  doi: "10.1103/PhysRevD.99.052007"
+
+"Acero:2020eit":
+  type: article
+  title: "Adjusting neutrino interaction models and evaluating uncertainties using NOvA near detector data"
+  author: [{name: "Acero, M. A. and et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "80"}
+  page-range: "1119"
+  doi: "10.1140/epjc/s10052-020-08577-5"
+
+"Acero:2019ksn":
+  type: article
+  title: "First Measurement of Neutrino Oscillation Parameters using Neutrinos and Antineutrinos by NOvA"
+  author: [{name: "Acero, M. A. and et al."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "151803"
+  doi: "10.1103/PhysRevLett.123.151803"
+
+"Bassin:2000ats":
+  type: article
+  title: "The current limits of resolution for surface wave tomography in North America"
+  author: [{name: "Bassin, C.G.L., Laske, Gabi, and Masters, Guy"}]
+  date: 2000
+  parent: {type: periodical, title: "EOS Trans AGU", volume: "81"}
+  serial-number: "F897"
+
+"Geant:2017ats":
+  type: article
+  title: "Geant4 10.4 Release Notes"
+  author: [{name: "Geant4 Collaboration"}]
+  date: 2017
+  parent: {type: periodical, title: "geant4-data.web.cern.ch, https://geant4-data.web.cern.ch/ ReleaseNotes/ReleaseNotes4.10.4.html"}
+
+"Allison:2016ats":
+  type: article
+  title: "Recent developments in Geant4"
+  author: [{name: "J. Allison and et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Nucl. Instrum. Methods A", volume: "835"}
+  serial-number: "186 - 225"
+  doi: "https://doi.org/10.1016/j.nima.2016.06.125"
+
+"PhysRevD.98.030001":
+  type: article
+  title: "Review of Particle Physics"
+  author: [{name: "Tanabashi, M. and et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "98"}
+  page-range: "030001"
+  doi: "10.1103/PhysRevD.98.030001"
+
+"Zyla:2020zbs":
+  type: article
+  title: "Review of Particle Physics"
+  author: [{name: "Zyla, P. A. and et al."}]
+  date: 2020
+  parent: {type: periodical, title: "PTEP", volume: "2020"}
+  serial-number: "083C01"
+  doi: "10.1093/ptep/ptaa104"
+
+"supplemental-contours":
+  type: article
+  title: "See Supplemental Material at [to be inserted by publisher] for the profiles of these surfaces on the Δm²₃₂ and sin²θ₂₃ axes as well as the surfaces computed for the inverted hierarchy case"
+  date: 2021
+
+"supplemental-tab":
+  type: article
+  title: "See Supplemental Material at [to be inserted by publisher] for the uncertainties on all choices of the mass ordering (Normal or Inverted) and upper or lower θ₂₃ octant (UO, LO)"
+  date: 2021
+
+"Abe:2018wpn":
+  type: article
+  title: "Search for CP Violation in Neutrino and Antineutrino Oscillations by the T2K Experiment with 2.2×10²¹ Protons on Target"
+  author: [{name: "Abe, K. and et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "171802"
+  doi: "10.1103/PhysRevLett.121.171802"
+
+"Abe:2017aap":
+  type: article
+  title: "Atmospheric neutrino oscillation analysis with external constraints in Super-Kamiokande I-IV"
+  author: [{name: "Abe, K. and et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "97"}
+  page-range: "072001"
+  doi: "10.1103/PhysRevD.97.072001"
+
+"Adamson:2014vgd":
+  type: article
+  title: "Combined analysis of νμ disappearance and νμ → νₑ appearance in MINOS using accelerator and atmospheric neutrinos"
+  author: [{name: "Adamson, P. and et al."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "112"}
+  page-range: "191801"
+  doi: "10.1103/PhysRevLett.112.191801"
+
+"supplemental-dcp":
+  type: article
+  title: "See Supplemental Material at [To be inserted by publisher] for profiles of these surfaces on the δ_CP axis"
+  date: 2021
+
+"Feldman:1997qc":
+  type: article
+  title: "A Unified approach to the classical statistical analysis of small signals"
+  author: [{name: "Feldman, Gary J. and Cousins, Robert D."}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "57"}
+  page-range: "3873-3889"
+  doi: "10.1103/PhysRevD.57.3873"
+
+"Sousa:2019nhd":
+  type: article
+  title: "Implementation of Feldman-Cousins Corrections and Oscillation Calculations in the HPC Environment for the NOvA Experiment"
+  author: [{name: "Sousa, Alexandre, Buchanan, Norman, Calvez, Steven, Ding, Pengfei, Doyle, Derek, Himmel, Alexander, Holzman, Burt, Kowalkowski, James, Norman, Andrew, and Peterka, Thomas"}]
+  date: 2019
+  parent: {type: periodical, title: "EPJ Web Conf.", volume: "214"}
+  page-range: "05012"
+  doi: "10.1051/epjconf/201921405012"
+
+"Aartsen:2017nmd":
+  type: article
+  title: "Measurement of Atmospheric Neutrino Oscillations at 6–56 GeV with IceCube DeepCore"
+  author: [{name: "Aartsen, M. G. and et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "120"}
+  page-range: "071801"
+  doi: "10.1103/PhysRevLett.120.071801"
+
+"Read:2002hq":
+  type: article
+  title: "Presentation of search results: The CL(s) technique"
+  author: [{name: "Read, Alexander L."}]
+  date: 2002
+  parent: {type: periodical, title: "J. Phys.", volume: "G28"}
+  page-range: "2693-2704"
+  doi: "10.1088/0954-3899/28/10/313"
+
+"Wolfenstein:1977ue":
+  type: article
+  title: "Neutrino Oscillations in Matter"
+  author: [{name: "Wolfenstein, L."}]
+  date: 1978
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "17"}
+  page-range: "2369-2374"
+  doi: "10.1103/PhysRevD.17.2369"
+
+"King:2018kka":
+  type: article
+  title: "Mu-tau symmetry and the Littlest Seesaw"
+  author: [{name: "King, Stephen F. and Nishi, Celso C."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "785"}
+  page-range: "391-398"
+  doi: "10.1016/j.physletb.2018.08.056"
+
+"Groh:2021qyu":
+  type: article
+  title: "Constraints on Neutrino Oscillation Parameters from Neutrinos and Antineutrinos with Machine Learning"
+  author: [{name: "Groh, Micah"}]
+  date: 2021
+
+"Fukugita:1986hr":
+  type: article
+  title: "Baryogenesis Without Grand Unification"
+  author: [{name: "Fukugita, M. and Yanagida, T."}]
+  date: 1986
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "174"}
+  page-range: "45-47"
+  doi: "10.1016/0370-2693(86)91126-3"
+
+"Buchmuller:1996pa":
+  type: article
+  title: "Baryon asymmetry and neutrino mixing"
+  author: [{name: "Buchmuller, W. and Plumacher, M."}]
+  date: 1996
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "389"}
+  page-range: "73-77"
+  doi: "10.1016/S0370-2693(96)01232-4"
+
+"Buchmuller:2004nz":
+  type: article
+  title: "Leptogenesis for pedestrians"
+  author: [{name: "Buchmuller, W., Di Bari, P., and Plumacher, M."}]
+  date: 2005
+  parent: {type: periodical, title: "Annals Phys.", volume: "315"}
+  page-range: "305-351"
+  doi: "10.1016/j.aop.2004.02.003"
+
+"Buchmuller:2005eh":
+  type: article
+  title: "Leptogenesis as the origin of matter"
+  author: [{name: "Buchmuller, W., Peccei, R. D., and Yanagida, T."}]
+  date: 2005
+  parent: {type: periodical, title: "Ann. Rev. Nucl. Part. Sci.", volume: "55"}
+  page-range: "311-355"
+  doi: "10.1146/annurev.nucl.55.090704.151558"
+
+"Pilaftsis:1997jf":
+  type: article
+  title: "CP violation and baryogenesis due to heavy Majorana neutrinos"
+  author: [{name: "Pilaftsis, Apostolos"}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "56"}
+  page-range: "5431-5451"
+  doi: "10.1103/PhysRevD.56.5431"
+
+"MINOS:2020llm":
+  type: article
+  title: "Precision Constraints for Three-Flavor Neutrino Oscillations from the Full MINOS+ and MINOS Dataset"
+  author: [{name: "Adamson, P. and et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "131802"
+  doi: "10.1103/PhysRevLett.125.131802"
+
+"T2K:2021xwb":
+  type: article
+  title: "Improved constraints on neutrino mixing from the T2K experiment with 3.13×10²¹ protons on target"
+  author: [{name: "Abe, K. and et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "103"}
+  page-range: "112008"
+  doi: "10.1103/PhysRevD.103.112008"
+
+"Singh:2019lqg":
+  type: article
+  title: "Extraction of Neutrino Oscillation Parameters using a Simultaneous Fit of νμ Disappearance and νₑ Appearance data with the NOvA Experiment"
+  author: [{name: "Singh, Prabhjot"}]
+  date: 2019
+  doi: "10.2172/1764076"

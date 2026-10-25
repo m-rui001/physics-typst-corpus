@@ -1,0 +1,10 @@
+{
+ "paper": "2104.11260",
+ "empty_source": true,
+ "note": "arXiv e-print is a direct PDF submission, no LaTeX source",
+ "compiled": true,
+ "latexblock": {
+  "before": 0,
+  "after": 0
+ }
+}

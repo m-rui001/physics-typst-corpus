@@ -1,0 +1,6 @@
+{
+ "paper": "2312.02279",
+ "tikz": 0,
+ "bib": true,
+ "last_errors": "error: file not found (searched at \\\\?\\E:\\phys\\papers\\2312.02279\\figs\\ev_offline_b.eps)\n     \u250c\u2500 \\\\?\\E:\\phys\\papers\\2312.02279\\main.typ:1594:14\n     \u2502\n1594 \u2502 #figure(image(\"figs/ev_offline_b.eps\"),\n     \u2502               ^^^^^^^^^^^^^^^^^^^^^^^\n\n"
+}

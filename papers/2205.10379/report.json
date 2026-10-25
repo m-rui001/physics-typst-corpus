@@ -1,0 +1,16 @@
+{
+ "paper": "2205.10379",
+ "tikz": 0,
+ "bib": true,
+ "compiled": true,
+ "fixed_by": "agent",
+ "pages": 24,
+ "pdf_size_bytes": 4523460,
+ "last_errors": "",
+ "salvaged": true,
+ "notes": "Full rewrite of main.typ: removed pandoc template/dummy garbage and raw \\begin{align}/\\end{align} LaTeX blocks, reconstructed all mangled equations from src/main.tex, fixed dagger (Unicode), author superscripts, angle-bracket ket notation, bigcap/cap/prod/setminus symbols, eps->epsilon, dep->upright, ^(sim)->^\"sim\", vdots/ddots->dots.*, resolved zhou-18->Zhou-18 citation case, cleaned \\ifmmode accent macros in refs.bib. Figures fig1-fig5 resolve; table renders 12 columns with red rows. No content commented out.",
+ "latexblock": {
+  "before": 0,
+  "after": 0
+ }
+}

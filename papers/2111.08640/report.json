@@ -1,0 +1,15 @@
+{
+ "paper": "2111.08640",
+ "tikz": 0,
+ "bib": true,
+ "last_errors": "",
+ "salvaged": true,
+ "compiled": true,
+ "latexblock": {
+  "before": 0,
+  "after": 0
+ },
+ "fixed_by": "agent",
+ "figures": "13 raster (gs EPS->PDF->PNG via scripts/missingfig.py), 2 CeTZ (introFigure, syntheticDimensions)",
+ "respliced": "restored dropped TeX prose (synthetic-dimensions H1/HN paragraphs, Sec.4 intro + eqs 14/15, Fresnel-drag paragraph, giant-bianisotropy footnote, Sec.4.3 luminal body + eq 21, quantum-well-polaritons and 2D-materials section bodies, magneto-optical delta paragraph); escaped bare % in text; census missing=0"
+}

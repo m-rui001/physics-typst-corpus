@@ -1,0 +1,2449 @@
+"2015ASSP...40..147S":
+  type: article
+  title: "Pulsar Timing Arrays and the Challenge of Massive Black Hole Binary Astrophysics"
+  author: [{name: "Sesana, A."}]
+  date: 2015
+  parent: {type: proceedings, title: "Gravitational Wave Astrophysics", volume: "40"}
+  page-range: "147"
+  doi: "10.1007/978-3-319-10488-1_13"
+
+"2022ApJ...941..119B":
+  type: article
+  title: "Exploring Realistic Nanohertz Gravitational-wave Backgrounds"
+  author: [{name: "Bécsy, Bence and Cornish, Neil J. and Kelley, Luke Zoltan"}]
+  date: 2022
+  parent: {type: periodical, title: "ApJ", volume: "941"}
+  page-range: "119"
+  doi: "10.3847/1538-4357/aca1b2"
+
+"2023MNRAS.519.3976M":
+  type: article
+  title: "The MeerKAT Pulsar Timing Array: first data release"
+  author: [{name: "Miles, M. T. and Shannon, R. M. and Bailes, M. and Reardon, D. J. and Keith, M. J. and Cameron, A. D. and Parthasarathy, A. and Shamohammadi, M. and Spiewak, R. and van Straten, W. and Buchner, S. and Camilo, F. and Geyer, M. and Karastergiou, A. and Kramer, M. and Serylak, M. and Theureau, G. and Venkatraman Krishnan, V."}]
+  date: 2023
+  parent: {type: periodical, title: "MNRAS", volume: "519"}
+  page-range: "3976-3991"
+  doi: "10.1093/mnras/stac3644"
+
+"2017NatAs...1..886M":
+  type: article
+  title: "The local nanohertz gravitational-wave landscape from supermassive black hole binaries"
+  author: [{name: "Mingarelli, Chiara M. F. and Lazio, T. Joseph W. and Sesana, Alberto and Greene, Jenny E. and Ellis, Justin A. and Ma, Chung-Pei and Croft, Steve and Burke-Spolaor, Sarah and Taylor, Stephen R."}]
+  date: 2017
+  parent: {type: periodical, title: "Nature Astronomy", volume: "1"}
+  page-range: "886-892"
+  doi: "10.1038/s41550-017-0299-6"
+
+"2014MNRAS.439.3986R":
+  type: article
+  title: "Targeting supermassive black hole binaries and gravitational wave sources for the pulsar timing array"
+  author: [{name: "Rosado, Pablo A. and Sesana, Alberto"}]
+  date: 2014
+  parent: {type: periodical, title: "MNRAS", volume: "439"}
+  page-range: "3986-4010"
+  doi: "10.1093/mnras/stu254"
+
+"2022ApJ...940..173P":
+  type: article
+  title: "Forecasting Pulsar Timing Array Sensitivity to Anisotropy in the Stochastic Gravitational Wave Background"
+  author: [{name: "Pol, Nihan and Taylor, Stephen R. and Romano, Joseph D."}]
+  date: 2022
+  parent: {type: periodical, title: "ApJ", volume: "940"}
+  page-range: "173"
+  doi: "10.3847/1538-4357/ac9836"
+
+"2020PhRvD.102h4039T":
+  type: article
+  title: "From bright binaries to bumpy backgrounds: Mapping realistic gravitational wave skies with pulsar-timing arrays"
+  author: [{name: "Taylor, Stephen R. and van Haasteren, Rutger and Sesana, Alberto"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "102"}
+  page-range: "084039"
+  doi: "10.1103/PhysRevD.102.084039"
+
+"2013PhRvD..88h4001T":
+  type: article
+  title: "Searching for anisotropic gravitational-wave backgrounds using pulsar timing arrays"
+  author: [{name: "Taylor, Stephen R. and Gair, Jonathan R."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "88"}
+  page-range: "084001"
+  doi: "10.1103/PhysRevD.88.084001"
+
+"2013CQGra..30v4005C":
+  type: article
+  title: "Pulsar timing array analysis for black hole backgrounds"
+  author: [{name: "Cornish, Neil J. and Sesana, A."}]
+  date: 2013
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "30"}
+  page-range: "224005"
+  doi: "10.1088/0264-9381/30/22/224005"
+
+"2020zndo...4059815E":
+  type: article
+  title: "ENTERPRISE: Enhanced Numerical Toolbox Enabling a Robust PulsaR Inference SuitE"
+  author: [{name: "Ellis, Justin A. and Vallisneri, Michele and Taylor, Stephen R. and Baker, Paul T."}]
+  date: 2020
+  doi: "10.5281/zenodo.4059815"
+
+"2020ascl.soft02017V":
+  type: misc
+  title: "libstempo: Python wrapper for Tempo2"
+  author: [{name: "Vallisneri, Michele"}]
+  date: 2020
+  serial-number: "ascl:2002.017"
+
+"2018MNRAS.473.4077P":
+  type: article
+  title: "Simulating galaxy formation with the IllustrisTNG model"
+  author: [{name: "Pillepich, Annalisa and Springel, Volker and Nelson, Dylan and Genel, Shy and Naiman, Jill and Pakmor, Rüdiger and Hernquist, Lars and Torrey, Paul and Vogelsberger, Mark and Weinberger, Rainer and Marinacci, Federico"}]
+  date: 2018
+  parent: {type: periodical, title: "MNRAS", volume: "473"}
+  page-range: "4077-4106"
+  doi: "10.1093/mnras/stx2656"
+
+"2022MNRAS.511.4753G":
+  type: article
+  title: "Eccentricity evolution of massive black hole binaries from formation to coalescence"
+  author: [{name: "Gualandris, Alessia and Khan, Fazeel Mahmood and Bortolas, Elisa and Bonetti, Matteo and Sesana, Alberto and Berczik, Peter and Holley-Bockelmann, Kelly"}]
+  date: 2022
+  parent: {type: periodical, title: "MNRAS", volume: "511"}
+  page-range: "4753-4765"
+  doi: "10.1093/mnras/stac241"
+
+"2011ApJ...732L..26P":
+  type: article
+  title: "Fast Coalescence of Massive Black Hole Binaries from Mergers of Galactic Nuclei: Implications for Low-frequency Gravitational-wave Astrophysics"
+  author: [{name: "Preto, Miguel and Berentzen, Ingo and Berczik, Peter and Spurzem, Rainer"}]
+  date: 2011
+  parent: {type: periodical, title: "ApJ", volume: "732"}
+  serial-number: "L26"
+  doi: "10.1088/2041-8205/732/2/L26"
+
+"2012ApJ...749..147K":
+  type: article
+  title: "Mergers of Unequal-mass Galaxies: Supermassive Black Hole Binary Evolution and Structure of Merger Remnants"
+  author: [{name: "Khan, Fazeel Mahmood and Preto, Miguel and Berczik, Peter and Berentzen, Ingo and Just, Andreas and Spurzem, Rainer"}]
+  date: 2012
+  parent: {type: periodical, title: "ApJ", volume: "749"}
+  page-range: "147"
+  doi: "10.1088/0004-637X/749/2/147"
+
+"2016ApJ...828...73K":
+  type: article
+  title: "Swift Coalescence of Supermassive Black Holes in Cosmological Mergers of Massive Galaxies"
+  author: [{name: "Khan, Fazeel Mahmood and Fiacconi, Davide and Mayer, Lucio and Berczik, Peter and Just, Andreas"}]
+  date: 2016
+  parent: {type: periodical, title: "ApJ", volume: "828"}
+  page-range: "73"
+  doi: "10.3847/0004-637X/828/2/73"
+
+"1996NewA....1...35Q":
+  type: article
+  title: "The dynamical evolution of massive black hole binaries I. Hardening in a fixed stellar background"
+  author: [{name: "Quinlan, Gerald D."}]
+  date: 1996
+  parent: {type: periodical, title: "New Astron.", volume: "1"}
+  page-range: "35-56"
+  doi: "10.1016/S1384-1076(96)00003-6"
+
+"2021ApJ...914L..21D":
+  type: article
+  title: "Orbital Evolution of Equal-mass Eccentric Binaries due to a Gas Disk: Eccentric Inspirals and Circular Outspirals"
+  author: [{name: "D'Orazio, Daniel J. and Duffell, Paul C."}]
+  date: 2021
+  parent: {type: periodical, title: "ApJ", volume: "914"}
+  serial-number: "L21"
+  doi: "10.3847/2041-8213/ac0621"
+
+"2011MNRAS.415.3033R":
+  type: article
+  title: "Limiting eccentricity of subparsec massive black hole binaries surrounded by self-gravitating gas discs"
+  author: [{name: "Roedig, C. and Dotti, M. and Sesana, A. and Cuadra, J. and Colpi, M."}]
+  date: 2011
+  parent: {type: periodical, title: "MNRAS", volume: "415"}
+  page-range: "3033-3041"
+  doi: "10.1111/j.1365-2966.2011.18927.x"
+
+"2012JPhCS.363a2035R":
+  type: article
+  title: "Origin and Implications of high eccentricities in massive black hole binaries at sub-pc scales"
+  author: [{name: "Roedig, C. and Sesana, A."}]
+  date: 2012
+  parent: {type: proceedings, title: "Journal of Physics Conference Series", volume: "363"}
+  page-range: "012035"
+  doi: "10.1088/1742-6596/363/1/012035"
+
+"2016ASPC..502...19L":
+  type: article
+  title: "Prospects of Gravitational Wave Detection Using Pulsar Timing Array for Chinese Future Telescopes"
+  author: [{name: "Lee, K. J."}]
+  date: 2016
+  parent: {type: proceedings, title: "Frontiers in Radio Astronomy and FAST Early Sciences Symposium 2015", volume: "502"}
+  page-range: "19"
+
+"ng15yr":
+  type: article
+  title: "The NANOGrav 15-year Data Set: The Stochastic Gravitational-Wave Background"
+  author: [{name: "The Nanograv Collaboration and Agazie, Gabriella and Anumarlapudi, Akash and Archibald, Anne M. and Arzoumanian, Zaven and Baker, Paul T. and Becsy , Bence and Blecha, Laura and Brazier, Adam and Brook, Paul R. and Burke-Spolaor, Sarah and Burnette, Rand and Case, Robin and Charisi, Maria and Chatterjee, Shami and Chatziioannou, Katerina and Cheeseboro, Belinda D. and Chen, Siyuan and Cohen, Tyler and Cordes, James M. and Cornish, Neil J. and Crawford, Fronefield and Cromartie, H. Thankful and Crowter, Kathryn and Cutler, Curt J. and DeCesar, Megan E. and DeGan, Dallas and Demorest, Paul B. and Deng, Heling and Dolch, Timothy and Ellis, Justin A. and Drachler, Brendan and Ferrara, Elizabeth C. and Fiore, William and Fonseca, Emmanuel and Freedman, Gabriel E. and Garver-Daniels, Nate and Gentile, Peter A. and Gersbach, Kyle A. and Glaser, Joseph and Good, Deborah C. and Gultekin ¨ , Kayhan and Hazboun, Jeffrey S. and Hourihane, Sophie and Islo, Kristina and Jennings, Ross J. and Johnson, Aaron D. and Jones, Megan L. and Kaiser, Andrew R. and Kaplan, David L. and Kelley, Luke Zoltan and Kerr, Matthew and Key, Joey S. and Klein, Tonia C. and Laal, Nima and Lam, Michael T. and Lamb, William G. and Lazio, T. Joseph W. and Lewandowska, Natalia and Littenberg, Tyson B. and Liu, Tingting and Lommen, Andrea and Lorimer, Duncan R. and Luo, Jing and Lynch, Ryan S. and Ma, Chung-Pei and Madison, Dustin R. and Mattson, Margaret A. and McEwen, Alexander and McKee, James W. and McLaughlin, Maura A. and McMann, Natasha and Meyers, Bradley W. and Meyers, Patrick M. and Mingarelli, Chiara M. F. and Mitridate, Andrea and Natarajan, Priyamvada and Ng, Cherry and Nice, David J. and Ocker, Stella Koch and Olum, Ken D. and Pennucci, Timothy T. and Perera, Benetge B. P. and Petrov, Polina and Pol, Nihan S. and Radovan, Henri A. and Ransom, Scott M. and Ray, Paul S. and Romano, Joseph D. and Sardesai, Shashwat C. and Schmiedekamp, Ann and Schmiedekamp, Carl and Schmitz, Kai and Schult, Levi and Shapiro-Albert, Brent J. and Siemens, Xavier and Simon, Joseph and Siwek, Magdalena S. and Stairs, Ingrid H. and Stinebring, Daniel R. and Stovall, Kevin and Sun, Jerry P. and Susobhanan, Abhimanyu and Swiggum, Joseph K. and Taylor, Jacob and Taylor, Stephen R. and Turner, Jacob E. and Unal, Caner and Vallisneri, Michele and Haasteren, Rutger van and Vigeland, Sarah J. and Wahl, Haley M. and Wang, Qiaohong and Witt, Caitlin A. and Young, Olivia"}]
+  date: 2023
+  parent: {type: periodical, title: "ApJ", volume: ""}
+
+"cptadr1":
+  type: article
+  title: "Searching for the Nano-Hertz Stochastic Gravitational Wave Background with the Chinese Pulsar Timing Array Data Release I"
+  author: [{name: "Xu, Heng and Chen, Siyuan and Guo, Yanjun and Jiang, Jinchen and Wang, Bojun and Xu, Jiangwei and Xue, Zihan and Nicolas Caballero, R. and Yuan, Jianping and Xu, Yonghua and Wang, Jingbo and Hao, Longfei and Luo, Jingtao and Lee, Kejia and Han, Jinlin and Jiang, Peng and Shen, Zhiqiang and Wang, Min and Wang, Na and Xu, Renxin and Wu, Xiangping and Manchester, Richard and Qian, Lei and Guan, Xin and Huang, Menglin and Sun, Chun and Zhu, Yan"}]
+  date: 2023
+  parent: {type: periodical, title: "Research in Astronomy and Astrophysics", volume: "23"}
+  page-range: "075024"
+  doi: "10.1088/1674-4527/acdfa5"
+
+"pptadr3":
+  type: article
+  title: "Search for an Isotropic Gravitational-wave Background with the Parkes Pulsar Timing Array"
+  author: [{name: "Reardon, Daniel J. and Zic, Andrew and Shannon, Ryan M. and Hobbs, George B. and Bailes, Matthew and Di Marco, Valentina and Kapur, Agastya and Rogers, Axl F. and Thrane, Eric and Askew, Jacob and Bhat, N. D. Ramesh and Cameron, Andrew and Curyło, Małgorzata and Coles, William A. and Dai, Shi and Goncharov, Boris and Kerr, Matthew and Kulkarni, Atharva and Levin, Yuri and Lower, Marcus E. and Manchester, Richard N. and Mandow, Rami and Miles, Matthew T. and Nathan, Rowina S. and Osłowski, Stefan and Russell, Christopher J. and Spiewak, Renée and Zhang, Songbo and Zhu, Xing-Jiang"}]
+  date: 2023
+  parent: {type: periodical, title: "ApJ", volume: "951"}
+  serial-number: "L6"
+  doi: "10.3847/2041-8213/acdd02"
+
+"2020A-A...641A...6P":
+  type: article
+  title: "Planck 2018 results. VI. Cosmological parameters"
+  author: [{name: "Planck Collaboration and Aghanim, N. and Akrami, Y. and Ashdown, M. and Aumont, J. and Baccigalupi, C. and Ballardini, M. and Banday, A. J. and Barreiro, R. B. and Bartolo, N. and Basak, S. and Battye, R. and Benabed, K. and Bernard, J. -P. and Bersanelli, M. and Bielewicz, P. and Bock, J. J. and Bond, J. R. and Borrill, J. and Bouchet, F. R. and Boulanger, F. and Bucher, M. and Burigana, C. and Butler, R. C. and Calabrese, E. and Cardoso, J. -F. and Carron, J. and Challinor, A. and Chiang, H. C. and Chluba, J. and Colombo, L. P. L. and Combet, C. and Contreras, D. and Crill, B. P. and Cuttaia, F. and de Bernardis, P. and de Zotti, G. and Delabrouille, J. and Delouis, J. -M. and Di Valentino, E. and Diego, J. M. and Doré, O. and Douspis, M. and Ducout, A. and Dupac, X. and Dusini, S. and Efstathiou, G. and Elsner, F. and Enßlin, T. A. and Eriksen, H. K. and Fantaye, Y. and Farhang, M. and Fergusson, J. and Fernandez-Cobos, R. and Finelli, F. and Forastieri, F. and Frailis, M. and Fraisse, A. A. and Franceschi, E. and Frolov, A. and Galeotta, S. and Galli, S. and Ganga, K. and Génova-Santos, R. T. and Gerbino, M. and Ghosh, T. and González-Nuevo, J. and Górski, K. M. and Gratton, S. and Gruppuso, A. and Gudmundsson, J. E. and Hamann, J. and Handley, W. and Hansen, F. K. and Herranz, D. and Hildebrandt, S. R. and Hivon, E. and Huang, Z. and Jaffe, A. H. and Jones, W. C. and Karakci, A. and Keihänen, E. and Keskitalo, R. and Kiiveri, K. and Kim, J. and Kisner, T. S. and Knox, L. and Krachmalnicoff, N. and Kunz, M. and Kurki-Suonio, H. and Lagache, G. and Lamarre, J. -M. and Lasenby, A. and Lattanzi, M. and Lawrence, C. R. and Le Jeune, M. and Lemos, P. and Lesgourgues, J. and Levrier, F. and Lewis, A. and Liguori, M. and Lilje, P. B. and Lilley, M. and Lindholm, V. and López-Caniego, M. and Lubin, P. M. and Ma, Y. -Z. and Macías-Pérez, J. F. and Maggio, G. and Maino, D. and Mandolesi, N. and Mangilli, A. and Marcos-Caballero, A. and Maris, M. and Martin, P. G. and Martinelli, M. and Martínez-González, E. and Matarrese, S. and Mauri, N. and McEwen, J. D. and Meinhold, P. R. and Melchiorri, A. and Mennella, A. and Migliaccio, M. and Millea, M. and Mitra, S. and Miville-Deschênes, M. -A. and Molinari, D. and Montier, L. and Morgante, G. and Moss, A. and Natoli, P. and Nørgaard-Nielsen, H. U. and Pagano, L. and Paoletti, D. and Partridge, B. and Patanchon, G. and Peiris, H. V. and Perrotta, F. and Pettorino, V. and Piacentini, F. and Polastri, L. and Polenta, G. and Puget, J. -L. and Rachen, J. P. and Reinecke, M. and Remazeilles, M. and Renzi, A. and Rocha, G. and Rosset, C. and Roudier, G. and Rubiño-Martín, J. A. and Ruiz-Granados, B. and Salvati, L. and Sandri, M. and Savelainen, M. and Scott, D. and Shellard, E. P. S. and Sirignano, C. and Sirri, G. and Spencer, L. D. and Sunyaev, R. and Suur-Uski, A. -S. and Tauber, J. A. and Tavagnacco, D. and Tenti, M. and Toffolatti, L. and Tomasi, M. and Trombetti, T. and Valenziano, L. and Valiviita, J. and Van Tent, B. and Vibert, L. and Vielva, P. and Villa, F. and Vittorio, N. and Wandelt, B. D. and Wehus, I. K. and White, M. and White, S. D. M. and Zacchei, A. and Zonca, A."}]
+  date: 2020
+  parent: {type: periodical, title: "A&A", volume: "641"}
+  serial-number: "A6"
+  doi: "10.1051/0004-6361/201833910"
+
+"2013JCAP...11..047C":
+  type: article
+  title: "An inflationary model with small scalar and large tensor nongaussianities"
+  author: [{name: "Cook, Jessica L. and Sorbo, Lorenzo"}]
+  date: 2013
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2013"}
+  page-range: "047"
+  doi: "10.1088/1475-7516/2013/11/047"
+
+"2012PhRvD..85l3537A":
+  type: article
+  title: "Non-Gaussianities and chiral gravitational waves in natural steep inflation"
+  author: [{name: "Anber, Mohamed M. and Sorbo, Lorenzo"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "85"}
+  page-range: "123537"
+  doi: "10.1103/PhysRevD.85.123537"
+
+"2006PhRvD..74f3521C":
+  type: article
+  title: "Gravitational waves from stochastic relativistic sources: Primordial turbulence and magnetic fields"
+  author: [{name: "Caprini, Chiara and Durrer, Ruth"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "74"}
+  page-range: "063521"
+  doi: "10.1103/PhysRevD.74.063521"
+
+"Allen:1996vm":
+  type: article
+  title: "The Stochastic gravity wave background: Sources and detection"
+  author: [{name: "Allen, Bruce"}]
+  date: 1996
+  parent: {type: proceedings, title: "Les Houches School of Physics: Astrophysical Sources of Gravitational Radiation"}
+  page-range: "373-417"
+
+"Maggiore:1999vm":
+  type: article
+  title: "Gravitational wave experiments and early universe cosmology"
+  author: [{name: "Maggiore, Michele"}]
+  date: 2000
+  parent: {type: periodical, title: "Phys. Rept.", volume: "331"}
+  page-range: "283-367"
+  doi: "10.1016/S0370-1573(99)00102-7"
+
+"1976ApJ...203..297S":
+  type: article
+  title: "An analytic expression for the luminosity function for galaxies."
+  author: [{name: "Schechter, P."}]
+  date: 1976
+  parent: {type: periodical, title: "ApJ", volume: "203"}
+  page-range: "297-306"
+  doi: "10.1086/154079"
+
+"Rubin_1970":
+  type: article
+  title: "Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions"
+  author: [{name: "Rubin, Vera C. and Ford, W. Kent, Jr."}]
+  date: 1970
+  parent: {type: periodical, title: "ApJ", volume: "159"}
+  page-range: "379"
+  doi: "10.1086/150317"
+
+"Rubin_1980":
+  type: article
+  title: "Rotational properties of 21 SC galaxies with a large range of luminosities and radii, from NGC 4605 (R=4kpc) to UGC 2885 (R=122kpc)."
+  author: [{name: "Rubin, V. C. and Ford, W. K., Jr. and Thonnard, N."}]
+  date: 1980
+  parent: {type: periodical, title: "ApJ", volume: "238"}
+  page-range: "471-487"
+  doi: "10.1086/158003"
+
+"Bennett_2013":
+  type: article
+  title: "NINE-YEAR <i>WILKINSON MICROWAVE ANISOTROPY PROBE</i> ( <i>WMAP</i> ) OBSERVATIONS: FINAL MAPS AND RESULTS"
+  author: [{name: "C. L. Bennett and D. Larson and J. L. Weiland and N. Jarosik and G. Hinshaw and N. Odegard and K. M. Smith and R. S. Hill and B. Gold and M. Halpern and E. Komatsu and M. R. Nolta and L. Page and D. N. Spergel and E. Wollack and J. Dunkley and A. Kogut and M. Limon and S. S. Meyer and G. S. Tucker and E. L. Wright"}]
+  date: 2013
+  parent: {type: periodical, title: "The Astrophysical Journal Supplement Series", volume: "208"}
+  page-range: "20"
+  doi: "10.1088/0067-0049/208/2/20"
+
+"Arcadi_2018":
+  type: article
+  title: "The waning of the WIMP? A review of models, searches, and constraints"
+  author: [{name: "Giorgio Arcadi and Maíra Dutra and Pradipta Ghosh and Manfred Lindner and Yann Mambrini and Mathias Pierre and Stefano Profumo and Farinaldo S. Queiroz"}]
+  date: 2018
+  parent: {type: periodical, title: "The European Physical Journal C", volume: "78"}
+  doi: "10.1140/epjc/s10052-018-5662-y"
+
+"Di_Luzio_2020":
+  type: article
+  title: "The landscape of QCD axion models"
+  author: [{name: "Luca Di Luzio and Maurizio Giannotti and Enrico Nardi and Luca Visinelli"}]
+  date: 2020
+  parent: {type: periodical, title: "Physics Reports", volume: "870"}
+  page-range: "1-117"
+  doi: "10.1016/j.physrep.2020.06.002"
+
+"Flores_1994":
+  type: article
+  title: "Observational and Theoretical Constraints on Singular Dark Matter Halos"
+  author: [{name: "Flores, Ricardo A. and Primack, Joel R."}]
+  date: 1994
+  parent: {type: periodical, title: "ApJ", volume: "427"}
+  serial-number: "L1"
+  doi: "10.1086/187350"
+
+"Moore_1994":
+  type: article
+  title: "Evidence against dissipation-less dark matter from observations of galaxy haloes"
+  author: [{name: "Moore, Ben"}]
+  date: 1994
+  parent: {type: periodical, title: "Nature", volume: "370"}
+  page-range: "629-631"
+  doi: "10.1038/370629a0"
+
+"Karukes_2015":
+  type: article
+  title: "The dark matter distribution in the spiral NGC 3198 out to 0.22 Rvir"
+  author: [{name: "Karukes, E. V. and Salucci, P. and Gentile, G."}]
+  date: 2015
+  parent: {type: periodical, title: "A&A", volume: "578"}
+  serial-number: "A13"
+  doi: "10.1051/0004-6361/201425339"
+
+"Klypin_1999":
+  type: article
+  title: "Where Are the Missing Galactic Satellites?"
+  author: [{name: "Anatoly Klypin and Andrey V. Kravtsov and Octavio Valenzuela and Francisco Prada"}]
+  date: 1999
+  parent: {type: periodical, title: "The Astrophysical Journal", volume: "522"}
+  page-range: "82-92"
+  doi: "10.1086/307643"
+
+"Moore_1999":
+  type: article
+  title: "Dark Matter Substructure within Galactic Halos"
+  author: [{name: "Moore, Ben and Ghigna, Sebastiano and Governato, Fabio and Lake, George and Quinn, Thomas and Stadel, Joachim and Tozzi, Paolo"}]
+  date: 1999
+  parent: {type: periodical, title: "ApJ", volume: "524"}
+  serial-number: "L19-L22"
+  doi: "10.1086/312287"
+
+"Navarro_1996":
+  type: article
+  title: "The cores of dwarf galaxy haloes"
+  author: [{name: "J. F. Navarro and V. R. Eke and C. S. Frenk"}]
+  date: 1996
+  parent: {type: periodical, title: "Monthly Notices of the Royal Astronomical Society", volume: "283"}
+  serial-number: "L72-L78"
+  doi: "10.1093/mnras/283.3.l72"
+
+"Governato_2012":
+  type: article
+  title: "Cuspy no more: how outflows affect the central dark matter and baryon distribution in Λ cold dark matter galaxies"
+  author: [{name: "Governato, F. and Zolotov, A. and Pontzen, A. and Christensen, C. and Oh, S. H. and Brooks, A. M. and Quinn, T. and Shen, S. and Wadsley, J."}]
+  date: 2012
+  parent: {type: periodical, title: "Monthly Notices of the Royal Astronomical Society", volume: "422"}
+  page-range: "1231-1240"
+  doi: "10.1111/j.1365-2966.2012.20696.x"
+
+"Brooks_2013":
+  type: article
+  title: "A BARYONIC SOLUTION TO THE MISSING SATELLITES PROBLEM"
+  author: [{name: "Alyson M. Brooks and Michael Kuhlen and Adi Zolotov and Dan Hooper"}]
+  date: 2013
+  parent: {type: periodical, title: "The Astrophysical Journal", volume: "765"}
+  page-range: "22"
+  doi: "10.1088/0004-637X/765/1/22"
+
+"Chan_2015":
+  type: article
+  title: "The impact of baryonic physics on the structure of dark matter haloes: the view from the FIRE cosmological simulations"
+  author: [{name: "Chan, T. K. and Kereš, D. and Oñorbe, J. and Hopkins, P. F. and Muratov, A. L. and Faucher-Giguère, C.-A. and Quataert, E."}]
+  date: 2015
+  parent: {type: periodical, title: "Monthly Notices of the Royal Astronomical Society", volume: "454"}
+  page-range: "2981-3001"
+  doi: "10.1093/mnras/stv2165"
+
+"Onorbe_2015":
+  type: article
+  title: "Forged in fire: cusps, cores and baryons in low-mass dwarf galaxies"
+  author: [{name: "Oñorbe, Jose and Boylan-Kolchin, Michael and Bullock, James S. and Hopkins, Philip F. and Kereš, Dušan and Faucher-Giguère, Claude-André and Quataert, Eliot and Murray, Norman"}]
+  date: 2015
+  parent: {type: periodical, title: "Monthly Notices of the Royal Astronomical Society", volume: "454"}
+  page-range: "2092-2106"
+  doi: "10.1093/mnras/stv2072"
+
+"Read_2016":
+  type: article
+  title: "Dark matter cores all the way down"
+  author: [{name: "Read, J. I. and Agertz, O. and Collins, M. L. M."}]
+  date: 2016
+  parent: {type: periodical, title: "Monthly Notices of the Royal Astronomical Society", volume: "459"}
+  page-range: "2573-2590"
+  doi: "10.1093/mnras/stw713"
+
+"Morganti_2017":
+  type: article
+  title: "The Many Routes to AGN Feedback"
+  author: [{name: "Morganti, Raffaella"}]
+  date: 2017
+  parent: {type: periodical, title: "Frontiers in Astronomy and Space Sciences", volume: "4"}
+  doi: "10.3389/fspas.2017.00042"
+
+"Arvanitaki_2010":
+  type: article
+  title: "String axiverse"
+  author: [{name: "Asimina Arvanitaki and Savas Dimopoulos and Sergei Dubovsky and Nemanja Kaloper and John March-Russell"}]
+  date: 2010
+  parent: {type: periodical, title: "Physical Review D", volume: "81"}
+  doi: "10.1103/physrevd.81.123530"
+
+"Green_1987":
+  type: article
+  title: "SUPERSTRING THEORY. VOL. 1: INTRODUCTION"
+  author: [{name: "Green, Michael B. and Schwarz, J. H. and Witten, Edward"}]
+  date: 1988
+
+"Svrcek_2006":
+  type: article
+  title: "Axions in string theory"
+  author: [{name: "Peter Svrcek and Edward Witten"}]
+  date: 2006
+  parent: {type: periodical, title: "Journal of High Energy Physics", volume: "2006"}
+  page-range: "051-051"
+  doi: "10.1088/1126-6708/2006/06/051"
+
+"Hlozek_2015":
+  type: article
+  title: "A search for ultralight axions using precision cosmological data"
+  author: [{name: "Hlozek, Renée and Grin, Daniel and Marsh, David J. E. and Ferreira, Pedro G."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "91"}
+  page-range: "103512"
+  doi: "10.1103/PhysRevD.91.103512"
+
+"Irsic_2017":
+  type: article
+  title: "First Constraints on Fuzzy Dark Matter from Lyman-α Forest Data and Hydrodynamical Simulations"
+  author: [{name: "Iršič, Vid and Viel, Matteo and Haehnelt, Martin G. and Bolton, James S. and Becker, George D."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "119"}
+  page-range: "031302"
+  doi: "10.1103/PhysRevLett.119.031302"
+
+"Armengaud_2017":
+  type: article
+  title: "Constraining the mass of light bosonic dark matter using SDSS Lyman-α forest"
+  author: [{name: "Armengaud, Eric and Palanque-Delabrouille, Nathalie and Yèche, Christophe and Marsh, David J. E. and Baur, Julien"}]
+  date: 2017
+  parent: {type: periodical, title: "Monthly Notices of the Royal Astronomical Society", volume: "471"}
+  page-range: "4606-4614"
+  doi: "10.1093/mnras/stx1870"
+
+"Nori_2018":
+  type: article
+  title: "Lyman α forest and non-linear structure characterization in Fuzzy Dark Matter cosmologies"
+  author: [{name: "Nori, Matteo and Murgia, Riccardo and Iršič, Vid and Baldi, Marco and Viel, Matteo"}]
+  date: 2018
+  parent: {type: periodical, title: "Monthly Notices of the Royal Astronomical Society", volume: "482"}
+  page-range: "3227-3243"
+  doi: "10.1093/mnras/sty2888"
+
+"Rogers_2021":
+  type: article
+  title: "Strong Bound on Canonical Ultralight Axion Dark Matter from the Lyman-Alpha Forest"
+  author: [{name: "Rogers, Keir K. and Peiris, Hiranya V."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "071302"
+  doi: "10.1103/PhysRevLett.126.071302"
+
+"Hayashi_2021":
+  type: article
+  title: "Narrowing the Mass Range of Fuzzy Dark Matter with Ultrafaint Dwarfs"
+  author: [{name: "Kohei Hayashi and Elisa G. M. Ferreira and Hei Yin Jowett Chan"}]
+  date: 2021
+  parent: {type: periodical, title: "The Astrophysical Journal Letters", volume: "912"}
+  serial-number: "L3"
+  doi: "10.3847/2041-8213/abf501"
+
+"Dalal_2022":
+  type: misc
+  title: "Not so fuzzy: excluding FDM with sizes and stellar kinematics of ultra-faint dwarf galaxies"
+  author: [{name: "Neal Dalal and Andrey Kravtsov"}]
+  date: 2022
+  serial-number: "arXiv:2203.05750"
+
+"Schive_2014":
+  type: article
+  title: "Understanding the Core-Halo Relation of Quantum Wave Dark Matter from 3D Simulations"
+  author: [{name: "Schive, Hsi-Yu and Liao, Ming-Hsuan and Woo, Tak-Pong and Wong, Shing-Kwong and Chiueh, Tzihong and Broadhurst, Tom and Hwang, W-Y. Pauchy"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "113"}
+  page-range: "261302"
+  doi: "10.1103/PhysRevLett.113.261302"
+
+"Zhang_2019":
+  type: article
+  title: "Cosmological Simulation for Fuzzy Dark Matter Model"
+  author: [{name: "Zhang, Jiajun and Liu, Hantao and Chu, Ming-Chung"}]
+  date: 2019
+  parent: {type: periodical, title: "Frontiers in Astronomy and Space Sciences", volume: "5"}
+  doi: "10.3389/fspas.2018.00048"
+
+"Bovy_2012":
+  type: article
+  title: "ON THE LOCAL DARK MATTER DENSITY"
+  author: [{name: "Jo Bovy and Scott Tremaine"}]
+  date: 2012
+  parent: {type: periodical, title: "The Astrophysical Journal", volume: "756"}
+  page-range: "89"
+  doi: "10.1088/0004-637X/756/1/89"
+
+"Read_2014":
+  type: article
+  title: "The local dark matter density"
+  author: [{name: "J I Read"}]
+  date: 2014
+  parent: {type: periodical, title: "Journal of Physics G: Nuclear and Particle Physics", volume: "41"}
+  page-range: "063101"
+  doi: "10.1088/0954-3899/41/6/063101"
+
+"Sivertsson_2018":
+  type: article
+  title: "The localdark matter density from SDSS-SEGUE G-dwarfs"
+  author: [{name: "Sivertsson, S and Silverwood, H and Read, J I and Bertone, G and Steger, P"}]
+  date: 2018
+  parent: {type: periodical, title: "Monthly Notices of the Royal Astronomical Society", volume: "478"}
+  page-range: "1677-1693"
+  doi: "10.1093/mnras/sty977"
+
+"de_Salas_2020":
+  type: article
+  title: "Dark matter local density determination based on recent observations"
+  author: [{name: "Pablo F. de Salas"}]
+  date: 2020
+  parent: {type: periodical, title: "Journal of Physics: Conference Series", volume: "1468"}
+  page-range: "012020"
+  doi: "10.1088/1742-6596/1468/1/012020"
+
+"de_Salas_2019":
+  type: article
+  title: "On the estimation of the local dark matter density using the rotation curve of the Milky Way"
+  author: [{name: "P.F. de Salas and K. Malhan and K. Freese and K. Hattori and M. Valluri"}]
+  date: 2019
+  parent: {type: periodical, title: "Journal of Cosmology and Astroparticle Physics", volume: "2019"}
+  page-range: "037-037"
+  doi: "10.1088/1475-7516/2019/10/037"
+
+"Smarra_2023":
+  type: article
+  title: "Second Data Release from the European Pulsar Timing Array: Challenging the Ultralight Dark Matter Paradigm"
+  author: [{name: "Smarra, Clemente and Goncharov, Boris and Barausse, Enrico and EPTA and InPTA"}]
+  date: 2023
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "131"}
+  page-range: "171001"
+  doi: "10.1103/PhysRevLett.131.171001"
+
+"Escudero_2015":
+  type: article
+  title: "Exploring dark matter microphysics with galaxy surveys"
+  author: [{name: "Miguel Escudero and Olga Mena and Aaron C. Vincent and Ryan J. Wilkinson and Céline Bœhm"}]
+  date: 2015
+  parent: {type: periodical, title: "Journal of Cosmology and Astroparticle Physics", volume: "2015"}
+  page-range: "034-034"
+  doi: "10.1088/1475-7516/2015/09/034"
+
+"wm1":
+  type: article
+  title: "The second data release from the European Pulsar Timing Array. I. The Dataset and timing analysis"
+  author: [{name: "EPTA and InPTA Collaboration"}]
+  date: 2023
+  parent: {type: periodical, title: "submitted to A&A", volume: ""}
+
+"wm2":
+  type: article
+  title: "The second data release from the European Pulsar Timing Array. II. Customised pulsar noise models for gravitational wave background searches"
+  author: [{name: "EPTA and InPTA Collaborations"}]
+  date: 2023
+  parent: {type: periodical, title: "submitted to A&A", volume: ""}
+
+"wm3":
+  type: article
+  title: "The second data release from the European Pulsar Timing Array. III. Search for gravitational wave signals"
+  author: [{name: "EPTA and InPTA Collaborations"}]
+  date: 2023
+  parent: {type: periodical, title: "A&A", volume: "678"}
+  serial-number: "A50"
+  doi: "10.1051/0004-6361/202346844"
+
+"wm4":
+  type: article
+  title: "The second data release from the European Pulsar Timing Array. IV. Search for continuous gravitational wave signal"
+  author: [{name: "EPTA and InPTA Collaborations"}]
+  date: 2023
+  parent: {type: periodical, title: "submitted to A&A", volume: ""}
+
+"dcl-16":
+  type: article
+  title: "High-precision timing of 42 millisecond pulsars with the European Pulsar Timing Array"
+  author: [{name: "Desvignes, G. and Caballero, R. N. and Lentati, L. and Verbiest, J. P. W. and Champion, D. J. and Stappers, B. W. and Janssen, G. H. and Lazarus, P. and Osłowski, S. and Babak, S. and Bassa, C. G. and Brem, P. and Burgay, M. and Cognard, I. and Gair, J. R. and Graikou, E. and Guillemot, L. and Hessels, J. W. T. and Jessner, A. and Jordan, C. and Karuppusamy, R. and Kramer, M. and Lassus, A. and Lazaridis, K. and Lee, K. J. and Liu, K. and Lyne, A. G. and McKee, J. and Mingarelli, C. M. F. and Perrodin, D. and Petiteau, A. and Possenti, A. and Purver, M. B. and Rosado, P. A. and Sanidas, S. and Sesana, A. and Shaifullah, G. and Smits, R. and Taylor, S. R. and Theureau, G. and Tiburzi, C. and van Haasteren, R. and Vecchio, A."}]
+  date: 2016
+  parent: {type: periodical, title: "MNRAS", volume: "458"}
+  page-range: "3341-3380"
+  doi: "10.1093/mnras/stw483"
+
+"bgp-22":
+  type: article
+  title: "Nanohertz gravitational wave astronomy during SKA era: An InPTA perspective"
+  author: [{name: "Joshi, Bhal Chandra and Gopakumar, Achamveedu and Pandian, Arul and Prabu, Thiagaraj and Dey, Lankeswar and Bagchi, Manjari and Desai, Shantanu and Tarafdar, Pratik and Rana, Prerna and Maan, Yogesh and Batra, Neelam Dhanda and Girgaonkar, Raghav and Agarwal, Nikita and Arumugam, Paramasivan and Basu, Avishek and Bathula, Adarsh and Dandapat, Subhajit and Gupta, Yashwant and Hisano, Shinnosuke and Kato, Ryo and Kharbanda, Divyansh and Kikunaga, Tomonosuke and Kolhe, Neel and Krishnakumar, M. A. and Manoharan, P. K. and Marmat, Piyush and Naidu, Arun and Banik, Sarmistha and Nobleson, K. and Paladi, Avinash Kumar and Pathak, Dhruv and Singha, Jaikhomba and Srivastava, Aman and Surnis, Mayuresh and Susarla, Sai Chaitanya and Susobhanan, Abhimanyu and Takahashi, Keitaro"}]
+  date: 2022
+  parent: {type: periodical, title: "Journal of Astrophysics and Astronomy", volume: "43"}
+  page-range: "98"
+  doi: "10.1007/s12036-022-09869-w"
+
+"2020MNRAS.498..537S":
+  type: article
+  title: "The effect of differential accretion on the gravitational wave background and the present-day MBH binary population"
+  author: [{name: "Siwek, Magdalena S. and Kelley, Luke Zoltan and Hernquist, Lars"}]
+  date: 2020
+  parent: {type: periodical, title: "MNRAS", volume: "498"}
+  page-range: "537-547"
+  doi: "10.1093/mnras/staa2361"
+
+"2005Natur.435..629S":
+  type: article
+  title: "Simulations of the formation, evolution and clustering of galaxies and quasars"
+  author: [{name: "Springel, Volker and White, Simon D. M. and Jenkins, Adrian and Frenk, Carlos S. and Yoshida, Naoki and Gao, Liang and Navarro, Julio and Thacker, Robert and Croton, Darren and Helly, John and Peacock, John A. and Cole, Shaun and Thomas, Peter and Couchman, Hugh and Evrard, August and Colberg, Jörg and Pearce, Frazer"}]
+  date: 2005
+  parent: {type: periodical, title: "Nature", volume: "435"}
+  page-range: "629-636"
+  doi: "10.1038/nature03597"
+
+"2009MNRAS.398.1150B":
+  type: article
+  title: "Resolving cosmic structure formation with the Millennium-II Simulation"
+  author: [{name: "Boylan-Kolchin, Michael and Springel, Volker and White, Simon D. M. and Jenkins, Adrian and Lemson, Gerard"}]
+  date: 2009
+  parent: {type: periodical, title: "MNRAS", volume: "398"}
+  page-range: "1150-1164"
+  doi: "10.1111/j.1365-2966.2009.15191.x"
+
+"2020PhRvD.102j3023B":
+  type: article
+  title: "Gravitational wave background from extreme mass ratio inspirals"
+  author: [{name: "Bonetti, Matteo and Sesana, Alberto"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "102"}
+  page-range: "103023"
+  doi: "10.1103/PhysRevD.102.103023"
+
+"2010MNRAS.402.2308A":
+  type: article
+  title: "Triplets of supermassive black holes: astrophysics, gravitational waves and detection"
+  author: [{name: "Amaro-Seoane, Pau and Sesana, Alberto and Hoffman, Loren and Benacquista, Matthew and Eichhorn, Christoph and Makino, Junichiro and Spurzem, Rainer"}]
+  date: 2010
+  parent: {type: periodical, title: "MNRAS", volume: "402"}
+  page-range: "2308-2320"
+  doi: "10.1111/j.1365-2966.2009.16104.x"
+
+"2010ApJ...719..851S":
+  type: article
+  title: "Self Consistent Model for the Evolution of Eccentric Massive Black Hole Binaries in Stellar Environments: Implications for Gravitational Wave Observations"
+  author: [{name: "Sesana, Alberto"}]
+  date: 2010
+  parent: {type: periodical, title: "ApJ", volume: "719"}
+  page-range: "851-864"
+  doi: "10.1088/0004-637X/719/1/851"
+
+"2013ApJ...764..151G":
+  type: article
+  title: "The M _BH-L _spheroid Relation at High and Low Masses, the Quadratic Growth of Black Holes, and Intermediate-mass Black Hole Candidates"
+  author: [{name: "Graham, Alister W. and Scott, Nicholas"}]
+  date: 2013
+  parent: {type: periodical, title: "ApJ", volume: "764"}
+  page-range: "151"
+  doi: "10.1088/0004-637X/764/2/151"
+
+"2011Natur.480..215M":
+  type: article
+  title: "Two ten-billion-solar-mass black holes at the centres of giant elliptical galaxies"
+  author: [{name: "McConnell, Nicholas J. and Ma, Chung-Pei and Gebhardt, Karl and Wright, Shelley A. and Murphy, Jeremy D. and Lauer, Tod R. and Graham, James R. and Richstone, Douglas O."}]
+  date: 2011
+  parent: {type: periodical, title: "Nature", volume: "480"}
+  page-range: "215-218"
+  doi: "10.1038/nature10636"
+
+"2014ApJ...783..134F":
+  type: article
+  title: "Binary Black Hole Accretion from a Circumbinary Disk: Gas Dynamics inside the Central Cavity"
+  author: [{name: "Farris, Brian D. and Duffell, Paul and MacFadyen, Andrew I. and Haiman, Zoltan"}]
+  date: 2014
+  parent: {type: periodical, title: "ApJ", volume: "783"}
+  page-range: "134"
+  doi: "10.1088/0004-637X/783/2/134"
+
+"2017MNRAS.469.4437C":
+  type: article
+  title: "A survey of dual active galactic nuclei in simulations of galaxy mergers: frequency and properties"
+  author: [{name: "Capelo, Pedro R. and Dotti, Massimo and Volonteri, Marta and Mayer, Lucio and Bellovary, Jillian M. and Shen, Sijing"}]
+  date: 2017
+  parent: {type: periodical, title: "MNRAS", volume: "469"}
+  page-range: "4437-4454"
+  doi: "10.1093/mnras/stx1067"
+
+"2018Natur.563..214K":
+  type: article
+  title: "A population of luminous accreting black holes with hidden mergers"
+  author: [{name: "Koss, Michael J. and Blecha, Laura and Bernhard, Phillip and Hung, Chao-Ling and Lu, Jessica R. and Trakhtenbrot, Benny and Treister, Ezequiel and Weigel, Anna and Sartori, Lia F. and Mushotzky, Richard and Schawinski, Kevin and Ricci, Claudio and Veilleux, Sylvain and Sanders, David B."}]
+  date: 2018
+  parent: {type: periodical, title: "Nature", volume: "563"}
+  page-range: "214-216"
+  doi: "10.1038/s41586-018-0652-7"
+
+"2015MNRAS.451.2663H":
+  type: article
+  title: "Galaxy formation in the Planck cosmology - I. Matching the observed evolution of star formation rates, colours and stellar masses"
+  author: [{name: "Henriques, Bruno M. B. and White, Simon D. M. and Thomas, Peter A. and Angulo, Raul and Guo, Qi and Lemson, Gerard and Springel, Volker and Overzier, Roderik"}]
+  date: 2015
+  parent: {type: periodical, title: "MNRAS", volume: "451"}
+  page-range: "2663-2680"
+  doi: "10.1093/mnras/stv705"
+
+"2016MNRAS.455L..72M":
+  type: article
+  title: "Astrophysical constraints on massive black hole binary evolution from pulsar timing arrays"
+  author: [{name: "Middleton, Hannah and Del Pozzo, Walter and Farr, Will M. and Sesana, Alberto and Vecchio, Alberto"}]
+  date: 2016
+  parent: {type: periodical, title: "MNRAS", volume: "455"}
+  serial-number: "L72-L76"
+  doi: "10.1093/mnrasl/slv150"
+
+"2017MNRAS.468..404C":
+  type: article
+  title: "Probing the assembly history and dynamical evolution of massive black hole binaries with pulsar timing arrays"
+  author: [{name: "Chen, Siyuan and Middleton, Hannah and Sesana, Alberto and Del Pozzo, Walter and Vecchio, Alberto"}]
+  date: 2017
+  parent: {type: periodical, title: "MNRAS", volume: "468"}
+  page-range: "404-417"
+  doi: "10.1093/mnras/stx475"
+
+"2018MNRAS.477.2599B":
+  type: article
+  title: "Post-Newtonian evolution of massive black hole triplets in galactic nuclei - III. A robust lower limit to the nHz stochastic background of gravitational waves"
+  author: [{name: "Bonetti, Matteo and Sesana, Alberto and Barausse, Enrico and Haardt, Francesco"}]
+  date: 2018
+  parent: {type: periodical, title: "MNRAS", volume: "477"}
+  page-range: "2599-2612"
+  doi: "10.1093/mnras/sty874"
+
+"2015ApJ...806L...8A":
+  type: article
+  title: "The Imprint of Massive Black Hole Mergers on the Correlation between Nuclear Star Clusters and Their Host Galaxies"
+  author: [{name: "Antonini, Fabio and Barausse, Enrico and Silk, Joseph"}]
+  date: 2015
+  parent: {type: periodical, title: "ApJ", volume: "806"}
+  serial-number: "L8"
+  doi: "10.1088/2041-8205/806/1/L8"
+
+"2014ApJ...794..104S":
+  type: article
+  title: "Linking the Spin Evolution of Massive Black Holes to Galaxy Kinematics"
+  author: [{name: "Sesana, A. and Barausse, E. and Dotti, M. and Rossi, E. M."}]
+  date: 2014
+  parent: {type: periodical, title: "ApJ", volume: "794"}
+  page-range: "104"
+  doi: "10.1088/0004-637X/794/2/104"
+
+"2015ApJ...799..178K":
+  type: article
+  title: "Understanding Black Hole Mass Assembly via Accretion and Mergers at Late Times in Cosmological Simulations"
+  author: [{name: "Kulier, Andrea and Ostriker, Jeremiah P. and Natarajan, Priyamvada and Lackner, Claire N. and Cen, Renyue"}]
+  date: 2015
+  parent: {type: periodical, title: "ApJ", volume: "799"}
+  page-range: "178"
+  doi: "10.1088/0004-637X/799/2/178"
+
+"2012ApJ...761...84R":
+  type: article
+  title: "Does a “Stochastic” Background of Gravitational Waves Exist in the Pulsar Timing Band?"
+  author: [{name: "Ravi, V. and Wyithe, J. S. B. and Hobbs, G. and Shannon, R. M. and Manchester, R. N. and Yardley, D. R. B. and Keith, M. J."}]
+  date: 2012
+  parent: {type: periodical, title: "ApJ", volume: "761"}
+  page-range: "84"
+  doi: "10.1088/0004-637X/761/2/84"
+
+"2023ApJ...949L..24S":
+  type: article
+  title: "Exploring Proxies for the Supermassive Black Hole Mass Function: Implications for Pulsar Timing Arrays"
+  author: [{name: "Simon, Joseph"}]
+  date: 2023
+  parent: {type: periodical, title: "ApJ", volume: "949"}
+  serial-number: "L24"
+  doi: "10.3847/2041-8213/acd18e"
+
+"2015MNRAS.447.2772R":
+  type: article
+  title: "Prospects for gravitational-wave detection and supermassive black hole astrophysics with pulsar timing arrays"
+  author: [{name: "Ravi, V. and Wyithe, J. S. B. and Shannon, R. M. and Hobbs, G."}]
+  date: 2015
+  parent: {type: periodical, title: "MNRAS", volume: "447"}
+  page-range: "2772-2783"
+  doi: "10.1093/mnras/stu2659"
+
+"2015MNRAS.451.2417R":
+  type: article
+  title: "Expected properties of the first gravitational wave signal detected with pulsar timing arrays"
+  author: [{name: "Rosado, Pablo A. and Sesana, Alberto and Gair, Jonathan"}]
+  date: 2015
+  parent: {type: periodical, title: "MNRAS", volume: "451"}
+  page-range: "2417-2433"
+  doi: "10.1093/mnras/stv1098"
+
+"2014ApJ...789..156M":
+  type: article
+  title: "Gravitational Waves and Stalled Satellites from Massive Galaxy Mergers at z <= 1"
+  author: [{name: "McWilliams, Sean T. and Ostriker, Jeremiah P. and Pretorius, Frans"}]
+  date: 2014
+  parent: {type: periodical, title: "ApJ", volume: "789"}
+  page-range: "156"
+  doi: "10.1088/0004-637X/789/2/156"
+
+"2003ApJ...596..860M":
+  type: article
+  title: "Long-Term Evolution of Massive Black Hole Binaries"
+  author: [{name: "Milosavljević, Miloš and Merritt, David"}]
+  date: 2003
+  parent: {type: periodical, title: "ApJ", volume: "596"}
+  page-range: "860-878"
+  doi: "10.1086/378086"
+
+"2014MNRAS.442...56R":
+  type: article
+  title: "Binary supermassive black hole environments diminish the gravitational wave signal in the pulsar timing band"
+  author: [{name: "Ravi, V. and Wyithe, J. S. B. and Shannon, R. M. and Hobbs, G. and Manchester, R. N."}]
+  date: 2014
+  parent: {type: periodical, title: "MNRAS", volume: "442"}
+  page-range: "56-68"
+  doi: "10.1093/mnras/stu779"
+
+"2011MNRAS.411.1467K":
+  type: article
+  title: "Gas-driven massive black hole binaries: signatures in the nHz gravitational wave background"
+  author: [{name: "Kocsis, B. and Sesana, A."}]
+  date: 2011
+  parent: {type: periodical, title: "MNRAS", volume: "411"}
+  page-range: "1467-1479"
+  doi: "10.1111/j.1365-2966.2010.17782.x"
+
+"2007PThPh.117..241E":
+  type: article
+  title: "The Effect of Orbital Eccentricity on Gravitational Wave Background Radiation from Supermassive Black Hole Binaries"
+  author: [{name: "Enoki, M. and Nagashima, M."}]
+  date: 2007
+  parent: {type: periodical, title: "Progress of Theoretical Physics", volume: "117"}
+  page-range: "241-256"
+  doi: "10.1143/PTP.117.241"
+
+"2018MNRAS.477..964K":
+  type: article
+  title: "Single sources in the low-frequency gravitational wave sky: properties and time to detection by pulsar timing arrays"
+  author: [{name: "Kelley, Luke Zoltan and Blecha, Laura and Hernquist, Lars and Sesana, Alberto and Taylor, Stephen R."}]
+  date: 2018
+  parent: {type: periodical, title: "MNRAS", volume: "477"}
+  page-range: "964-976"
+  doi: "10.1093/mnras/sty689"
+
+"2009MNRAS.394.2255S":
+  type: article
+  title: "Gravitational waves from resolvable massive black hole binary systems and observations with Pulsar Timing Arrays"
+  author: [{name: "Sesana, A. and Vecchio, A. and Volonteri, M."}]
+  date: 2009
+  parent: {type: periodical, title: "MNRAS", volume: "394"}
+  page-range: "2255-2265"
+  doi: "10.1111/j.1365-2966.2009.14499.x"
+
+"Ramani_2020":
+  type: article
+  title: "Observability of dark matter substructure with pulsar timing correlations"
+  author: [{name: "Harikrishnan Ramani and Tanner Trickle and Kathryn M. Zurek"}]
+  date: 2020
+  parent: {type: periodical, title: "Journal of Cosmology and Astroparticle Physics", volume: "2020"}
+  page-range: "033"
+  doi: "10.1088/1475-7516/2020/12/033"
+
+"Porayko_2014":
+  type: article
+  title: "Constraints on ultralight scalar dark matter from pulsar timing"
+  author: [{name: "N. K. Porayko and K.A. Postnov"}]
+  date: 2014
+  parent: {type: periodical, title: "Physical Review D", volume: "90"}
+  doi: "10.1103/physrevd.90.062008"
+
+"Kobayashi_2017":
+  type: article
+  title: "Lyman-alpha constraints on ultralight scalar dark matter: Implications for the early and late universe"
+  author: [{name: "Takeshi Kobayashi and Riccardo Murgia and Andrea De Simone and Vid Irš ič and Matteo Viel"}]
+  date: 2017
+  parent: {type: periodical, title: "Physical Review D", volume: "96"}
+  doi: "10.1103/physrevd.96.123514"
+
+"Porayko_2018":
+  type: article
+  title: "Parkes Pulsar Timing Array constraints on ultralight scalar-field dark matter"
+  author: [{name: "Nataliya K. Porayko and Xingjiang Zhu and Yuri Levin and Lam Hui and George Hobbs and Aleksandra Grudskaya and Konstantin Postnov and Matthew Bailes and N. D. Ramesh Bhat and William Coles and Shi Dai and James Dempsey and Michael J. Keith and Matthew Kerr and Michael Kramer and Paul D. Lasky and Richard N. Manchester and Stefan Osłowski and Aditya Parthasarathy and Vikram Ravi and Daniel J. Reardon and Pablo A. Rosado and Christopher J. Russell and Ryan M. Shannon and Renée Spiewak and Willem van Straten and Lawrence Toomey and Jingbo Wang and Linqing Wen and Xiaopeng You and"}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review D", volume: "98"}
+  doi: "10.1103/physrevd.98.102002"
+
+"Kaplan_2022":
+  type: article
+  title: "Constraining fundamental constant variations from ultralight dark matter with pulsar timing arrays"
+  author: [{name: "David E. Kaplan and Andrea Mitridate and Tanner Trickle"}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review D", volume: "106"}
+  doi: "10.1103/physrevd.106.035032"
+
+"Khmelnitsky_2014":
+  type: article
+  title: "Pulsar timing signal from ultralight scalar dark matter"
+  author: [{name: "Andrei Khmelnitsky and Valery Rubakov"}]
+  date: 2014
+  parent: {type: periodical, title: "Journal of Cosmology and Astroparticle Physics", volume: "2014"}
+  page-range: "019-019"
+  doi: "10.1088/1475-7516/2014/02/019"
+
+"2021NatAs...5.1268M":
+  type: article
+  title: "Ultra-low-frequency gravitational waves from cosmological and astrophysical processes"
+  author: [{name: "Moore, Christopher J. and Vecchio, Alberto"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Astronomy", volume: "5"}
+  page-range: "1268-1274"
+  doi: "10.1038/s41550-021-01489-8"
+
+"ppta-22":
+  type: article
+  title: "Consistency of the Parkes Pulsar Timing Array Signal with a Nanohertz Gravitational-wave Background"
+  author: [{name: "Goncharov, Boris and Thrane, Eric and Shannon, Ryan M. and Harms, Jan and Bhat, N. D. Ramesh and Hobbs, George and Kerr, Matthew and Manchester, Richard N. and Reardon, Daniel J. and Russell, Christopher J. and Zhu, Xing-Jiang and Zic, Andrew"}]
+  date: 2022
+  parent: {type: periodical, title: "ApJ", volume: "932"}
+  serial-number: "L22"
+  doi: "10.3847/2041-8213/ac76bb"
+
+"ng12p5gwb-20":
+  type: article
+  title: "The NANOGrav 12.5 yr Data Set: Search for an Isotropic Stochastic Gravitational-wave Background"
+  author: [{name: "Arzoumanian, Zaven and Baker, Paul T. and Blumer, Harsha and Bécsy, Bence and Brazier, Adam and Brook, Paul R. and Burke-Spolaor, Sarah and Chatterjee, Shami and Chen, Siyuan and Cordes, James M. and Cornish, Neil J. and Crawford, Fronefield and Cromartie, H. Thankful and Decesar, Megan E. and Demorest, Paul B. and Dolch, Timothy and Ellis, Justin A. and Ferrara, Elizabeth C. and Fiore, William and Fonseca, Emmanuel and Garver-Daniels, Nathan and Gentile, Peter A. and Good, Deborah C. and Hazboun, Jeffrey S. and Holgado, A. Miguel and Islo, Kristina and Jennings, Ross J. and Jones, Megan L. and Kaiser, Andrew R. and Kaplan, David L. and Kelley, Luke Zoltan and Key, Joey Shapiro and Laal, Nima and Lam, Michael T. and Lazio, T. Joseph W. and Lorimer, Duncan R. and Luo, Jing and Lynch, Ryan S. and Madison, Dustin R. and McLaughlin, Maura A. and Mingarelli, Chiara M. F. and Ng, Cherry and Nice, David J. and Pennucci, Timothy T. and Pol, Nihan S. and Ransom, Scott M. and Ray, Paul S. and Shapiro-Albert, Brent J. and Siemens, Xavier and Simon, Joseph and Spiewak, Renée and Stairs, Ingrid H. and Stinebring, Daniel R. and Stovall, Kevin and Sun, Jerry P. and Swiggum, Joseph K. and Taylor, Stephen R. and Turner, Jacob E. and Vallisneri, Michele and Vigeland, Sarah J. and Witt, Caitlin A. and Nanograv Collaboration"}]
+  date: 2020
+  parent: {type: periodical, title: "ApJ", volume: "905"}
+  serial-number: "L34"
+  doi: "10.3847/2041-8213/abd401"
+
+"2022MNRAS.509.3488I":
+  type: article
+  title: "Massive black hole evolution models confronting the n-Hz amplitude of the stochastic gravitational wave background"
+  author: [{name: "Izquierdo-Villalba, David and Sesana, Alberto and Bonoli, Silvia and Colpi, Monica"}]
+  date: 2022
+  parent: {type: periodical, title: "MNRAS", volume: "509"}
+  page-range: "3488-3503"
+  doi: "10.1093/mnras/stab3239"
+
+"2013ApJ...764..184M":
+  type: article
+  title: "Revisiting the Scaling Relations of Black Hole Masses and Host Galaxy Properties"
+  author: [{name: "McConnell, Nicholas J. and Ma, Chung-Pei"}]
+  date: 2013
+  parent: {type: periodical, title: "ApJ", volume: "764"}
+  page-range: "184"
+  doi: "10.1088/0004-637X/764/2/184"
+
+"2013CQGra..30v4014S":
+  type: article
+  title: "Insights into the astrophysics of supermassive black hole binaries from pulsar timing observations"
+  author: [{name: "Sesana, A."}]
+  date: 2013
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "30"}
+  page-range: "224014"
+  doi: "10.1088/0264-9381/30/22/224014"
+
+"2000PhRvL..85.3761D":
+  type: article
+  title: "Gravitational Wave Bursts from Cosmic Strings"
+  author: [{name: "Damour, Thibault and Vilenkin, Alexander"}]
+  date: 2000
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "85"}
+  page-range: "3761-3764"
+  doi: "10.1103/PhysRevLett.85.3761"
+
+"2018CQGra..35p3001C":
+  type: article
+  title: "Cosmological backgrounds of gravitational waves"
+  author: [{name: "Caprini, Chiara and Figueroa, Daniel G."}]
+  date: 2018
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "35"}
+  page-range: "163001"
+  doi: "10.1088/1361-6382/aac608"
+
+"2013ARA-A..51..511K":
+  type: article
+  title: "Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies"
+  author: [{name: "Kormendy, John and Ho, Luis C."}]
+  date: 2013
+  parent: {type: periodical, title: "ARA&A", volume: "51"}
+  page-range: "511-653"
+  doi: "10.1146/annurev-astro-082708-101811"
+
+"B12":
+  type: article
+  title: "The evolution of massive black holes and their spins in their galactic hosts"
+  author: [{name: "Barausse, Enrico"}]
+  date: 2012
+  parent: {type: periodical, title: "MNRAS", volume: "423"}
+  page-range: "2533-2557"
+  doi: "10.1111/j.1365-2966.2012.21057.x"
+
+"K-16":
+  type: article
+  title: "Science with the space-based interferometer eLISA: Supermassive black hole binaries"
+  author: [{name: "Klein, Antoine and Barausse, Enrico and Sesana, Alberto and Petiteau, Antoine and Berti, Emanuele and Babak, Stanislav and Gair, Jonathan and Aoudia, Sofiane and Hinder, Ian and Ohme, Frank and Wardell, Barry"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "93"}
+  page-range: "024003"
+  doi: "10.1103/PhysRevD.93.024003"
+
+"B-20":
+  type: article
+  title: "Massive Black Hole Merger Rates: The Effect of Kiloparsec Separation Wandering and Supernova Feedback"
+  author: [{name: "Barausse, Enrico and Dvorkin, Irina and Tremmel, Michael and Volonteri, Marta and Bonetti, Matteo"}]
+  date: 2020
+  parent: {type: periodical, title: "ApJ", volume: "904"}
+  page-range: "16"
+  doi: "10.3847/1538-4357/abba7f"
+
+"B-18":
+  type: article
+  title: "Post-Newtonian evolution of massive black hole triplets in galactic nuclei - III. A robust lower limit to the nHz stochastic background of gravitational waves"
+  author: [{name: "Bonetti, Matteo and Sesana, Alberto and Barausse, Enrico and Haardt, Francesco"}]
+  date: 2018
+  parent: {type: periodical, title: "MNRAS", volume: "477"}
+  page-range: "2599-2612"
+  doi: "10.1093/mnras/sty874"
+
+"abb2016":
+  type: article
+  title: "Observation of Gravitational Waves from a Binary Black Hole Merger"
+  author: [{name: "Abbott, B. P. and Abbott, R. and Abbott, T. D. and Abernathy, M. R. and Acernese, F. and Ackley, K. and Adams, C. and Adams, T. and Addesso, P. and Adhikari, R. X. and et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "116"}
+  page-range: "061102"
+  doi: "10.1103/PhysRevLett.116.061102"
+
+"fb1990":
+  type: article
+  title: "Constructing a pulsar timing array"
+  author: [{name: "Foster, R. S. and Backer, D. C."}]
+  date: 1990
+  parent: {type: periodical, title: "ApJ", volume: "361"}
+  page-range: "300-308"
+  doi: "10.1086/169195"
+
+"gsr-2021":
+  type: article
+  title: "On the Evidence for a Common-spectrum Process in the Search for the Nanohertz Gravitational-wave Background with the Parkes Pulsar Timing Array"
+  author: [{name: "Goncharov, Boris and Shannon, R. M. and Reardon, D. J. and Hobbs, G. and Zic, A. and Bailes, M. and Curyło, M. and Dai, S. and Kerr, M. and Lower, M. E. and Manchester, R. N. and Mandow, R. and Middleton, H. and Miles, M. T. and Parthasarathy, A. and Thrane, E. and Thyagarajan, N. and Xue, X. and Zhu, X. -J. and Cameron, A. D. and Feng, Y. and Luo, R. and Russell, C. J. and Sarkissian, J. and Spiewak, R. and Wang, S. and Wang, J. B. and Zhang, L. and Zhang, S."}]
+  date: 2021
+  parent: {type: periodical, title: "ApJ", volume: "917"}
+  serial-number: "L19"
+  doi: "10.3847/2041-8213/ac17f4"
+
+"hd1983":
+  type: article
+  title: "Upper limits on the isotropic gravitational radiation background from pulsar timing analysis"
+  author: [{name: "Hellings, R. W. and Downs, G. S."}]
+  date: 1983
+  parent: {type: periodical, title: "ApJ", volume: "265"}
+  serial-number: "L39-L42"
+  doi: "10.1086/183954"
+
+"jb2003":
+  type: article
+  title: "Gravitational Waves Probe the Coalescence Rate of Massive Black Hole Binaries"
+  author: [{name: "Jaffe, A. H. and Backer, D. C."}]
+  date: 2003
+  parent: {type: periodical, title: "ApJ", volume: "583"}
+  page-range: "616-631"
+  doi: "10.1086/345443"
+
+"kbh-2017":
+  type: article
+  title: "The gravitational wave background from massive black hole binaries in Illustris: spectral features and time to detection with pulsar timing arrays"
+  author: [{name: "Kelley, Luke Zoltan and Blecha, Laura and Hernquist, Lars and Sesana, Alberto and Taylor, Stephen R."}]
+  date: 2017
+  parent: {type: periodical, title: "MNRAS", volume: "471"}
+  page-range: "4508-4526"
+  doi: "10.1093/mnras/stx1638"
+
+"ltm-2015":
+  type: article
+  title: "European Pulsar Timing Array limits on an isotropic stochastic gravitational-wave background"
+  author: [{name: "Lentati, L. and Taylor, S. R. and Mingarelli, C. M. F. and Sesana, A. and Sanidas, S. A. and Vecchio, A. and Caballero, R. N. and Lee, K. J. and van Haasteren, R. and Babak, S. and Bassa, C. G. and Brem, P. and Burgay, M. and Champion, D. J. and Cognard, I. and Desvignes, G. and Gair, J. R. and Guillemot, L. and Hessels, J. W. T. and Janssen, G. H. and Karuppusamy, R. and Kramer, M. and Lassus, A. and Lazarus, P. and Liu, K. and Osłowski, S. and Perrodin, D. and Petiteau, A. and Possenti, A. and Purver, M. B. and Rosado, P. A. and Smits, R. and Stappers, B. and Theureau, G. and Tiburzi, C. and Verbiest, J. P. W."}]
+  date: 2015
+  parent: {type: periodical, title: "MNRAS", volume: "453"}
+  page-range: "2576-2598"
+  doi: "10.1093/mnras/stv1538"
+
+"mhb-2013":
+  type: article
+  title: "The Parkes Pulsar Timing Array Project"
+  author: [{name: "Manchester, R. N. and Hobbs, G. and Bailes, M. and Coles, W. A. and van Straten, W. and Keith, M. J. and Shannon, R. M. and Bhat, N. D. R. and Brown, A. and Burke-Spolaor, S. G. and Champion, D. J. and Chaudhary, A. and Edwards, R. T. and Hampson, G. and Hotan, A. W. and Jameson, A. and Jenet, F. A. and Kesteven, M. J. and Khoo, J. and Kocz, J. and Maciesiak, K. and Oslowski, S. and Ravi, V. and Reynolds, J. R. and Sarkissian, J. M. and Verbiest, J. P. W. and Wen, Z. L. and Wilson, W. E. and Yardley, D. and Yan, W. M. and You, X. P."}]
+  date: 2013
+  parent: {type: periodical, title: "PASA", volume: "30"}
+  serial-number: "e017"
+  doi: "10.1017/pasa.2012.017"
+
+"mcl2013":
+  type: article
+  title: "The North American Nanohertz Observatory for Gravitational Waves"
+  author: [{name: "McLaughlin, M. A."}]
+  date: 2013
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "30"}
+  page-range: "224008"
+  doi: "10.1088/0264-9381/30/22/224008"
+
+"rr1995":
+  type: article
+  title: "Ultra--Low-Frequency Gravitational Radiation from Massive Black Hole Binaries"
+  author: [{name: "Rajagopal, Mohan and Romani, Roger W."}]
+  date: 1995
+  parent: {type: periodical, title: "ApJ", volume: "446"}
+  page-range: "543"
+  doi: "10.1086/175813"
+
+"ses-2004":
+  type: article
+  title: "Low-Frequency Gravitational Radiation from Coalescing Massive Black Hole Binaries in Hierarchical Cosmologies"
+  author: [{name: "Sesana, Alberto and Haardt, Francesco and Madau, Piero and Volonteri, Marta"}]
+  date: 2004
+  parent: {type: periodical, title: "ApJ", volume: "611"}
+  page-range: "623-632"
+  doi: "10.1086/422185"
+
+"ses2013":
+  type: article
+  title: "Systematic investigation of the expected gravitational wave signal from supermassive black hole binaries in the pulsar timing band"
+  author: [{name: "Sesana, A."}]
+  date: 2013
+  parent: {type: periodical, title: "MNRAS", volume: "433"}
+  serial-number: "L1-L5"
+  doi: "10.1093/mnrasl/slt034"
+
+"thk-2016":
+  type: article
+  title: "A study of spatial correlations in pulsar timing array data"
+  author: [{name: "Tiburzi, C. and Hobbs, G. and Kerr, M. and Coles, W. A. and Dai, S. and Manchester, R. N. and Possenti, A. and Shannon, R. M. and You, X. P."}]
+  date: 2016
+  parent: {type: periodical, title: "MNRAS", volume: "455"}
+  page-range: "4339-4350"
+  doi: "10.1093/mnras/stv2143"
+
+"vlh-2016":
+  type: article
+  title: "The International Pulsar Timing Array: First data release"
+  author: [{name: "Verbiest, J. P. W. and Lentati, L. and Hobbs, G. and van Haasteren, R. and Demorest, P. B. and Janssen, G. H. and Wang, J.-B. and Desvignes, G. and Caballero, R. N. and Keith, M. J. and Champion, D. J. and Arzoumanian, Z. and Babak, S. and Bassa, C. G. and Bhat, N. D. R. and Brazier, A. and Brem, P. and Burgay, M. and Burke-Spolaor, S. and Chamberlin, S. J. and Chatterjee, S. and Christy, B. and Cognard, I. and Cordes, J. M. and Dai, S. and Dolch, T. and Ellis, J. A. and Ferdman, R. D. and Fonseca, E. and Gair, J. R. and Garver-Daniels, N. E. and Gentile, P. and Gonzalez, M. E. and Graikou, E. and Guillemot, L. and Hessels, J. W. T. and Jones, G. and Karuppusamy, R. and Kerr, M. and Kramer, M. and Lam, M. T. and Lasky, P. D. and Lassus, A. and Lazarus, P. and Lazio, T. J. W. and Lee, K. J. and Levin, L. and Liu, K. and Lynch, R. S. and Lyne, A. G. and Mckee, J. and McLaughlin, M. A. and McWilliams, S. T. and Madison, D. R. and Manchester, R. N. and Mingarelli, C. M. F. and Nice, D. J. and Osłowski, S. and Palliyaguru, N. T. and Pennucci, T. T. and Perera, B. B. P. and Perrodin, D. and Possenti, A. and Petiteau, A. and Ransom, S. M. and Reardon, D. and Rosado, P. A. and Sanidas, S. A. and Sesana, A. and Shaifullah, G. and Shannon, R. M. and Siemens, X. and Simon, J. and Smits, R. and Spiewak, R. and Stairs, I. H. and Stappers, B. W. and Stinebring, D. R. and Stovall, K. and Swiggum, J. K. and Taylor, S. R. and Theureau, G. and Tiburzi, C. and Toomey, L. and Vallisneri, M. and van Straten, W. and Vecchio, A. and Wang, Y. and Wen, L. and You, X. P. and Zhu, W. W. and Zhu, X.-J."}]
+  date: 2016
+  parent: {type: periodical, title: "MNRAS", volume: "458"}
+  page-range: "1267-1288"
+  doi: "10.1093/mnras/stw347"
+
+"wl2003":
+  type: article
+  title: "Low-Frequency Gravitational Waves from Massive Black Hole Binaries: Predictions for LISA and Pulsar Timing Arrays"
+  author: [{name: "Wyithe, J. Stuart B. and Loeb, Abraham"}]
+  date: 2003
+  parent: {type: periodical, title: "ApJ", volume: "590"}
+  page-range: "691-706"
+  doi: "10.1086/375187"
+
+"pdd-2019":
+  type: article
+  title: "The International Pulsar Timing Array: second data release"
+  author: [{name: "Perera, B. B. P. and DeCesar, M. E. and Demorest, P. B. and Kerr, M. and Lentati, L. and Nice, D. J. and Osłowski, S. and Ransom, S. M. and Keith, M. J. and Arzoumanian, Z. and Bailes, M. and Baker, P. T. and Bassa, C. G. and Bhat, N. D. R. and Brazier, A. and Burgay, M. and Burke-Spolaor, S. and Caballero, R. N. and Champion, D. J. and Chatterjee, S. and Chen, S. and Cognard, I. and Cordes, J. M. and Crowter, K. and Dai, S. and Desvignes, G. and Dolch, T. and Ferdman, R. D. and Ferrara, E. C. and Fonseca, E. and Goldstein, J. M. and Graikou, E. and Guillemot, L. and Hazboun, J. S. and Hobbs, G. and Hu, H. and Islo, K. and Janssen, G. H. and Karuppusamy, R. and Kramer, M. and Lam, M. T. and Lee, K. J. and Liu, K. and Luo, J. and Lyne, A. G. and Manchester, R. N. and McKee, J. W. and McLaughlin, M. A. and Mingarelli, C. M. F. and Parthasarathy, A. P. and Pennucci, T. T. and Perrodin, D. and Possenti, A. and Reardon, D. J. and Russell, C. J. and Sanidas, S. A. and Sesana, A. and Shaifullah, G. and Shannon, R. M. and Siemens, X. and Simon, J. and Spiewak, R. and Stairs, I. H. and Stappers, B. W. and Swiggum, J. K. and Taylor, S. R. and Theureau, G. and Tiburzi, C. and Vallisneri, M. and Vecchio, A. and Wang, J. B. and Zhang, S. B. and Zhang, L. and Zhu, W. W. and Zhu, X. J."}]
+  date: 2019
+  parent: {type: periodical, title: "MNRAS", volume: "490"}
+  page-range: "4666-4687"
+  doi: "10.1093/mnras/stz2857"
+
+"bjk-16":
+  type: article
+  title: "LEAP: the Large European Array for Pulsars"
+  author: [{name: "Bassa, C. G. and Janssen, G. H. and Karuppusamy, R. and Kramer, M. and Lee, K. J. and Liu, K. and McKee, J. and Perrodin, D. and Purver, M. and Sanidas, S. and Smits, R. and Stappers, B. W."}]
+  date: 2016
+  parent: {type: periodical, title: "MNRAS", volume: "456"}
+  page-range: "2196-2209"
+  doi: "10.1093/mnras/stv2755"
+
+"csd2017":
+  type: article
+  title: "Efficient computation of the gravitational wave spectrum emitted by eccentric massive black hole binaries in stellar environments"
+  author: [{name: "Chen, Siyuan and Sesana, Alberto and Del Pozzo, Walter"}]
+  date: 2017
+  parent: {type: periodical, title: "MNRAS", volume: "470"}
+  page-range: "1738-1749"
+  doi: "10.1093/mnras/stx1093"
+
+"csc2019":
+  type: article
+  title: "Constraining astrophysical observables of galaxy and supermassive black hole binary mergers using pulsar timing arrays"
+  author: [{name: "Chen, Siyuan and Sesana, Alberto and Conselice, Christopher J."}]
+  date: 2019
+  parent: {type: periodical, title: "MNRAS", volume: "488"}
+  page-range: "401-418"
+  doi: "10.1093/mnras/stz1722"
+
+"msc-2021":
+  type: article
+  title: "Massive black hole binary systems and the NANOGrav 12.5 yr results"
+  author: [{name: "Middleton, H. and Sesana, A. and Chen, S. and Vecchio, A. and Del Pozzo, W. and Rosado, P. A."}]
+  date: 2021
+  parent: {type: periodical, title: "MNRAS", volume: "502"}
+  serial-number: "L99-L103"
+  doi: "10.1093/mnrasl/slab008"
+
+"Babak:2011mr":
+  type: article
+  title: "Resolving multiple supermassive black hole binaries with pulsar timing arrays"
+  author: [{name: "Babak, Stanislav and Sesana, Alberto"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "85"}
+  page-range: "044034"
+  doi: "10.1103/PhysRevD.85.044034"
+
+"ccg-21":
+  type: article
+  title: "Common-red-signal analysis with 24-yr high-precision timing of the European Pulsar Timing Array: inferences in the stochastic gravitational-wave background search"
+  author: [{name: "Chen, S. and Caballero, R. N. and Guo, Y. J. and Chalumeau, A. and Liu, K. and Shaifullah, G. and Lee, K. J. and Babak, S. and Desvignes, G. and Parthasarathy, A. and Hu, H. and van der Wateren, E. and Antoniadis, J. and Bak Nielsen, A. -S. and Bassa, C. G. and Berthereau, A. and Burgay, M. and Champion, D. J. and Cognard, I. and Falxa, M. and Ferdman, R. D. and Freire, P. C. C. and Gair, J. R. and Graikou, E. and Guillemot, L. and Jang, J. and Janssen, G. H. and Karuppusamy, R. and Keith, M. J. and Kramer, M. and Liu, X. J. and Lyne, A. G. and Main, R. A. and McKee, J. W. and Mickaliger, M. B. and Perera, B. B. P. and Perrodin, D. and Petiteau, A. and Porayko, N. K. and Possenti, A. and Samajdar, A. and Sanidas, S. A. and Sesana, A. and Speri, L. and Stappers, B. W. and Theureau, G. and Tiburzi, C. and Vecchio, A. and Verbiest, J. P. W. and Wang, J. and Wang, L. and Xu, H."}]
+  date: 2021
+  parent: {type: periodical, title: "MNRAS", volume: "508"}
+  page-range: "4970-4993"
+  doi: "10.1093/mnras/stab2833"
+
+"svc08":
+  type: article
+  title: "The stochastic gravitational-wave background from massive black hole binary systems: implications for observations with Pulsar Timing Arrays"
+  author: [{name: "Sesana, A. and Vecchio, A. and Colacino, C. N."}]
+  date: 2008
+  parent: {type: periodical, title: "MNRAS", volume: "390"}
+  page-range: "192-209"
+  doi: "10.1111/j.1365-2966.2008.13682.x"
+
+"1946ZhETF..16..587L":
+  type: article
+  title: "On the gravitational stability of the expanding universe"
+  author: [{name: "Lifshitz, E. M."}]
+  date: 1946
+  parent: {type: periodical, title: "Zhurnal Eksperimentalnoi i Teoreticheskoi Fiziki", volume: "16"}
+  page-range: "587-602"
+
+"baumann_2022":
+  type: article
+  title: "Cosmology"
+  author: [{name: "Baumann, Daniel"}]
+  date: 2022
+  doi: "10.1017/9781108937092"
+
+"2018PhRvD..97l3532K":
+  type: article
+  title: "Semianalytic calculation of gravitational wave spectrum nonlinearly induced from primordial curvature perturbations"
+  author: [{name: "Kohri, Kazunori and Terada, Takahiro"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "97"}
+  page-range: "123532"
+  doi: "10.1103/PhysRevD.97.123532"
+
+"2007PhRvD..75l3518A":
+  type: article
+  title: "Cosmological gravitational wave background from primordial density perturbations"
+  author: [{name: "Ananda, Kishore N. and Clarkson, Chris and Wands, David"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "75"}
+  page-range: "123518"
+  doi: "10.1103/PhysRevD.75.123518"
+
+"1967PThPh..37..831T":
+  type: article
+  title: "Non-Linear Theory of Gravitational Instability in the Expanding Universe"
+  author: [{name: "Tomita, K."}]
+  date: 1967
+  parent: {type: periodical, title: "Progress of Theoretical Physics", volume: "37"}
+  page-range: "831-846"
+  doi: "10.1143/PTP.37.831"
+
+"1993PhRvD..47.1311M":
+  type: article
+  title: "General-relativistic approach to the nonlinear evolution of collisionless matter"
+  author: [{name: "Matarrese, Sabino and Pantano, Ornella and Saez, Diego"}]
+  date: 1993
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "47"}
+  page-range: "1311-1323"
+  doi: "10.1103/PhysRevD.47.1311"
+
+"1998PhRvD..58d3504M":
+  type: article
+  title: "Relativistic second-order perturbations of the Einstein-de Sitter universe"
+  author: [{name: "Matarrese, Sabino and Mollerach, Silvia and Bruni, Marco"}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "58"}
+  page-range: "043504"
+  doi: "10.1103/PhysRevD.58.043504"
+
+"2004PhRvD..69j4011N":
+  type: article
+  title: "Second-order perturbations of the Friedmann world model"
+  author: [{name: "Noh, Hyerim and Hwang, Jai-Chan"}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "69"}
+  page-range: "104011"
+  doi: "10.1103/PhysRevD.69.104011"
+
+"2005PhRvD..71d3508C":
+  type: article
+  title: "Unified treatment of cosmological perturbations from superhorizon to small scales"
+  author: [{name: "Carbone, Carmelita and Matarrese, Sabino"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "71"}
+  page-range: "043508"
+  doi: "10.1103/PhysRevD.71.043508"
+
+"2020A-A...641A..10P":
+  type: article
+  title: "Planck 2018 results. X. Constraints on inflation"
+  author: [{name: "Planck Collaboration and Akrami, Y. and Arroja, F. and Ashdown, M. and Aumont, J. and Baccigalupi, C. and Ballardini, M. and Banday, A. J. and Barreiro, R. B. and Bartolo, N. and Basak, S. and Benabed, K. and Bernard, J. -P. and Bersanelli, M. and Bielewicz, P. and Bock, J. J. and Bond, J. R. and Borrill, J. and Bouchet, F. R. and Boulanger, F. and Bucher, M. and Burigana, C. and Butler, R. C. and Calabrese, E. and Cardoso, J. -F. and Carron, J. and Challinor, A. and Chiang, H. C. and Colombo, L. P. L. and Combet, C. and Contreras, D. and Crill, B. P. and Cuttaia, F. and de Bernardis, P. and de Zotti, G. and Delabrouille, J. and Delouis, J. -M. and Di Valentino, E. and Diego, J. M. and Donzelli, S. and Doré, O. and Douspis, M. and Ducout, A. and Dupac, X. and Dusini, S. and Efstathiou, G. and Elsner, F. and Enßlin, T. A. and Eriksen, H. K. and Fantaye, Y. and Fergusson, J. and Fernandez-Cobos, R. and Finelli, F. and Forastieri, F. and Frailis, M. and Franceschi, E. and Frolov, A. and Galeotta, S. and Galli, S. and Ganga, K. and Gauthier, C. and Génova-Santos, R. T. and Gerbino, M. and Ghosh, T. and González-Nuevo, J. and Górski, K. M. and Gratton, S. and Gruppuso, A. and Gudmundsson, J. E. and Hamann, J. and Handley, W. and Hansen, F. K. and Herranz, D. and Hivon, E. and Hooper, D. C. and Huang, Z. and Jaffe, A. H. and Jones, W. C. and Keihänen, E. and Keskitalo, R. and Kiiveri, K. and Kim, J. and Kisner, T. S. and Krachmalnicoff, N. and Kunz, M. and Kurki-Suonio, H. and Lagache, G. and Lamarre, J. -M. and Lasenby, A. and Lattanzi, M. and Lawrence, C. R. and Le Jeune, M. and Lesgourgues, J. and Levrier, F. and Lewis, A. and Liguori, M. and Lilje, P. B. and Lindholm, V. and López-Caniego, M. and Lubin, P. M. and Ma, Y. -Z. and Macías-Pérez, J. F. and Maggio, G. and Maino, D. and Mandolesi, N. and Mangilli, A. and Marcos-Caballero, A. and Maris, M. and Martin, P. G. and Martínez-González, E. and Matarrese, S. and Mauri, N. and McEwen, J. D. and Meerburg, P. D. and Meinhold, P. R. and Melchiorri, A. and Mennella, A. and Migliaccio, M. and Mitra, S. and Miville-Deschênes, M. -A. and Molinari, D. and Moneti, A. and Montier, L. and Morgante, G. and Moss, A. and Münchmeyer, M. and Natoli, P. and Nørgaard-Nielsen, H. U. and Pagano, L. and Paoletti, D. and Partridge, B. and Patanchon, G. and Peiris, H. V. and Perrotta, F. and Pettorino, V. and Piacentini, F. and Polastri, L. and Polenta, G. and Puget, J. -L. and Rachen, J. P. and Reinecke, M. and Remazeilles, M. and Renzi, A. and Rocha, G. and Rosset, C. and Roudier, G. and Rubiño-Martín, J. A. and Ruiz-Granados, B. and Salvati, L. and Sandri, M. and Savelainen, M. and Scott, D. and Shellard, E. P. S. and Shiraishi, M. and Sirignano, C. and Sirri, G. and Spencer, L. D. and Sunyaev, R. and Suur-Uski, A. -S. and Tauber, J. A. and Tavagnacco, D. and Tenti, M. and Toffolatti, L. and Tomasi, M. and Trombetti, T. and Valiviita, J. and Van Tent, B. and Vielva, P. and Villa, F. and Vittorio, N. and Wandelt, B. D. and Wehus, I. K. and White, S. D. M. and Zacchei, A. and Zibin, J. P. and Zonca, A."}]
+  date: 2020
+  parent: {type: periodical, title: "A&A", volume: "641"}
+  serial-number: "A10"
+  doi: "10.1051/0004-6361/201833887"
+
+"2011PhRvD..83h3521B":
+  type: article
+  title: "Constraints on the induced gravitational wave background from primordial black holes"
+  author: [{name: "Bugaev, Edgar and Klimai, Peter"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "83"}
+  page-range: "083521"
+  doi: "10.1103/PhysRevD.83.083521"
+
+"2020PhRvL.124y1101C":
+  type: article
+  title: "Pulsar Timing Array Constraints on Primordial Black Holes with NANOGrav 11-Year Dataset"
+  author: [{name: "Chen, Zu-Cheng and Yuan, Chen and Huang, Qing-Guo"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "251101"
+  doi: "10.1103/PhysRevLett.124.251101"
+
+"2023arXiv230207901D":
+  type: article
+  title: "Search for scalar induced gravitational waves in the International Pulsar Timing Array Data Release 2 and NANOgrav 12.5 years dataset"
+  author: [{name: "Dandoy, Virgile and Domcke, Valerie and Rompineve, Fabrizio"}]
+  date: 2023
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2302.07901"
+  doi: "10.48550/arXiv.2302.07901"
+
+"2023Univ....9..157Z":
+  type: article
+  title: "Bayesian Implications for the Primordial Black Holes from NANOGrav's Pulsar-Timing Data Using the Scalar-Induced Gravitational Waves"
+  author: [{name: "Zhao, Zhi-Chao and Wang, Sai"}]
+  date: 2023
+  parent: {type: periodical, title: "Universe", volume: "9"}
+  page-range: "157"
+  doi: "10.3390/universe9040157"
+
+"2009PhRvL.102p1101S":
+  type: article
+  title: "Gravitational-Wave Background as a Probe of the Primordial Black-Hole Abundance"
+  author: [{name: "Saito, Ryo and Yokoyama, Jun'Ichi"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "102"}
+  page-range: "161101"
+  doi: "10.1103/PhysRevLett.102.161101"
+
+"2007PhRvD..76h4019B":
+  type: article
+  title: "Gravitational wave spectrum induced by primordial scalar perturbations"
+  author: [{name: "Baumann, Daniel and Steinhardt, Paul and Takahashi, Keitaro and Ichiki, Kiyotomo"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "76"}
+  page-range: "084019"
+  doi: "10.1103/PhysRevD.76.084019"
+
+"2018JCAP...05..035S":
+  type: article
+  title: "Primordial gravitational waves, precisely: the role of thermodynamics in the Standard Model"
+  author: [{name: "Saikawa, Ken'ichi and Shirai, Satoshi"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2018"}
+  page-range: "035"
+  doi: "10.1088/1475-7516/2018/05/035"
+
+"2019JCAP...06..028B":
+  type: article
+  title: "Steepest growth of the power spectrum and primordial black holes"
+  author: [{name: "Byrnes, Christian T. and Cole, Philippa S. and Patil, Subodh P."}]
+  date: 2019
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2019"}
+  page-range: "028"
+  doi: "10.1088/1475-7516/2019/06/028"
+
+"2020JCAP...08..001B":
+  type: article
+  title: "Generating PBHs and small-scale GWs in two-field models of inflation"
+  author: [{name: "Braglia, Matteo and Hazra, Dhiraj Kumar and Finelli, Fabio and Smoot, George F. and Sriramkumar, L. and Starobinsky, Alexei A."}]
+  date: 2020
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2020"}
+  page-range: "001"
+  doi: "10.1088/1475-7516/2020/08/001"
+
+"2023EPJC...83...82Y":
+  type: article
+  title: "Constraints on primordial curvature spectrum from primordial black holes and scalar-induced gravitational waves"
+  author: [{name: "Yi, Zhu and Fei, Qin"}]
+  date: 2023
+  parent: {type: periodical, title: "European Physical Journal C", volume: "83"}
+  page-range: "82"
+  doi: "10.1140/epjc/s10052-023-11233-3"
+
+"2018JCAP...07..007D":
+  type: article
+  title: "Primordial black holes and second order gravitational waves from ultra-slow-roll inflation"
+  author: [{name: "Di, Haoran and Gong, Yungui"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2018"}
+  page-range: "007"
+  doi: "10.1088/1475-7516/2018/07/007"
+
+"2023PhRvX..13a1048A":
+  type: article
+  title: "Population of Merging Compact Binaries Inferred Using Gravitational Waves through GWTC-3"
+  author: [{name: "Abbott, R. and Abbott, T. D. and Acernese, F. and Ackley, K. and Adams, C. and Adhikari, N. and Adhikari, R. X. and LIGO Scientific Collaboration and VIRGO Collaboration and KAGRA Collaboration"}]
+  date: 2023
+  parent: {type: periodical, title: "Physical Review X", volume: "13"}
+  page-range: "011048"
+  doi: "10.1103/PhysRevX.13.011048"
+
+"Phinney:2001":
+  type: article
+  title: "A Practical Theorem on Gravitational Wave Backgrounds"
+  author: [{name: "Phinney, E. S."}]
+  date: 2001
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "astro-ph/0108028"
+  doi: "10.48550/arXiv.astro-ph/0108028"
+
+"Kibble:1976sj":
+  type: article
+  title: "Topology of Cosmic Domains and Strings"
+  author: [{name: "Kibble, T.W.B."}]
+  date: 1976
+  parent: {type: periodical, title: "J. Phys. A", volume: "9"}
+  page-range: "1387-1398"
+  doi: "10.1088/0305-4470/9/8/029"
+
+"Hindmarsh:1994re":
+  type: article
+  title: "Cosmic Strings"
+  author: [{name: "Hindmarsh, M. B. and Kibble, T. W. B."}]
+  date: 1995
+  parent: {type: periodical, title: "Rept. Prog. Phys.", volume: "58"}
+  page-range: "477-562"
+  doi: "10.1088/0034-4885/58/5/001"
+
+"2000csot.book.....V":
+  type: article
+  title: "Cosmic Strings and Other Topological Defects"
+  author: [{name: "Vilenkin, A. and Shellard, E. P. S."}]
+  date: 2000
+
+"Cook:2013xea":
+  type: article
+  title: "An inflationary model with small scalar and large tensor nongaussianities"
+  author: [{name: "Cook, Jessica L. and Sorbo, Lorenzo"}]
+  date: 2013
+  parent: {type: periodical, title: "JCAP", volume: "11"}
+  page-range: "047"
+  doi: "10.1088/1475-7516/2013/11/047"
+
+"Sorbo:2011rz":
+  type: article
+  title: "Parity violation in the Cosmic Microwave Background from a pseudoscalar inflaton"
+  author: [{name: "Sorbo, Lorenzo"}]
+  date: 2011
+  parent: {type: periodical, title: "JCAP", volume: "06"}
+  page-range: "003"
+  doi: "10.1088/1475-7516/2011/06/003"
+
+"Anber:2012du":
+  type: article
+  title: "Non-Gaussianities and chiral gravitational waves in natural steep inflation"
+  author: [{name: "Anber, Mohamed M. and Sorbo, Lorenzo"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "85"}
+  page-range: "123537"
+  doi: "10.1103/PhysRevD.85.123537"
+
+"2001PhRvD..64f4008D":
+  type: article
+  title: "Gravitational wave bursts from cusps and kinks on cosmic strings"
+  author: [{name: "Damour, Thibault and Vilenkin, Alexander"}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "64"}
+  page-range: "064008"
+  doi: "10.1103/PhysRevD.64.064008"
+
+"2005PhRvD..71f3510D":
+  type: article
+  title: "Gravitational radiation from cosmic (super)strings: Bursts, stochastic background, and observational windows"
+  author: [{name: "Damour, Thibault and Vilenkin, Alexander"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "71"}
+  page-range: "063510"
+  doi: "10.1103/PhysRevD.71.063510"
+
+"2004JCAP...03..010D":
+  type: article
+  title: "Formation and evolution of cosmic D strings"
+  author: [{name: "Dvali, Gia and Vilenkin, Alexander"}]
+  date: 2004
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2004"}
+  page-range: "010"
+  doi: "10.1088/1475-7516/2004/03/010"
+
+"2003PhLB..563....6J":
+  type: article
+  title: "The production, spectrum and evolution of cosmic strings in brane inflation"
+  author: [{name: "Jones, Nicholas T. and Stoica, Horace and Tye, S. -H. Henry"}]
+  date: 2003
+  parent: {type: periodical, title: "Physics Letters B", volume: "563"}
+  page-range: "6-14"
+  doi: "10.1016/S0370-2693(03)00592-6"
+
+"2011JCAP...06..003S":
+  type: article
+  title: "Parity violation in the Cosmic Microwave Background from a pseudoscalar inflaton"
+  author: [{name: "Sorbo, Lorenzo"}]
+  date: 2011
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2011"}
+  page-range: "003"
+  doi: "10.1088/1475-7516/2011/06/003"
+
+"2012PhRvD..86j3508B":
+  type: article
+  title: "Gravity waves and non-Gaussian features from particle production in a sector gravitationally coupled to the inflaton"
+  author: [{name: "Barnaby, Neil and Moxon, Jordan and Namba, Ryo and Peloso, Marco and Shiu, Gary and Zhou, Peng"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "86"}
+  page-range: "103508"
+  doi: "10.1103/PhysRevD.86.103508"
+
+"2018CQGra..35f3001S":
+  type: article
+  title: "Primordial black holes—perspectives in gravitational wave astronomy"
+  author: [{name: "Sasaki, Misao and Suyama, Teruaki and Tanaka, Takahiro and Yokoyama, Shuichiro"}]
+  date: 2018
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "35"}
+  page-range: "063001"
+  doi: "10.1088/1361-6382/aaa7b4"
+
+"Witten:1984rs":
+  type: article
+  title: "Cosmic Separation of Phases"
+  author: [{name: "Witten, Edward"}]
+  date: 1984
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "30"}
+  page-range: "272-285"
+  doi: "10.1103/PhysRevD.30.272"
+
+"Brandenburg:1996fc":
+  type: article
+  title: "Large scale magnetic fields from hydromagnetic turbulence in the very early universe"
+  author: [{name: "Brandenburg, Axel and Enqvist, Kari and Olesen, Poul"}]
+  date: 1996
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "54"}
+  page-range: "1291-1300"
+  doi: "10.1103/PhysRevD.54.1291"
+
+"Quashnock:1988vs":
+  type: article
+  title: "Magnetic Field Generation During the Cosmological QCD Phase Transition"
+  author: [{name: "Quashnock, Jean M. and Loeb, Abraham and Spergel, David N."}]
+  date: 1989
+  parent: {type: periodical, title: "Astrophys. J. Lett.", volume: "344"}
+  serial-number: "L49-L51"
+  doi: "10.1086/185528"
+
+"Xue:2021gyq":
+  type: article
+  title: "Constraining Cosmological Phase Transitions with the Parkes Pulsar Timing Array"
+  author: [{name: "Xue, Xiao and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "251303"
+  doi: "10.1103/PhysRevLett.127.251303"
+
+"NANOGrav:2021flc":
+  type: article
+  title: "Searching for Gravitational Waves from Cosmological Phase Transitions with the NANOGrav 12.5-Year Dataset"
+  author: [{name: "Arzoumanian, Zaven and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "251302"
+  doi: "10.1103/PhysRevLett.127.251302"
+
+"Kahniashvili:2020jgm":
+  type: article
+  title: "Circular polarization of gravitational waves from early-Universe helical turbulence"
+  author: [{name: "Kahniashvili, Tina and Brandenburg, Axel and Gogoberidze, Grigol and Mandal, Sayan and Roper Pol, Alberto"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Res.", volume: "3"}
+  page-range: "013193"
+  doi: "10.1103/PhysRevResearch.3.013193"
+
+"RoperPol:2021xnd":
+  type: article
+  title: "Polarization of gravitational waves from helical MHD turbulent sources"
+  author: [{name: "Roper Pol, Alberto and Mandal, Sayan and Brandenburg, Axel and Kahniashvili, Tina"}]
+  date: 2022
+  parent: {type: periodical, title: "JCAP", volume: "04"}
+  page-range: "019"
+  doi: "10.1088/1475-7516/2022/04/019"
+
+"RoperPol:2018sap":
+  type: article
+  title: "The timestep constraint in solving the gravitational wave equations sourced by hydromagnetic turbulence"
+  author: [{name: "Roper Pol, Alberto and Brandenburg, Axel and Kahniashvili, Tina and Kosowsky, Arthur and Mandal, Sayan"}]
+  date: 2020
+  parent: {type: periodical, title: "Geophys. Astrophys. Fluid Dynamics", volume: "114"}
+  page-range: "130-161"
+  doi: "10.1080/03091929.2019.1653460"
+
+"RoperPol:2019wvy":
+  type: article
+  title: "Numerical simulations of gravitational waves from early-universe turbulence"
+  author: [{name: "Roper Pol, Alberto and Mandal, Sayan and Brandenburg, Axel and Kahniashvili, Tina and Kosowsky, Arthur"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "102"}
+  page-range: "083512"
+  doi: "10.1103/PhysRevD.102.083512"
+
+"Kamionkowski:1993fg":
+  type: article
+  title: "Gravitational radiation from first order phase transitions"
+  author: [{name: "Kamionkowski, Marc and Kosowsky, Arthur and Turner, Michael S."}]
+  date: 1994
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "49"}
+  page-range: "2837-2851"
+  doi: "10.1103/PhysRevD.49.2837"
+
+"Brandenburg:2021tmp":
+  type: article
+  title: "Can we observe the QCD phase transition-generated gravitational waves through pulsar timing arrays?"
+  author: [{name: "Brandenburg, Axel and Clarke, Emma and He, Yutong and Kahniashvili, Tina"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "104"}
+  page-range: "043513"
+  doi: "10.1103/PhysRevD.104.043513"
+
+"RoperPol:2022iel":
+  type: article
+  title: "Gravitational wave signal from primordial magnetic fields in the Pulsar Timing Array frequency band"
+  author: [{name: "Roper Pol, Alberto and Caprini, Chiara and Neronov, Andrii and Semikoz, Dmitri"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "105"}
+  page-range: "123502"
+  doi: "10.1103/PhysRevD.105.123502"
+
+"Auclair:2022jod":
+  type: article
+  title: "Generation of gravitational waves from freely decaying turbulence"
+  author: [{name: "Auclair, Pierre and Caprini, Chiara and Cutting, Daniel and Hindmarsh, Mark and Rummukainen, Kari and Steer, Danièle A. and Weir, David J."}]
+  date: 2022
+  parent: {type: periodical, title: "JCAP", volume: "09"}
+  page-range: "029"
+  doi: "10.1088/1475-7516/2022/09/029"
+
+"Taylor_NFS":
+  type: misc
+  title: "The Need For Speed: Rapid Refitting Techniques for Bayesian Spectral Characterization of the Gravitational Wave Background Using PTAs"
+  author: [{name: "William G. Lamb and Stephen R. Taylor and Rutger van Haasteren"}]
+  date: 2023
+  serial-number: "arXiv:2303.15442"
+
+"Jeannerot:2003qv":
+  type: article
+  title: "How generic is cosmic string formation in SUSY GUTs"
+  author: [{name: "Jeannerot, Rachel and Rocher, Jonathan and Sakellariadou, Mairi"}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "68"}
+  page-range: "103514"
+  doi: "10.1103/PhysRevD.68.103514"
+
+"Lorenz:2010sm":
+  type: article
+  title: "Cosmic string loop distribution on all length scales and at any redshift"
+  author: [{name: "Lorenz, Larissa and Ringeval, Christophe and Sakellariadou, Mairi"}]
+  date: 2010
+  parent: {type: periodical, title: "JCAP", volume: "10"}
+  page-range: "003"
+  doi: "10.1088/1475-7516/2010/10/003"
+
+"Blanco-Pillado:2013qja":
+  type: article
+  title: "The number of cosmic string loops"
+  author: [{name: "Blanco-Pillado, Jose J. and Olum, Ken D. and Shlaer, Benjamin"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "89"}
+  page-range: "023512"
+  doi: "10.1103/PhysRevD.89.023512"
+
+"Leclere:2023ryt":
+  type: misc
+  title: "Practical approaches to analyzing PTA data: Cosmic strings with six pulsars"
+  author: [{name: "Leclere, Hippolyte Quelquejay and others"}]
+  date: 2023
+  serial-number: "arXiv:2306.12234"
+
+"Damour:2001bk":
+  type: article
+  title: "Gravitational wave bursts from cusps and kinks on cosmic strings"
+  author: [{name: "Damour, Thibault and Vilenkin, Alexander"}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "64"}
+  page-range: "064008"
+  doi: "10.1103/PhysRevD.64.064008"
+
+"LIGOScientific:2017ikf":
+  type: article
+  title: "Constraints on cosmic strings using data from the first Advanced LIGO observing run"
+  author: [{name: "Abbott, B. P. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "97"}
+  page-range: "102002"
+  doi: "10.1103/PhysRevD.97.102002"
+
+"LIGOScientific:2021nrg":
+  type: article
+  title: "Constraints on Cosmic Strings Using Data from the Third Advanced LIGO–Virgo Observing Run"
+  author: [{name: "Abbott, R. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "241102"
+  doi: "10.1103/PhysRevLett.126.241102"
+
+"Auclair:2023brk":
+  type: misc
+  title: "Cosmic string bursts in LISA"
+  author: [{name: "Auclair, Pierre and Babak, Stanislav and Quelquejay Leclere, Hippolyte and Steer, Danièle A."}]
+  date: 2023
+  serial-number: "arXiv:2305.11653"
+
+"Auclair:2023mhe":
+  type: misc
+  title: "Repeated Gravitational Wave Bursts from Cosmic Strings"
+  author: [{name: "Auclair, Pierre and Steer, Danièle A. and Vachaspati, Tanmay"}]
+  date: 2023
+  serial-number: "arXiv:2306.08331"
+
+"Auclair:2019wcv":
+  type: article
+  title: "Probing the gravitational wave background from cosmic strings with LISA"
+  author: [{name: "Auclair, Pierre and others"}]
+  date: 2020
+  parent: {type: periodical, title: "JCAP", volume: "04"}
+  page-range: "034"
+  doi: "10.1088/1475-7516/2020/04/034"
+
+"Auclair:2020oww":
+  type: article
+  title: "Impact of the small-scale structure on the Stochastic Background of Gravitational Waves from cosmic strings"
+  author: [{name: "Auclair, Pierre G."}]
+  date: 2020
+  parent: {type: periodical, title: "JCAP", volume: "11"}
+  page-range: "050"
+  doi: "10.1088/1475-7516/2020/11/050"
+
+"Ringeval:2017eww":
+  type: article
+  title: "Stochastic gravitational waves from cosmic string loops in scaling"
+  author: [{name: "Ringeval, Christophe and Suyama, Teruaki"}]
+  date: 2017
+  parent: {type: periodical, title: "JCAP", volume: "12"}
+  page-range: "027"
+  doi: "10.1088/1475-7516/2017/12/027"
+
+"Sanidas:2012ee":
+  type: article
+  title: "Constraints on cosmic string tension imposed by the limit on the stochastic gravitational wave background from the European Pulsar Timing Array"
+  author: [{name: "Sanidas, S. A. and Battye, R. A. and Stappers, B. W."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "85"}
+  page-range: "122003"
+  doi: "10.1103/PhysRevD.85.122003"
+
+"Blasi:2020mfx":
+  type: article
+  title: "Has NANOGrav found first evidence for cosmic strings?"
+  author: [{name: "Blasi, Simone and Brdar, Vedran and Schmitz, Kai"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "041305"
+  doi: "10.1103/PhysRevLett.126.041305"
+
+"Ellis:2020ena":
+  type: article
+  title: "Cosmic String Interpretation of NANOGrav Pulsar Timing Data"
+  author: [{name: "Ellis, John and Lewicki, Marek"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "041304"
+  doi: "10.1103/PhysRevLett.126.041304"
+
+"Bian:2022tju":
+  type: article
+  title: "Searching for cosmic string induced stochastic gravitational wave background with the Parkes Pulsar Timing Array"
+  author: [{name: "Bian, Ligong and Shu, Jing and Wang, Bo and Yuan, Qiang and Zong, Junchao"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "106"}
+  serial-number: "L101301"
+  doi: "10.1103/PhysRevD.106.L101301"
+
+"Chen:2022azo":
+  type: article
+  title: "Search for the Gravitational-wave Background from Cosmic Strings with the Parkes Pulsar Timing Array Second Data Release"
+  author: [{name: "Chen, Zu-Cheng and Wu, Yu-Mei and Huang, Qing-Guo"}]
+  date: 2022
+  parent: {type: periodical, title: "Astrophys. J.", volume: "936"}
+  page-range: "20"
+  doi: "10.3847/1538-4357/ac86cb"
+
+"Vachaspati:1984gt":
+  type: article
+  title: "Gravitational Radiation from Cosmic Strings"
+  author: [{name: "Vachaspati, Tanmay and Vilenkin, Alexander"}]
+  date: 1985
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "31"}
+  page-range: "3052"
+  doi: "10.1103/PhysRevD.31.3052"
+
+"Blanco-Pillado:2017oxo":
+  type: article
+  title: "Stochastic gravitational wave background from smoothed cosmic string loops"
+  author: [{name: "Blanco-Pillado, Jose J. and Olum, Ken D."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "96"}
+  page-range: "104046"
+  doi: "10.1103/PhysRevD.96.104046"
+
+"Siemens:2006yp":
+  type: article
+  title: "Gravitational wave stochastic background from cosmic (super)strings"
+  author: [{name: "Siemens, Xavier and Mandic, Vuk and Creighton, Jolien"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "98"}
+  page-range: "111101"
+  doi: "10.1103/PhysRevLett.98.111101"
+
+"Planck:2018vyg":
+  type: article
+  title: "Planck 2018 results. VI. Cosmological parameters"
+  author: [{name: "Aghanim, N. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "641"}
+  serial-number: "A6"
+  doi: "10.1051/0004-6361/201833910"
+
+"Blanco-Pillado:2015ana":
+  type: article
+  title: "Cosmic string loop shapes"
+  author: [{name: "Blanco-Pillado, Jose J. and Olum, Ken D. and Shlaer, Benjamin"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "92"}
+  page-range: "063528"
+  doi: "10.1103/PhysRevD.92.063528"
+
+"2016PhRvX...6a1035L":
+  type: article
+  title: "Gravitational-Wave Cosmology across 29 Decades in Frequency"
+  author: [{name: "Lasky, Paul D. and Mingarelli, Chiara M. F. and Smith, Tristan L. and Giblin, John T. and Thrane, Eric and Reardon, Daniel J. and Caldwell, Robert and Bailes, Matthew and Bhat, N. D. Ramesh and Burke-Spolaor, Sarah and Dai, Shi and Dempsey, James and Hobbs, George and Kerr, Matthew and Levin, Yuri and Manchester, Richard N. and Osłowski, Stefan and Ravi, Vikram and Rosado, Pablo A. and Shannon, Ryan M. and Spiewak, Renée and van Straten, Willem and Toomey, Lawrence and Wang, Jingbo and Wen, Linqing and You, Xiaopeng and Zhu, Xingjiang"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review X", volume: "6"}
+  page-range: "011035"
+  doi: "10.1103/PhysRevX.6.011035"
+
+"2022ApJ...938..115K":
+  type: article
+  title: "Disentangling Multiple Stochastic Gravitational Wave Background Sources in PTA Data Sets"
+  author: [{name: "Kaiser, Andrew R. and Pol, Nihan S. and McLaughlin, Maura A. and Chen, Siyuan and Hazboun, Jeffrey S. and Kelley, Luke Zoltan and Simon, Joseph and Taylor, Stephen R. and Vigeland, Sarah J. and Witt, Caitlin A."}]
+  date: 2022
+  parent: {type: periodical, title: "ApJ", volume: "938"}
+  page-range: "115"
+  doi: "10.3847/1538-4357/ac86cc"
+
+"2002PhRvD..66b4030K":
+  type: article
+  title: "Gravitational radiation from cosmological turbulence"
+  author: [{name: "Kosowsky, Arthur and Mack, Andrew and Kahniashvili, Tinatin"}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "66"}
+  page-range: "024030"
+  doi: "10.1103/PhysRevD.66.024030"
+
+"2002PhRvD..66j3505D":
+  type: article
+  title: "Relic backgrounds of gravitational waves from cosmic turbulence"
+  author: [{name: "Dolgov, Alexander D. and Grasso, Dario and Nicolis, Alberto"}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "66"}
+  page-range: "103505"
+  doi: "10.1103/PhysRevD.66.103505"
+
+"2007PhRvD..76h3002G":
+  type: article
+  title: "Spectrum of gravitational radiation from primordial turbulence"
+  author: [{name: "Gogoberidze, Grigol and Kahniashvili, Tina and Kosowsky, Arthur"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "76"}
+  page-range: "083002"
+  doi: "10.1103/PhysRevD.76.083002"
+
+"1992PhRvD..45.4514K":
+  type: article
+  title: "Gravitational radiation from colliding vacuum bubbles"
+  author: [{name: "Kosowsky, Arthur and Turner, Michael S. and Watkins, Richard"}]
+  date: 1992
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "45"}
+  page-range: "4514-4535"
+  doi: "10.1103/PhysRevD.45.4514"
+
+"1993PhRvD..47.4372K":
+  type: article
+  title: "Gravitational radiation from colliding vacuum bubbles: Envelope approximation to many-bubble collisions"
+  author: [{name: "Kosowsky, Arthur and Turner, Michael S."}]
+  date: 1993
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "47"}
+  page-range: "4372-4391"
+  doi: "10.1103/PhysRevD.47.4372"
+
+"2021PhRvL.126e1303V":
+  type: article
+  title: "Did NANOGrav See a Signal from Primordial Black Hole Formation?"
+  author: [{name: "Vaskonen, Ville and Veermäe, Hardi"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "051303"
+  doi: "10.1103/PhysRevLett.126.051303"
+
+"1975JETP...40..409G":
+  type: article
+  title: "Amplification of gravitational waves in an isotropic universe"
+  author: [{name: "Grishchuk, L. P."}]
+  date: 1975
+  parent: {type: periodical, title: "Soviet Journal of Experimental and Theoretical Physics", volume: "40"}
+  page-range: "409"
+
+"1982PhLB..115..189R":
+  type: article
+  title: "Graviton creation in the inflationary universe and the grand unification scale"
+  author: [{name: "Rubakov, V. A. and Sazhin, M. V. and Veryaskin, A. V."}]
+  date: 1982
+  parent: {type: periodical, title: "Physics Letters B", volume: "115"}
+  page-range: "189-192"
+  doi: "10.1016/0370-2693(82)90641-4"
+
+"1983PhLB..125..445F":
+  type: article
+  title: "The effect of primordially produced gravitons upon the anisotropy of the cosmological microwave background radiation"
+  author: [{name: "Fabbri, R. and Pollock, M. D."}]
+  date: 1983
+  parent: {type: periodical, title: "Physics Letters B", volume: "125"}
+  page-range: "445-448"
+  doi: "10.1016/0370-2693(83)91322-9"
+
+"1984NuPhB.244..541A":
+  type: article
+  title: "Constraints on generalized inflationary cosmologies"
+  author: [{name: "Abbott, L. F. and Wise, Mark B."}]
+  date: 1984
+  parent: {type: periodical, title: "Nuclear Physics B", volume: "244"}
+  page-range: "541-548"
+  doi: "10.1016/0550-3213(84)90329-8"
+
+"2012ApJ...758...76C":
+  type: article
+  title: "Probing the Inflaton: Small-scale Power Spectrum Constraints from Measurements of the Cosmic Microwave Background Energy Spectrum"
+  author: [{name: "Chluba, Jens and Erickcek, Adrienne L. and Ben-Dayan, Ido"}]
+  date: 2012
+  parent: {type: periodical, title: "ApJ", volume: "758"}
+  page-range: "76"
+  doi: "10.1088/0004-637X/758/2/76"
+
+"1985SvAL...11..133S":
+  type: article
+  title: "Cosmic Background Anisotropy Induced by Isotropic Flat-Spectrum Gravitational-Wave Perturbations"
+  author: [{name: "Starobinskii, A. A."}]
+  date: 1985
+  parent: {type: periodical, title: "Soviet Astronomy Letters", volume: "11"}
+  page-range: "133-136"
+
+"2009JCAP...12..024C":
+  type: article
+  title: "The stochastic gravitational wave background from turbulence and magnetic fields generated by a first-order phase transition"
+  author: [{name: "Caprini, Chiara and Durrer, Ruth and Servant, Géraldine"}]
+  date: 2009
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2009"}
+  page-range: "024"
+  doi: "10.1088/1475-7516/2009/12/024"
+
+"2008PhRvD..77l4015C":
+  type: article
+  title: "Gravitational wave generation from bubble collisions in first-order phase transitions: An analytic approach"
+  author: [{name: "Caprini, Chiara and Durrer, Ruth and Servant, Géraldine"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "77"}
+  page-range: "124015"
+  doi: "10.1103/PhysRevD.77.124015"
+
+"2008JCAP...09..022H":
+  type: article
+  title: "Gravitational wave production by collisions: more bubbles"
+  author: [{name: "Huber, Stephan J. and Konstandin, Thomas"}]
+  date: 2008
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2008"}
+  page-range: "022"
+  doi: "10.1088/1475-7516/2008/09/022"
+
+"2017PhRvD..95b4009J":
+  type: article
+  title: "Gravitational waves from bubble collisions: An analytic derivation"
+  author: [{name: "Jinno, Ryusuke and Takimoto, Masahiro"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "95"}
+  page-range: "024009"
+  doi: "10.1103/PhysRevD.95.024009"
+
+"2018PhRvD..97l3513C":
+  type: article
+  title: "Gravitational waves from vacuum first-order phase transitions: From the envelope to the lattice"
+  author: [{name: "Cutting, Daniel and Hindmarsh, Mark and Weir, David J."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "97"}
+  page-range: "123513"
+  doi: "10.1103/PhysRevD.97.123513"
+
+"2014PhRvL.112d1301H":
+  type: article
+  title: "Gravitational Waves from the Sound of a First Order Phase Transition"
+  author: [{name: "Hindmarsh, Mark and Huber, Stephan J. and Rummukainen, Kari and Weir, David J."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "112"}
+  page-range: "041301"
+  doi: "10.1103/PhysRevLett.112.041301"
+
+"2015PhRvD..92l3009H":
+  type: article
+  title: "Numerical simulations of acoustically generated gravitational waves at a first order phase transition"
+  author: [{name: "Hindmarsh, Mark and Huber, Stephan J. and Rummukainen, Kari and Weir, David J."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "92"}
+  page-range: "123009"
+  doi: "10.1103/PhysRevD.92.123009"
+
+"2017PhRvD..96j3520H":
+  type: article
+  title: "Shape of the acoustic gravitational wave power spectrum from a first order phase transition"
+  author: [{name: "Hindmarsh, Mark and Huber, Stephan J. and Rummukainen, Kari and Weir, David J."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "96"}
+  page-range: "103520"
+  doi: "10.1103/PhysRevD.96.103520"
+
+"1967ApJ...147...73S":
+  type: article
+  title: "Perturbations of a Cosmological Model and Angular Variations of the Microwave Background"
+  author: [{name: "Sachs, R. K. and Wolfe, A. M."}]
+  date: 1967
+  parent: {type: periodical, title: "ApJ", volume: "147"}
+  page-range: "73"
+  doi: "10.1086/148982"
+
+"1996AnPhy.246...49K":
+  type: article
+  title: "Cosmic microwave background polarization."
+  author: [{name: "Kosowsky, A."}]
+  date: 1996
+  parent: {type: periodical, title: "Annals of Physics", volume: "246"}
+  page-range: "49-85"
+  doi: "10.1006/aphy.1996.0020"
+
+"2022PhRvD.105h3524T":
+  type: article
+  title: "Improved limits on the tensor-to-scalar ratio using BICEP and Planck data"
+  author: [{name: "Tristram, M. and Banday, A. J. and Górski, K. M. and Keskitalo, R. and Lawrence, C. R. and Andersen, K. J. and Barreiro, R. B. and Borrill, J. and Colombo, L. P. L. and Eriksen, H. K. and Fernandez-Cobos, R. and Kisner, T. S. and Martínez-González, E. and Partridge, B. and Scott, D. and Svalheim, T. L. and Wehus, I. K."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "105"}
+  page-range: "083524"
+  doi: "10.1103/PhysRevD.105.083524"
+
+"2023JCAP...04..062G":
+  type: article
+  title: "Updated constraints on amplitude and tilt of the tensor primordial spectrum"
+  author: [{name: "Galloni, Giacomo and Bartolo, Nicola and Matarrese, Sabino and Migliaccio, Marina and Ricciardone, Angelo and Vittorio, Nicola"}]
+  date: 2023
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2023"}
+  page-range: "062"
+  doi: "10.1088/1475-7516/2023/04/062"
+
+"2017PhRvL.118l1101A":
+  type: article
+  title: "Upper Limits on the Stochastic Gravitational-Wave Background from Advanced LIGO's First Observing Run"
+  author: [{name: "Abbott, B. P. and Abbott, R. and Abbott, T. D. and Abernathy, M. R. and Acernese, F. and Ackley, K. and Adams, C. and Adams, T. and Addesso, P. and Adhikari, R. X. and Adya, V. B. and Affeldt, C. and Agathos, M. and Agatsuma, K. and Aggarwal, N. and Aguiar, O. D. and Aiello, L. and Ain, A. and Ajith, P. and Allen, B. and Allocca, A. and Altin, P. A. and Ananyeva, A. and Anderson, S. B. and Anderson, W. G. and Appert, S. and Arai, K. and Araya, M. C. and Areeda, J. S. and Arnaud, N. and Arun, K. G. and Ascenzi, S. and Ashton, G. and Ast, M. and Aston, S. M. and Astone, P. and Aufmuth, P. and Aulbert, C. and Avila-Alvarez, A. and Babak, S. and Bacon, P. and Bader, M. K. M. and Baker, P. T. and Baldaccini, F. and Ballardin, G. and Ballmer, S. W. and Barayoga, J. C. and Barclay, S. E. and Barish, B. C. and Barker, D. and Barone, F. and Barr, B. and Barsotti, L. and Barsuglia, M. and Barta, D. and Bartlett, J. and Bartos, I. and Bassiri, R. and Basti, A. and Batch, J. C. and Baune, C. and Bavigadda, V. and Bazzan, M. and Beer, C. and Bejger, M. and Belahcene, I. and Belgin, M. and Bell, A. S. and Berger, B. K. and Bergmann, G. and Berry, C. P. L. and Bersanetti, D. and Bertolini, A. and Betzwieser, J. and Bhagwat, S. and Bhandare, R. and Bilenko, I. A. and Billingsley, G. and Billman, C. R. and Birch, J. and Birney, R. and Birnholtz, O. and Biscans, S. and Biscoveanu, A. S. and Bisht, A. and Bitossi, M. and Biwer, C. and Bizouard, M. A. and Blackburn, J. K. and Blackman, J. and Blair, C. D. and Blair, D. G. and Blair, R. M. and Bloemen, S. and Bock, O. and Boer, M. and Bogaert, G. and Bohe, A. and Bondu, F. and Bonnand, R. and Boom, B. A. and Bork, R. and Boschi, V. and Bose, S. and Bouffanais, Y. and Bozzi, A. and Bradaschia, C. and Brady, P. R. and Braginsky, V. B. and Branchesi, M. and Brau, J. E. and Briant, T. and Brillet, A. and Brinkmann, M. and Brisson, V. and Brockill, P. and Broida, J. E. and Brooks, A. F. and Brown, D. A. and Brown, D. D. and Brown, N. M. and Brunett, S. and Buchanan, C. C. and Buikema, A. and Bulik, T. and Bulten, H. J. and Buonanno, A. and Buskulic, D. and Buy, C. and Byer, R. L. and Cabero, M. and Cadonati, L. and Cagnoli, G. and Cahillane, C. and Calderón Bustillo, J. and Callister, T. A. and Calloni, E. and Camp, J. B. and Campbell, W. and Canepa, M. and Cannon, K. C. and Cao, H. and Cao, J. and Capano, C. D. and Capocasa, E. and Carbognani, F. and Caride, S. and Casanueva Diaz, J. and Casentini, C. and Caudill, S. and Cavaglià, M. and Cavalier, F. and Cavalieri, R. and Cella, G. and Cepeda, C. B. and Cerboni Baiardi, L. and Cerretani, G. and Cesarini, E. and Chamberlin, S. J. and Chan, M. and Chao, S. and Charlton, P. and Chassande-Mottin, E. and Cheeseboro, B. D. and Chen, H. Y. and Chen, Y. and Cheng, H. -P. and Chincarini, A. and Chiummo, A. and Chmiel, T. and Cho, H. S. and Cho, M. and Chow, J. H. and Christensen, N. and Chu, Q. and Chua, A. J. K. and Chua, S. and Chung, S. and Ciani, G. and Clara, F. and Clark, J. A. and Cleva, F. and Cocchieri, C. and Coccia, E. and Cohadon, P. -F. and Colla, A. and Collette, C. G. and Cominsky, L. and Constancio, M. and Conti, L. and Cooper, S. J. and Corbitt, T. R. and Cornish, N. and Corsi, A. and Cortese, S. and Costa, C. A. and Coughlin, E. and Coughlin, M. W. and Coughlin, S. B. and Coulon, J. -P. and Countryman, S. T. and Couvares, P. and Covas, P. B. and Cowan, E. E. and Coward, D. M. and Cowart, M. J. and Coyne, D. C. and Coyne, R. and Creighton, J. D. E. and Creighton, T. D. and Cripe, J. and Crowder, S. G. and Cullen, T. J. and Cumming, A. and Cunningham, L. and Cuoco, E. and Dal Canton, T. and Danilishin, S. L. and D'Antonio, S. and Danzmann, K. and Dasgupta, A. and Da Silva Costa, C. F. and Dattilo, V. and Dave, I. and Davier, M. and Davies, G. S. and Davis, D. and Daw, E. J. and Day, B. and Day, R. and De, S. and DeBra, D. and Debreczeni, G. and Degallaix, J. and De Laurentis, M. and Deléglise, S. and Del Pozzo, W. and Denker, T. and Dent, T. and Dergachev, V. and De Rosa, R. and DeRosa, R. T. and DeSalvo, R. and Devenson, J. and Devine, R. C. and Dhurandhar, S. and Díaz, M. C. and Di Fiore, L. and Di Giovanni, M. and Di Girolamo, T. and Di Lieto, A. and Di Pace, S. and Di Palma, I. and Di Virgilio, A. and Doctor, Z. and Dolique, V. and Donovan, F. and Dooley, K. L. and Doravari, S. and Dorrington, I. and Douglas, R. and Dovale Álvarez, M. and Downes, T. P. and Drago, M. and Drever, R. W. P. and Driggers, J. C. and Du, Z. and Ducrot, M. and Dwyer, S. E. and Edo, T. B. and Edwards, M. C. and Effler, A. and Eggenstein, H. -B. and Ehrens, P. and Eichholz, J. and Eikenberry, S. S. and Essick, R. C. and Etienne, Z. and Etzel, T. and Evans, M. and Evans, T. M. and Everett, R. and Factourovich, M. and Fafone, V. and Fair, H. and Fairhurst, S. and Fan, X. and Farinon, S. and Farr, B. and Farr, W. M. and Fauchon-Jones, E. J. and Favata, M. and Fays, M. and Fehrmann, H. and Fejer, M. M. and Fernández Galiana, A. and Ferrante, I. and Ferreira, E. C. and Ferrini, F. and Fidecaro, F. and Fiori, I. and Fiorucci, D. and Fisher, R. P. and Flaminio, R. and Fletcher, M. and Fong, H. and Forsyth, S. S. and Fournier, J. -D. and Frasca, S. and Frasconi, F. and Frei, Z. and Freise, A. and Frey, R. and Frey, V. and Fries, E. M. and Fritschel, P. and Frolov, V. V. and Fulda, P. and Fyffe, M. and Gabbard, H. and Gadre, B. U. and Gaebel, S. M. and Gair, J. R. and Gammaitoni, L. and Gaonkar, S. G. and Garufi, F. and Gaur, G. and Gayathri, V. and Gehrels, N. and Gemme, G. and Genin, E. and Gennai, A. and George, J. and Gergely, L. and Germain, V. and Ghonge, S. and Ghosh, Abhirup and Ghosh, Archisman and Ghosh, S. and Giaime, J. A. and Giardina, K. D. and Giazotto, A. and Gill, K. and Glaefke, A. and Goetz, E. and Goetz, R. and Gondan, L. and González, G. and Gonzalez Castro, J. M. and Gopakumar, A. and Gorodetsky, M. L. and Gossan, S. E. and Gosselin, M. and Gouaty, R. and Grado, A. and Graef, C. and Granata, M. and Grant, A. and Gras, S. and Gray, C. and Greco, G. and Green, A. C. and Groot, P. and Grote, H. and Grunewald, S. and Guidi, G. M. and Guo, X. and Gupta, A. and Gupta, M. K. and Gushwa, K. E. and Gustafson, E. K. and Gustafson, R. and Hacker, J. J. and Hall, B. R. and Hall, E. D. and Hammond, G. and Haney, M. and Hanke, M. M. and Hanks, J. and Hanna, C. and Hannam, M. D. and Hanson, J. and Hardwick, T. and Harms, J. and Harry, G. M. and Harry, I. W. and Hart, M. J. and Hartman, M. T. and Haster, C. -J. and Haughian, K. and Healy, J. and Heidmann, A. and Heintze, M. C. and Heitmann, H. and Hello, P. and Hemming, G. and Hendry, M. and Heng, I. S. and Hennig, J. and Henry, J. and Heptonstall, A. W. and Heurs, M. and Hild, S. and Hoak, D. and Hofman, D. and Holt, K. and Holz, D. E. and Hopkins, P. and Hough, J. and Houston, E. A. and Howell, E. J. and Hu, Y. M. and Huerta, E. A. and Huet, D. and Hughey, B. and Husa, S. and Huttner, S. H. and Huynh-Dinh, T. and Indik, N. and Ingram, D. R. and Inta, R. and Isa, H. N. and Isac, J. -M. and Isi, M. and Isogai, T. and Iyer, B. R. and Izumi, K. and Jacqmin, T. and Jani, K. and Jaranowski, P. and Jawahar, S. and Jiménez-Forteza, F. and Johnson, W. W. and Jones, D. I. and Jones, R. and Jonker, R. J. G. and Ju, L. and Junker, J. and Kalaghatgi, C. V. and Kalogera, V. and Kandhasamy, S. and Kang, G. and Kanner, J. B. and Karki, S. and Karvinen, K. S. and Kasprzack, M. and Katsavounidis, E. and Katzman, W. and Kaufer, S. and Kaur, T. and Kawabe, K. and Kéfélian, F. and Keitel, D. and Kelley, D. B. and Kennedy, R. and Key, J. S. and Khalili, F. Y. and Khan, I. and Khan, S. and Khan, Z. and Khazanov, E. A. and Kijbunchoo, N. and Kim, Chunglee and Kim, J. C. and Kim, Whansun and Kim, W. and Kim, Y. -M. and Kimbrell, S. J. and King, E. J. and King, P. J. and Kirchhoff, R. and Kissel, J. S. and Klein, B. and Kleybolte, L. and Klimenko, S. and Koch, P. and Koehlenbeck, S. M. and Koley, S. and Kondrashov, V. and Kontos, A. and Korobko, M. and Korth, W. Z. and Kowalska, I. and Kozak, D. B. and Krämer, C. and Kringel, V. and Królak, A. and Kuehn, G. and Kumar, P. and Kumar, R. and Kuo, L. and Kutynia, A. and Lackey, B. D. and Landry, M. and Lang, R. N. and Lange, J. and Lantz, B. and Lanza, R. K. and Lartaux-Vollard, A. and Lasky, P. D. and Laxen, M. and Lazzarini, A. and Lazzaro, C. and Leaci, P. and Leavey, S. and Lebigot, E. O. and Lee, C. H. and Lee, H. K. and Lee, H. M. and Lee, K. and Lehmann, J. and Lenon, A. and Leonardi, M. and Leong, J. R. and Leroy, N. and Letendre, N. and Levin, Y. and Li, T. G. F. and Libson, A. and Littenberg, T. B. and Liu, J. and Lockerbie, N. A. and Lombardi, A. L. and London, L. T. and Lord, J. E. and Lorenzini, M. and Loriette, V. and Lormand, M. and Losurdo, G. and Lough, J. D. and Lovelace, G. and Lück, H. and Lundgren, A. P. and Lynch, R. and Ma, Y. and Macfoy, S. and Machenschalk, B. and MacInnis, M. and Macleod, D. M. and Magaña-Sandoval, F. and Majorana, E. and Maksimovic, I. and Malvezzi, V. and Man, N. and Mandic, V. and Mangano, V. and Mansell, G. L. and Manske, M. and Mantovani, M. and Marchesoni, F. and Marion, F. and Márka, S. and Márka, Z. and Markosyan, A. S. and Maros, E. and Martelli, F. and Martellini, L. and Martin, I. W. and Martynov, D. V. and Mason, K. and Masserot, A. and Massinger, T. J. and Masso-Reid, M. and Mastrogiovanni, S. and Matas, A. and Matichard, F. and Matone, L. and Mavalvala, N. and Mazumder, N. and McCarthy, R. and McClelland, D. E. and McCormick, S. and McGrath, C. and McGuire, S. C. and McIntyre, G. and McIver, J. and McManus, D. J. and McRae, T. and McWilliams, S. T. and Meacher, D. and Meadors, G. D. and Meidam, J. and Melatos, A. and Mendell, G. and Mendoza-Gandara, D. and Mercer, R. A. and Merilh, E. L. and Merzougui, M. and Meshkov, S. and Messenger, C. and Messick, C. and Metzdorff, R. and Meyers, P. M. and Mezzani, F. and Miao, H. and Michel, C. and Middleton, H. and Mikhailov, E. E. and Milano, L. and Miller, A. L. and Miller, A. and Miller, B. B. and Miller, J. and Millhouse, M. and Minenkov, Y. and Ming, J. and Mirshekari, S. and Mishra, C. and Mitra, S. and Mitrofanov, V. P. and Mitselmakher, G. and Mittleman, R. and Moggi, A. and Mohan, M. and Mohapatra, S. R. P. and Montani, M. and Moore, B. C. and Moore, C. J. and Moraru, D. and Moreno, G. and Morriss, S. R. and Mours, B. and Mow-Lowry, C. M. and Mueller, G. and Muir, A. W. and Mukherjee, Arunava and Mukherjee, D. and Mukherjee, S. and Mukund, N. and Mullavey, A. and Munch, J. and Muniz, E. A. M. and Murray, P. G. and Mytidis, A. and Napier, K. and Nardecchia, I. and Naticchioni, L. and Nelemans, G. and Nelson, T. J. N. and Neri, M. and Nery, M. and Neunzert, A. and Newport, J. M. and Newton, G. and Nguyen, T. T. and Nielsen, A. B. and Nissanke, S. and Nitz, A. and Noack, A. and Nocera, F. and Nolting, D. and Normandin, M. E. N. and Nuttall, L. K. and Oberling, J. and Ochsner, E. and Oelker, E. and Ogin, G. H. and Oh, J. J. and Oh, S. H. and Ohme, F. and Oliver, M. and Oppermann, P. and Oram, Richard J. and O'Reilly, B. and O'Shaughnessy, R. and Ottaway, D. J. and Overmier, H. and Owen, B. J. and Pace, A. E. and Page, J. and Pai, A. and Pai, S. A. and Palamos, J. R. and Palashov, O. and Palomba, C. and Pal-Singh, A. and Pan, H. and Pankow, C. and Pannarale, F. and Pant, B. C. and Paoletti, F. and Paoli, A. and Papa, M. A. and Paris, H. R. and Parker, W. and Pascucci, D. and Pasqualetti, A. and Passaquieti, R. and Passuello, D. and Patricelli, B. and Pearlstone, B. L. and Pedraza, M. and Pedurand, R. and Pekowsky, L. and Pele, A. and Penn, S. and Perez, C. J. and Perreca, A. and Perri, L. M. and Pfeiffer, H. P. and Phelps, M. and Piccinni, O. J. and Pichot, M. and Piergiovanni, F. and Pierro, V. and Pillant, G. and Pinard, L. and Pinto, I. M. and Pitkin, M. and Poe, M. and Poggiani, R. and Popolizio, P. and Post, A. and Powell, J. and Prasad, J. and Pratt, J. W. W. and Predoi, V. and Prestegard, T. and Prijatelj, M. and Principe, M. and Privitera, S. and Prodi, G. A. and Prokhorov, L. G. and Puncken, O. and Punturo, M. and Puppo, P. and Pürrer, M. and Qi, H. and Qin, J. and Qiu, S. and Quetschke, V. and Quintero, E. A. and Quitzow-James, R. and Raab, F. J. and Rabeling, D. S. and Radkins, H. and Raffai, P. and Raja, S. and Rajan, C. and Rakhmanov, M. and Rapagnani, P. and Raymond, V. and Razzano, M. and Re, V. and Read, J. and Regimbau, T. and Rei, L. and Reid, S. and Reitze, D. H. and Rew, H. and Reyes, S. D. and Rhoades, E. and Ricci, F. and Riles, K. and Rizzo, M. and Robertson, N. A. and Robie, R. and Robinet, F. and Rocchi, A. and Rolland, L. and Rollins, J. G. and Roma, V. J. and Romano, J. D. and Romano, R. and Romie, J. H. and Rosińska, D. and Rowan, S. and Rüdiger, A. and Ruggi, P. and Ryan, K. and Sachdev, S. and Sadecki, T. and Sadeghian, L. and Sakellariadou, M. and Salconi, L. and Saleem, M. and Salemi, F. and Samajdar, A. and Sammut, L. and Sampson, L. M. and Sanchez, E. J. and Sandberg, V. and Sanders, J. R. and Sassolas, B. and Sathyaprakash, B. S. and Saulson, P. R. and Sauter, O. and Savage, R. L. and Sawadsky, A. and Schale, P. and Scheuer, J. and Schlassa, S. and Schmidt, E. and Schmidt, J. and Schmidt, P. and Schnabel, R. and Schofield, R. M. S. and Schönbeck, A. and Schreiber, E. and Schuette, D. and Schutz, B. F. and Schwalbe, S. G. and Scott, J. and Scott, S. M. and Sellers, D. and Sengupta, A. S. and Sentenac, D. and Sequino, V. and Sergeev, A. and Setyawati, Y. and Shaddock, D. A. and Shaffer, T. J. and Shahriar, M. S. and Shapiro, B. and Shawhan, P. and Sheperd, A. and Shoemaker, D. H. and Shoemaker, D. M. and Siellez, K. and Siemens, X. and Sieniawska, M. and Sigg, D. and Silva, A. D. and Singer, A. and Singer, L. P. and Singh, A. and Singh, R. and Singhal, A. and Sintes, A. M. and Slagmolen, B. J. J. and Smith, B. and Smith, J. R. and Smith, R. J. E. and Son, E. J. and Sorazu, B. and Sorrentino, F. and Souradeep, T. and Spencer, A. P. and Srivastava, A. K. and Staley, A. and Steinke, M. and Steinlechner, J. and Steinlechner, S. and Steinmeyer, D. and Stephens, B. C. and Stevenson, S. P. and Stone, R. and Strain, K. A. and Straniero, N. and Stratta, G. and Strigin, S. E. and Sturani, R. and Stuver, A. L. and Summerscales, T. Z. and Sun, L. and Sunil, S. and Sutton, P. J. and Swinkels, B. L. and Szczepańczyk, M. J. and Tacca, M. and Talukder, D. and Tanner, D. B. and Tao, D. and Tápai, M. and Taracchini, A. and Taylor, R. and Theeg, T. and Thomas, E. G. and Thomas, M. and Thomas, P. and Thorne, K. A. and Thrane, E. and Tippens, T. and Tiwari, S. and Tiwari, V. and Tokmakov, K. V. and Toland, K. and Tomlinson, C. and Tonelli, M. and Tornasi, Z. and Torrie, C. I. and Töyrä, D. and Travasso, F. and Traylor, G. and Trifirò, D. and Trinastic, J. and Tringali, M. C. and Trozzo, L. and Tse, M. and Tso, R. and Turconi, M. and Tuyenbayev, D. and Ugolini, D. and Unnikrishnan, C. S. and Urban, A. L. and Usman, S. A. and Vahlbruch, H. and Vajente, G. and Valdes, G. and van Bakel, N. and van Beuzekom, M. and van den Brand, J. F. J. and Van Den Broeck, C. and Vander-Hyde, D. C. and van der Schaaf, L. and van Heijningen, J. V. and van Veggel, A. A. and Vardaro, M. and Varma, V. and Vass, S. and Vasúth, M. and Vecchio, A. and Vedovato, G. and Veitch, J. and Veitch, P. J. and Venkateswara, K. and Venugopalan, G. and Verkindt, D. and Vetrano, F. and Viceré, A. and Viets, A. D. and Vinciguerra, S. and Vine, D. J. and Vinet, J. -Y. and Vitale, S. and Vo, T. and Vocca, H. and Vorvick, C. and Voss, D. V. and Vousden, W. D. and Vyatchanin, S. P. and Wade, A. R. and Wade, L. E. and Wade, M. and Walker, M. and Wallace, L. and Walsh, S. and Wang, G. and Wang, H. and Wang, M. and Wang, Y. and Ward, R. L. and Warner, J. and Was, M. and Watchi, J. and Weaver, B. and Wei, L. -W. and Weinert, M. and Weinstein, A. J. and Weiss, R. and Wen, L. and Weßels, P. and Westphal, T. and Wette, K. and Whelan, J. T. and Whiting, B. F. and Whittle, C. and Williams, D. and Williams, R. D. and Williamson, A. R. and Willis, J. L. and Willke, B. and Wimmer, M. H. and Winkler, W. and Wipf, C. C. and Wittel, H. and Woan, G. and Woehler, J. and Worden, J. and Wright, J. L. and Wu, D. S. and Wu, G. and Yam, W. and Yamamoto, H. and Yancey, C. C. and Yap, M. J. and Yu, Hang and Yu, Haocun and Yvert, M. and ZadroŻny, A. and Zangrando, L. and Zanolin, M. and Zendri, J. -P. and Zevin, M. and Zhang, L. and Zhang, M. and Zhang, T. and Zhang, Y. and Zhao, C. and Zhou, M. and Zhou, Z. and Zhu, S. J. and Zhu, X. J. and Zucker, M. E. and Zweizig, J. and LIGO Scientific Collaboration and Virgo Collaboration"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "118"}
+  page-range: "121101"
+  doi: "10.1103/PhysRevLett.118.121101"
+
+"2008PhRvD..78d3531B":
+  type: article
+  title: "Relating gravitational wave constraints from primordial nucleosynthesis, pulsar timing, laser interferometers, and the CMB: Implications for the early universe"
+  author: [{name: "Boyle, Latham A. and Buonanno, Alessandra"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "78"}
+  page-range: "043531"
+  doi: "10.1103/PhysRevD.78.043531"
+
+"2016JCAP...12..026B":
+  type: article
+  title: "Science with the space-based interferometer LISA. IV: probing inflation with gravitational waves"
+  author: [{name: "Bartolo, Nicola and Caprini, Chiara and Domcke, Valerie and Figueroa, Daniel G. and Garcia-Bellido, Juan and Chiara Guzzetti, Maria and Liguori, Michele and Matarrese, Sabino and Peloso, Marco and Petiteau, Antoine and Ricciardone, Angelo and Sakellariadou, Mairi and Sorbo, Lorenzo and Tasinato, Gianmassimo"}]
+  date: 2016
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2016"}
+  page-range: "026"
+  doi: "10.1088/1475-7516/2016/12/026"
+
+"1998PhRvD..58h3504G":
+  type: article
+  title: "Gravitational wave constraints on post-inflationary phases stiffer than radiation"
+  author: [{name: "Giovannini, Massimo"}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "58"}
+  page-range: "083504"
+  doi: "10.1103/PhysRevD.58.083504"
+
+"2008PhRvD..77f3504B":
+  type: article
+  title: "Probing the early universe with inflationary gravitational waves"
+  author: [{name: "Boyle, Latham A. and Steinhardt, Paul J."}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "77"}
+  page-range: "063504"
+  doi: "10.1103/PhysRevD.77.063504"
+
+"2021PhLB..81536137G":
+  type: article
+  title: "Probing the inflationary background of gravitational waves from large to small scales"
+  author: [{name: "Giarè, William and Melchiorri, Alessandro"}]
+  date: 2021
+  parent: {type: periodical, title: "Physics Letters B", volume: "815"}
+  page-range: "136137"
+  doi: "10.1016/j.physletb.2021.136137"
+
+"2023MNRAS.520.1757G":
+  type: article
+  title: "Towards a reliable calculation of relic radiation from primordial gravitational waves"
+  author: [{name: "Giarè, William and Forconi, Matteo and Di Valentino, Eleonora and Melchiorri, Alessandro"}]
+  date: 2023
+  parent: {type: periodical, title: "MNRAS", volume: "520"}
+  page-range: "1757-1773"
+  doi: "10.1093/mnras/stad258"
+
+"2022PhRvD.106f3512A":
+  type: article
+  title: "Slow-roll inflation at N3LO"
+  author: [{name: "Auclair, Pierre and Ringeval, Christophe"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "106"}
+  page-range: "063512"
+  doi: "10.1103/PhysRevD.106.063512"
+
+"lackeos":
+  type: article
+  title: "Damping of long wavelength gravitational waves by the intergalactic medium"
+  author: [{name: "Lieu, Richard and Lackeos, Kristen and Zhang, Bing"}]
+  date: 2022
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "39"}
+  page-range: "075014"
+  doi: "10.1088/1361-6382/ac5376"
+
+"2022PhRvD.105l3533M":
+  type: article
+  title: "Cosmic QCD transition for large lepton flavor asymmetries"
+  author: [{name: "Middeldorf-Wygas, Mandy M. and Oldengott, Isabel M. and Bödeker, Dietrich and Schwarz, Dominik J."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "105"}
+  page-range: "123533"
+  doi: "10.1103/PhysRevD.105.123533"
+
+"2020arXiv200900036M":
+  type: article
+  title: "The cosmic QCD transition for large lepton flavour asymmetries"
+  author: [{name: "Middeldorf-Wygas, Mandy M. and Oldengott, Isabel M. and Bödeker, Dietrich and Schwarz, Dominik J."}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2009.00036"
+  doi: "10.48550/arXiv.2009.00036"
+
+"2018PhRvL.121t1302W":
+  type: article
+  title: "Cosmic QCD Epoch at Nonvanishing Lepton Asymmetry"
+  author: [{name: "Wygas, Mandy M. and Oldengott, Isabel M. and Bödeker, Dietrich and Schwarz, Dominik J."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "201302"
+  doi: "10.1103/PhysRevLett.121.201302"
+
+"2009JCAP...11..025S":
+  type: article
+  title: "Lepton asymmetry and the cosmic QCD transition"
+  author: [{name: "Schwarz, Dominik J. and Stuke, Maik"}]
+  date: 2009
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2009"}
+  page-range: "025"
+  doi: "10.1088/1475-7516/2009/11/025"
+
+"2021PhRvL.126a2701V":
+  type: article
+  title: "Pion Condensation in the Early Universe at Nonvanishing Lepton Flavor Asymmetry and Its Gravitational Wave Signatures"
+  author: [{name: "Vovchenko, Volodymyr and Brandt, Bastian B. and Cuteri, Francesca and Endrődi, Gergely and Hajkarim, Fazlollah and Schaffner-Bielich, Jürgen"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "012701"
+  doi: "10.1103/PhysRevLett.126.012701"
+
+"2023PhRvD.107a4021C":
+  type: article
+  title: "First-order QCD transition in a primordial magnetic field"
+  author: [{name: "Cao, Gaoqing"}]
+  date: 2023
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "107"}
+  page-range: "014021"
+  doi: "10.1103/PhysRevD.107.014021"
+
+"2014A-A...571A..16P":
+  type: article
+  title: "Planck 2013 results. XVI. Cosmological parameters"
+  author: [{name: "Planck Collaboration and Ade, P. A. R. and Aghanim, N. and Armitage-Caplan, C. and Arnaud, M. and Ashdown, M. and Atrio-Barandela, F. and Aumont, J. and Baccigalupi, C. and Banday, A. J. and Barreiro, R. B. and Bartlett, J. G. and Battaner, E. and Benabed, K. and Benoît, A. and Benoit-Lévy, A. and Bernard, J. -P. and Bersanelli, M. and Bielewicz, P. and Bobin, J. and Bock, J. J. and Bonaldi, A. and Bond, J. R. and Borrill, J. and Bouchet, F. R. and Bridges, M. and Bucher, M. and Burigana, C. and Butler, R. C. and Calabrese, E. and Cappellini, B. and Cardoso, J. -F. and Catalano, A. and Challinor, A. and Chamballu, A. and Chary, R. -R. and Chen, X. and Chiang, H. C. and Chiang, L. -Y. and Christensen, P. R. and Church, S. and Clements, D. L. and Colombi, S. and Colombo, L. P. L. and Couchot, F. and Coulais, A. and Crill, B. P. and Curto, A. and Cuttaia, F. and Danese, L. and Davies, R. D. and Davis, R. J. and de Bernardis, P. and de Rosa, A. and de Zotti, G. and Delabrouille, J. and Delouis, J. -M. and Désert, F. -X. and Dickinson, C. and Diego, J. M. and Dolag, K. and Dole, H. and Donzelli, S. and Doré, O. and Douspis, M. and Dunkley, J. and Dupac, X. and Efstathiou, G. and Elsner, F. and Enßlin, T. A. and Eriksen, H. K. and Finelli, F. and Forni, O. and Frailis, M. and Fraisse, A. A. and Franceschi, E. and Gaier, T. C. and Galeotta, S. and Galli, S. and Ganga, K. and Giard, M. and Giardino, G. and Giraud-Héraud, Y. and Gjerløw, E. and González-Nuevo, J. and Górski, K. M. and Gratton, S. and Gregorio, A. and Gruppuso, A. and Gudmundsson, J. E. and Haissinski, J. and Hamann, J. and Hansen, F. K. and Hanson, D. and Harrison, D. and Henrot-Versillé, S. and Hernández-Monteagudo, C. and Herranz, D. and Hildebrandt, S. R. and Hivon, E. and Hobson, M. and Holmes, W. A. and Hornstrup, A. and Hou, Z. and Hovest, W. and Huffenberger, K. M. and Jaffe, A. H. and Jaffe, T. R. and Jewell, J. and Jones, W. C. and Juvela, M. and Keihänen, E. and Keskitalo, R. and Kisner, T. S. and Kneissl, R. and Knoche, J. and Knox, L. and Kunz, M. and Kurki-Suonio, H. and Lagache, G. and Lähteenmäki, A. and Lamarre, J. -M. and Lasenby, A. and Lattanzi, M. and Laureijs, R. J. and Lawrence, C. R. and Leach, S. and Leahy, J. P. and Leonardi, R. and León-Tavares, J. and Lesgourgues, J. and Lewis, A. and Liguori, M. and Lilje, P. B. and Linden-Vørnle, M. and López-Caniego, M. and Lubin, P. M. and Macías-Pérez, J. F. and Maffei, B. and Maino, D. and Mandolesi, N. and Maris, M. and Marshall, D. J. and Martin, P. G. and Martínez-González, E. and Masi, S. and Massardi, M. and Matarrese, S. and Matthai, F. and Mazzotta, P. and Meinhold, P. R. and Melchiorri, A. and Melin, J. -B. and Mendes, L. and Menegoni, E. and Mennella, A. and Migliaccio, M. and Millea, M. and Mitra, S. and Miville-Deschênes, M. -A. and Moneti, A. and Montier, L. and Morgante, G. and Mortlock, D. and Moss, A. and Munshi, D. and Murphy, J. A. and Naselsky, P. and Nati, F. and Natoli, P. and Netterfield, C. B. and Nørgaard-Nielsen, H. U. and Noviello, F. and Novikov, D. and Novikov, I. and O'Dwyer, I. J. and Osborne, S. and Oxborrow, C. A. and Paci, F. and Pagano, L. and Pajot, F. and Paladini, R. and Paoletti, D. and Partridge, B. and Pasian, F. and Patanchon, G. and Pearson, D. and Pearson, T. J. and Peiris, H. V. and Perdereau, O. and Perotto, L. and Perrotta, F. and Pettorino, V. and Piacentini, F. and Piat, M. and Pierpaoli, E. and Pietrobon, D. and Plaszczynski, S. and Platania, P. and Pointecouteau, E. and Polenta, G. and Ponthieu, N. and Popa, L. and Poutanen, T. and Pratt, G. W. and Prézeau, G. and Prunet, S. and Puget, J. -L. and Rachen, J. P. and Reach, W. T. and Rebolo, R. and Reinecke, M. and Remazeilles, M. and Renault, C. and Ricciardi, S. and Riller, T. and Ristorcelli, I. and Rocha, G. and Rosset, C. and Roudier, G. and Rowan-Robinson, M. and Rubiño-Martín, J. A. and Rusholme, B. and Sandri, M. and Santos, D. and Savelainen, M. and Savini, G. and Scott, D. and Seiffert, M. D. and Shellard, E. P. S. and Spencer, L. D. and Starck, J. -L. and Stolyarov, V. and Stompor, R. and Sudiwala, R. and Sunyaev, R. and Sureau, F. and Sutton, D. and Suur-Uski, A. -S. and Sygnet, J. -F. and Tauber, J. A. and Tavagnacco, D. and Terenzi, L. and Toffolatti, L. and Tomasi, M. and Tristram, M. and Tucci, M. and Tuovinen, J. and Türler, M. and Umana, G. and Valenziano, L. and Valiviita, J. and Van Tent, B. and Vielva, P. and Villa, F. and Vittorio, N. and Wade, L. A. and Wandelt, B. D. and Wehus, I. K. and White, M. and White, S. D. M. and Wilkinson, A. and Yvon, D. and Zacchei, A. and Zonca, A."}]
+  date: 2014
+  parent: {type: periodical, title: "A&A", volume: "571"}
+  serial-number: "A16"
+  doi: "10.1051/0004-6361/201321591"
+
+"2016ApJ...821...13A":
+  type: article
+  title: "The NANOGrav Nine-year Data Set: Limits on the Isotropic Stochastic Gravitational Wave Background"
+  author: [{name: "Arzoumanian, Z. and Brazier, A. and Burke-Spolaor, S. and Chamberlin, S. J. and Chatterjee, S. and Christy, B. and Cordes, J. M. and Cornish, N. J. and Crowter, K. and Demorest, P. B. and Deng, X. and Dolch, T. and Ellis, J. A. and Ferdman, R. D. and Fonseca, E. and Garver-Daniels, N. and Gonzalez, M. E. and Jenet, F. and Jones, G. and Jones, M. L. and Kaspi, V. M. and Koop, M. and Lam, M. T. and Lazio, T. J. W. and Levin, L. and Lommen, A. N. and Lorimer, D. R. and Luo, J. and Lynch, R. S. and Madison, D. R. and McLaughlin, M. A. and McWilliams, S. T. and Mingarelli, C. M. F. and Nice, D. J. and Palliyaguru, N. and Pennucci, T. T. and Ransom, S. M. and Sampson, L. and Sanidas, S. A. and Sesana, A. and Siemens, X. and Simon, J. and Stairs, I. H. and Stinebring, D. R. and Stovall, K. and Swiggum, J. and Taylor, S. R. and Vallisneri, M. and van Haasteren, R. and Wang, Y. and Zhu, W. W. and NANOGrav Collaboration"}]
+  date: 2016
+  parent: {type: periodical, title: "ApJ", volume: "821"}
+  page-range: "13"
+  doi: "10.3847/0004-637X/821/1/13"
+
+"1974IJTP...10..363H":
+  type: article
+  title: "Second-Order Scalar-Tensor Field Equations in a Four-Dimensional Space"
+  author: [{name: "Horndeski, Gregory Walter"}]
+  date: 1974
+  parent: {type: periodical, title: "International Journal of Theoretical Physics", volume: "10"}
+  page-range: "363-384"
+  doi: "10.1007/BF01807638"
+
+"2010RvMP...82..451S":
+  type: article
+  title: "f(R) theories of gravity"
+  author: [{name: "Sotiriou, Thomas P. and Faraoni, Valerio"}]
+  date: 2010
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "82"}
+  page-range: "451-497"
+  doi: "10.1103/RevModPhys.82.451"
+
+"2007PhRvD..76f1302B":
+  type: article
+  title: "Maximal amount of gravitational waves in the curvaton scenario"
+  author: [{name: "Bartolo, N. and Matarrese, S. and Riotto, A. and Väihkönen, A."}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "76"}
+  page-range: "061302"
+  doi: "10.1103/PhysRevD.76.061302"
+
+"2013PhRvD..88j3518B":
+  type: article
+  title: "Enhancing inflationary tensor modes through spectator fields"
+  author: [{name: "Biagetti, Matteo and Fasiello, Matteo and Riotto, Antonio"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "88"}
+  page-range: "103518"
+  doi: "10.1103/PhysRevD.88.103518"
+
+"2015JCAP...04..011B":
+  type: article
+  title: "Gravitational waves and scalar perturbations from spectator fields"
+  author: [{name: "Biagetti, Matteo and Dimastrogiovanni, Emanuela and Fasiello, Matteo and Peloso, Marco"}]
+  date: 2015
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2015"}
+  page-range: "011-011"
+  doi: "10.1088/1475-7516/2015/04/011"
+
+"2015PTEP.2015d3E01F":
+  type: article
+  title: "Can a spectator scalar field enhance inflationary tensor mode?"
+  author: [{name: "Fujita, Tomohiro and Yokoyama, Jun'ichi and Yokoyama, Shuichiro"}]
+  date: 2015
+  parent: {type: periodical, title: "Progress of Theoretical and Experimental Physics", volume: "2015"}
+  serial-number: "043E01"
+  doi: "10.1093/ptep/ptv037"
+
+"2020MNRAS.497..739N":
+  type: article
+  title: "Defeating stochasticity: coalescence time-scales of massive black holes in galaxy mergers"
+  author: [{name: "Nasim, Imran and Gualandris, Alessia and Read, Justin and Dehnen, Walter and Delorme, Maxime and Antonini, Fabio"}]
+  date: 2020
+  parent: {type: periodical, title: "MNRAS", volume: "497"}
+  page-range: "739-746"
+  doi: "10.1093/mnras/staa1896"
+
+"2021MNRAS.502.4794N":
+  type: article
+  title: "Formation of the largest galactic cores through binary scouring and gravitational wave recoil"
+  author: [{name: "Nasim, Imran Tariq and Gualandris, Alessia and Read, Justin I. and Antonini, Fabio and Dehnen, Walter and Delorme, Maxime"}]
+  date: 2021
+  parent: {type: periodical, title: "MNRAS", volume: "502"}
+  page-range: "4794-4814"
+  doi: "10.1093/mnras/stab435"
+
+"2014ComAC...1....1D":
+  type: article
+  title: "A fast multipole method for stellar dynamics"
+  author: [{name: "Dehnen, Walter"}]
+  date: 2014
+  parent: {type: periodical, title: "Computational Astrophysics and Cosmology", volume: "1"}
+  page-range: "1"
+  doi: "10.1186/s40668-014-0001-7"
+
+"1994PhRvD..50.3713A":
+  type: article
+  title: "CBR anisotropy from primordial gravitational waves in inflationary cosmologies"
+  author: [{name: "Allen, Bruce and Koranda, Scott"}]
+  date: 1994
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "50"}
+  page-range: "3713-3737"
+  doi: "10.1103/PhysRevD.50.3713"
+
+"2018JCAP...09..012E":
+  type: article
+  title: "A cosmological signature of the SM Higgs instability: gravitational waves"
+  author: [{name: "Espinosa, J. R. and Racco, D. and Riotto, A."}]
+  date: 2018
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2018"}
+  page-range: "012"
+  doi: "10.1088/1475-7516/2018/09/012"
+
+"2016PhRvD..94h3504C":
+  type: article
+  title: "Primordial black holes as dark matter"
+  author: [{name: "Carr, Bernard and Kühnel, Florian and Sandstad, Marit"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "94"}
+  page-range: "083504"
+  doi: "10.1103/PhysRevD.94.083504"
+
+"1994PhRvD..50.7173I":
+  type: article
+  title: "Inflation and primordial black holes as dark matter"
+  author: [{name: "Ivanov, P. and Naselsky, P. and Novikov, I."}]
+  date: 1994
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "50"}
+  page-range: "7173-7178"
+  doi: "10.1103/PhysRevD.50.7173"
+
+"2020JCAP...03..002M":
+  type: article
+  title: "Constant roll and primordial black holes"
+  author: [{name: "Motohashi, Hayato and Mukohyama, Shinji and Oliosi, Michele"}]
+  date: 2020
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2020"}
+  page-range: "002"
+  doi: "10.1088/1475-7516/2020/03/002"
+
+"2017PDU....18....6G":
+  type: article
+  title: "On primordial black holes from an inflection point"
+  author: [{name: "Germani, Cristiano and Prokopec, Tomislav"}]
+  date: 2017
+  parent: {type: periodical, title: "Physics of the Dark Universe", volume: "18"}
+  page-range: "6-10"
+  doi: "10.1016/j.dark.2017.09.001"
+
+"2018PhRvL.121h1306C":
+  type: article
+  title: "Primordial Black Holes from Sound Speed Resonance during Inflation"
+  author: [{name: "Cai, Yi-Fu and Tong, Xi and Wang, Dong-Gang and Yan, Sheng-Feng"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "081306"
+  doi: "10.1103/PhysRevLett.121.081306"
+
+"2018JCAP...07..032B":
+  type: article
+  title: "Primordial black holes from inflation and quantum diffusion"
+  author: [{name: "Biagetti, M. and Franciolini, G. and Kehagias, A. and Riotto, A."}]
+  date: 2018
+  parent: {type: periodical, title: "J. Cosmology Astropart. Phys.", volume: "2018"}
+  page-range: "032"
+  doi: "10.1088/1475-7516/2018/07/032"
+
+"2024A-A...683A.201V":
+  type: article
+  title: "Testing strengths, limitations, and biases of current pulsar timing arrays' detection analyses on realistic data"
+  author: [{name: "Valtolina, Serena and Shaifullah, Golam and Samajdar, Anuradha and Sesana, Alberto"}]
+  date: 2024
+  parent: {type: periodical, title: "A&A", volume: "683"}
+  serial-number: "A201"
+  doi: "10.1051/0004-6361/202348084"

@@ -1,0 +1,253 @@
+// Extended Data Fig. 1 (src/EDcircuitecho.pdf) redrawn in CeTZ.
+// Panel a: CZ-gate echo circuit identity. Panel b: Rb level scheme.
+// Panel c: typical circuit + pulse sequence.
+// Include this file as the body of a #figure(...).
+#import "@preview/cetz:0.4.2"
+
+#align(center)[
+  // ---------------- panel a: echo circuit identity ----------------
+  #cetz.canvas(length: 0.38cm, padding: (x: 0.4cm, y: 0.3cm), {
+    import cetz.draw: *
+
+    let blk = (paint: black, thickness: 0.8pt)
+    let gry = (paint: luma(110), thickness: 0.8pt)
+    let red = (paint: rgb("#c8102e"), thickness: 1.0pt)
+    let dash = (paint: luma(60), thickness: 0.7pt, dash: "dashed")
+
+    let wire(x1, x2, y) = line((x1, y), (x2, y), stroke: blk)
+    let ket(x, y) = content((x, y), [$|0⟩$], anchor: "east")
+    let gbox(x, y, txt, st, w: 1.15, h: 0.34) = {
+      rect((x - w / 2, y - h), (x + w / 2, y + h), stroke: st, fill: white)
+      content((x, y), txt, anchor: "center")
+    }
+    let ctrl(x, y) = circle((x, y), radius: 0.10, fill: black, stroke: none)
+    let cz(x, ya, yb) = {
+      line((x, ya), (x, yb), stroke: blk)
+      ctrl(x, ya)
+      ctrl(x, yb)
+    }
+    let meas(x, y) = {
+      rect((x - 0.32, y - 0.32), (x + 0.32, y + 0.32), stroke: blk, fill: white)
+      arc((x, y - 0.30), start: 35deg, stop: 145deg, radius: 0.30,
+        stroke: (paint: black, thickness: 0.7pt), fill: none, mark: (end: ">"))
+    }
+
+    // ---- left circuit: four wires at y = 0 .. 3 ----
+    for y in (0, 1, 2, 3) {
+      wire(-0.3, 11.6, y)
+      ket(-0.5, y)
+      gbox(0.85, y, [$Y(pi\/2)$], gry)
+      gbox(3.9, y, [$Z(zeta)$], dash, w: 0.95)
+      gbox(5.2, y, [$Y(pi)$], red, w: 0.95)
+      gbox(6.4, y, [$Z(zeta)$], dash, w: 0.95)
+      gbox(8.6, y, [$Z(zeta)$], dash, w: 0.95)
+      meas(11.1, y)
+    }
+    cz(2.45, 2, 3)
+    cz(2.62, 0, 1)
+    cz(7.55, 1, 2)
+    for y in (1, 2, 3) { gbox(9.9, y, [$Y(pi\/2)$], gry) }
+    content((5.5, -0.85), [Systematic and spurious $Z(zeta)$], anchor: "center")
+
+    // ---- equality ----
+    content((12.3, 1.5), [$=$], anchor: "center", scale: 1.6)
+
+    // ---- right circuit: equivalent echo-free form ----
+    for y in (0, 1, 2, 3) {
+      wire(13.1, 22.0, y)
+      ket(12.9, y)
+      gbox(14.05, y, [$Y(pi\/2)$], gry)
+      gbox(16.6, y, [$Y(pi)$], red, w: 0.95)
+      gbox(19.2, y, [$Y(pi)$], red, w: 0.95)
+      meas(21.4, y)
+    }
+    cz(15.3, 2, 3)
+    cz(17.9, 0, 1)
+    for y in (2, 3) { gbox(20.3, y, [$Y(pi\/2)$], gry) }
+  })
+
+  #v(6pt)
+
+  // ---------------- panel b: 87Rb level scheme ----------------
+  #cetz.canvas(length: 0.42cm, padding: (x: 0.5cm, y: 0.3cm), {
+    import cetz.draw: *
+
+    let blk = (paint: black, thickness: 0.9pt)
+    let lvl(x1, x2, y, st: blk) = line((x1, y), (x2, y), stroke: st)
+    let g = (paint: luma(150), thickness: 1.0pt)
+    let rd = (paint: rgb("#c8102e"), thickness: 1.1pt)
+    let bl = (paint: rgb("#00a5e0"), thickness: 1.1pt)
+    let pu = (paint: rgb("#8e44ad"), thickness: 1.1pt)
+
+    // frame
+    rect((-0.5, -0.9), (13.5, 8.6), radius: 0.8,
+      stroke: (paint: black, thickness: 0.9pt), fill: none)
+
+    // series labels
+    content((0.1, 0.55), [$5S_(1\/2)$], anchor: "west")
+    content((0.1, 3.9), [$5P_(1\/2)$], anchor: "west")
+    content((0.1, 5.6), [$6P_(3\/2)$], anchor: "west")
+    content((0.1, 7.6), [$70S_(1\/2)$], anchor: "west")
+    content((0.1, 7.15), [(Rydberg)], anchor: "west", fill: luma(90))
+
+    // ---- ground hyperfine manifold ----
+    lvl(4.6, 5.6, 0.0)                    // |0>  F=1
+    lvl(4.6, 5.6, 1.1)                    // |1>  F=2
+    content((6.0, 0.0), [$|0⟩ = |F = 1, m_F = 0⟩$], anchor: "west")
+    content((6.0, 1.1), [$|1⟩ = |F = 2, m_F = 0⟩$], anchor: "west")
+    line((4.15, 0.0), (4.15, 1.1), stroke: blk, mark: (start: ">", end: ">"))
+    content((4.0, 0.55), [6.8 GHz], anchor: "east")
+    // stretched sublevels (gray) + B-field splitting
+    lvl(3.6, 4.1, 0.45, st: g)
+    lvl(6.1, 6.6, 0.45, st: g)
+    lvl(3.6, 4.1, 1.55, st: g)
+    lvl(6.9, 7.4, 1.55, st: g)
+    line((8.6, 1.25), (8.6, 1.85), stroke: g, mark: (start: "|", end: "|"))
+    content((8.9, 1.55), [$gamma "B"/2 pi = 24$ MHz], anchor: "west", fill: luma(90))
+
+    // ---- 5P1/2 manifold ----
+    lvl(4.3, 4.9, 3.7, st: g)
+    lvl(5.35, 5.95, 3.85, st: (paint: black, thickness: 1.6pt))
+    lvl(6.35, 6.95, 3.7, st: g)
+    lvl(7.35, 7.95, 3.85, st: g)
+    lvl(8.35, 8.95, 3.7, st: g)
+    lvl(9.35, 9.95, 3.85, st: g)
+    line((10.3, 3.55), (10.3, 3.85), stroke: g, mark: (start: "|", end: "|"))
+    content((10.55, 3.7), [$180$ GHz], anchor: "west")
+
+    // ---- 6P3/2 manifold ----
+    lvl(4.35, 4.95, 5.55, st: (paint: black, thickness: 1.6pt))
+    lvl(3.6, 4.2, 5.7, st: g)
+    lvl(5.3, 5.9, 5.7, st: g)
+    lvl(6.3, 6.9, 5.7, st: g)
+    lvl(7.3, 7.9, 5.7, st: g)
+    lvl(8.3, 8.9, 5.7, st: g)
+    line((3.05, 5.15), (3.05, 5.55), stroke: g, mark: (start: ">", end: ">"))
+    content((2.9, 5.35), [$2$ GHz], anchor: "east")
+    line((3.6, 5.15), (6.4, 5.15), stroke: (paint: luma(120), thickness: 0.7pt, dash: "dashed"))
+
+    // ---- Rydberg 70S1/2 ----
+    lvl(4.35, 4.95, 7.3)                  // |r>, m_j = -1/2
+    content((4.05, 7.3), [$m_"j" = -1\/2$], anchor: "east")
+    content((5.15, 7.3), [$|r⟩$], anchor: "west")
+    lvl(6.0, 6.6, 7.6, st: g)             // m_j = +1/2
+    content((6.8, 7.6), [$m_"j" = +1\/2$], anchor: "west", fill: luma(90))
+    line((5.55, 7.35), (5.55, 7.6), stroke: g, mark: (start: "|", end: "|"))
+    content((5.35, 7.85), [$gamma "B"/2 pi = 24$ MHz], anchor: "west", fill: luma(90))
+
+    // ---- transitions ----
+    // 795 nm sigma+ from |0> and |1> to 5P1/2
+    line((5.05, 0.12), (5.62, 3.72), stroke: rd, mark: (end: ">"))
+    line((5.05, 1.22), (5.66, 3.72), stroke: rd, mark: (end: ">"))
+    content((6.15, 2.6), [$sigma^+$], anchor: "west", fill: rgb("#c8102e"))
+    content((6.55, 2.6), [795 nm], anchor: "west", fill: rgb("#c8102e"))
+    // 420 nm sigma- : 6P1/2 -> 5P1/2 (downward)
+    line((4.75, 5.4), (5.15, 4.0), stroke: bl, mark: (end: ">"))
+    content((5.3, 4.6), [$sigma^-$], anchor: "west", fill: rgb("#00a5e0"))
+    content((5.75, 4.6), [420 nm], anchor: "west", fill: rgb("#00a5e0"))
+    // 1013 nm sigma+ : 6P3/2 -> |r>
+    line((4.6, 5.75), (4.62, 7.15), stroke: pu, mark: (end: ">"))
+    content((4.35, 6.5), [$sigma^+$], anchor: "east", fill: rgb("#8e44ad"))
+    content((4.85, 6.5), [1013 nm], anchor: "west", fill: rgb("#8e44ad"))
+  })
+
+  #v(6pt)
+
+  // ---------------- panel c: circuit + pulse sequence ----------------
+  #cetz.canvas(length: 0.40cm, padding: (x: 0.5cm, y: 0.3cm), {
+    import cetz.draw: *
+
+    let blk = (paint: black, thickness: 0.8pt)
+    let gry = (paint: luma(110), thickness: 0.8pt)
+    let red = (paint: rgb("#c8102e"), thickness: 1.0pt)
+    let cyn = rgb("#00a5e0")
+    let pur = rgb("#9467bd")
+    let yel = rgb("#f5d76e")
+    let grn = rgb("#5aa05a")
+
+    let gbox(x, y, txt, st, w: 1.0, h: 0.28) = {
+      rect((x - w / 2, y - h), (x + w / 2, y + h), stroke: st, fill: white)
+      content((x, y), txt, anchor: "center", scale: 0.9)
+    }
+    let ctrl(x, y) = circle((x, y), radius: 0.09, fill: black, stroke: none)
+    let cz(x, ya, yb) = {
+      line((x, ya), (x, yb), stroke: blk)
+      ctrl(x, ya)
+      ctrl(x, yb)
+    }
+    let meas(x, y) = {
+      rect((x - 0.28, y - 0.28), (x + 0.28, y + 0.28), stroke: blk, fill: white)
+      arc((x, y - 0.26), start: 35deg, stop: 145deg, radius: 0.26,
+        stroke: (paint: black, thickness: 0.6pt), fill: none, mark: (end: ">"))
+    }
+    let bar(x, y, colr, h: 0.55, w: 0.16) = {
+      rect((x - w / 2, y), (x + w / 2, y + h), stroke: (paint: colr, thickness: 0.7pt), fill: colr)
+    }
+    let row(y, lab) = {
+      line((2.6, y), (15.4, y), stroke: blk)
+      content((2.4, y), lab, anchor: "east")
+    }
+
+    // ---- circuit (wires y = 5.0 .. 6.5) ----
+    let ys = (5.0, 5.5, 6.0, 6.5)
+    for y in ys {
+      line((1.2, y), (13.6, y), stroke: blk)
+      content((1.05, y), [$|0⟩$], anchor: "east")
+      gbox(2.3, y, [$Y(pi\/2)$], gry, w: 1.0)
+      gbox(5.6, y, [$Y(pi)$], red, w: 0.85)
+      gbox(9.6, y, [$Y(pi)$], red, w: 0.85)
+      meas(13.1, y)
+    }
+    cz(3.6, 6.0, 6.5)
+    cz(7.6, 5.5, 6.0)
+    gbox(11.6, 6.5, [$Y(pi\/2)$], gry, w: 1.0)
+    gbox(11.6, 5.5, [$Y(pi\/2)$], gry, w: 1.0)
+    // dynamical-decoupling bracket
+    line((3.0, 4.55), (3.0, 4.35), stroke: gry)
+    line((3.0, 4.35), (12.4, 4.35), stroke: gry)
+    line((12.4, 4.55), (12.4, 4.35), stroke: gry)
+    content((7.7, 4.05), [+ Dynamical decoupling], anchor: "center", fill: luma(90))
+
+    // ---- pulse rows ----
+    row(3.3, [Raman (795 nm)])
+    for dx in (0.0, 0.22, 0.44, 0.66) { bar(3.3 + dx, 3.35, red.paint) }
+    content((3.6, 4.1), [BB1($pi\/2$)], anchor: "center")
+    let rbar(x, t) = { bar(x, 3.35, red.paint); content((x, 4.05), t, anchor: "center") }
+    rbar(5.2, [X])
+    rbar(6.8, [Y])
+    rbar(8.2, [X])
+    rbar(9.8, [Y])
+    rbar(11.0, [Y])
+    rbar(12.2, [X])
+    rbar(13.4, [Y])
+    rbar(14.4, [X])
+    bar(15.0, 3.35, red.paint, h: 0.4, w: 0.12)
+    bar(15.25, 3.35, red.paint, h: 0.4, w: 0.12)
+    content((15.1, 3.95), [$pi\/4$], anchor: "center")
+
+    row(2.1, [Rydberg (420 nm)])
+    for dx in (0.0, 0.22) { bar(4.4 + dx, 2.15, cyn) }
+    content((4.5, 2.85), [CZ], anchor: "center")
+    for dx in (0.0, 0.22) { bar(8.8 + dx, 2.15, cyn) }
+    content((8.9, 2.85), [CZ], anchor: "center")
+    for dx in (0.0, 0.22) { bar(14.6 + dx, 2.15, cyn) }
+    content((14.7, 2.85), [$Z(pi)$], anchor: "center")
+
+    row(0.9, [Rydberg (1013 nm)])
+    rect((2.8, 0.98), (8.0, 1.42), stroke: (paint: pur.darken(25%), thickness: 0.7pt), fill: pur.lighten(35%))
+
+    row(-0.3, [Trap light (830 nm)])
+    rect((2.8, -0.22), (4.28, 0.22), stroke: (paint: yel.darken(35%), thickness: 0.7pt), fill: yel.lighten(30%))
+    rect((4.55, -0.22), (8.68, 0.22), stroke: (paint: yel.darken(35%), thickness: 0.7pt), fill: yel.lighten(30%))
+    rect((8.95, -0.22), (15.4, 0.22), stroke: (paint: yel.darken(35%), thickness: 0.7pt), fill: yel.lighten(30%))
+
+    row(-1.5, [Movement])
+    rect((3.4, -1.42), (8.2, -0.92), stroke: (paint: grn.darken(30%), thickness: 0.7pt), fill: grn.lighten(25%))
+    content((5.8, -1.17), [Change connectivity], anchor: "center")
+    rect((8.5, -1.42), (13.6, -0.92), stroke: (paint: grn.darken(30%), thickness: 0.7pt), fill: grn.lighten(25%))
+    content((11.05, -1.17), [Move qubits 1 and 3 out of experiment zone], anchor: "center")
+
+    row(-2.7, [Pushout $|1 ⟩$ (780 nm)])
+    rect((14.6, -2.62), (15.15, -2.15), stroke: (paint: red.paint, thickness: 0.7pt), fill: red.paint)
+  })
+]

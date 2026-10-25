@@ -1,0 +1,314 @@
+"banuls2020simulating":
+  type: article
+  title: ""
+  author: [{name: "M. C. Bañuls and R. Blatt and J. Catani and A. Celi and others"}]
+  date: 2020
+  parent: {type: periodical, title: "The European Physical Journal D", volume: "74"}
+
+"kasper2014fermion":
+  type: article
+  title: ""
+  author: [{name: "V. Kasper and F. Hebenstreit and J. Berges"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "90"}
+  page-range: "025016"
+
+"berges2001thermalization":
+  type: article
+  title: ""
+  author: [{name: "J. Berges and J. Cox"}]
+  date: 2001
+  parent: {type: periodical, title: "Physics Letters B", volume: "517"}
+  page-range: "369"
+
+"rigol2008thermalization":
+  type: article
+  title: ""
+  author: [{name: "M. Rigol and V. Dunjko and M. Olshanii"}]
+  date: 2008
+  parent: {type: periodical, title: "Nature", volume: "452"}
+  page-range: "854-858"
+
+"berges2020thermalization":
+  type: article
+  title: ""
+  author: [{name: "J. Berges and M. P. Heller and A. Mazeliauskas and R. Venugopalan"}]
+  date: 2021
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "93"}
+  page-range: "035003"
+
+"Martinez2016":
+  type: article
+  title: ""
+  author: [{name: "E. A. Martinez and et al."}]
+  date: 2016
+  parent: {type: periodical, title: "Nature", volume: "534"}
+  page-range: "516-519"
+
+"Kokail2019":
+  type: article
+  title: ""
+  author: [{name: "C. Kokail and et al."}]
+  date: 2019
+  parent: {type: periodical, title: "Nature", volume: "569"}
+  page-range: "355"
+
+"Yang2020":
+  type: article
+  title: ""
+  author: [{name: "B. Yang and et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Nature", volume: "587"}
+  page-range: "392-396"
+
+"Mil2020":
+  type: article
+  title: ""
+  author: [{name: "A. Mil and et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Science", volume: "367"}
+  page-range: "1128"
+
+"Schweizer2019":
+  type: article
+  title: ""
+  author: [{name: "C. Schweizer and et al."}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Physics", volume: "15"}
+  page-range: "1168"
+
+"Gorg2019":
+  type: article
+  title: ""
+  author: [{name: "F. Görg and et al."}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Physics", volume: "15"}
+  page-range: "1161-1167"
+
+"Dai2017":
+  type: article
+  title: ""
+  author: [{name: "H.-N. Dai and et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Nature Physics", volume: "13"}
+  page-range: "1195-1200"
+
+"bernien2017probing":
+  type: article
+  title: ""
+  author: [{name: "H. Bernien and et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "551"}
+  page-range: "579-584"
+
+"Surace2019a":
+  type: article
+  title: ""
+  author: [{name: "F. M. Surace and et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review X", volume: "10"}
+
+"klco2018quantum":
+  type: article
+  title: ""
+  author: [{name: "N. Klco and et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review A", volume: "98"}
+
+"dejong2021quantum":
+  type: article
+  title: "Quantum simulation of non-equilibrium dynamics and thermalization in the schwinger model"
+  author: [{name: "W. A. de Jong and et al."}]
+  date: 2021
+
+"Chandrasekharan1997":
+  type: article
+  title: ""
+  author: [{name: "S. Chandrasekharan and U. J. Wiese"}]
+  date: 1997
+  parent: {type: periodical, title: "Nuclear Physics B", volume: "492"}
+  page-range: "455"
+
+"Levin2005":
+  type: article
+  title: ""
+  author: [{name: "M. Levin and X. G. Wen"}]
+  date: 2005
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "77"}
+  page-range: "871"
+
+"Hermele2004":
+  type: article
+  title: ""
+  author: [{name: "M. Hermele and M. P. A. Fisher and L. Balents"}]
+  date: 2004
+  parent: {type: periodical, title: "Physical Review B", volume: "69"}
+
+"Kogut1983":
+  type: article
+  title: ""
+  author: [{name: "J. B. Kogut"}]
+  date: 1983
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "55"}
+  page-range: "775"
+
+"Brower1999":
+  type: article
+  title: ""
+  author: [{name: "R. Brower and S. Chandrasekharan and U.-J. Wiese"}]
+  date: 1999
+  parent: {type: periodical, title: "Physical Review D", volume: "60"}
+
+"supp":
+  type: article
+  title: "See supplementary materials"
+
+"kogut1975hamiltonian":
+  type: article
+  title: ""
+  author: [{name: "J. Kogut and L. Susskind"}]
+  date: 1975
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "11"}
+  page-range: "395"
+
+"Zohar2013gauge":
+  type: article
+  title: ""
+  author: [{name: "E. Zohar and J. I. Cirac and B. Reznik"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "110"}
+  page-range: "055302"
+
+"halimeh2020reliability":
+  type: article
+  title: ""
+  author: [{name: "J. C. Halimeh and P. Hauke"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "030503"
+
+"halimeh2020gauge":
+  type: article
+  title: ""
+  author: [{name: "J. C. Halimeh and H. Lang and J. Mildenberger and Z. Jiang and P. Hauke"}]
+  date: 2021
+  parent: {type: periodical, title: "PRX Quantum", volume: "2"}
+  page-range: "040311"
+
+"Yang2017":
+  type: article
+  title: ""
+  author: [{name: "B. Yang and et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Physical Review A", volume: "96"}
+
+"Schollwoeck_review":
+  type: article
+  title: ""
+  author: [{name: "U. Schollwöck"}]
+  date: 2011
+  parent: {type: periodical, title: "Annals of Physics", volume: "326"}
+  page-range: "96-192"
+
+"mptoolkit":
+  type: article
+  title: "Matrix Product Toolkit"
+  author: [{name: "I. P. McCulloch"}]
+
+"Rigol2008thermalization":
+  type: article
+  title: ""
+  author: [{name: "M. Rigol and V. Dunjko and M. Olshanii"}]
+  date: 2008
+  parent: {type: periodical, title: "Nature", volume: "452"}
+  page-range: "854-858"
+
+"turner2018weak":
+  type: article
+  title: ""
+  author: [{name: "C. J. Turner and A. A. Michailidis and D. A. Abanin and M. Serbyn and Z. Papić"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature Physics", volume: "14"}
+  page-range: "745"
+
+"Zache2021":
+  type: article
+  title: ""
+  author: [{name: "T. V. Zache and M. V. Damme and J. C. Halimeh and P. Hauke and D. Banerjee"}]
+  date: 2021
+
+"zache2018quantum":
+  type: article
+  title: ""
+  author: [{name: "T. V. Zache and et al."}]
+  date: 2018
+  parent: {type: periodical, title: "Quantum Science and Technology", volume: "3"}
+  page-range: "034010"
+
+"Huang2019":
+  type: article
+  title: ""
+  author: [{name: "Y.-P. Huang and D. Banerjee and M. Heyl"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "250401"
+
+"Banerjee2012":
+  type: article
+  title: ""
+  author: [{name: "D. Banerjee and et al."}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review Letters", volume: "109"}
+  page-range: "1"
+
+"hebenstreit2013real":
+  type: article
+  title: ""
+  author: [{name: "F. Hebenstreit and J. Berges and D. Gelfand"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "111"}
+  page-range: "201601"
+
+"Narozhny2014":
+  type: article
+  title: ""
+  author: [{name: "N. B. Narozhny and A. M. Fedotov"}]
+  date: 2014
+  parent: {type: periodical, title: "European Physical Journal: Special Topics", volume: "223"}
+  page-range: "1083"
+
+"zohar2021quantum":
+  type: article
+  title: ""
+  author: [{name: "E. Zohar"}]
+  date: 2021
+  parent: {type: periodical, title: "Phil. Trans. R. Soc. A.", volume: "380"}
+
+"prufer2020experimental":
+  type: article
+  title: ""
+  author: [{name: "M. Prüfer and et al."}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "1012-1016"
+
+"Zache:2019xkx":
+  type: article
+  title: ""
+  author: [{name: "T. V. Zache and T. Schweigler and S. Erne and J. Schmiedmayer and J. Berges"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "011020"
+
+"ott2020scalable":
+  type: article
+  title: ""
+  author: [{name: "R. Ott and T. V. Zache and F. Jendrzejewski and J. Berges"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "130504"
+
+"zhaoyu2022data":
+  type: article
+  title: "Harvard Dataverse"
+  author: [{name: "Z.-Y. Zhou and G.-X. Su and J. C. Halimeh and R. Ott and et al."}]

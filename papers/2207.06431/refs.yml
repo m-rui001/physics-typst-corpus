@@ -1,0 +1,1250 @@
+"Gottesman-Knill-1999":
+  type: article
+  title: "The Heisenberg Representation of Quantum Computers"
+  author: [{name: "D. Gottesman"}]
+  date: 1999
+  parent: {type: proceedings, title: "Proceedings of the XXII International Colloquium on Group Theoretical Methods in Physics"}
+  page-range: "32-43"
+
+"Steane-2003":
+  type: article
+  title: "Overhead and noise threshold of fault-tolerant quantum error correction"
+  author: [{name: "Steane, Andrew M."}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "68"}
+  page-range: "042322"
+
+"chen_measuring_2016":
+  type: article
+  title: "Measuring and suppressing quantum state leakage in a superconducting qubit"
+  author: [{name: "Chen, Zijun and Kelly, Julian and Quintana, Chris and Barends, R and Campbell, B and Chen, Yu and Chiaro, B and Dunsworth, A and Fowler, AG and Lucero, E"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical review letters", volume: "116"}
+  page-range: "020501"
+
+"Fowler-QEC-2004":
+  type: article
+  title: "Quantum-error correction on linear-nearest-neighbor qubit arrays"
+  author: [{name: "Austin G. Fowler and Charles D. Hill and Lloyd C. L. Hollenberg"}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "69"}
+  page-range: "042314"
+
+"Raussendorf-Harrington-2007":
+  type: article
+  title: "Fault-Tolerant Quantum Computation with High Threshold in Two Dimensions"
+  author: [{name: "Robert Raussendorf and Jim Harrington"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "98"}
+  page-range: "190504"
+
+"Wang-Fowler-Stephens-Hollenberg-2010":
+  type: article
+  title: "Threshold error rates for the toric and planar codes"
+  author: [{name: "D. S. Wang and A. G. Fowler and A. M. Stephens and L. C. L. Hollenberg"}]
+  date: 2010
+  parent: {type: periodical, title: "Quantum Inf. Comput.", volume: "10"}
+  page-range: "456-469"
+
+"Wang-Fowler-Hollenberg-2011":
+  type: article
+  title: "Surface code quantum computing with error rates over 1%"
+  author: [{name: "Wang, David S. and Fowler, Austin G. and Hollenberg, Lloyd C. L."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "83"}
+  page-range: "020302"
+  doi: "10.1103/PhysRevA.83.020302"
+
+"chen2022calibrated":
+  type: article
+  title: "Calibrated decoders for experimental quantum error correction"
+  author: [{name: "Chen, Edward H and Yoder, Theodore J and Kim, Youngseok and Sundaresan, Neereja and Srinivasan, Srikanth and Li, Muyuan and Córcoles, Antonio D and Cross, Andrew W and Takita, Maika"}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review Letters", volume: "128"}
+  page-range: "110504"
+
+"chubb2021statistical":
+  type: article
+  title: "Statistical mechanical models for quantum codes with correlated noise"
+  author: [{name: "Chubb, Christopher T and Flammia, Steven T"}]
+  date: 2021
+  parent: {type: periodical, title: "Annales de l’Institut Henri Poincaré D", volume: "8"}
+  page-range: "269-321"
+
+"sundaresan2022matching":
+  type: misc
+  title: "Matching and maximum likelihood decoding of a multi-round subsystem quantum error correction experiment"
+  author: [{name: "Sundaresan, Neereja and Yoder, Theodore J and Kim, Youngseok and Li, Muyuan and Chen, Edward H and Harper, Grace and Thorbeck, Ted and Cross, Andrew W and Córcoles, Antonio D and Takita, Maika"}]
+  date: 2022
+  serial-number: "arXiv:2203.07205"
+
+"Landahl-2011":
+  type: article
+  title: "Fault-tolerant quantum computing with color codes"
+  author: [{name: "A. J. Landahl and J. T. Anderson and P. R. Rice"}]
+  date: 2011
+
+"Brown-Nickerson-Browne-2016":
+  type: article
+  title: "Fault-tolerant error correction with the gauge color code"
+  author: [{name: "Benjamin J. Brown and Naomi H. Nickerson and Dan E. Browne"}]
+  date: 2016
+  parent: {type: periodical, title: "Nature Communications", volume: "7"}
+  page-range: "12302"
+  doi: "10.1038/ncomms12302"
+
+"Tuckett-Bartlett-Flammia-2018":
+  type: article
+  title: "Ultrahigh Error Threshold for Surface Codes with Biased Noise"
+  author: [{name: "Tuckett, D. K. and Bartlett, S. D. and Flammia, S. T."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "120"}
+  page-range: "050505"
+  doi: "10.1103/PhysRevLett.120.050505"
+
+"Bravyi-Gosset-2016":
+  type: article
+  title: "Improved Classical Simulation of Quantum Circuits Dominated by Clifford Gates"
+  author: [{name: "Bravyi, Sergey and Gosset, David"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "116"}
+  page-range: "250501"
+  doi: "10.1103/PhysRevLett.116.250501"
+
+"Bravyi-etal-sim-2019":
+  type: article
+  title: "Simulation of quantum circuits by low-rank stabilizer decompositions"
+  author: [{name: "Bravyi, Sergey and Browne, Dan and Calpin, Padraic and Campbell, Earl and Gosset, David and Howard, Mark"}]
+  date: 2019
+  parent: {type: periodical, title: "Quantum", volume: "3"}
+  page-range: "181"
+  doi: "10.22331/q-2019-09-02-181"
+
+"Bravyi-Englbrecht-Koenig-Peard-2018":
+  type: article
+  title: "Correcting coherent errors with surface codes"
+  author: [{name: "Bravyi, Sergey and Englbrecht, Matthias and König, Robert and Peard, Nolan"}]
+  date: 2018
+  parent: {type: periodical, title: "NPJ Quantum Information", volume: "4"}
+  page-range: "55"
+  doi: "10.1038/s41534-018-0106-y"
+
+"Varbanov-etal-Terhal-2020":
+  type: article
+  title: "Leakage detection for a transmon-based surface code"
+  author: [{name: "Boris Mihailov Varbanov and Francesco Battistel and Brian Michael Tarasinski and Viacheslav Petrovych Ostroukh and O'Brien, Thomas Eugene and Leonardo DiCarlo and Barbara Maria Terhal"}]
+  date: 2020
+  parent: {type: periodical, title: "npj Quantum Information", volume: "6"}
+  page-range: "102"
+  doi: "10.1038/s41534-020-00330-w"
+
+"battistel2021hardware":
+  type: article
+  title: "Hardware-efficient leakage-reduction scheme for quantum error correction with superconducting transmon qubits"
+  author: [{name: "Battistel, Francesco and Varbanov, Boris M and Terhal, Barbara M"}]
+  date: 2021
+  parent: {type: periodical, title: "PRX Quantum", volume: "2"}
+  page-range: "030314"
+
+"Fattal-Cubitt-Yamamoto-Bravyi-Chuang-2004":
+  type: article
+  title: "Entanglement in the stabilizer formalism"
+  author: [{name: "David Fattal and Toby S. Cubitt and Yoshihisa Yamamoto and Sergey Bravyi and Isaac L. Chuang"}]
+  date: 2004
+
+"Gutierrez-Svec-Vargo-Brown-2013":
+  type: article
+  title: "Approximation of realistic errors by Clifford channels and Pauli measurements"
+  author: [{name: "Gutiérrez, Mauricio and Svec, Lukas and Vargo, Alexander and Brown, Kenneth R."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "87"}
+  page-range: "030302"
+  doi: "10.1103/PhysRevA.87.030302"
+
+"mcewen_removing_2021":
+  type: article
+  title: "Removing leakage-induced correlated errors in superconducting quantum error correction"
+  author: [{name: "McEwen, Matt and Kafri, Dvir and Chen, Z and Atalaya, Juan and Satzinger, KJ and Quintana, Chris and Klimov, Paul Victor and Sank, Daniel and Gidney, C and Fowler, AG"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Communications", volume: "12"}
+  page-range: "1-7"
+
+"youngkyu_coupler_2021":
+  type: article
+  title: "Realization of High-Fidelity CZ and ZZ-Free iSWAP Gates with a Tunable Coupler"
+  author: [{name: "Sung, Youngkyu and Ding, Leon and Braumüller, Jochen and Vepsäläinen, Antti and Kannan, Bharath and Kjaergaard, Morten and Greene, Ami and Samach, Gabriel O. and McNally, Chris and Kim, David and Melville, Alexander and Niedzielski, Bethany M. and Schwartz, Mollie E. and Yoder, Jonilyn L. and Orlando, Terry P. and Gustavsson, Simon and Oliver, William D."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "11"}
+  page-range: "021058"
+  doi: "10.1103/PhysRevX.11.021058"
+
+"pedersen2007fidelity":
+  type: article
+  title: "Fidelity of quantum operations"
+  author: [{name: "Pedersen, Line Hjortshøj and Møller, Niels Martin and Mølmer, Klaus"}]
+  date: 2007
+  parent: {type: periodical, title: "Physics Letters A", volume: "367"}
+  page-range: "47-51"
+
+"tomita_low-distance_2014":
+  type: article
+  title: "Low-distance surface codes under realistic quantum noise"
+  author: [{name: "Tomita, Yu and Svore, Krysta M"}]
+  date: 2014
+  parent: {type: periodical, title: "Physical Review A", volume: "90"}
+  page-range: "062320"
+
+"wilde_2013_quantum":
+  type: article
+  title: "Quantum information theory"
+  author: [{name: "Wilde, Mark M"}]
+  date: 2013
+
+"isakov2021simulations":
+  type: misc
+  title: "Simulations of quantum circuits with approximate noise using qsim and cirq"
+  author: [{name: "Isakov, Sergei V and Kafri, Dvir and Martin, Orion and Heidweiller, Catherine Vollgraff and Mruczkiewicz, Wojciech and Harrigan, Matthew P and Rubin, Nicholas C and Thomson, Ross and Broughton, Michael and Kissell, Kevin"}]
+  date: 2021
+  serial-number: "arXiv:2111.02396"
+
+"arute2019quantum":
+  type: article
+  title: "Quantum supremacy using a programmable superconducting processor"
+  author: [{name: "Arute, Frank and Arya, Kunal and Babbush, Ryan and Bacon, Dave and Bardin, Joseph C and Barends, Rami and Biswas, Rupak and Boixo, Sergio and Brandao, Fernando GSL and Buell, David A"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature", volume: "574"}
+  page-range: "505-510"
+
+"obrien_density-matrix_2017":
+  type: article
+  title: "Density-matrix simulation of small surface codes under current and projected experimental noise"
+  author: [{name: "O’Brien, TE and Tarasinski, B and DiCarlo, L"}]
+  date: 2017
+  parent: {type: periodical, title: "npj Quantum Information", volume: "3"}
+  page-range: "39"
+
+"katabarwa2015logical":
+  type: article
+  title: "Logical error rate in the Pauli twirling approximation"
+  author: [{name: "Katabarwa, Amara and Geller, Michael R"}]
+  date: 2015
+  parent: {type: periodical, title: "Scientific reports", volume: "5"}
+  page-range: "1-6"
+
+"sank2016measurement":
+  type: article
+  title: "Measurement-induced state transitions in a superconducting qubit: Beyond the rotating wave approximation"
+  author: [{name: "Sank, Daniel and Chen, Zijun and Khezri, Mostafa and Kelly, J and Barends, R and Campbell, B and Chen, Y and Chiaro, B and Dunsworth, A and Fowler, A and Jeffrey, E and Lucero, E and Megrant, A and Mutus, J and Neeley, M and Neill, C and O’Malley, P. J. J. and Quintana, C and Roushan, P and Vainsencher, A and White, T and Wenner, J and Korotkov, Alexander N. and Martinis, John M."}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "117"}
+  page-range: "190503"
+
+"chen2021exponential":
+  type: article
+  title: "Exponential suppression of bit or phase errors with cyclic error correction"
+  author: [{name: "Chen, Zijun and Satzinger, Kevin J and Atalaya, Juan and Korotkov, Alexander N and Dunsworth, Andrew and Sank, Daniel and Quintana, Chris and McEwen, Matt and Barends, Rami and Klimov, Paul V"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "595"}
+  page-range: "383-387"
+
+"klimov2020snake":
+  type: article
+  title: "The Snake Optimizer for Learning Quantum Processor Control Parameters"
+  author: [{name: "Klimov, Paul V. and Kelly, Julian and Martinis, John M. and Neven, Hartmut"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2006.04594"}
+  doi: "10.48550/ARXIV.2006.04594"
+
+"klimov2018tls":
+  type: article
+  title: "Fluctuations of Energy-Relaxation Times in Superconducting Qubits"
+  author: [{name: "Klimov, Paul V. and Kelly, Julian and Chen, Zijun and Neeley, Matthew and Megrant, Anthony and Burkett, Brian and Barends, Rami and Arya, Kunal and Chiaro, Benjamin and Chen, Yu and Dunsworth, Andrew and Fowler, Austin and Foxen, Brooks and Gidney, Craig and Giustina, Marissa and Graff, Rob and Huang, Trent and Jeffrey, Evan and Lucero, Erik and Mutus, Josh Y. and Naaman, Ofer and Neill, Charles and Quintana, Chris and Roushan, Pedram and Sank, Daniel and Vainsencher, Amit and Wenner, James and White, Ted C. and Boixo, Sergio and Babbush, Ryan and Smelyanskiy, Vadim N. and Neven, Hartmut and Martinis, John M."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "090502"
+  doi: "10.1103/PhysRevLett.121.090502"
+
+"Panteleev2021degeneratequantum":
+  type: article
+  title: "Degenerate Quantum LDPC Codes With Good Finite Length Performance"
+  author: [{name: "Panteleev, Pavel and Kalachev, Gleb"}]
+  date: 2021
+  parent: {type: periodical, title: "Quantum", volume: "5"}
+  page-range: "585"
+  doi: "10.22331/q-2021-11-22-585"
+
+"kuo2020refined":
+  type: article
+  title: "Refined Belief Propagation Decoding of Sparse-Graph Quantum Codes"
+  author: [{name: "Kuo, Kao-Yueh and Lai, Ching-Yi"}]
+  date: 2020
+  parent: {type: periodical, title: "IEEE Journal on Selected Areas in Information Theory", volume: "1"}
+  page-range: "487-498"
+  doi: "10.1109/JSAIT.2020.3011758"
+
+"poulin2008iterative":
+  type: article
+  title: "On the Iterative Decoding of Sparse Quantum Codes"
+  author: [{name: "Poulin, David and Chung, Yeojin"}]
+  date: 2008
+  parent: {type: periodical, title: "Quantum Info. Comput.", volume: "8"}
+  serial-number: "987–1000"
+
+"higgott2022improved":
+  type: misc
+  title: "Improved single-shot decoding of higher dimensional hypergraph product codes"
+  author: [{name: "Higgott, Oscar and Breuckmann, Nikolas P"}]
+  date: 2022
+  serial-number: "arXiv:2206.03122"
+
+"higgott2022fragile":
+  type: misc
+  title: "Fragile boundaries of tailored surface codes and improved decoding of circuit-level noise"
+  author: [{name: "Higgott, Oscar and Bohdanowicz, Thomas C and Kubica, Aleksander and Flammia, Steven T and Campbell, Earl T"}]
+  date: 2022
+  serial-number: "arXiv:2203.04948"
+
+"dennis2002topological":
+  type: article
+  title: "Topological quantum memory"
+  author: [{name: "Dennis,Eric and Kitaev,Alexei and Landahl,Andrew and Preskill,John"}]
+  date: 2002
+  parent: {type: periodical, title: "Journal of Mathematical Physics", volume: "43"}
+  page-range: "4452-4505"
+  doi: "10.1063/1.1499754"
+
+"zhang2005shuffled":
+  type: article
+  title: "Shuffled iterative decoding"
+  author: [{name: "Juntan Zhang and Fossorier, M.P.C."}]
+  date: 2005
+  parent: {type: periodical, title: "IEEE Transactions on Communications", volume: "53"}
+  page-range: "209-213"
+  doi: "10.1109/TCOMM.2004.841982"
+
+"fowler2013optimal":
+  type: misc
+  title: "Optimal complexity correction of correlated errors in the surface code"
+  author: [{name: "Fowler, Austin G"}]
+  date: 2013
+  serial-number: "arXiv:1310.0863"
+
+"chen2005reduced":
+  type: article
+  title: "Reduced-complexity decoding of LDPC codes"
+  author: [{name: "Jinghu Chen and Dholakia, A. and Eleftheriou, E. and Fossorier, M.P.C. and Xiao-Yu Hu"}]
+  date: 2005
+  parent: {type: periodical, title: "IEEE Transactions on Communications", volume: "53"}
+  page-range: "1288-1299"
+  doi: "10.1109/TCOMM.2005.852852"
+
+"huang2020fault":
+  type: article
+  title: "Fault-tolerant weighted union-find decoding on the toric code"
+  author: [{name: "Huang, Shilin and Newman, Michael and Brown, Kenneth R."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "102"}
+  page-range: "012419"
+  doi: "10.1103/PhysRevA.102.012419"
+
+"Delfosse2021almostlineartime":
+  type: article
+  title: "Almost-linear time decoding algorithm for topological codes"
+  author: [{name: "Delfosse, Nicolas and Nickerson, Naomi H."}]
+  date: 2021
+  parent: {type: periodical, title: "Quantum", volume: "5"}
+  page-range: "595"
+  doi: "10.22331/q-2021-12-02-595"
+
+"gidney2021stim":
+  type: article
+  title: "Stim: a fast stabilizer circuit simulator"
+  author: [{name: "Gidney, Craig"}]
+  date: 2021
+  parent: {type: periodical, title: "Quantum", volume: "5"}
+  page-range: "497"
+  doi: "10.22331/q-2021-07-06-497"
+
+"geller2013efficient":
+  type: article
+  title: "Efficient error models for fault-tolerant architectures and the Pauli twirling approximation"
+  author: [{name: "Geller, Michael R and Zhou, Zhongyuan"}]
+  date: 2013
+  parent: {type: periodical, title: "Physical Review A", volume: "88"}
+  page-range: "012314"
+
+"pattison2021improved":
+  type: misc
+  title: "Improved quantum error correction using soft information"
+  author: [{name: "Pattison, Christopher A and Beverland, Michael E and da Silva, Marcus P and Delfosse, Nicolas"}]
+  date: 2021
+  serial-number: "arXiv:2107.13589"
+
+"kelly2015state":
+  type: article
+  title: "State preservation by repetitive error detection in a superconducting quantum circuit"
+  author: [{name: "Kelly, Julian and Barends, Rami and Fowler, Austin G and Megrant, Anthony and Jeffrey, Evan and White, Theodore C and Sank, Daniel and Mutus, Josh Y and Campbell, Brooks and Chen, Yu"}]
+  date: 2015
+  parent: {type: periodical, title: "Nature", volume: "519"}
+  page-range: "66-69"
+
+"emerson2005scalable":
+  type: article
+  title: "Scalable noise estimation with random unitary operators"
+  author: [{name: "Emerson, Joseph and Alicki, Robert and Życzkowski, Karol"}]
+  date: 2005
+  parent: {type: periodical, title: "Journal of Optics B: Quantum and Semiclassical Optics", volume: "7"}
+  serial-number: "S347"
+
+"cai2019constructing":
+  type: article
+  title: "Constructing smaller Pauli twirling sets for arbitrary error channels"
+  author: [{name: "Cai, Zhenyu and Benjamin, Simon C"}]
+  date: 2019
+  parent: {type: periodical, title: "Scientific reports", volume: "9"}
+  page-range: "1-11"
+
+"fowler2013coping":
+  type: article
+  title: "Coping with qubit leakage in topological codes"
+  author: [{name: "Fowler, Austin G"}]
+  date: 2013
+  parent: {type: periodical, title: "Physical Review A", volume: "88"}
+  page-range: "042308"
+
+"foxen2020demonstrating":
+  type: article
+  title: "Demonstrating a continuous set of two-qubit gates for near-term quantum algorithms"
+  author: [{name: "Foxen, Brooks and Neill, Charles and Dunsworth, Andrew and Roushan, Pedram and Chiaro, Ben and Megrant, Anthony and Kelly, Julian and Chen, Zijun and Satzinger, Kevin and Barends, Rami"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Letters", volume: "125"}
+  page-range: "120504"
+
+"cory1998experimental":
+  type: article
+  title: "Experimental quantum error correction"
+  author: [{name: "Cory, David G and Price, MD and Maas, W and Knill, Emanuel and Laflamme, Raymond and Zurek, Wojciech H and Havel, Timothy F and Somaroo, Shyamal S"}]
+  date: 1998
+  parent: {type: periodical, title: "Physical Review Letters", volume: "81"}
+  page-range: "2152"
+
+"knill2001benchmarking":
+  type: article
+  title: "Benchmarking quantum computers: the five-qubit error correcting code"
+  author: [{name: "Knill, Emanuel and Laflamme, Raymond and Martinez, Rudy and Negrevergne, Camille"}]
+  date: 2001
+  parent: {type: periodical, title: "Physical Review Letters", volume: "86"}
+  page-range: "5811"
+
+"schindler2011experimental":
+  type: article
+  title: "Experimental repetitive quantum error correction"
+  author: [{name: "Schindler, Philipp and Barreiro, Julio T and Monz, Thomas and Nebendahl, Volckmar and Nigg, Daniel and Chwalla, Michael and Hennrich, Markus and Blatt, Rainer"}]
+  date: 2011
+  parent: {type: periodical, title: "Science", volume: "332"}
+  page-range: "1059-1061"
+
+"moussa2011demonstration":
+  type: article
+  title: "Demonstration of sufficient control for two rounds of quantum error correction in a solid state ensemble quantum information processor"
+  author: [{name: "Moussa, Osama and Baugh, Jonathan and Ryan, Colm A and Laflamme, Raymond"}]
+  date: 2011
+  parent: {type: periodical, title: "Physical Review Letters", volume: "107"}
+  page-range: "160501"
+
+"zhang2011experimental":
+  type: article
+  title: "Experimental quantum error correction with high fidelity"
+  author: [{name: "Zhang, Jingfu and Gangloff, Dorian and Moussa, Osama and Laflamme, Raymond"}]
+  date: 2011
+  parent: {type: periodical, title: "Physical Review A", volume: "84"}
+  page-range: "034303"
+
+"reed2012realization":
+  type: article
+  title: "Realization of three-qubit quantum error correction with superconducting circuits"
+  author: [{name: "Reed, Matthew D and DiCarlo, Leonardo and Nigg, Simon E and Sun, Luyan and Frunzio, Luigi and Girvin, Steven M and Schoelkopf, Robert J"}]
+  date: 2012
+  parent: {type: periodical, title: "Nature", volume: "482"}
+  page-range: "382-385"
+
+"zhang2012experimental":
+  type: article
+  title: "Experimental implementation of encoded logical qubit operations in a perfect quantum error correcting code"
+  author: [{name: "Zhang, Jingfu and Laflamme, Raymond and Suter, Dieter"}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review Letters", volume: "109"}
+  page-range: "100503"
+
+"bell2014experimental":
+  type: article
+  title: "Experimental demonstration of a graph state quantum error-correction code"
+  author: [{name: "Bell, BA and Herrera-Martí, DA and Tame, MS and Markham, Damian and Wadsworth, WJ and Rarity, JG"}]
+  date: 2014
+  parent: {type: periodical, title: "Nature Communications", volume: "5"}
+  page-range: "1-10"
+
+"nigg2014quantum":
+  type: article
+  title: "Quantum computations on a topologically encoded qubit"
+  author: [{name: "Nigg, Daniel and Mueller, Markus and Martinez, Esteban A and Schindler, Philipp and Hennrich, Markus and Monz, Thomas and Martin-Delgado, Miguel A and Blatt, Rainer"}]
+  date: 2014
+  parent: {type: periodical, title: "Science", volume: "345"}
+  page-range: "302-305"
+
+"waldherr2014quantum":
+  type: article
+  title: "Quantum error correction in a solid-state hybrid spin register"
+  author: [{name: "Waldherr, Gerald and Wang, Y and Zaiser, S and Jamali, M and Schulte-Herbrüggen, T and Abe, H and Ohshima, T and Isoya, J and Du, JF and Neumann, P"}]
+  date: 2014
+  parent: {type: periodical, title: "Nature", volume: "506"}
+  page-range: "204-207"
+
+"riste2015detecting":
+  type: article
+  title: "Detecting bit-flip errors in a logical qubit using stabilizer measurements"
+  author: [{name: "Riste, Diego and Poletto, Stefano and Huang, M-Z and Bruno, Alessandro and Vesterinen, Visa and Saira, O-P and DiCarlo, Leonardo"}]
+  date: 2015
+  parent: {type: periodical, title: "Nature Communications", volume: "6"}
+  page-range: "1-6"
+
+"corcoles2015demonstration":
+  type: article
+  title: "Demonstration of a quantum error detection code using a square lattice of four superconducting qubits"
+  author: [{name: "Córcoles, Antonio D and Magesan, Easwar and Srinivasan, Srikanth J and Cross, Andrew W and Steffen, Matthias and Gambetta, Jay M and Chow, Jerry M"}]
+  date: 2015
+  parent: {type: periodical, title: "Nature Communications", volume: "6"}
+  page-range: "1-10"
+
+"cramer2016repeated":
+  type: article
+  title: "Repeated quantum error correction on a continuously encoded qubit by real-time feedback"
+  author: [{name: "Cramer, Julia and Kalb, Norbert and Rol, M Adriaan and Hensen, Bas and Blok, Machiel S and Markham, Matthew and Twitchen, Daniel J and Hanson, Ronald and Taminiau, Tim H"}]
+  date: 2016
+  parent: {type: periodical, title: "Nature Communications", volume: "7"}
+  page-range: "1-7"
+
+"ofek2016extending":
+  type: article
+  title: "Extending the lifetime of a quantum bit with error correction in superconducting circuits"
+  author: [{name: "Ofek, Nissim and Petrenko, Andrei and Heeres, Reinier and Reinhold, Philip and Leghtas, Zaki and Vlastakis, Brian and Liu, Yehan and Frunzio, Luigi and Girvin, SM and Jiang, Liang"}]
+  date: 2016
+  parent: {type: periodical, title: "Nature", volume: "536"}
+  page-range: "441-445"
+
+"takita2017experimental":
+  type: article
+  title: "Experimental demonstration of fault-tolerant state preparation with superconducting qubits"
+  author: [{name: "Takita, Maika and Cross, Andrew W and Córcoles, AD and Chow, Jerry M and Gambetta, Jay M"}]
+  date: 2017
+  parent: {type: periodical, title: "Physical Review Letters", volume: "119"}
+  page-range: "180501"
+
+"linke2017fault":
+  type: article
+  title: "Fault-tolerant quantum error detection"
+  author: [{name: "Linke, Norbert M and Gutierrez, Mauricio and Landsman, Kevin A and Figgatt, Caroline and Debnath, Shantanu and Brown, Kenneth R and Monroe, Christopher"}]
+  date: 2017
+  parent: {type: periodical, title: "Science Advances", volume: "3"}
+  serial-number: "e1701074"
+
+"wootton2018repetition":
+  type: article
+  title: "Repetition code of 15 qubits"
+  author: [{name: "Wootton, James R and Loss, Daniel"}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review A", volume: "97"}
+  page-range: "052313"
+
+"andersen2019entanglement":
+  type: article
+  title: "Entanglement stabilization using ancilla-based parity detection and real-time feedback in superconducting circuits"
+  author: [{name: "Andersen, Christian Kraglund and Remm, Ants and Lazar, Stefania and Krinner, Sebastian and Heinsoo, Johannes and Besse, Jean-Claude and Gabureac, Mihai and Wallraff, Andreas and Eichler, Christopher"}]
+  date: 2019
+  parent: {type: periodical, title: "npj Quantum Information", volume: "5"}
+  page-range: "1-7"
+
+"gong2019experimental":
+  type: article
+  title: "Experimental exploration of five-qubit quantum error-correcting code with superconducting qubits"
+  author: [{name: "Gong, Ming and Yuan, Xiao and Wang, Shiyu and Wu, Yulin and Zhao, Youwei and Zha, Chen and Li, Shaowei and Zhang, Zhen and Zhao, Qi and Liu, Yunchao and Liang, Futian and Lin, Jin and Xu, Yu and Deng, Hui and Rong, Hao and Lu, He and Benjamin, Simon C and Peng, Cheng-Zhi and Ma, Xiongfeng and Chen, Yu-Ao and Zhu, Xiaobo and Pan, Jian-Wei"}]
+  date: 2021
+  parent: {type: periodical, title: "National Science Review", volume: "9"}
+  doi: "10.1093/nsr/nwab011"
+
+"hu2019quantum":
+  type: article
+  title: "Quantum error correction and universal gate set operation on a binomial bosonic logical qubit"
+  author: [{name: "Hu, Ling and Ma, Yuwei and Cai, Weizhou and Mu, Xianghao and Xu, Yuan and Wang, Weiting and Wu, Yukai and Wang, Haiyan and Song, YP and Zou, C-L"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Physics", volume: "15"}
+  page-range: "503-508"
+
+"wootton2020benchmarking":
+  type: article
+  title: "Benchmarking near-term devices with quantum error correction"
+  author: [{name: "Wootton, James R"}]
+  date: 2020
+  parent: {type: periodical, title: "Quantum Science and Technology", volume: "5"}
+  page-range: "044004"
+
+"andersen2020":
+  type: article
+  title: "Repeated quantum error detection in a surface code"
+  author: [{name: "Andersen, Christian Kraglund and Remm, Ants and Lazar, Stefania and Krinner, Sebastian and Lacroix, Nathan and Norris, Graham J and Gabureac, Mihai and Eichler, Christopher and Wallraff, Andreas"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "875-880"
+
+"bultink2020protecting":
+  type: article
+  title: "Protecting quantum entanglement from leakage and qubit errors via repetitive parity measurements"
+  author: [{name: "Bultink, CC and O’Brien, TE and Vollmer, R and Muthusubramanian, N and Beekman, MW and Rol, MA and Fu, X and Tarasinski, B and Ostroukh, V and Varbanov, B"}]
+  date: 2020
+  parent: {type: periodical, title: "Science Advances", volume: "6"}
+
+"luo2020quantum":
+  type: article
+  title: "Quantum teleportation of physical qubits into logical code spaces"
+  author: [{name: "Luo, Yi-Han and Chen, Ming-Cheng and Erhard, Manuel and Zhong, Han-Sen and Wu, Dian and Tang, Hao-Yang and Zhao, Qi and Wang, Xi-Lin and Fujii, Keisuke and Li, Li"}]
+  date: 2021
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "118"}
+
+"campagne2020quantum":
+  type: article
+  title: "Quantum error correction of a qubit encoded in grid states of an oscillator"
+  author: [{name: "Campagne-Ibarcq, P and Eickbusch, A and Touzard, S and Zalys-Geller, E and Frattini, NE and Sivak, VV and Reinhold, P and Puri, S and Shankar, S and Schoelkopf, RJ"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature", volume: "584"}
+  page-range: "368-372"
+
+"fowler2019":
+  type: misc
+  title: "Low overhead quantum computation using lattice surgery"
+  author: [{name: "Fowler, Austin G and Gidney, Craig"}]
+  date: 2018
+  serial-number: "arXiv:1808.06709"
+
+"horsman2012":
+  type: article
+  title: "Surface code quantum computing by lattice surgery"
+  author: [{name: "Clare Horsman and Austin G Fowler and Simon Devitt and Rodney Van Meter"}]
+  date: 2012
+  parent: {type: periodical, title: "New Journal of Physics", volume: "14"}
+  page-range: "123011"
+  doi: "10.1088/1367-2630/14/12/123011"
+
+"kitaev2003":
+  type: article
+  title: "Fault-tolerant quantum computation by anyons"
+  author: [{name: "Kitaev, A Yu"}]
+  date: 2003
+  parent: {type: periodical, title: "Annals of Physics", volume: "303"}
+  page-range: "2-30"
+
+"klimov2018fluctuations":
+  type: article
+  title: "Fluctuations of energy-relaxation times in superconducting qubits"
+  author: [{name: "Klimov, PV and Kelly, Julian and Chen, Z and Neeley, Matthew and Megrant, Anthony and Burkett, Brian and Barends, Rami and Arya, Kunal and Chiaro, Ben and Chen, Yu"}]
+  date: 2018
+  parent: {type: periodical, title: "Physical review letters", volume: "121"}
+  page-range: "090502"
+
+"fowler2012towards":
+  type: article
+  title: "Towards practical classical processing for the surface code"
+  author: [{name: "Fowler, Austin G and Whiteside, Adam C and Hollenberg, Lloyd CL"}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review Letters", volume: "108"}
+  page-range: "180501"
+
+"fowler2015minimum":
+  type: article
+  title: "Minimum weight perfect matching of fault-tolerant topological quantum error correction in average O (1) parallel time"
+  author: [{name: "Fowler, Austin G"}]
+  date: 2015
+  parent: {type: periodical, title: "Quantum Information & Computation", volume: "15"}
+  page-range: "145-158"
+
+"mcewen2020":
+  type: article
+  title: "Removing leakage-induced correlated errors in superconducting quantum error correction"
+  author: [{name: "McEwen, Matthew"}]
+  date: 2020
+  parent: {type: periodical, title: "Submitted"}
+
+"bylander2011noise":
+  type: article
+  title: "Noise spectroscopy through dynamical decoupling with a superconducting flux qubit"
+  author: [{name: "Bylander, Jonas and Gustavsson, Simon and Yan, Fei and Yoshihara, Fumiki and Harrabi, Khalil and Fitch, George and Cory, David G and Nakamura, Yasunobu and Tsai, Jaw-Shen and Oliver, William D"}]
+  date: 2011
+  parent: {type: periodical, title: "Nature Physics", volume: "7"}
+  page-range: "565-570"
+
+"carr1954effects":
+  type: article
+  title: "Effects of diffusion on free precession in nuclear magnetic resonance experiments"
+  author: [{name: "Carr, Herman Y and Purcell, Edward M"}]
+  date: 1954
+  parent: {type: periodical, title: "Physical review", volume: "94"}
+  page-range: "630"
+
+"meiboom1958modified":
+  type: article
+  title: "Modified spin-echo method for measuring nuclear relaxation times"
+  author: [{name: "Meiboom, Saul and Gill, David"}]
+  date: 1958
+  parent: {type: periodical, title: "Review of scientific instruments", volume: "29"}
+  page-range: "688-691"
+
+"gullion1990new":
+  type: article
+  title: "New, compensated carr-purcell sequences"
+  author: [{name: "Gullion, Terry and Baker, David B and Conradi, Mark S"}]
+  date: 1990
+  parent: {type: periodical, title: "Journal of Magnetic Resonance (1969)", volume: "89"}
+  page-range: "479-484"
+
+"szombati2020quantum":
+  type: article
+  title: "Quantum Rifling: Protecting a Qubit from Measurement Back Action"
+  author: [{name: "Szombati, Daniel and Frieiro, Alejandro Gomez and Müller, Clemens and Jones, Tyler and Jerger, Markus and Fedorov, Arkady"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Letters", volume: "124"}
+  page-range: "070401"
+
+"AB2006":
+  type: article
+  title: "Fast simulation of stabilizer circuits using a graph-state representation"
+  author: [{name: "Anders, Simon and Briegel, Hans J."}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "73"}
+  page-range: "022334"
+  doi: "10.1103/PhysRevA.73.022334"
+
+"BSV2014":
+  type: article
+  title: "Efficient algorithms for maximum likelihood decoding in the surface code"
+  author: [{name: "Bravyi, Sergey and Suchara, Martin and Vargo, Alexander"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "90"}
+  page-range: "032326"
+  doi: "10.1103/PhysRevA.90.032326"
+
+"BK2005":
+  type: article
+  title: "Universal quantum computation with ideal Clifford gates and noisy ancillas"
+  author: [{name: "Bravyi, Sergey and Kitaev, Alexei"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "71"}
+  page-range: "022316"
+  doi: "10.1103/PhysRevA.71.022316"
+
+"Bar2019":
+  type: article
+  title: "Diabatic Gates for Frequency-Tunable Superconducting Qubits"
+  author: [{name: "Barends, R. and Quintana, C. M. and Petukhov, A. G. and Chen, Yu and Kafri, D. and Kechedzhi, K. and Collins, R. and Naaman, O. and Boixo, S. and Arute, F. and Arya, K. and Buell, D. and Burkett, B. and Chen, Z. and Chiaro, B. and Dunsworth, A. and Foxen, B. and Fowler, A. and Gidney, C. and Giustina, M. and Graff, R. and Huang, T. and Jeffrey, E. and Kelly, J. and Klimov, P. V. and Kostritsa, F. and Landhuis, D. and Lucero, E. and McEwen, M. and Megrant, A. and Mi, X. and Mutus, J. and Neeley, M. and Neill, C. and Ostby, E. and Roushan, P. and Sank, D. and Satzinger, K. J. and Vainsencher, A. and White, T. and Yao, J. and Yeh, P. and Zalcman, A. and Neven, H. and Smelyanskiy, V. N. and Martinis, John M."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "210501"
+  doi: "10.1103/PhysRevLett.123.210501"
+
+"Got1997":
+  type: article
+  title: "Stabilizer Codes and Quantum Error Correction"
+  author: [{name: "D. Gottesman"}]
+  date: 1997
+  doi: "10.7907/rzr7-dt72"
+
+"childs2018toward":
+  type: article
+  title: "Toward the first quantum simulation with quantum speedup"
+  author: [{name: "Childs, Andrew M and Maslov, Dmitri and Nam, Yunseong and Ross, Neil J and Su, Yuan"}]
+  date: 2018
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "115"}
+  page-range: "9456-9461"
+
+"lemieux2020resource":
+  type: misc
+  title: "Resource estimate for quantum many-body ground state preparation on a quantum computer"
+  author: [{name: "Lemieux, Jessica and Duclos-Cianci, Guillaume and Sénéchal, David and Poulin, David"}]
+  date: 2020
+  serial-number: "arXiv:2006.04650"
+
+"campbell2019applying":
+  type: article
+  title: "Applying quantum algorithms to constraint satisfaction problems"
+  author: [{name: "Campbell, Earl and Khurana, Ankur and Montanaro, Ashley"}]
+  date: 2019
+  parent: {type: periodical, title: "Quantum", volume: "3"}
+  page-range: "167"
+
+"bravyi1998quantum":
+  type: article
+  title: "Quantum codes on a lattice with boundary"
+  author: [{name: "Bravyi, Sergey B and Kitaev, A Yu"}]
+  date: 1998
+  parent: {type: periodical, title: "arXiv preprint quant-ph/9811052"}
+
+"rol2019fast":
+  type: article
+  title: "Fast, high-fidelity conditional-phase gate exploiting leakage interference in weakly anharmonic superconducting qubits"
+  author: [{name: "Rol, MA and Battistel, F and Malinowski, FK and Bultink, CC and Tarasinski, BM and Vollmer, R and Haider, N and Muthusubramanian, N and Bruno, A and Terhal, BM"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Letters", volume: "123"}
+  page-range: "120502"
+
+"chen2016measuring":
+  type: article
+  title: "Measuring and suppressing quantum state leakage in a superconducting qubit"
+  author: [{name: "Chen, Zijun and Kelly, Julian and Quintana, Chris and Barends, R and Campbell, B and Chen, Yu and Chiaro, B and Dunsworth, A and Fowler, AG and Lucero, E"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "116"}
+  page-range: "020501"
+
+"wood2018quantification":
+  type: article
+  title: "Quantification and characterization of leakage errors"
+  author: [{name: "Wood, Christopher J and Gambetta, Jay M"}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review A", volume: "97"}
+  page-range: "032306"
+
+"huang2019fidelity":
+  type: article
+  title: "Fidelity benchmarks for two-qubit gates in silicon"
+  author: [{name: "Huang, W and Yang, CH and Chan, KW and Tanttu, T and Hensen, B and Leon, RCC and Fogarty, MA and Hwang, JCC and Hudson, FE and Itoh, Kohei M"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature", volume: "569"}
+  page-range: "532-536"
+
+"kitaev2003fault":
+  type: article
+  title: "Fault-tolerant quantum computation by anyons"
+  author: [{name: "Kitaev, A Yu"}]
+  date: 2003
+  parent: {type: periodical, title: "Annals of Physics", volume: "303"}
+  page-range: "2-30"
+
+"pino2020demonstration":
+  type: misc
+  title: "Demonstration of the QCCD trapped-ion quantum computer architecture"
+  author: [{name: "Pino, JM and Dreiling, JM and Figgatt, C and Gaebler, JP and Moses, SA and Baldwin, CH and Foss-Feig, M and Hayes, D and Mayer, K and Ryan-Anderson, C"}]
+  date: 2020
+  serial-number: "arXiv:2003.01293"
+
+"andersen2020repeated":
+  type: article
+  title: "Repeated quantum error detection in a surface code"
+  author: [{name: "Andersen, Christian Kraglund and Remm, Ants and Lazar, Stefania and Krinner, Sebastian and Lacroix, Nathan and Norris, Graham J and Gabureac, Mihai and Eichler, Christopher and Wallraff, Andreas"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "875-880"
+
+"horsman2012surface":
+  type: article
+  title: "Surface code quantum computing by lattice surgery"
+  author: [{name: "Horsman, Clare and Fowler, Austin G and Devitt, Simon and Van Meter, Rodney"}]
+  date: 2012
+  parent: {type: periodical, title: "New Journal of Physics", volume: "14"}
+  page-range: "123011"
+
+"fowler2012surface":
+  type: article
+  title: "Surface codes: Towards practical large-scale quantum computation"
+  author: [{name: "Fowler, Austin G and Mariantoni, Matteo and Martinis, John M and Cleland, Andrew N"}]
+  date: 2012
+  parent: {type: periodical, title: "Physical Review A", volume: "86"}
+  page-range: "032324"
+
+"terhal2015quantum":
+  type: article
+  title: "Quantum error correction for quantum memories"
+  author: [{name: "Terhal, Barbara M"}]
+  date: 2015
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "87"}
+  page-range: "307"
+
+"shor1995scheme":
+  type: article
+  title: "Scheme for reducing decoherence in quantum computer memory"
+  author: [{name: "Shor, Peter W"}]
+  date: 1995
+  parent: {type: periodical, title: "Physical Review A", volume: "52"}
+  serial-number: "R2493"
+
+"calderbank1996good":
+  type: article
+  title: "Good quantum error-correcting codes exist"
+  author: [{name: "Calderbank, A Robert and Shor, Peter W"}]
+  date: 1996
+  parent: {type: periodical, title: "Physical Review A", volume: "54"}
+  page-range: "1098"
+
+"barends2014superconducting":
+  type: article
+  title: "Superconducting quantum circuits at the surface code threshold for fault tolerance"
+  author: [{name: "Barends, Rami and Kelly, Julian and Megrant, Anthony and Veitia, Andrzej and Sank, Daniel and Jeffrey, Evan and White, Ted C and Mutus, Josh and Fowler, Austin G and Campbell, Brooks"}]
+  date: 2014
+  parent: {type: periodical, title: "Nature", volume: "508"}
+  page-range: "500-503"
+
+"ballance2016high":
+  type: article
+  title: "High-fidelity quantum logic gates using trapped-ion hyperfine qubits"
+  author: [{name: "Ballance, CJ and Harty, TP and Linke, NM and Sepiol, MA and Lucas, DM"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review Letters", volume: "117"}
+  page-range: "060504"
+
+"jurcevic2020demonstration":
+  type: misc
+  title: "Demonstration of quantum volume 64 on a superconducting quantum computing system"
+  author: [{name: "Jurcevic, Petar and Javadi-Abhari, Ali and Bishop, Lev S and Lauer, Isaac and Bogorin, Daniela F and Brink, Markus and Capelluto, Lauren and Günlük, Oktay and Itoko, Toshinaro and Kanazawa, Naoki"}]
+  date: 2020
+  serial-number: "arXiv:2008.08571"
+
+"gidney2019factor":
+  type: article
+  title: "How to factor 2048 bit RSA integers in 8 hours using 20 million noisy qubits"
+  author: [{name: "Gidney, Craig and Ekera, Martin"}]
+  date: 2021
+  parent: {type: periodical, title: "Quantum", volume: "5"}
+  page-range: "433"
+
+"lee2020efficient":
+  type: misc
+  title: "Even more efficient quantum computations of chemistry through tensor hypercontraction"
+  author: [{name: "Joonho Lee and Dominic Berry and Craig Gidney and William J. Huggins and Jarrod R. McClean and Nathan Wiebe and Ryan Babbush"}]
+  date: 2020
+  serial-number: "arXiv:2011.03494"
+
+"kivlichan2020improved":
+  type: article
+  title: "Improved fault-tolerant quantum simulation of condensed-phase correlated electrons via Trotterization"
+  author: [{name: "Kivlichan, Ian D and Gidney, Craig and Berry, Dominic W and Wiebe, Nathan and McClean, Jarrod and Sun, Wei and Jiang, Zhang and Rubin, Nicholas and Fowler, Austin and Aspuru-Guzik, Alán"}]
+  date: 2020
+  parent: {type: periodical, title: "Quantum", volume: "4"}
+  page-range: "296"
+
+"vepsalainen2020impact":
+  type: article
+  title: "Impact of ionizing radiation on superconducting qubit coherence"
+  author: [{name: "Vepsäläinen, Antti and Karamlou, Amir H and Orrell, John L and Dogra, Akshunna S and Loer, Ben and Vasconcelos, Francisca and Kim, David K and Melville, Alexander J and Niedzielski, Bethany M and Yoder, Jonilyn L"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature", volume: "584"}
+  page-range: "551-556"
+
+"karatsu2019mitigation":
+  type: article
+  title: "Mitigation of cosmic ray effect on microwave kinetic inductance detector arrays"
+  author: [{name: "Karatsu, K and Endo, A and Bueno, J and de Visser, PJ and Barends, R and Thoen, DJ and Murugesan, V and Tomita, N and Baselmans, JJA"}]
+  date: 2019
+  parent: {type: periodical, title: "Applied Physics Letters", volume: "114"}
+  page-range: "032601"
+
+"cardani2020reducing":
+  type: misc
+  title: "Reducing the impact of radioactivity on quantum circuits in a deep-underground facility"
+  author: [{name: "Cardani, Laura and Valenti, Francesco and Casali, Nicola and Catelani, Gianluigi and Charpentier, Thibault and Clemenza, Massimiliano and Colantoni, Ivan and Cruciani, Angelo and Gironi, Luca and Grünhaupt, Lukas"}]
+  date: 2020
+  serial-number: "arXiv:2005.02286"
+
+"supplement":
+  type: article
+  title: ""
+
+"shor1999polynomial":
+  type: article
+  title: "Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer"
+  author: [{name: "Shor, Peter W"}]
+  date: 1999
+  parent: {type: periodical, title: "SIAM review", volume: "41"}
+  page-range: "303-332"
+
+"gottesman1997stabilizer":
+  type: article
+  title: "Stabilizer codes and quantum error correction"
+  author: [{name: "Gottesman, Daniel"}]
+  date: 1997
+
+"preskill2018quantum":
+  type: article
+  title: "Quantum Computing in the NISQ era and beyond"
+  author: [{name: "Preskill, John"}]
+  date: 2018
+  parent: {type: periodical, title: "Quantum", volume: "2"}
+  page-range: "79"
+
+"koch2007charge":
+  type: article
+  title: "Charge-insensitive qubit design derived from the Cooper pair box"
+  author: [{name: "Koch, Jens and Terri, M Yu and Gambetta, Jay and Houck, Andrew A and Schuster, DI and Majer, J and Blais, Alexandre and Devoret, Michel H and Girvin, Steven M and Schoelkopf, Robert J"}]
+  date: 2007
+  parent: {type: periodical, title: "Physical Review A", volume: "76"}
+  page-range: "042319"
+
+"marques2022logical":
+  type: article
+  title: "Logical-qubit operations in an error-detecting surface code"
+  author: [{name: "Marques, JF and Varbanov, BM and Moreira, MS and Ali, Hany and Muthusubramanian, Nandini and Zachariadis, Christos and Battistel, Francesco and Beekman, Marc and Haider, Nadia and Vlothuizen, Wouter"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature Physics", volume: "18"}
+  page-range: "80-86"
+
+"ryan2021realization":
+  type: article
+  title: "Realization of real-time fault-tolerant quantum error correction"
+  author: [{name: "Ryan-Anderson, Ciaran and Bohnet, JG and Lee, Kenny and Gresh, Daniel and Hankin, Aaron and Gaebler, JP and Francois, David and Chernoguzov, Alexander and Lucchetti, Dominic and Brown, NC"}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review X", volume: "11"}
+  page-range: "041058"
+
+"krinner2022realizing":
+  type: article
+  title: "Realizing repeated quantum error correction in a distance-three surface code"
+  author: [{name: "Krinner, Sebastian and Lacroix, Nathan and Remm, Ants and Di Paolo, Agustin and Genois, Elie and Leroux, Catherine and Hellings, Christoph and Lazar, Stefania and Swiadek, Francois and Herrmann, Johannes"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature", volume: "605"}
+  page-range: "669-674"
+
+"zhao2021realizing":
+  type: article
+  title: "Realization of an Error-Correcting Surface Code with Superconducting Qubits"
+  author: [{name: "Zhao, Youwei and Ye, Yangsen and Huang, He-Liang and Zhang, Yiming and Wu, Dachao and Guan, Huijie and Zhu, Qingling and Wei, Zuolin and He, Tan and Cao, Sirui and Chen, Fusheng and Chung, Tung-Hsun and Deng, Hui and Fan, Daojin and Gong, Ming and Guo, Cheng and Guo, Shaojun and Han, Lianchen and Li, Na and Li, Shaowei and Li, Yuan and Liang, Futian and Lin, Jin and Qian, Haoran and Rong, Hao and Su, Hong and Sun, Lihua and Wang, Shiyu and Wu, Yulin and Xu, Yu and Ying, Chong and Yu, Jiale and Zha, Chen and Zhang, Kaili and Huo, Yong-Heng and Lu, Chao-Yang and Peng, Cheng-Zhi and Zhu, Xiaobo and Pan, Jian-Wei"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "129"}
+  page-range: "030501"
+  doi: "10.1103/PhysRevLett.129.030501"
+
+"abobeih2022fault":
+  type: article
+  title: "Fault-tolerant operation of a logical qubit in a diamond quantum processor"
+  author: [{name: "Abobeih, MH and Wang, Y and Randall, J and Loenen, SJH and Bradley, CE and Markham, M and Twitchen, DJ and Terhal, BM and Taminiau, TH"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature", volume: "606"}
+  page-range: "884-889"
+
+"gray2018quimb":
+  type: article
+  title: "quimb: A python package for quantum information and many-body calculations"
+  author: [{name: "Gray, Johnnie"}]
+  date: 2018
+  parent: {type: periodical, title: "Journal of Open Source Software", volume: "3"}
+  page-range: "819"
+
+"quantum_ai_team_and_collaborators_2020_4023103":
+  type: article
+  title: "qsim"
+  author: [{name: "Quantum AI team and collaborators"}]
+  date: 2020
+  doi: "10.5281/zenodo.4023103"
+
+"feynman1982simulating":
+  type: article
+  title: "Simulating Physics with Computers"
+  author: [{name: "Feynman, Richard P"}]
+  date: 1982
+  parent: {type: periodical, title: "International Journal of Theoretical Physics", volume: "21"}
+
+"farhi2001quantum":
+  type: article
+  title: "A quantum adiabatic evolution algorithm applied to random instances of an NP-complete problem"
+  author: [{name: "Farhi, Edward and Goldstone, Jeffrey and Gutmann, Sam and Lapan, Joshua and Lundgren, Andrew and Preda, Daniel"}]
+  date: 2001
+  parent: {type: periodical, title: "Science", volume: "292"}
+  page-range: "472-475"
+
+"biamonte2017quantum":
+  type: article
+  title: "Quantum machine learning"
+  author: [{name: "Biamonte, Jacob and Wittek, Peter and Pancotti, Nicola and Rebentrost, Patrick and Wiebe, Nathan and Lloyd, Seth"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "549"}
+  page-range: "195-202"
+
+"lloyd1996universal":
+  type: article
+  title: "Universal quantum simulators"
+  author: [{name: "Lloyd, Seth"}]
+  date: 1996
+  parent: {type: periodical, title: "Science", volume: "273"}
+  page-range: "1073-1078"
+
+"aspuru2005simulated":
+  type: article
+  title: "Simulated quantum computation of molecular energies"
+  author: [{name: "Aspuru-Guzik, Alán and Dutoi, Anthony D and Love, Peter J and Head-Gordon, Martin"}]
+  date: 2005
+  parent: {type: periodical, title: "Science", volume: "309"}
+  page-range: "1704-1707"
+
+"reiher2017elucidating":
+  type: article
+  title: "Elucidating reaction mechanisms on quantum computers"
+  author: [{name: "Markus Reiher and Nathan Wiebe and Krysta M. Svore and Dave Wecker and Matthias Troyer"}]
+  date: 2017
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "114"}
+  page-range: "7555-7560"
+  doi: "10.1073/pnas.1619152114"
+
+"wu2021strong":
+  type: article
+  title: "Strong Quantum Computational Advantage Using a Superconducting Quantum Processor"
+  author: [{name: "Wu, Yulin and Bao, Wan-Su and Cao, Sirui and Chen, Fusheng and Chen, Ming-Cheng and Chen, Xiawei and Chung, Tung-Hsun and Deng, Hui and Du, Yajie and Fan, Daojin and Gong, Ming and Guo, Cheng and Guo, Chu and Guo, Shaojun and Han, Lianchen and Hong, Linyin and Huang, He-Liang and Huo, Yong-Heng and Li, Liping and Li, Na and Li, Shaowei and Li, Yuan and Liang, Futian and Lin, Chun and Lin, Jin and Qian, Haoran and Qiao, Dan and Rong, Hao and Su, Hong and Sun, Lihua and Wang, Liangyuan and Wang, Shiyu and Wu, Dachao and Xu, Yu and Yan, Kai and Yang, Weifeng and Yang, Yang and Ye, Yangsen and Yin, Jianghan and Ying, Chong and Yu, Jiale and Zha, Chen and Zhang, Cha and Zhang, Haibin and Zhang, Kaili and Zhang, Yiming and Zhao, Han and Zhao, Youwei and Zhou, Liang and Zhu, Qingling and Lu, Chao-Yang and Peng, Cheng-Zhi and Zhu, Xiaobo and Pan, Jian-Wei"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "180501"
+  doi: "10.1103/PhysRevLett.127.180501"
+
+"knill1998resilient":
+  type: article
+  title: "Resilient quantum computation"
+  author: [{name: "Knill, Emanuel and Laflamme, Raymond and Zurek, Wojciech H"}]
+  date: 1998
+  parent: {type: periodical, title: "Science", volume: "279"}
+  page-range: "342-345"
+
+"aharonov2008fault":
+  type: article
+  title: "Fault-tolerant quantum computation with constant error rate"
+  author: [{name: "Aharonov, Dorit and Ben-Or, Michael"}]
+  date: 2008
+  parent: {type: periodical, title: "SIAM Journal on Computing"}
+
+"egan2021fault":
+  type: article
+  title: "Fault-tolerant control of an error-corrected qubit"
+  author: [{name: "Egan, Laird and Debroy, Dripto M and Noel, Crystal and Risinger, Andrew and Zhu, Daiwei and Biswas, Debopriyo and Newman, Michael and Li, Muyuan and Brown, Kenneth R and Cetina, Marko"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "598"}
+  page-range: "281-286"
+
+"satzinger2021realizing":
+  type: article
+  title: "Realizing topologically ordered states on a quantum processor"
+  author: [{name: "Satzinger, KJ and Liu, Y-J and Smith, A and Knapp, C and Newman, M and Jones, C and Chen, Z and Quintana, C and Mi, X and Dunsworth, A"}]
+  date: 2021
+  parent: {type: periodical, title: "Science", volume: "374"}
+  page-range: "1237-1241"
+
+"fluhmann2019encoding":
+  type: article
+  title: "Encoding a qubit in a trapped-ion mechanical oscillator"
+  author: [{name: "Flühmann, Christa and Nguyen, Thanh Long and Marinelli, Matteo and Negnevitsky, Vlad and Mehta, Karan and Home, JP"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature", volume: "566"}
+  page-range: "513-517"
+
+"grimm2020stabilization":
+  type: article
+  title: "Stabilization and operation of a Kerr-cat qubit"
+  author: [{name: "Grimm, Alexander and Frattini, Nicholas E and Puri, Shruti and Mundhada, Shantanu O and Touzard, Steven and Mirrahimi, Mazyar and Girvin, Steven M and Shankar, Shyam and Devoret, Michel H"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature", volume: "584"}
+  page-range: "205-209"
+
+"raussendorf2007fault":
+  type: article
+  title: "Fault-tolerant quantum computation with high threshold in two dimensions"
+  author: [{name: "Raussendorf, Robert and Harrington, Jim"}]
+  date: 2007
+  parent: {type: periodical, title: "Physical Review Letters", volume: "98"}
+  page-range: "190504"
+
+"neill2017path":
+  type: article
+  title: "A path towards quantum supremacy with superconducting qubits"
+  author: [{name: "C. Neill"}]
+  date: 2017
+
+"wen2003quantum":
+  type: article
+  title: "Quantum orders in an exact soluble model"
+  author: [{name: "Wen, Xiao-Gang"}]
+  date: 2003
+  parent: {type: periodical, title: "Physical Review Letters", volume: "90"}
+  page-range: "016803"
+
+"aliferis2005fault":
+  type: article
+  title: "Fault-tolerant quantum computation for local leakage faults"
+  author: [{name: "Aliferis, Panos and Terhal, Barbara M"}]
+  date: 2005
+  parent: {type: periodical, title: "arXiv preprint quant-ph/0511065"}
+
+"suchara2015leakage":
+  type: article
+  title: "Leakage suppression in the toric code"
+  author: [{name: "Suchara, Martin and Cross, Andrew W and Gambetta, Jay M"}]
+  date: 2015
+  parent: {type: proceedings, title: "2015 IEEE International Symposium on Information Theory (ISIT)"}
+  page-range: "1119-1123"
+
+"criger2018multi":
+  type: article
+  title: "Multi-path summation for decoding 2D topological codes"
+  author: [{name: "Criger, Ben and Ashraf, Imran"}]
+  date: 2018
+  parent: {type: periodical, title: "Quantum", volume: "2"}
+  page-range: "102"
+
+"mcewen2022resolving":
+  type: article
+  title: "Resolving catastrophic error bursts from cosmic rays in large arrays of superconducting qubits"
+  author: [{name: "McEwen, Matt and Faoro, Lara and Arya, Kunal and Dunsworth, Andrew and Huang, Trent and Kim, Seon and Burkett, Brian and Fowler, Austin and Arute, Frank and Bardin, Joseph C"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature Physics", volume: "18"}
+  page-range: "107-111"
+
+"yan2018tunable":
+  type: article
+  title: "Tunable Coupling Scheme for Implementing High-Fidelity Two-Qubit Gates"
+  author: [{name: "Yan, Fei and Krantz, Philip and Sung, Youngkyu and Kjaergaard, Morten and Campbell, Daniel L. and Orlando, Terry P. and Gustavsson, Simon and Oliver, William D."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Applied", volume: "10"}
+  page-range: "054062"
+  doi: "10.1103/PhysRevApplied.10.054062"
+
+"kelly2016scalable":
+  type: article
+  title: "Scalable in situ qubit calibration during repetitive error detection"
+  author: [{name: "Kelly, J and Barends, R and Fowler, AG and Megrant, A and Jeffrey, E and White, TC and Sank, D and Mutus, JY and Campbell, B and Chen, Yu"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review A", volume: "94"}
+  page-range: "032321"
+
+"bonilla2021xzzx":
+  type: article
+  title: "The XZZX surface code"
+  author: [{name: "Bonilla Ataides, J Pablo and Tuckett, David K and Bartlett, Stephen D and Flammia, Steven T and Brown, Benjamin J"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Communications", volume: "12"}
+  page-range: "1-12"
+
+"takeda2022quantum":
+  type: misc
+  title: "Quantum error correction with silicon spin qubits"
+  author: [{name: "Takeda, Kenta and Noiri, Akito and Nakajima, Takashi and Kobayashi, Takashi and Tarucha, Seigo"}]
+  date: 2022
+  serial-number: "arXiv:2201.08581"
+
+"bluvstein2022quantum":
+  type: article
+  title: "A quantum processor based on coherent transport of entangled atom arrays"
+  author: [{name: "Bluvstein, Dolev and Levine, Harry and Semeghini, Giulia and Wang, Tout T and Ebadi, Sepehr and Kalinowski, Marcin and Keesling, Alexander and Maskara, Nishad and Pichler, Hannes and Greiner, Markus"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature", volume: "604"}
+  page-range: "451-456"
+
+"Note1":
+  type: article
+  title: "noteNote that the ordering of operations is swapped compared to the typical interaction picture definition Ulab = U0 UI. This is to retain consistency with the other noise models, for which we append error channels after (instead of before) each ideal gate operation."
+
+"Note2":
+  type: article
+  title: "noteDetails of this approximation are deferred to a future work."
+
+"Note3":
+  type: article
+  title: "noteNote that the qsim backend for the kraus∼ simulator has not been optimized for performance on these system sizes."

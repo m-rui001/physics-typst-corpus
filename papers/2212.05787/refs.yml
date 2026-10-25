@@ -1,0 +1,400 @@
+"hasan2010colloquium":
+  type: article
+  title: "Colloquium: topological insulators"
+  author: [{name: "Hasan, M. Z. and Kane, C. L."}]
+  date: 2010
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "82"}
+  page-range: "3045"
+
+"qi2011topological":
+  type: article
+  title: "Topological insulators and superconductors"
+  author: [{name: "Qi, X.-L. and Zhang, S.-C."}]
+  date: 2011
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "83"}
+  page-range: "1057"
+
+"ozawa2019topological":
+  type: article
+  title: "Topological photonics"
+  author: [{name: "Ozawa, T. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "91"}
+  page-range: "015006"
+
+"huber2016topological":
+  type: article
+  title: "Topological mechanics"
+  author: [{name: "Huber, S. D."}]
+  date: 2016
+  parent: {type: periodical, title: "Nat. Phys.", volume: "12"}
+  serial-number: "621–623"
+
+"ma2019topological":
+  type: article
+  title: "Topological phases in acoustic and mechanical systems"
+  author: [{name: "Ma, G. and Xiao, M. and Chan, C. T."}]
+  date: 2019
+  parent: {type: periodical, title: "Nat. Rev. Phys.", volume: "1"}
+  serial-number: "281–294"
+
+"xue2022topological":
+  type: article
+  title: "Topological acoustics"
+  author: [{name: "Xue, H. and Yang, Y. and Zhang, B."}]
+  date: 2022
+  parent: {type: periodical, title: "Nat. Rev. Mater."}
+
+"moiseyev2011non":
+  type: article
+  title: "Non-Hermitian quantum mechanics"
+  author: [{name: "Moiseyev, N."}]
+  date: 2011
+
+"ghatak2019new":
+  type: article
+  title: "New topological invariants in non-Hermitian systems"
+  author: [{name: "Ghatak, A. and Das, T."}]
+  date: 2019
+  parent: {type: periodical, title: "J. Phys. Condens. Matter", volume: "31"}
+  page-range: "263001"
+
+"ashida2020non":
+  type: article
+  title: "Non-hermitian physics"
+  author: [{name: "Ashida, Y. and Gong, Z. and Ueda, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Adv. Phys.", volume: "69"}
+  serial-number: "249–435"
+
+"bergholtz2021exceptional":
+  type: article
+  title: "Exceptional topology of non-hermitian systems"
+  author: [{name: "Bergholtz, E. J. and Budich, J. C. and Kunst, F. K."}]
+  date: 2021
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "93"}
+  page-range: "015005"
+
+"alvarez2018non":
+  type: article
+  title: "Non-Hermitian robust edge states in one dimension: Anomalous localization and eigenspace condensation at exceptional points"
+  author: [{name: "Alvarez, V. M. and Vargas, J. B. and Torres, L. F."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "97"}
+  page-range: "121401"
+
+"xiong2018does":
+  type: article
+  title: "Why does bulk boundary correspondence fail in some non-Hermitian topological models"
+  author: [{name: "Xiong, Y."}]
+  date: 2018
+  parent: {type: periodical, title: "J. Phys. Commun.", volume: "2"}
+  page-range: "035043"
+
+"gong2018topological":
+  type: article
+  title: "Topological phases of non-Hermitian systems"
+  author: [{name: "Gong, Z. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "8"}
+  page-range: "031079"
+
+"yao2018edge":
+  type: article
+  title: "Edge states and topological invariants of non-Hermitian systems"
+  author: [{name: "Yao, S. and Wang, Z."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "086803"
+
+"kunst2018biorthogonal":
+  type: article
+  title: "Biorthogonal bulk-boundary correspondence in non-Hermitian systems"
+  author: [{name: "Kunst, F. K. and Edvardsson, E. and Budich, J. C. and Bergholtz, E. J."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "026808"
+
+"ding2022non":
+  type: article
+  title: "Non-hermitian topology and exceptional-point geometries"
+  author: [{name: "Ding, K. and Fang, C. and Ma, G."}]
+  date: 2022
+  parent: {type: periodical, title: "Nature Reviews Physics"}
+  serial-number: "1–16"
+
+"borgnia2020non":
+  type: article
+  title: "Non-Hermitian boundary modes and topology"
+  author: [{name: "Borgnia, D. S. and Kruchkov, A. J. and Slager, R.-J."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "056802"
+
+"okuma2020topological":
+  type: article
+  title: "Topological origin of non-hermitian skin effects"
+  author: [{name: "Okuma, N. and Kawabata, K. and Shiozaki, K. and Sato, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "086801"
+
+"zhang2020correspondence":
+  type: article
+  title: "Correspondence between winding numbers and skin modes in non-hermitian systems"
+  author: [{name: "Zhang, K. and Yang, Z. and Fang, C."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "126402"
+
+"yao2018non":
+  type: article
+  title: "Non-Hermitian Chern bands"
+  author: [{name: "Yao, S. and Song, F. and Wang, Z."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "136802"
+
+"weidemann2020topological":
+  type: article
+  title: "Topological funneling of light"
+  author: [{name: "Weidemann, S. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Science", volume: "368"}
+  serial-number: "311–314"
+
+"budich2020non":
+  type: article
+  title: "Non-Hermitian topological sensors"
+  author: [{name: "Budich, J. C. and Bergholtz, E. J."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "180403"
+
+"mcdonald2020exponentially":
+  type: article
+  title: "Exponentially-enhanced quantum sensing with non-Hermitian lattice dynamics"
+  author: [{name: "McDonald, A. and Clerk, A. A."}]
+  date: 2020
+  parent: {type: periodical, title: "Nat. Commun.", volume: "11"}
+  page-range: "5382"
+
+"longhi2018non":
+  type: article
+  title: "Non-Hermitian gauged topological laser arrays"
+  author: [{name: "Longhi, S."}]
+  date: 2018
+  parent: {type: periodical, title: "Ann. Phys.", volume: "530"}
+  page-range: "1800023"
+
+"zhu2022anomalous":
+  type: article
+  title: "Anomalous single-mode lasing induced by nonlinearity and the non-Hermitian skin effect"
+  author: [{name: "Zhu, B. and others"}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2202.13621"}
+
+"helbig2020generalized":
+  type: article
+  title: "Generalized bulk–boundary correspondence in non-hermitian topolectrical circuits"
+  author: [{name: "Helbig, T. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Nat. Phys.", volume: "16"}
+  serial-number: "747–750"
+
+"zou2021observation":
+  type: article
+  title: "Observation of hybrid higher-order skin-topological effect in non-hermitian topolectrical circuits"
+  author: [{name: "Zou, D. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Nat. Commun.", volume: "12"}
+  page-range: "7201"
+
+"liu2021non":
+  type: article
+  title: "Non-hermitian skin effect in a non-hermitian electrical circuit"
+  author: [{name: "Liu, S. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Research", volume: "2021"}
+  page-range: "5608038"
+
+"ghatak2020observation":
+  type: article
+  title: "Observation of non-Hermitian topology and its bulk–edge correspondence in an active mechanical metamaterial"
+  author: [{name: "Ghatak, A. and Brandenbourger, M. and Van Wezel, J. and Coulais, C."}]
+  date: 2020
+  parent: {type: periodical, title: "Proc. Natl. Acad. Sci. U.S.A.", volume: "117"}
+  serial-number: "29561–29568"
+
+"zhang2021acoustic":
+  type: article
+  title: "Acoustic non-hermitian skin effect from twisted winding topology"
+  author: [{name: "Zhang, L. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Nat. Commun.", volume: "12"}
+  page-range: "6297"
+
+"chen2021realization":
+  type: article
+  title: "Realization of active metamaterials with odd micropolar elasticity"
+  author: [{name: "Chen, Y. and Li, X. and Scheibner, C. and Vitelli, V. and Huang, G."}]
+  date: 2021
+  parent: {type: periodical, title: "Nat. Commun.", volume: "12"}
+  page-range: "5935"
+
+"wang2022non":
+  type: article
+  title: "Non-hermitian morphing of topological modes"
+  author: [{name: "Wang, W. and Wang, X. and Ma, G."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2203.02147"}
+
+"wimmer2015observation":
+  type: article
+  title: "Observation of optical solitons in PT-symmetric lattices"
+  author: [{name: "Wimmer, M. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "Nat. Commun.", volume: "6"}
+  page-range: "7782"
+
+"zhang2021observation":
+  type: article
+  title: "Observation of higher-order non-hermitian skin effect"
+  author: [{name: "Zhang, X. and Tian, Y. and Jiang, J.-H. and Lu, M.-H. and Chen, Y.-F."}]
+  date: 2021
+  parent: {type: periodical, title: "Nat. Commun.", volume: "12"}
+  page-range: "5377"
+
+"gao2022non":
+  type: article
+  title: "Anomalous Floquet non-Hermitian skin effect in a ring resonator lattice"
+  author: [{name: "Gao, H. and others"}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2205.14824"}
+
+"schomerus2022fundamental":
+  type: article
+  title: "Fundamental constraints on the observability of non-Hermitian effects in passive systems"
+  author: [{name: "Schomerus, H."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2207.09014"}
+
+"li2020virtual":
+  type: article
+  title: "Virtual parity-time symmetry"
+  author: [{name: "Li, H. and Mekawy, A. and Krasnok, A. and Alù, A."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "193901"
+
+"yang2022observation":
+  type: article
+  title: "Observation of transient parity-time symmetry in electronic systems"
+  author: [{name: "Yang, X. and others"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "128"}
+  page-range: "065701"
+
+"li2021gain":
+  type: article
+  title: "Gain-free parity-time symmetry for evanescent fields"
+  author: [{name: "Li, H. and Mekawy, A. and Alù, A."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "014301"
+
+"li2020parity":
+  type: article
+  title: "Parity-time symmetry based on time modulation"
+  author: [{name: "Li, H. and Moussa, H. and Sounas, D. and Alù, A."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Applied", volume: "14"}
+  page-range: "031002"
+
+"lepeshov2020virtual":
+  type: article
+  title: "Virtual optical pulling force"
+  author: [{name: "Lepeshov, S. and Krasnok, A."}]
+  date: 2020
+  parent: {type: periodical, title: "Optica", volume: "7"}
+  serial-number: "1024–1030"
+
+"baranov2017coherent":
+  type: article
+  title: "Coherent virtual absorption based on complex zero excitation for ideal light capturing"
+  author: [{name: "Baranov, D. G. and Krasnok, A. and Alù, A."}]
+  date: 2017
+  parent: {type: periodical, title: "Optica", volume: "4"}
+  serial-number: "1457–1461"
+
+"hatano1996localization":
+  type: article
+  title: "Localization transitions in non-Hermitian quantum mechanics"
+  author: [{name: "Hatano, N. and Nelson, D. R."}]
+  date: 1996
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "77"}
+  page-range: "570"
+
+"longhi2015robust":
+  type: article
+  title: "Robust light transport in non-Hermitian photonic lattices"
+  author: [{name: "Longhi, S. and Gatti, D. and Valle, G. D."}]
+  date: 2015
+  parent: {type: periodical, title: "Sci. Rep.", volume: "5"}
+  page-range: "13376"
+
+"zhu2020photonic":
+  type: article
+  title: "Photonic non-hermitian skin effect and non-bloch bulk-boundary correspondence"
+  author: [{name: "Zhu, X. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "013280"
+
+"liang2013optical":
+  type: article
+  title: "Optical resonator analog of a two-dimensional topological insulator"
+  author: [{name: "Liang, G. and Chong, Y."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "110"}
+  page-range: "203904"
+
+"gao2016probing":
+  type: article
+  title: "Probing topological protection using a designer surface plasmon structure"
+  author: [{name: "Gao, F. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Nat. Commun.", volume: "7"}
+  page-range: "11619"
+
+"peng2016experimental":
+  type: article
+  title: "Experimental demonstration of anomalous floquet topological insulator for sound"
+  author: [{name: "Peng, Y.-G. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Nat. Commun.", volume: "7"}
+  page-range: "13368"
+
+"li2020critical":
+  type: article
+  title: "Critical non-Hermitian skin effect"
+  author: [{name: "Li, L. and Lee, C. H. and Mu, S. and Gong, J."}]
+  date: 2020
+  parent: {type: periodical, title: "Nat. Commun.", volume: "11"}
+  page-range: "5491"
+
+"claes2021skin":
+  type: article
+  title: "Skin effect and winding number in disordered non-Hermitian systems"
+  author: [{name: "Claes, J. and Hughes, T. L."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  serial-number: "L140201"
+
+"longhi2022self":
+  type: article
+  title: "Self-healing of non-Hermitian topological skin modes"
+  author: [{name: "Longhi, S."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "128"}
+  page-range: "157601"

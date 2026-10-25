@@ -1,0 +1,902 @@
+[
+ {
+  "start": 1891,
+  "end": 1900,
+  "line": 54,
+  "kind": "cite",
+  "val": "Gaiotto:2014kfa",
+  "tail": "$ \\cite{Gaiotto:2014kfa}. Another such feature is completene",
+  "ctx": "ich the charged operators are supported on manifolds of dimension $p$ "
+ },
+ {
+  "start": 2064,
+  "end": 2073,
+  "line": 54,
+  "kind": "cite",
+  "val": "polchinski:2003bq",
+  "tail": " \\cite{polchinski:2003bq}. Compelling evidence for the absen",
+  "ctx": "ticle states) transforming in every representation of the gauge group "
+ },
+ {
+  "start": 2168,
+  "end": 2247,
+  "line": 54,
+  "kind": "cite",
+  "val": "banks:1988yz, kallosh:1995hi, Banks:2010zn, Harlow:2018tng, Harlow:2020bee, Chen:2020ojn,Belin:2020jxr, Yonekura:2020ino",
+  "tail": " \\cite{banks:1988yz, kallosh:1995hi, Banks:2010zn, Harlow:20",
+  "ctx": "the absence of global symmetries in quantum gravity has been given in "
+ },
+ {
+  "start": 2363,
+  "end": 2382,
+  "line": 54,
+  "kind": "cite",
+  "val": "Banks:2010zn, Harlow:2018tng",
+  "tail": " \\cite{Banks:2010zn, Harlow:2018tng}.  It has often been rem",
+  "ctx": "trum---also known as the \"Completeness Hypothesis\"---were provided in "
+ },
+ {
+  "start": 2849,
+  "end": 2858,
+  "line": 57,
+  "kind": "cite",
+  "val": "Casini:2020rgj",
+  "tail": "~\\cite{Casini:2020rgj}. In some cases, the underlying assump",
+  "ctx": "milar to ours have been discussed in the framework of algebraic QFT in"
+ },
+ {
+  "start": 4148,
+  "end": 4157,
+  "line": 60,
+  "kind": "cite",
+  "val": "Harlow:2018tng",
+  "tail": "~\\cite{Harlow:2018tng}:  a finite, nonabelian gauge group $G",
+  "ctx": "and completeness does not hold in general, as pointed out in reference"
+ },
+ {
+  "start": 4453,
+  "end": 4462,
+  "line": 60,
+  "kind": "cite",
+  "val": "Rudelius:2020orz",
+  "tail": " \\cite{Rudelius:2020orz}: completeness of the spectrum is eq",
+  "ctx": "ries--completeness correspondence that applies to finite gauge groups "
+ },
+ {
+  "start": 4601,
+  "end": 4620,
+  "line": 60,
+  "kind": "cite",
+  "val": "Gukov_2006,Gukov_2010",
+  "tail": " \\cite{Gukov_2006,Gukov_2010}, which are labeled by conjugac",
+  "ctx": " codimension-2 topological operators, known as Gukov-Witten operators "
+ },
+ {
+  "start": 7621,
+  "end": 7630,
+  "line": 74,
+  "kind": "cite",
+  "val": "Harlow:2018tng",
+  "tail": " \\cite{Harlow:2018tng}, this was resolved by restricting to ",
+  "ctx": "e\" gauge group, which is not a duality-invariant notion. In reference "
+ },
+ {
+  "start": 8112,
+  "end": 8121,
+  "line": 77,
+  "kind": "cite",
+  "val": "Rudelius:2020orz",
+  "tail": " \\cite{Rudelius:2020orz} for related discussion). Equivalent",
+  "ctx": " point operator, which we think of as creating the charged state (see "
+ },
+ {
+  "start": 8743,
+  "end": 8752,
+  "line": 77,
+  "kind": "cite",
+  "val": "Rudelius:2020orz",
+  "tail": "} \\cite{Rudelius:2020orz}.  A similar story plays out on the",
+  "ctx": "ator in the theory, a notion referred to as #emph[total completeness] "
+ },
+ {
+  "start": 12210,
+  "end": 12239,
+  "line": 93,
+  "kind": "cite",
+  "val": "Cordova:2018cvg, Hidaka:2020iaz, Hidaka:2020izy",
+  "tail": " \\cite{Cordova:2018cvg, Hidaka:2020iaz, Hidaka:2020izy}. In ",
+  "ctx": "ies into a single structure known as a \"higher-group\" global symmetry "
+ },
+ {
+  "start": 14843,
+  "end": 14852,
+  "line": 110,
+  "kind": "cite",
+  "val": "Gaiotto:2014kfa",
+  "tail": " \\cite{Gaiotto:2014kfa}, a $p$-form global symmetry is chara",
+  "ctx": "mmetries and Topological Operators\n<sec:generalTop>\n\n\nAs discussed in "
+ },
+ {
+  "start": 17826,
+  "end": 17885,
+  "line": 116,
+  "kind": "cite",
+  "val": "Verlinde:1988sn, Moore:1988qv, Frohlich:2006ch, Davydov:2010rm, Bhardwaj:2017xup, Chang:2018iay",
+  "tail": "., \\cite{Verlinde:1988sn, Moore:1988qv, Frohlich:2006ch, Dav",
+  "ctx": " has appeared before in the context of 2-dimensional CFTs (see, e.g., "
+ },
+ {
+  "start": 17948,
+  "end": 17987,
+  "line": 116,
+  "kind": "cite",
+  "val": "Ji:2019jhk, Kong:2020jne, Kong_2020,Komargodski:2020mxz",
+  "tail": "., \\cite{Ji:2019jhk, Kong:2020jne, Kong_2020,Komargodski:202",
+  "ctx": "ext([])) as well as more general condensed matter systems (see, e.g., "
+ },
+ {
+  "start": 20027,
+  "end": 20036,
+  "line": 122,
+  "kind": "cite",
+  "val": "Nayak:2008zza",
+  "tail": " \\cite{Nayak:2008zza}). Anyons are inserted by line operator",
+  "ctx": "ure on nonabelian anyons in $( 2 + 1 )$d TQFTs (see, e.g., the review "
+ },
+ {
+  "start": 26050,
+  "end": 26059,
+  "line": 159,
+  "kind": "ref",
+  "val": "sec:generalTop",
+  "tail": " \\ref{sec:generalTop}. By contrast, non-topological Wilson l",
+  "ctx": "n lines, giving a well-defined fusion algebra in the sense of Section "
+ },
+ {
+  "start": 27997,
+  "end": 28016,
+  "line": 162,
+  "kind": "cite",
+  "val": "Gukov_2006, Gukov_2010",
+  "tail": "} \\cite{Gukov_2006, Gukov_2010}.  Just like Wilson lines, Gu",
+  "ctx": "is a conjugacy class in $G$, are called #emph[Gukov-Witten operators] "
+ },
+ {
+  "start": 28629,
+  "end": 28638,
+  "line": 165,
+  "kind": "cite",
+  "val": "Dijkgraaf:1989hb",
+  "tail": " \\cite{Dijkgraaf:1989hb}. Suppose we want to compute the fus",
+  "ctx": "ors supported on the same codimension-2 manifold, following reference "
+ },
+ {
+  "start": 33115,
+  "end": 33124,
+  "line": 195,
+  "kind": "ref",
+  "val": "f1GW",
+  "tail": " \\ref{f1GW}. By taking the probe particle to be in a fully m",
+  "ctx": "diabatically around the vortex. This process is illustrated in Figure "
+ },
+ {
+  "start": 33286,
+  "end": 33295,
+  "line": 195,
+  "kind": "cite",
+  "val": "Alford:1992yx",
+  "tail": " \\cite{Alford:1992yx} \\begin{equation} \\frac{1}{\\text{dim}(\\",
+  "ctx": "gauge-invariant characterization of the holonomy around the vortex as "
+ },
+ {
+  "start": 34802,
+  "end": 34811,
+  "line": 195,
+  "kind": "ref",
+  "val": "sec:generalTop",
+  "tail": "~\\ref{sec:generalTop}. Thus, if $\\chi_\\rho(a) \\neq \\chi_\\rho",
+  "ctx": " argument illustrated in Fig.~@fig:toplinking and discussed in Section"
+ },
+ {
+  "start": 40391,
+  "end": 40400,
+  "line": 238,
+  "kind": "cite",
+  "val": "AmbroseSinger",
+  "tail": " \\cite{AmbroseSinger}.  \\begin{lemma} \\label{ambrose_singer}",
+  "ctx": "ng lemma, which is a simple consequence of the Ambrose-Singer Theorem "
+ },
+ {
+  "start": 40760,
+  "end": 40769,
+  "line": 247,
+  "kind": "cite",
+  "val": "AmbroseSinger",
+  "tail": " \\cite{AmbroseSinger}, which states that the holonomy around",
+  "ctx": "emph[Proof.] This follows immediately from the Ambrose-Singer Theorem "
+ },
+ {
+  "start": 43154,
+  "end": 43163,
+  "line": 260,
+  "kind": "ref",
+  "val": "f3",
+  "tail": " \\ref{f3}. In order to define boundary conditions along $\\pa",
+  "ctx": "e $1 / 2 S^2$ that links with $partial cal(M)$, as depicted in Figure "
+ },
+ {
+  "start": 46429,
+  "end": 46438,
+  "line": 288,
+  "kind": "cite",
+  "val": "tHooft:1977nqb",
+  "tail": " \\cite{tHooft:1977nqb}. It is worth noting, however, that th",
+  "ctx": "above is essentially the same as the one originally given by 't Hooft "
+ },
+ {
+  "start": 46559,
+  "end": 46568,
+  "line": 288,
+  "kind": "cite",
+  "val": "Kapustin:2005py",
+  "tail": " \\cite{Kapustin:2005py}. In \\cite{Kapustin:2006pk}, for inst",
+  "ctx": "ft line\" has been assigned to more than one concept in the literature "
+ },
+ {
+  "start": 46572,
+  "end": 46581,
+  "line": 288,
+  "kind": null,
+  "val": null,
+  "tail": "ned to more than one concept in the literature #text([]) In ",
+  "ctx": "been assigned to more than one concept in the literature #text([]) In "
+ },
+ {
+  "start": 46742,
+  "end": 46751,
+  "line": 288,
+  "kind": "cite",
+  "val": "Goddard:1976qe",
+  "tail": " \\cite{Goddard:1976qe}. This notion leads to a finer classif",
+  "ctx": "derives from the GNO duality exchanging electric and magnetic charges "
+ },
+ {
+  "start": 48365,
+  "end": 48374,
+  "line": 300,
+  "kind": "cite",
+  "val": "Gaiotto:2014kfa",
+  "tail": " \\cite{Gaiotto:2014kfa}.  Pure $U(1)$ gauge theory has actio",
+  "ctx": " in $d$ spacetime dimensions. Most of this discussion can be found in "
+ },
+ {
+  "start": 61783,
+  "end": 61792,
+  "line": 356,
+  "kind": "cite",
+  "val": "Aharony:2013hda",
+  "tail": " \\cite{Aharony:2013hda}. Here, the operators charged under t",
+  "ctx": " to $S O ( 3 )$ gauge theory with a nontrivial discrete $theta$ angle "
+ },
+ {
+  "start": 62823,
+  "end": 62832,
+  "line": 366,
+  "kind": "cite",
+  "val": "fulton2013representation",
+  "tail": "~\\cite{fulton2013representation}) that every irreducible rep",
+  "ctx": "ion with itself.\n\n\nIt is a well-known fact (see, e.g., Section 22.3 of"
+ },
+ {
+  "start": 62991,
+  "end": 63000,
+  "line": 366,
+  "kind": "cite",
+  "val": "Yamatsu:2015npn",
+  "tail": "., \\cite{Yamatsu:2015npn}, we further have \\begin{align} \\ma",
+  "ctx": "ndard\" 7-dimensional representation of $G_2$ with itself. From, e.g., "
+ },
+ {
+  "start": 64736,
+  "end": 64745,
+  "line": 380,
+  "kind": "ref",
+  "val": "sec:General",
+  "tail": " \\ref{sec:General}. } As a result, the remaining 1-form symm",
+  "ctx": "t when we consider the case of a general compact Lie group in Section "
+ },
+ {
+  "start": 67750,
+  "end": 67759,
+  "line": 404,
+  "kind": "cite",
+  "val": "Rudelius:2020orz",
+  "tail": " \\cite{Rudelius:2020orz}. For finite gauge groups, $G_0$ is ",
+  "ctx": " is that of finite gauge groups, as previously discussed in detail in "
+ },
+ {
+  "start": 70021,
+  "end": 70030,
+  "line": 420,
+  "kind": "cite",
+  "val": "Krauss:1988zc",
+  "tail": " \\cite{Krauss:1988zc}. They carry magnetic flux under $A_1$.",
+  "ctx": " Aharonov-Bohm phases. In the 4d context, these are dynamical strings "
+ },
+ {
+  "start": 73275,
+  "end": 73294,
+  "line": 449,
+  "kind": "cite",
+  "val": "Alford:1989ch,Preskill:1990bm",
+  "tail": " \\cite{Alford:1989ch,Preskill:1990bm}. In pure $S_3$ gauge t",
+  "ctx": " which have nonabelian Aharonov-Bohm interactions with charged matter "
+ },
+ {
+  "start": 74851,
+  "end": 74860,
+  "line": 460,
+  "kind": "ref",
+  "val": "general_electric_completeness_section",
+  "tail": "~\\ref{general_electric_completeness_section}. More details c",
+  "ctx": "operators in discrete gauge theories; for a general proof, see Section"
+ },
+ {
+  "start": 74890,
+  "end": 74899,
+  "line": 460,
+  "kind": "cite",
+  "val": "Rudelius:2020orz",
+  "tail": " \\cite{Rudelius:2020orz}.  Consider the $d$-dimensional gaug",
+  "ctx": "or a general proof, see Section#text([]) More details can be found in "
+ },
+ {
+  "start": 76585,
+  "end": 76594,
+  "line": 469,
+  "kind": "cite",
+  "val": "Rudelius:2020orz",
+  "tail": " \\cite{Rudelius:2020orz}. Conversely, if the spectrum is inc",
+  "ctx": "can end, then every Gukov-Witten operator is rendered non-topological "
+ },
+ {
+  "start": 77167,
+  "end": 77186,
+  "line": 476,
+  "kind": "cite",
+  "val": "Rudelius:2020orz, muger2003structure",
+  "tail": " \\cite{Rudelius:2020orz, muger2003structure}. Here, we will ",
+  "ctx": "m general properties of the modular tensor category of line operators "
+ },
+ {
+  "start": 81000,
+  "end": 81009,
+  "line": 499,
+  "kind": "ref",
+  "val": "sec:intro",
+  "tail": "~\\ref{sec:intro}. When $G$ is a general compact group, endab",
+  "ctx": "ts of our paper, @stat:TwistVortexCompleteness, as promised in Section"
+ },
+ {
+  "start": 81190,
+  "end": 81199,
+  "line": 499,
+  "kind": "ref",
+  "val": "stat:endableGW",
+  "tail": "~\\ref{stat:endableGW}. We will elaborate on this point in mo",
+  "ctx": "e of twist vortices, while others will already be endable by Statement"
+ },
+ {
+  "start": 81264,
+  "end": 81273,
+  "line": 499,
+  "kind": "ref",
+  "val": "sssec:twistvortexcomp",
+  "tail": "~\\ref{sssec:twistvortexcomp}.  \\subsubsection{Magnetic Compl",
+  "ctx": "t([]) We will elaborate on this point in more detail below, in Section"
+ },
+ {
+  "start": 81744,
+  "end": 81753,
+  "line": 513,
+  "kind": "cite",
+  "val": "Rudelius:2020orz",
+  "tail": ".~\\cite{Rudelius:2020orz}.\\footnote{We thank Shu-Heng Shao, ",
+  "ctx": "subtlety in our arguments, previously discussed in Section 5.1 of Ref."
+ },
+ {
+  "start": 83436,
+  "end": 83445,
+  "line": 516,
+  "kind": "ref",
+  "val": "sec:CS",
+  "tail": "~\\ref{sec:CS}. We leave a complete exploration of the detail",
+  "ctx": "tleties in the context of Chern-Simons terms in more detail in Section"
+ },
+ {
+  "start": 84286,
+  "end": 84295,
+  "line": 523,
+  "kind": "cite",
+  "val": "Nguyen:2021yld",
+  "tail": " \\cite{Nguyen:2021yld}, for the gauge group $U(1)^{N - 1} \\r",
+  "ctx": "on-invertible symmetries for such a gauge theory was recently studied "
+ },
+ {
+  "start": 84578,
+  "end": 84597,
+  "line": 530,
+  "kind": "cite",
+  "val": "Kiskis:1978ed, Schwarz:1982ec",
+  "tail": " \\cite{Kiskis:1978ed, Schwarz:1982ec}.   $O(2)$ has a trivia",
+  "ctx": "constructed from $U ( 1 )$ gauge theory by gauging charge conjugation "
+ },
+ {
+  "start": 90100,
+  "end": 90109,
+  "line": 557,
+  "kind": "cite",
+  "val": "Benini:2018reh",
+  "tail": " \\cite{Benini:2018reh}. In the case at hand, two of the high",
+  "ctx": "nsional operators is characteristic of a higher-group global symmetry "
+ },
+ {
+  "start": 90383,
+  "end": 90392,
+  "line": 557,
+  "kind": "cite",
+  "val": "Moradi_2015",
+  "tail": " \\cite{Moradi_2015}. It would be worthwhile to explore furth",
+  "ctx": "s been discussed previously in the context of discrete gauge theories "
+ },
+ {
+  "start": 93318,
+  "end": 93347,
+  "line": 575,
+  "kind": "cite",
+  "val": "Schwarz:1982ec,Alford:1990mk,Preskill:1990bm",
+  "tail": " \\cite{Schwarz:1982ec,Alford:1990mk,Preskill:1990bm}. All ot",
+  "ctx": "twist vortex is the familiar \"Alice string\" of $O ( 2 )$ gauge theory "
+ },
+ {
+  "start": 93488,
+  "end": 93497,
+  "line": 575,
+  "kind": "ref",
+  "val": "stat:endableGW",
+  "tail": "~\\ref{stat:endableGW}. This property is inherited from the e",
+  "ctx": "ed 't Hooft operators in the pure gauge theory, according to Statement"
+ },
+ {
+  "start": 100369,
+  "end": 100378,
+  "line": 612,
+  "kind": "cite",
+  "val": "Dine:1992ya",
+  "tail": " \\cite{Dine:1992ya}.   In fact, the most general compact Lie",
+  "ctx": "is usually referred to as the $E_8 times E_8$ heterotic string theory "
+ },
+ {
+  "start": 100473,
+  "end": 100492,
+  "line": 615,
+  "kind": "cite",
+  "val": "378257,378141",
+  "tail": "~\\cite{378257,378141}: \\begin{thm} Let $G$ be a compact (not",
+  "ctx": "ral compact Lie group is not that far away from the above construction"
+ },
+ {
+  "start": 101246,
+  "end": 101255,
+  "line": 623,
+  "kind": "cite",
+  "val": "378220",
+  "tail": "~\\cite{378220}. Since the sequence splits, we can choose a s",
+  "ctx": "row{r}&\\\\Out(G\\_0)\\\\arrow{r}&1\\\\end{tikzcd}\n\\\\end{equation}\\$\\$ splits"
+ },
+ {
+  "start": 102663,
+  "end": 102672,
+  "line": 631,
+  "kind": "cite",
+  "val": "150949",
+  "tail": "~\\cite{150949}, any such group has a finite subgroup $R$ tha",
+  "ctx": "ar, $K$ therefore has finitely many connected components. As proven in"
+ },
+ {
+  "start": 104037,
+  "end": 104046,
+  "line": 665,
+  "kind": "cite",
+  "val": "Gaiotto:2014kfa",
+  "tail": "~\\cite{Gaiotto:2014kfa}.   %% \\subsection{General Story}\\lab",
+  "ctx": "mes.r R$, the quotient by $P$ corresponds to gauging a 1-form symmetry"
+ },
+ {
+  "start": 110489,
+  "end": 110498,
+  "line": 722,
+  "kind": "cite",
+  "val": "Harlow:2018tng",
+  "tail": " \\cite{Harlow:2018tng}, any faithful, unitary representation",
+  "ctx": "hat every irrep of a compact Lie group is unitary. By Theorem A.10 of "
+ },
+ {
+  "start": 110927,
+  "end": 110936,
+  "line": 722,
+  "kind": "cite",
+  "val": "Harlow:2018tng",
+  "tail": " \\cite{Harlow:2018tng}, the tensor powers of any faithful, u",
+  "ctx": "erminate after a finite number of steps.] Finally, by Theorem A.11 of "
+ },
+ {
+  "start": 112011,
+  "end": 112020,
+  "line": 753,
+  "kind": "ref",
+  "val": "sec:intro",
+  "tail": "~\\ref{sec:intro}. When $G$ is a general compact group, endab",
+  "ctx": "e. This establishes @stat:ElectricCompleteness, as promised in Section"
+ },
+ {
+  "start": 113076,
+  "end": 113085,
+  "line": 763,
+  "kind": "ref",
+  "val": "stat:endableGW",
+  "tail": "~\\ref{stat:endableGW}. Suppose that we add to the theory dyn",
+  "ctx": " gauge theory on improperly quantized 't Hooft operators, by Statement"
+ },
+ {
+  "start": 114028,
+  "end": 114037,
+  "line": 766,
+  "kind": "ref",
+  "val": "sec:intro",
+  "tail": "~\\ref{sec:intro}. In 4d theories, these twist vortices can p",
+  "ctx": "pi_0 ( G )$. This establishes @stat:TwistVortexCompleteness in Section"
+ },
+ {
+  "start": 114192,
+  "end": 114201,
+  "line": 766,
+  "kind": "ref",
+  "val": "sec:cosmicstrings",
+  "tail": "~\\ref{sec:cosmicstrings}.    \\subsubsection{Magnetic Complet",
+  "ctx": "potential phenomenological implications that we will sketch in Section"
+ },
+ {
+  "start": 117689,
+  "end": 117698,
+  "line": 799,
+  "kind": "ref",
+  "val": "thm2",
+  "tail": " \\ref{thm2}. It is interesting to consider see how this theo",
+  "ctx": "\nWe used the compactness of $G$ several times in the proof of Theorem "
+ },
+ {
+  "start": 131877,
+  "end": 131896,
+  "line": 866,
+  "kind": "cite",
+  "val": "Polyakov:1974ek,tHooft:1974kcl",
+  "tail": " \\cite{Polyakov:1974ek,tHooft:1974kcl}, and the 't Hooft ope",
+  "ctx": "ll-known, the IR theory contains 't Hooft/Polyakov monopole solutions "
+ },
+ {
+  "start": 134637,
+  "end": 134646,
+  "line": 880,
+  "kind": "ref",
+  "val": "sec:O2",
+  "tail": " \\ref{sec:O2}: there is one conjugacy class for each $\\theta",
+  "ctx": "lde(O) ( 2 )$ are similar to those of $O ( 2 )$, discussed in Section "
+ },
+ {
+  "start": 136159,
+  "end": 136178,
+  "line": 886,
+  "kind": "cite",
+  "val": "Abrikosov:1956sx, Nielsen:1973cs",
+  "tail": " \\cite{Abrikosov:1956sx, Nielsen:1973cs} (or their non-abeli",
+  "ctx": "ese vortices are just ordinary ANO (Abrikosov-Nielsen-Olesen) strings "
+ },
+ {
+  "start": 136216,
+  "end": 136225,
+  "line": 886,
+  "kind": "cite",
+  "val": "Alford:1992yx",
+  "tail": " \\cite{Alford:1992yx}), constructed by allowing the Higgs fi",
+  "ctx": "sen) strings #text([]) #text([]) (or their non-abelian generalization "
+ },
+ {
+  "start": 136888,
+  "end": 136897,
+  "line": 889,
+  "kind": "ref",
+  "val": "sec:O2",
+  "tail": " \\ref{sec:O2}. $O(2)$ is not a subgroup of $SU(2)$, since th",
+  "ctx": "O) ( 2 )$. We now briefly consider $O ( 2 )$, to connect with Section "
+ },
+ {
+  "start": 143188,
+  "end": 143197,
+  "line": 935,
+  "kind": "ref",
+  "val": "ssec:S3",
+  "tail": " \\ref{ssec:S3}. It features nontrivial Gukov-Witten operator",
+  "ctx": "mely, $S_3$.\n\n\n$S_3$ gauge theory was discussed previously in Section "
+ },
+ {
+  "start": 152763,
+  "end": 152772,
+  "line": 993,
+  "kind": "cite",
+  "val": "brocker2003representations",
+  "tail": "$ \\cite{brocker2003representations}. This means that there w",
+  "ctx": " up in the branching of some representation of the UV gauge group $G$ "
+ },
+ {
+  "start": 156997,
+  "end": 157006,
+  "line": 1016,
+  "kind": "ref",
+  "val": "f3",
+  "tail": " \\ref{f3}. The resulting configuration is a pointlike operat",
+  "ctx": "m the Higgs profile smoothly, similarly to the construction in Figure "
+ },
+ {
+  "start": 157877,
+  "end": 157906,
+  "line": 1019,
+  "kind": "cite",
+  "val": "Abrikosov:1956sx, Nielsen:1973cs,Alford:1992yx",
+  "tail": " \\cite{Abrikosov:1956sx, Nielsen:1973cs,Alford:1992yx}.  Thi",
+  "ctx": "( G / H )$ classifies (the nonabelian generalization of) ANO vortices "
+ },
+ {
+  "start": 161324,
+  "end": 161333,
+  "line": 1043,
+  "kind": "cite",
+  "val": "Harlow:2018tng",
+  "tail": "., \\cite{Harlow:2018tng}, Theorem A.8; or Proposition 1 in A",
+  "ctx": " so embeds as a closed subgroup of $U ( m )$ for some $m$ (see, e.g., "
+ },
+ {
+  "start": 161396,
+  "end": 161405,
+  "line": 1043,
+  "kind": "cite",
+  "val": "bourbaki2008lie",
+  "tail": "  \\cite{bourbaki2008lie}). By composing with the inclusion $",
+  "ctx": "ext([]), Theorem A.8; or Proposition 1 in Appendix I of Chapter IX of "
+ },
+ {
+  "start": 161669,
+  "end": 161678,
+  "line": 1043,
+  "kind": "cite",
+  "val": "bourbaki2008lie",
+  "tail": " \\cite{bourbaki2008lie}, any closed subgroup of a Lie group ",
+  "ctx": "ding Theorem (also known as the Mostow-Palais theorem) on page 374 of "
+ },
+ {
+  "start": 162892,
+  "end": 162931,
+  "line": 1055,
+  "kind": "cite",
+  "val": "Cordova:2018cvg, Hidaka:2020iaz, Hidaka:2020izy,Brennan:2020ehu",
+  "tail": " \\cite{Cordova:2018cvg, Hidaka:2020iaz, Hidaka:2020izy,Brenn",
+  "ctx": "lectric and magnetic symmetries induced by the higher-group structure "
+ },
+ {
+  "start": 163493,
+  "end": 163502,
+  "line": 1062,
+  "kind": "cite",
+  "val": "Heidenreich:2020pkc",
+  "tail": " \\cite{Heidenreich:2020pkc}. In the absence of charged state",
+  "ctx": "rpretation in terms of Chern-Weil symmetries was studied in detail in "
+ },
+ {
+  "start": 165961,
+  "end": 165970,
+  "line": 1067,
+  "kind": "cite",
+  "val": "Heidenreich:2020pkc",
+  "tail": " \\cite{Heidenreich:2020pkc} for further discussion.  \\subsec",
+  "ctx": "esting question, and we direct the reader to Section 3.2 of reference "
+ },
+ {
+  "start": 166566,
+  "end": 166575,
+  "line": 1074,
+  "kind": "cite",
+  "val": "Witten:1979ey",
+  "tail": "~\\cite{Witten:1979ey}, and more generally the dyonic lines t",
+  "ctx": " line of charge $m$ picks up electric charge $m$ via the Witten effect"
+ },
+ {
+  "start": 170644,
+  "end": 170653,
+  "line": 1077,
+  "kind": "cite",
+  "val": "McNamara:2021cuo",
+  "tail": " \\cite{McNamara:2021cuo}.}     Hence, the Wilson lines remai",
+  "ctx": " gravity, and produce gravitational solitons carrying electric charge "
+ },
+ {
+  "start": 171829,
+  "end": 171838,
+  "line": 1083,
+  "kind": "cite",
+  "val": "Callan:1984sa",
+  "tail": " \\cite{Callan:1984sa}, axion strings must also carry electri",
+  "ctx": "n lines and 't Hooft lines become endable. Similarly, as described in "
+ },
+ {
+  "start": 173536,
+  "end": 173565,
+  "line": 1089,
+  "kind": "cite",
+  "val": "Cordova:2019jnf, Jackiw:1975ep, Heidenreich:2020pkc",
+  "tail": " \\cite{Cordova:2019jnf, Jackiw:1975ep, Heidenreich:2020pkc}.",
+  "ctx": "$ to be the partition function of a particle on a circle discussed in "
+ },
+ {
+  "start": 173675,
+  "end": 173684,
+  "line": 1089,
+  "kind": "cite",
+  "val": "Callan:1984sa",
+  "tail": " \\cite{Callan:1984sa}, which sits at the boundary of a Chern",
+  "ctx": "e may take $Z'_(upright(\"w.v.\"))$ to be a chiral boson of unit charge "
+ },
+ {
+  "start": 173796,
+  "end": 173805,
+  "line": 1089,
+  "kind": "cite",
+  "val": "Witten:2015aoa",
+  "tail": "., \\cite{Witten:2015aoa} for a review).  While the insertion",
+  "ctx": "sulator, described by the Chern-Simons partition function (see, e.g., "
+ },
+ {
+  "start": 175254,
+  "end": 175293,
+  "line": 1095,
+  "kind": "cite",
+  "val": "Cordova:2018cvg, Hidaka:2020iaz, Hidaka:2020izy,Brennan:2020ehu",
+  "tail": " \\cite{Cordova:2018cvg, Hidaka:2020iaz, Hidaka:2020izy,Brenn",
+  "ctx": " This mixing between the symmetries reflects a higher-group structure "
+ },
+ {
+  "start": 177022,
+  "end": 177031,
+  "line": 1109,
+  "kind": "cite",
+  "val": "Rudelius:2020orz, muger2003structure",
+  "tail": " \\cite{Rudelius:2020orz, muger2003structure}. Here, we will ",
+  "ctx": " follows from the modularity of the tensor category of line operators "
+ },
+ {
+  "start": 177255,
+  "end": 177334,
+  "line": 1112,
+  "kind": "cite",
+  "val": "banks:1988yz, kallosh:1995hi, Banks:2010zn, Harlow:2018tng, Harlow:2020bee, Chen:2020ojn,Belin:2020jxr, Yonekura:2020ino",
+  "tail": " \\cite{banks:1988yz, kallosh:1995hi, Banks:2010zn, Harlow:20",
+  "ctx": "sence of invertible global symmetries has been established quite well "
+ },
+ {
+  "start": 177473,
+  "end": 177482,
+  "line": 1112,
+  "kind": null,
+  "val": null,
+  "tail": ", and prove that their absence is sufficient to guarantee a ",
+  "ctx": "o not directly apply to rule out non-invertible topological operators "
+ },
+ {
+  "start": 178306,
+  "end": 178315,
+  "line": 1115,
+  "kind": "cite",
+  "val": "McNamara:2020uza",
+  "tail": " \\cite{McNamara:2020uza}, since the insertion of any such op",
+  "ctx": "ce of topological operators follows from the Baby Universe Hypothesis "
+ },
+ {
+  "start": 179152,
+  "end": 179161,
+  "line": 1118,
+  "kind": "cite",
+  "val": "McNamara:2021cuo",
+  "tail": "~\\cite{McNamara:2021cuo} suggests that this is indeed the ca",
+  "ctx": "n without assuming any Swampland conditions. In fact, work in progress"
+ },
+ {
+  "start": 180549,
+  "end": 180558,
+  "line": 1125,
+  "kind": "cite",
+  "val": "Krauss:1988zc",
+  "tail": "~\\cite{Krauss:1988zc}. Although it is a common viewpoint tha",
+  "ctx": "ound the vortex comes back to itself only up to a gauge transformation"
+ },
+ {
+  "start": 180679,
+  "end": 180688,
+  "line": 1125,
+  "kind": "cite",
+  "val": "Witten:2017hdv",
+  "tail": "~\\cite{Witten:2017hdv}, one might wonder whether they necess",
+  "ctx": "ce of such objects is a defining feature of a gauged discrete symmetry"
+ },
+ {
+  "start": 181459,
+  "end": 181488,
+  "line": 1128,
+  "kind": "cite",
+  "val": "Ibanez:1991hv,Ibanez:1991pr,Dreiner:2005rd",
+  "tail": "~\\cite{Ibanez:1991hv,Ibanez:1991pr,Dreiner:2005rd}. Our argu",
+  "ctx": "uged $bb(Z)_3$ or $bb(Z)_6$ symmetry under which the proton is charged"
+ },
+ {
+  "start": 182188,
+  "end": 182207,
+  "line": 1131,
+  "kind": "cite",
+  "val": "Zeldovich:1974uw, Kibble:1976sj",
+  "tail": "~\\cite{Zeldovich:1974uw, Kibble:1976sj}. Stable domain walls",
+  "ctx": "ete symmetry is spontaneously broken, stable domain walls are produced"
+ },
+ {
+  "start": 183029,
+  "end": 183038,
+  "line": 1131,
+  "kind": "cite",
+  "val": "Kibble:1982dd",
+  "tail": "~\\cite{Kibble:1982dd}. Thus, the physics of twist strings po",
+  "ctx": "s is highly suppressed if the tension of the twist string is too large"
+ },
+ {
+  "start": 183584,
+  "end": 183613,
+  "line": 1134,
+  "kind": "cite",
+  "val": "Schwarz:1982ec,Alford:1990mk,Preskill:1990bm",
+  "tail": "~\\cite{Schwarz:1982ec,Alford:1990mk,Preskill:1990bm}, which ",
+  "ctx": "his leads to the fascinating and well-studied physics of Alice strings"
+ },
+ {
+  "start": 184022,
+  "end": 184031,
+  "line": 1134,
+  "kind": "cite",
+  "val": "Chacko:2005pe",
+  "tail": "~\\cite{Chacko:2005pe}. The original incarnation of this mode",
+  "ctx": "ymmetry, which ameliorates quantum corrections to the Higgs boson mass"
+ },
+ {
+  "start": 184253,
+  "end": 184272,
+  "line": 1134,
+  "kind": "cite",
+  "val": "Geller:2014kta,Beauchesne:2015lva",
+  "tail": "~\\cite{Geller:2014kta,Beauchesne:2015lva}. We expect that su",
+  "ctx": " model assume an exact $bb(Z)_2$ symmetry that is spontaneously broken"
+ },
+ {
+  "start": 186713,
+  "end": 186742,
+  "line": 1151,
+  "kind": "cite",
+  "val": "378141,378220,378257",
+  "tail": " \\cite{378141,378220,378257}. We thank Sergio Cecotti, Meng ",
+  "ctx": "s of the structure of disconnected compact Lie groups on MathOverflow "
+ }
+]

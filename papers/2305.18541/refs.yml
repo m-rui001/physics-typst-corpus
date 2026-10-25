@@ -1,0 +1,966 @@
+"veitch2014resource":
+  type: article
+  title: "The resource theory of stabilizer quantum computation"
+  author: [{name: "Victor Veitch and S A Hamed Mousavian and Daniel Gottesman and Joseph Emerson"}]
+  date: 2014
+  parent: {type: periodical, title: "New Journal of Physics", volume: "16"}
+  page-range: "013009"
+  doi: "10.1088/1367-2630/16/1/013009"
+
+"RevModPhys.81.865":
+  type: article
+  title: "Quantum entanglement"
+  author: [{name: "Horodecki, Ryszard and Horodecki, Paweł and Horodecki, Michał and Horodecki, Karol"}]
+  date: 2009
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "81"}
+  page-range: "865-942"
+  doi: "10.1103/RevModPhys.81.865"
+
+"leone2022stabilizer":
+  type: article
+  title: "Stabilizer Rényi Entropy"
+  author: [{name: "Leone, Lorenzo and Oliviero, Salvatore F. E. and Hamma, Alioscia"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "128"}
+  page-range: "050402"
+  doi: "10.1103/PhysRevLett.128.050402"
+
+"haug2023quantifying":
+  type: article
+  title: "Quantifying nonstabilizerness of matrix product states"
+  author: [{name: "Haug, Tobias and Piroli, Lorenzo"}]
+  date: 2023
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "107"}
+  page-range: "035148"
+  doi: "10.1103/PhysRevB.107.035148"
+
+"haug2023stabilizer":
+  type: misc
+  title: "Stabilizer entropies and nonstabilizerness monotones"
+  author: [{name: "Tobias Haug and Lorenzo Piroli"}]
+  date: 2023
+  serial-number: "arXiv:arXiv:2303.10152"
+
+"ferris2012":
+  type: article
+  title: "Perfect sampling with unitary tensor networks"
+  author: [{name: "Ferris, Andrew J. and Vidal, Guifre"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "85"}
+  page-range: "165146"
+  doi: "10.1103/PhysRevB.85.165146"
+
+"Blote2002":
+  type: article
+  title: "Cluster Monte Carlo simulation of the transverse Ising model"
+  author: [{name: "Blöte, Henk W. J. and Deng, Youjin"}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "66"}
+  page-range: "066110"
+  doi: "10.1103/PhysRevE.66.066110"
+
+"gerster2014":
+  type: article
+  title: "Unconstrained tree tensor network: An adaptive gauge picture for enhanced performance"
+  author: [{name: "Gerster, M. and Silvi, P. and Rizzi, M. and Fazio, R. and Calarco, T. and Montangero, S."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "90"}
+  page-range: "125154"
+  doi: "10.1103/PhysRevB.90.125154"
+
+"Silvi2019":
+  type: article
+  title: "The Tensor Networks Anthology: Simulation techniques for many-body quantum lattice systems"
+  author: [{name: "Pietro Silvi and Ferdinand Tschirsich and Matthias Gerster and Johannes Jünemann and Daniel Jaschke and Matteo Rizzi and Simone Montangero"}]
+  date: 2019
+  parent: {type: periodical, title: "SciPost Physics Lecture Notes"}
+  doi: "10.21468/scipostphyslectnotes.8"
+
+"Sandvik2010":
+  type: article
+  title: "Computational Studies of Quantum Spin Systems"
+  author: [{name: "Anders W. Sandvik and Adolfo Avella and Ferdinando Mancini"}]
+  date: 2010
+  parent: {type: proceedings, title: "AIP Conference Proceedings"}
+  doi: "10.1063/1.3518900"
+
+"Schuh2008":
+  type: article
+  title: "Simulation of Quantum Many-Body Systems with Strings of Operators and Monte Carlo Tensor Contractions"
+  author: [{name: "Schuch, Norbert and Wolf, Michael M. and Verstraete, Frank and Cirac, J. Ignacio"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "100"}
+  page-range: "040501"
+  doi: "10.1103/PhysRevLett.100.040501"
+
+"Sandvik2007":
+  type: article
+  title: "Variational Quantum Monte Carlo Simulations with Tensor-Network States"
+  author: [{name: "Sandvik, A. W. and Vidal, G."}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "99"}
+  page-range: "220602"
+  doi: "10.1103/PhysRevLett.99.220602"
+
+"ferris2012_2":
+  type: article
+  title: "Variational Monte Carlo with the multiscale entanglement renormalization ansatz"
+  author: [{name: "Ferris, Andrew J. and Vidal, Guifre"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "85"}
+  page-range: "165147"
+  doi: "10.1103/PhysRevB.85.165147"
+
+"lami2023quantum":
+  type: misc
+  title: "Quantum Magic via Perfect Sampling of Matrix Product States"
+  author: [{name: "Guglielmo Lami and Mario Collura"}]
+  date: 2023
+  serial-number: "arXiv:2303.05536"
+
+"oliviero2022ising":
+  type: article
+  title: "Magic-state resource theory for the ground state of the transverse-field Ising model"
+  author: [{name: "Oliviero, Salvatore F. E. and Leone, Lorenzo and Hamma, Alioscia"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "106"}
+  page-range: "042426"
+  doi: "10.1103/PhysRevA.106.042426"
+
+"white2021":
+  type: article
+  title: "Conformal field theories are magical"
+  author: [{name: "White, Christopher David and Cao, ChunJun and Swingle, Brian"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  page-range: "075145"
+  doi: "10.1103/PhysRevB.103.075145"
+
+"deboer2019":
+  type: article
+  title: "Aspects of capacity of entanglement"
+  author: [{name: "de Boer, Jan and Järvelä, Jarkko and Keski-Vakkuri, Esko"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "99"}
+  page-range: "066012"
+  doi: "10.1103/PhysRevD.99.066012"
+
+"west2015":
+  type: article
+  title: "Efficient evaluation of high-order moments and cumulants in tensor network states"
+  author: [{name: "West, Colin G. and Garcia-Saez, Artur and Wei, Tzu-Chieh"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "92"}
+  page-range: "115103"
+  doi: "10.1103/PhysRevB.92.115103"
+
+"pillay2019":
+  type: article
+  title: "Cumulants and scaling functions of infinite matrix product states"
+  author: [{name: "Pillay, Jason C. and McCulloch, Ian P."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "100"}
+  page-range: "235140"
+  doi: "10.1103/PhysRevB.100.235140"
+
+"Oliviero_2022":
+  type: article
+  title: "Measuring magic on a quantum processor"
+  author: [{name: "Salvatore F. E. Oliviero and Lorenzo Leone and Alioscia Hamma and Seth Lloyd"}]
+  date: 2022
+  parent: {type: periodical, title: "npj Quantum Information", volume: "8"}
+  doi: "10.1038/s41534-022-00666-5"
+
+"chen2003":
+  type: article
+  title: "Ground-state phase diagram of S=1 XXZ chains with uniaxial single-ion-type anisotropy"
+  author: [{name: "Chen, Wei and Hida, Kazuo and Sanctuary, B. C."}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "67"}
+  page-range: "104401"
+  doi: "10.1103/PhysRevB.67.104401"
+
+"hu2011":
+  type: article
+  title: "Accurate determination of the Gaussian transition in spin-1 chains with single-ion anisotropy"
+  author: [{name: "Hu, Shijie and Normand, B. and Wang, Xiaoqun and Yu, Lu"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "84"}
+  page-range: "220402"
+  doi: "10.1103/PhysRevB.84.220402"
+
+"Langari2013":
+  type: article
+  title: "Ground-state fidelity of the spin-1 Heisenberg chain with single ion anisotropy: quantum renormalization group and exact diagonalization approaches"
+  author: [{name: "A Langari and F Pollmann and M Siahatgar"}]
+  date: 2013
+  parent: {type: periodical, title: "Journal of Physics: Condensed Matter", volume: "25"}
+  page-range: "406002"
+  doi: "10.1088/0953-8984/25/40/406002"
+
+"Wu1982":
+  type: article
+  title: "The Potts model"
+  author: [{name: "Wu, F. Y."}]
+  date: 1982
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "54"}
+  page-range: "235-268"
+  doi: "10.1103/RevModPhys.54.235"
+
+"leone2023":
+  type: article
+  title: "Nonstabilizerness determining the hardness of direct fidelity estimation"
+  author: [{name: "Leone, Lorenzo and Oliviero, Salvatore F. E. and Hamma, Alioscia"}]
+  date: 2023
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "107"}
+  page-range: "022429"
+  doi: "10.1103/PhysRevA.107.022429"
+
+"Wegner":
+  type: misc
+  title: "Duality in generalized Ising models"
+  author: [{name: "Wegner, Franz J."}]
+  date: 2014
+  serial-number: "arXiv:1411.5815"
+
+"Chib1995":
+  type: article
+  title: "Marginal Likelihood from the Gibbs Output"
+  author: [{name: "Siddhartha Chib"}]
+  date: 1995
+  parent: {type: periodical, title: "Journal of the American Statistical Association", volume: "90"}
+  page-range: "1313-1321"
+  doi: "10.1080/01621459.1995.10476635"
+
+"Gelfand1994":
+  type: article
+  title: "Bayesian Model Choice: Asymptotics and Exact Calculations"
+  author: [{name: "A. E. Gelfand and D. K. Dey"}]
+  date: 1994
+  parent: {type: periodical, title: "Journal of the Royal Statistical Society: Series B (Methodological)", volume: "56"}
+  page-range: "501-514"
+  doi: "10.1111/j.2517-6161.1994.tb01996.x"
+
+"Diciccio1997":
+  type: article
+  title: "Computing Bayes Factors by Combining Simulation and Asymptotic Approximations"
+  author: [{name: "Thomas J. Diciccio and Robert E. Kass and Adrian Raftery and Larry Wasserman"}]
+  date: 1997
+  parent: {type: periodical, title: "Journal of the American Statistical Association", volume: "92"}
+  page-range: "903-915"
+  doi: "10.1080/01621459.1997.10474045"
+
+"Neal2001":
+  type: article
+  title: ""
+  author: [{name: "Radford M. Neal"}]
+  date: 2001
+  parent: {type: periodical, title: "Statistics and Computing", volume: "11"}
+  page-range: "125-139"
+  doi: "10.1023/a:1008923215028"
+
+"Meng1996SIMULATINGRO":
+  type: article
+  title: "SIMULATING RATIOS OF NORMALIZING CONSTANTS VIA A SIMPLE IDENTITY: A THEORETICAL EXPLORATION"
+  author: [{name: "Xiao-Li Meng and Wing Hung Wong"}]
+  date: 1996
+
+"Zwanzig1954":
+  type: article
+  title: "High-Temperature Equation of State by a Perturbation Method. I. Nonpolar Gases"
+  author: [{name: "Robert W. Zwanzig"}]
+  date: 1954
+  parent: {type: periodical, title: "The Journal of Chemical Physics", volume: "22"}
+  page-range: "1420-1426"
+  doi: "10.1063/1.1740409"
+
+"Bennett1976":
+  type: article
+  title: "Efficient estimation of free energy differences from Monte Carlo data"
+  author: [{name: "Charles H Bennett"}]
+  date: 1976
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "22"}
+  page-range: "245-268"
+  doi: "10.1016/0021-9991(76)90078-4"
+
+"Meng1996":
+  type: article
+  title: "Fitting Full-Information Item Factor Models and an Empirical Investigation of Bridge Sampling"
+  author: [{name: "Xiao-Li Meng and Stephen Schilling"}]
+  date: 1996
+  parent: {type: periodical, title: "Journal of the American Statistical Association", volume: "91"}
+  page-range: "1254-1267"
+  doi: "10.1080/01621459.1996.10476995"
+
+"Gelman1998":
+  type: article
+  title: "Simulating normalizing constants: from importance sampling to bridge sampling to path sampling"
+  author: [{name: "Andrew Gelman and Xiao-Li Meng"}]
+  date: 1998
+  parent: {type: periodical, title: "Statistical Science", volume: "13"}
+  doi: "10.1214/ss/1028905934"
+
+"Chen2000":
+  type: article
+  title: "Monte Carlo Methods in Bayesian Computation"
+  author: [{name: "Ming-Hui Chen and Qi-Man Shao and Joseph G. Ibrahim"}]
+  date: 2000
+  doi: "10.1007/978-1-4612-1276-8"
+
+"Fliss2021":
+  type: article
+  title: "Knots, links, and long-range magic"
+  author: [{name: "Jackson R. Fliss"}]
+  date: 2021
+  parent: {type: periodical, title: "Journal of High Energy Physics", volume: "2021"}
+  doi: "10.1007/jhep04(2021)090"
+
+"wang2001":
+  type: article
+  title: "Efficient, Multiple-Range Random Walk Algorithm to Calculate the Density of States"
+  author: [{name: "Wang, Fugao and Landau, D. P."}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "86"}
+  page-range: "2050-2053"
+  doi: "10.1103/PhysRevLett.86.2050"
+
+"troyer2003":
+  type: article
+  title: "Flat Histogram Methods for Quantum Systems: Algorithms to Overcome Tunneling Problems and Calculate the Free Energy"
+  author: [{name: "Troyer, Matthias and Wessel, Stefan and Alet, Fabien"}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "90"}
+  page-range: "120201"
+  doi: "10.1103/PhysRevLett.90.120201"
+
+"Sarkar2020":
+  type: article
+  title: "Characterization of an operational quantum resource in a critical many-body system"
+  author: [{name: "S Sarkar and C Mukhopadhyay and A Bayat"}]
+  date: 2020
+  parent: {type: periodical, title: "New Journal of Physics", volume: "22"}
+  page-range: "083077"
+  doi: "10.1088/1367-2630/aba919"
+
+"Wolff1990":
+  type: article
+  title: "Critical slowing down"
+  author: [{name: "Ulli Wolff"}]
+  date: 1990
+  parent: {type: periodical, title: "Nuclear Physics B - Proceedings Supplements", volume: "17"}
+  page-range: "93-102"
+  doi: "10.1016/0920-5632(90)90224-i"
+
+"Wolff1989":
+  type: article
+  title: "Collective Monte Carlo Updating for Spin Systems"
+  author: [{name: "Wolff, Ulli"}]
+  date: 1989
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "62"}
+  page-range: "361-364"
+  doi: "10.1103/PhysRevLett.62.361"
+
+"Santos2011":
+  type: article
+  title: "Negativity for two blocks in the one-dimensional spin-1 Affleck-Kennedy-Lieb-Tasaki model"
+  author: [{name: "Santos, Raul A. and Korepin, V. and Bose, Sougato"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "84"}
+  page-range: "062307"
+  doi: "10.1103/PhysRevA.84.062307"
+
+"wang2019quantifying":
+  type: article
+  title: "Quantifying the magic of quantum channels"
+  author: [{name: "Xin Wang and Mark M Wilde and Yuan Su"}]
+  date: 2019
+  parent: {type: periodical, title: "New Journal of Physics", volume: "21"}
+  page-range: "103002"
+  doi: "10.1088/1367-2630/ab451d"
+
+"wang2020efficiently":
+  type: article
+  title: "Efficiently Computable Bounds for Magic State Distillation"
+  author: [{name: "Wang, Xin and Wilde, Mark M. and Su, Yuan"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "090505"
+  doi: "10.1103/PhysRevLett.124.090505"
+
+"haug2023":
+  type: article
+  title: "Scalable Measures of Magic Resource for Quantum Computers"
+  author: [{name: "Haug, Tobias and Kim, M.S."}]
+  date: 2023
+  parent: {type: periodical, title: "PRX Quantum", volume: "4"}
+  page-range: "010301"
+  doi: "10.1103/PRXQuantum.4.010301"
+
+"tirrito2023":
+  type: misc
+  title: "Quantifying non-stabilizerness through entanglement spectrum flatness"
+  author: [{name: "Emanuele Tirrito and Poetri Sonya Tarabunga and Gugliemo Lami and Titas Chanda and Lorenzo Leone and Salvatore F. E. Oliviero and Marcello Dalmonte and Mario Collura and Alioscia Hamma"}]
+  date: 2023
+  serial-number: "arXiv:arXiv:2304.01175"
+
+"nielsen2002quantum":
+  type: article
+  title: "Quantum Computation and Quantum Information"
+  author: [{name: "Michael A. Nielsen and Isaac L. Chuang"}]
+  date: 2012
+  doi: "10.1017/cbo9780511976667"
+
+"aaronson2004improved":
+  type: article
+  title: "Improved simulation of stabilizer circuits"
+  author: [{name: "Aaronson, Scott and Gottesman, Daniel"}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "70"}
+  page-range: "052328"
+  doi: "10.1103/PhysRevA.70.052328"
+
+"gottesman1997stabilizer":
+  type: misc
+  title: "Stabilizer Codes and Quantum Error Correction"
+  author: [{name: "Daniel Gottesman"}]
+  date: 1997
+  serial-number: "arXiv:arXiv:quant-ph/9705052"
+
+"gottesman1998theory":
+  type: article
+  title: "Theory of fault-tolerant quantum computation"
+  author: [{name: "Gottesman, Daniel"}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "57"}
+  page-range: "127-137"
+  doi: "10.1103/PhysRevA.57.127"
+
+"gottesman1998heisenberg":
+  type: misc
+  title: "The Heisenberg representation of quantum computers"
+  author: [{name: "Gottesman, Daniel"}]
+  date: 1998
+  serial-number: "arXiv:arXiv:quant-ph/9807006"
+
+"caraglio2008entanglement":
+  type: article
+  title: "Entanglement entropy and twist fields"
+  author: [{name: "Caraglio, Michele and Gliozzi, Ferdinando"}]
+  date: 2008
+  parent: {type: periodical, title: "Journal of High Energy Physics", volume: "2008"}
+  page-range: "076"
+
+"niroula2023phase":
+  type: misc
+  title: "Phase transition in magic with random quantum circuits"
+  author: [{name: "Pradeep Niroula and Christopher David White and Qingfeng Wang and Sonika Johri and Daiwei Zhu and Christopher Monroe and Crystal Noel and Michael J. Gullans"}]
+  date: 2023
+  serial-number: "arXiv:2304.10481"
+
+"calabrese2004entanglement":
+  type: article
+  title: "Entanglement entropy and quantum field theory"
+  author: [{name: "Calabrese, Pasquale and Cardy, John"}]
+  date: 2004
+  parent: {type: periodical, title: "Journal of statistical mechanics: theory and experiment", volume: "2004"}
+  serial-number: "P06002"
+
+"furukawa2009mutual":
+  type: article
+  title: "Mutual information and boson radius in a c= 1 critical system in one dimension"
+  author: [{name: "Furukawa, Shunsuke and Pasquier, Vincent and Shiraishi, Jun’ichi"}]
+  date: 2009
+  parent: {type: periodical, title: "Physical review letters", volume: "102"}
+  page-range: "170602"
+
+"casini2004finite":
+  type: article
+  title: "A finite entanglement entropy and the c-theorem"
+  author: [{name: "Casini, H and Huerta, M"}]
+  date: 2004
+  parent: {type: periodical, title: "Physics Letters B", volume: "600"}
+  page-range: "142-150"
+
+"liu2022":
+  type: article
+  title: "Many-Body Quantum Magic"
+  author: [{name: "Liu, Zi-Wen and Winter, Andreas"}]
+  date: 2022
+  parent: {type: periodical, title: "PRX Quantum", volume: "3"}
+  page-range: "020333"
+  doi: "10.1103/PRXQuantum.3.020333"
+
+"vedral1997quantifying":
+  type: article
+  title: "Quantifying Entanglement"
+  author: [{name: "Vedral, V. and Plenio, M. B. and Rippin, M. A. and Knight, P. L."}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "78"}
+  page-range: "2275-2279"
+  doi: "10.1103/PhysRevLett.78.2275"
+
+"horodecki2009quantum":
+  type: article
+  title: "Quantum entanglement"
+  author: [{name: "Horodecki, Ryszard and Horodecki, Paweł and Horodecki, Michał and Horodecki, Karol"}]
+  date: 2009
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "81"}
+  page-range: "865-942"
+  doi: "10.1103/RevModPhys.81.865"
+
+"smith2006typical":
+  type: article
+  title: "Typical entanglement of stabilizer states"
+  author: [{name: "Smith, Graeme and Leung, Debbie"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "74"}
+  page-range: "062314"
+  doi: "10.1103/PhysRevA.74.062314"
+
+"gutschow2010entanglement":
+  type: article
+  title: "Entanglement generation of Clifford quantum cellular automata"
+  author: [{name: "J. Gütschow"}]
+  date: 2009
+  parent: {type: periodical, title: "Applied Physics B", volume: "98"}
+  page-range: "623-633"
+  doi: "10.1007/s00340-009-3840-1"
+
+"preskill2012quantum":
+  type: misc
+  title: "Quantum computing and the entanglement frontier"
+  author: [{name: "John Preskill"}]
+  date: 2012
+  serial-number: "arXiv:arXiv:1203.5813"
+
+"harrow2017quantum":
+  type: article
+  title: "Quantum computational supremacy"
+  author: [{name: "Aram W. Harrow and Ashley Montanaro"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "549"}
+  page-range: "203-209"
+  doi: "10.1038/nature23458"
+
+"bravyi2005UniversalQuantumComputation":
+  type: article
+  title: "Universal quantum computation with ideal Clifford gates and noisy ancillas"
+  author: [{name: "Bravyi, Sergey and Kitaev, Alexei"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "71"}
+  page-range: "022316"
+  doi: "10.1103/PhysRevA.71.022316"
+
+"campbell2017roads":
+  type: article
+  title: "Roads towards fault-tolerant universal quantum computation"
+  author: [{name: "Earl T. Campbell and Barbara M. Terhal and Christophe Vuillot"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "549"}
+  page-range: "172-179"
+  doi: "10.1038/nature23460"
+
+"bravyi2012magic":
+  type: article
+  title: "Magic-state distillation with low overhead"
+  author: [{name: "Bravyi, Sergey and Haah, Jeongwan"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "86"}
+  page-range: "052329"
+  doi: "10.1103/PhysRevA.86.052329"
+
+"Veitch2012":
+  type: article
+  title: "Negative quasi-probability as a resource for quantum computation"
+  author: [{name: "Victor Veitch and Christopher Ferrie and David Gross and Joseph Emerson"}]
+  date: 2012
+  parent: {type: periodical, title: "New Journal of Physics", volume: "14"}
+  page-range: "113011"
+  doi: "10.1088/1367-2630/14/11/113011"
+
+"Wootters1987":
+  type: article
+  title: "A Wigner-function formulation of finite-state quantum mechanics"
+  author: [{name: "William K Wootters"}]
+  date: 1987
+  parent: {type: periodical, title: "Annals of Physics", volume: "176"}
+  page-range: "1-21"
+  doi: "10.1016/0003-4916(87)90176-x"
+
+"Gross2006":
+  type: article
+  title: "Hudson's theorem for finite-dimensional quantum systems"
+  author: [{name: "D. Gross"}]
+  date: 2006
+  parent: {type: periodical, title: "Journal of Mathematical Physics", volume: "47"}
+  page-range: "122107"
+  doi: "10.1063/1.2393152"
+
+"Arceci2022":
+  type: article
+  title: "Entanglement of Formation of Mixed Many-Body Quantum States via Tree Tensor Operators"
+  author: [{name: "Arceci, L. and Silvi, P. and Montangero, S."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "128"}
+  page-range: "040501"
+  doi: "10.1103/PhysRevLett.128.040501"
+
+"Tarabunga2022":
+  type: article
+  title: "Finite-temperature quantum discordant criticality"
+  author: [{name: "Tarabunga, Poetri Sonya and Mendes-Santos, Tiago and Illuminati, Fabrizio and Dalmonte, Marcello"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "105"}
+  page-range: "075104"
+  doi: "10.1103/PhysRevB.105.075104"
+
+"Wald_2020":
+  type: article
+  title: "Entanglement and classical fluctuations at finite-temperature critical points"
+  author: [{name: "Sascha Wald and Raúl Arias and Vincenzo Alba"}]
+  date: 2020
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2020"}
+  page-range: "033105"
+  doi: "10.1088/1742-5468/ab6b19"
+
+"Lu2020":
+  type: article
+  title: "Structure of quantum entanglement at a finite temperature critical point"
+  author: [{name: "Lu, Tsung-Cheng and Grover, Tarun"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Res.", volume: "2"}
+  page-range: "043345"
+  doi: "10.1103/PhysRevResearch.2.043345"
+
+"Lu_2019_2":
+  type: article
+  title: "Singularity in entanglement negativity across finite-temperature phase transitions"
+  author: [{name: "Lu, Tsung-Cheng and Grover, Tarun"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review B", volume: "99"}
+  page-range: "075157"
+  doi: "10.1103/physrevb.99.075157"
+
+"frerot2022":
+  type: article
+  title: "Thermal Critical Dynamics from Equilibrium Quantum Fluctuations"
+  author: [{name: "Frérot, Irénée and Rançon, Adam and Roscilde, Tommaso"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "128"}
+  page-range: "130601"
+  doi: "10.1103/PhysRevLett.128.130601"
+
+"montanaro2017":
+  type: misc
+  title: "Learning stabilizer states by Bell sampling"
+  author: [{name: "Ashley Montanaro"}]
+  date: 2017
+  serial-number: "arXiv:arXiv:1707.04012"
+
+"Gross2021":
+  type: article
+  title: "Schur–Weyl Duality for the Clifford Group with Applications: Property Testing, a Robust Hudson Theorem, and de Finetti Representations"
+  author: [{name: "David Gross and Sepehr Nezami and Michael Walter"}]
+  date: 2021
+  parent: {type: periodical, title: "Communications in Mathematical Physics", volume: "385"}
+  page-range: "1325-1393"
+  doi: "10.1007/s00220-021-04118-7"
+
+"odavi2022complexity":
+  type: misc
+  title: "Complexity of frustration: a new source of non-local non-stabilizerness"
+  author: [{name: "J. Odavić and T. Haug and G. Torre and A. Hamma and F. Franchini and S. M. Giampaolo"}]
+  date: 2022
+  serial-number: "arXiv:2209.10541"
+
+"bao2022":
+  type: article
+  title: "Magic state distillation from entangled states"
+  author: [{name: "Bao, Ning and Cao, ChunJun and Su, Vincent Paul"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "105"}
+  page-range: "022602"
+  doi: "10.1103/PhysRevA.105.022602"
+
+"Tzeng2008":
+  type: article
+  title: "Scaling properties of fidelity in the spin-1 anisotropic model"
+  author: [{name: "Tzeng, Yu-Chin and Yang, Min-Fong"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "77"}
+  page-range: "012311"
+  doi: "10.1103/PhysRevA.77.012311"
+
+"Cataldi2021":
+  type: article
+  title: "Hilbert curve vs Hilbert space: exploiting fractal 2D covering to increase tensor network efficiency"
+  author: [{name: "Giovanni Cataldi and Ashkan Abedi and Giuseppe Magnifico and Simone Notarnicola and Nicola Dalla Pozza and Vittorio Giovannetti and Simone Montangero"}]
+  date: 2021
+  parent: {type: periodical, title: "Quantum", volume: "5"}
+  page-range: "556"
+  doi: "10.22331/q-2021-09-29-556"
+
+"Felser2020":
+  type: article
+  title: "Two-Dimensional Quantum-Link Lattice Quantum Electrodynamics at Finite Density"
+  author: [{name: "Felser, Timo and Silvi, Pietro and Collura, Mario and Montangero, Simone"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "041040"
+  doi: "10.1103/PhysRevX.10.041040"
+
+"Magnifico2021":
+  type: article
+  title: "Lattice quantum electrodynamics in (3+1)-dimensions at finite density with tensor networks"
+  author: [{name: "Giuseppe Magnifico and Timo Felser and Pietro Silvi and Simone Montangero"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Communications", volume: "12"}
+  page-range: "3600"
+  doi: "10.1038/s41467-021-23646-3"
+
+"Felser2021":
+  type: article
+  title: "Efficient Tensor Network Ansatz for High-Dimensional Quantum Many-Body Problems"
+  author: [{name: "Felser, Timo and Notarnicola, Simone and Montangero, Simone"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "170603"
+  doi: "10.1103/PhysRevLett.126.170603"
+
+"tagliacozzo2009":
+  type: article
+  title: "Simulation of two-dimensional quantum systems using a tree tensor network that exploits the entropic area law"
+  author: [{name: "Tagliacozzo, L. and Evenbly, G. and Vidal, G."}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "80"}
+  page-range: "235127"
+  doi: "10.1103/PhysRevB.80.235127"
+
+"hastings2010":
+  type: article
+  title: "Measuring Renyi Entanglement Entropy in Quantum Monte Carlo Simulations"
+  author: [{name: "Hastings, Matthew B. and González, Iván and Kallin, Ann B. and Melko, Roger G."}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "104"}
+  page-range: "157201"
+  doi: "10.1103/PhysRevLett.104.157201"
+
+"humeniuk2012":
+  type: article
+  title: "Quantum Monte Carlo calculation of entanglement Rényi entropies for generic quantum systems"
+  author: [{name: "Humeniuk, Stephan and Roscilde, Tommaso"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "86"}
+  page-range: "235116"
+  doi: "10.1103/PhysRevB.86.235116"
+
+"Zhao2022":
+  type: article
+  title: "Measuring Rényi entanglement entropy with high efficiency and precision in quantum Monte Carlo simulations"
+  author: [{name: "Jiarui Zhao and Bin-Bin Chen and Yan-Cheng Wang and Zheng Yan and Meng Cheng and Zi Yang Meng"}]
+  date: 2022
+  parent: {type: periodical, title: "npj Quantum Materials", volume: "7"}
+  doi: "10.1038/s41535-022-00476-0"
+
+"kitaev2006":
+  type: article
+  title: "Topological Entanglement Entropy"
+  author: [{name: "Kitaev, Alexei and Preskill, John"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "96"}
+  page-range: "110404"
+  doi: "10.1103/PhysRevLett.96.110404"
+
+"itensor22":
+  type: article
+  title: "The ITensor Software Library for Tensor Network Calculations"
+  author: [{name: "Matthew Fishman and Steven R. White and E. Miles Stoudenmire"}]
+  date: 2022
+  parent: {type: periodical, title: "SciPost Phys. Codebases"}
+  page-range: "4"
+  doi: "10.21468/SciPostPhysCodeb.4"
+
+"turkeshi2023measuring":
+  type: misc
+  title: "Measuring Magic via Multifractal Flatness"
+  author: [{name: "Xhek Turkeshi and Marco Schirò and Piotr Sierant"}]
+  date: 2023
+  serial-number: "arXiv:2305.11797"
+
+"PhysRevLett.100.070502":
+  type: article
+  title: "Area Laws in Quantum Systems: Mutual Information and Correlations"
+  author: [{name: "Wolf, Michael M. and Verstraete, Frank and Hastings, Matthew B. and Cirac, J. Ignacio"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "100"}
+  page-range: "070502"
+  doi: "10.1103/PhysRevLett.100.070502"
+
+"PhysRevLett.130.021603":
+  type: article
+  title: "Rényi Mutual Information in Quantum Field Theory"
+  author: [{name: "Kudler-Flam, Jonah"}]
+  date: 2023
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "130"}
+  page-range: "021603"
+  doi: "10.1103/PhysRevLett.130.021603"
+
+"casini2007mutual":
+  type: article
+  title: "Mutual information challenges entropy bounds"
+  author: [{name: "Casini, Horacio"}]
+  date: 2007
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "24"}
+  page-range: "1293"
+  doi: "10.1088/0264-9381/24/5/013"
+
+"PhysRevResearch.4.033212":
+  type: article
+  title: "Mutual information for fermionic systems"
+  author: [{name: "Lepori, Luca and Paganelli, Simone and Franchini, Fabio and Trombettoni, Andrea"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Res.", volume: "4"}
+  page-range: "033212"
+  doi: "10.1103/PhysRevResearch.4.033212"
+
+"matsuda1996mutual":
+  type: article
+  title: "Mutual information of Ising systems"
+  author: [{name: "Matsuda, Hiroyuki and Kudo, Kiyoshi and Nakamura, Ryoku and Yamakawa, Osamu and Murata, Takuo"}]
+  date: 1996
+  parent: {type: periodical, title: "International Journal of Theoretical Physics", volume: "35"}
+  page-range: "839-845"
+  doi: "10.1007/BF02330576"
+
+"PhysRevB.82.100409":
+  type: article
+  title: "Finite-size scaling of mutual information in Monte Carlo simulations: Application to the spin-1/2 XXZ model"
+  author: [{name: "Melko, Roger G. and Kallin, Ann B. and Hastings, Matthew B."}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "82"}
+  page-range: "100409"
+  doi: "10.1103/PhysRevB.82.100409"
+
+"PhysRevLett.106.135701":
+  type: article
+  title: "Finite-Temperature Critical Behavior of Mutual Information"
+  author: [{name: "Singh, Rajiv R. P. and Hastings, Matthew B. and Kallin, Ann B. and Melko, Roger G."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "106"}
+  page-range: "135701"
+  doi: "10.1103/PhysRevLett.106.135701"
+
+"wilms2011mutual":
+  type: article
+  title: "Mutual information in classical spin models"
+  author: [{name: "Wilms, Johannes and Troyer, Matthias and Verstraete, Frank"}]
+  date: 2011
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2011"}
+  serial-number: "P10011"
+  doi: "10.1088/1742-5468/2011/10/P10011"
+
+"wilms2012finite":
+  type: article
+  title: "Finite-temperature mutual information in a simple phase transition"
+  author: [{name: "Wilms, Johannes and Vidal, Julien and Verstraete, Frank and Dusuel, Sébastien"}]
+  date: 2012
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2012"}
+  serial-number: "P01023"
+  doi: "10.1088/1742-5468/2012/01/P01023"
+
+"SCHOLLWOCK201196":
+  type: article
+  title: "The density-matrix renormalization group in the age of matrix product states"
+  author: [{name: "Ulrich Schollwöck"}]
+  date: 2011
+  parent: {type: periodical, title: "Annals of Physics", volume: "326"}
+  page-range: "96-192"
+  doi: "https://doi.org/10.1016/j.aop.2010.09.012"
+
+"ORUS2014117":
+  type: article
+  title: "A practical introduction to tensor networks: Matrix product states and projected entangled pair states"
+  author: [{name: "Román Orús"}]
+  date: 2014
+  parent: {type: periodical, title: "Annals of Physics", volume: "349"}
+  page-range: "117-158"
+  doi: "https://doi.org/10.1016/j.aop.2014.06.013"
+
+"rattacaso2023stabilizer":
+  type: misc
+  title: "Stabilizer entropy dynamics after a quantum quench"
+  author: [{name: "Davide Rattacaso and Lorenzo Leone and Salvatore F. E. Oliviero and Alioscia Hamma"}]
+  date: 2023
+  serial-number: "arXiv:2304.13768"
+
+"levin2006":
+  type: article
+  title: "Detecting Topological Order in a Ground State Wave Function"
+  author: [{name: "Levin, Michael and Wen, Xiao-Gang"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "96"}
+  page-range: "110405"
+  doi: "10.1103/PhysRevLett.96.110405"
+
+"gerster2017":
+  type: article
+  title: "Fractional quantum Hall effect in the interacting Hofstadter model via tensor networks"
+  author: [{name: "Gerster, M. and Rizzi, M. and Silvi, P. and Dalmonte, M. and Montangero, S."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "96"}
+  page-range: "195123"
+  doi: "10.1103/PhysRevB.96.195123"
+
+"amico2008":
+  type: article
+  title: "Entanglement in many-body systems"
+  author: [{name: "Amico, Luigi and Fazio, Rosario and Osterloh, Andreas and Vedral, Vlatko"}]
+  date: 2008
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "80"}
+  page-range: "517-576"
+  doi: "10.1103/RevModPhys.80.517"
+
+"chen2011":
+  type: article
+  title: "Classification of gapped symmetric phases in one-dimensional spin systems"
+  author: [{name: "Chen, Xie and Gu, Zheng-Cheng and Wen, Xiao-Gang"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "83"}
+  page-range: "035107"
+  doi: "10.1103/PhysRevB.83.035107"
+
+"schuh2011":
+  type: article
+  title: "Classifying quantum phases using matrix product states and projected entangled pair states"
+  author: [{name: "Schuch, Norbert and Pérez-García, David and Cirac, Ignacio"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "84"}
+  page-range: "165139"
+  doi: "10.1103/PhysRevB.84.165139"
+
+"Calabrese2005":
+  type: article
+  title: "Evolution of entanglement entropy in one-dimensional systems"
+  author: [{name: "Pasquale Calabrese and John Cardy"}]
+  date: 2005
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2005"}
+  serial-number: "P04010"
+  doi: "10.1088/1742-5468/2005/04/p04010"
+
+"Gheorghiu2014":
+  type: article
+  title: "Standard form of qudit stabilizer groups"
+  author: [{name: "Vlad Gheorghiu"}]
+  date: 2014
+  parent: {type: periodical, title: "Physics Letters A", volume: "378"}
+  page-range: "505-509"
+  doi: "10.1016/j.physleta.2013.12.009"
+
+"kadowasa2023":
+  type: article
+  title: ""
+  author: [{name: "Kadosawa, M. and Nakamura, M. and Ohta, Y. and Nishimoto, S."}]
+  date: 2023
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "107"}
+  serial-number: "L081104"
+  doi: "10.1103/PhysRevB.107.L081104"

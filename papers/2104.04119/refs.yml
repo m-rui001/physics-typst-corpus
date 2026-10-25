@@ -1,0 +1,558 @@
+"Hauschild18":
+  type: article
+  title: "Efficient numerical simulations with Tensor Networks: Tensor Network Python (TeNPy)"
+  author: [{name: "Johannes Hauschild and Frank Pollmann"}]
+  date: 2018
+  parent: {type: periodical, title: "SciPost Phys. Lect. Notes"}
+  page-range: "5"
+  doi: "10.21468/SciPostPhysLectNotes.5"
+
+"White92":
+  type: article
+  title: "Density matrix formulation for quantum renormalization groups"
+  author: [{name: "White, Steven R."}]
+  date: 1992
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "69"}
+  page-range: "2863-2866"
+  doi: "10.1103/PhysRevLett.69.2863"
+
+"White93":
+  type: article
+  title: "Density-matrix algorithms for quantum renormalization groups"
+  author: [{name: "White, Steven R."}]
+  date: 1993
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "48"}
+  page-range: "10345-10356"
+  doi: "10.1103/PhysRevB.48.10345"
+
+"Stoudenmire12":
+  type: article
+  title: "Studying Two-Dimensional Systems with the Density Matrix Renormalization Group"
+  author: [{name: "Stoudenmire, E.M. and White, Steven R."}]
+  date: 2012
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "3"}
+  page-range: "111-128"
+  doi: "10.1146/annurev-conmatphys-020911-125018"
+
+"Zaletel15":
+  type: article
+  title: "Time-evolving a matrix product state with long-ranged interactions"
+  author: [{name: "Zaletel, Michael P. and Mong, Roger S. K. and Karrasch, Christoph and Moore, Joel E. and Pollmann, Frank"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "91"}
+  page-range: "165112"
+  doi: "10.1103/PhysRevB.91.165112"
+
+"Ebadi2020":
+  type: article
+  title: "Quantum Phases of Matter on a 256-Atom Programmable Quantum Simulator"
+  author: [{name: "Ebadi, Sepehr and Wang, Tout T. and Levine, Harry and Keesling, Alexander and Semeghini, Giulia and Omran, Ahmed and Bluvstein, Dolev and Samajdar, Rhine and Pichler, Hannes and Ho, Wen Wei and Choi, Soonwon and Sachdev, Subir and Greiner, Markus and Vuletic, Vladan and Lukin, Mikhail D."}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2012.12281"}
+
+"Bluvstein2020":
+  type: article
+  title: "Controlling many-body dynamics with driven quantum scars in Rydberg atom arrays"
+  author: [{name: "Bluvstein, Dolev and Omran, Ahmed and Levine, Harry and Keesling, Alexander and Semeghini, Giulia and Ebadi, Sepehr and Wang, Tout T. and Michailidis, Alexios A. and Maskara, Nishad and Ho, Wen Wei and Choi, Soonwon and Serbyn, Maksym and Greiner, Markus and Vuletic, Vladan and Lukin, Mikhail"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2012.12276"}
+
+"Anderson73":
+  type: article
+  title: "Resonating valence bonds: A new kind of insulator?"
+  author: [{name: "P.W. Anderson"}]
+  date: 1973
+  parent: {type: periodical, title: "Materials Research Bulletin", volume: "8"}
+  page-range: "153-160"
+  doi: "https://doi.org/10.1016/0025-5408(73)90167-0"
+
+"Read91":
+  type: article
+  title: "Large-N expansion for frustrated quantum antiferromagnets"
+  author: [{name: "Read, N. and Sachdev, Subir"}]
+  date: 1991
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "66"}
+  page-range: "1773-1776"
+  doi: "10.1103/PhysRevLett.66.1773"
+
+"Misguich02":
+  type: article
+  title: "Quantum Dimer Model on the Kagome Lattice: Solvable Dimer-Liquid and Ising Gauge Theory"
+  author: [{name: "Misguich, G. and Serban, D. and Pasquier, V."}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "89"}
+  page-range: "137202"
+  doi: "10.1103/PhysRevLett.89.137202"
+
+"Zhou20":
+  type: article
+  title: "Experimental Realization of Spin Liquids in a Programmable Quantum Device"
+  author: [{name: "Zhou, Shiyu and Green, Dmitry and Dahl, Edward D. and Chamon, Claudio"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv e-prints"}
+  serial-number: "arXiv:2009.07853"
+
+"Fradkin79":
+  type: article
+  title: "Phase diagrams of lattice gauge theories with Higgs fields"
+  author: [{name: "Fradkin, Eduardo and Shenker, Stephen H."}]
+  date: 1979
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "19"}
+  page-range: "3682-3697"
+  doi: "10.1103/PhysRevD.19.3682"
+
+"Turner18":
+  type: article
+  title: "Quantum scarred eigenstates in a Rydberg atom chain: Entanglement, breakdown of thermalization, and stability to perturbations"
+  author: [{name: "Turner, C. J. and Michailidis, A. A. and Abanin, D. A. and Serbyn, M. and Papić, Z."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "155134"
+  doi: "10.1103/PhysRevB.98.155134"
+
+"Sutherland88":
+  type: article
+  title: "Systems with resonating-valence-bond ground states: Correlations and excitations"
+  author: [{name: "Sutherland, Bill"}]
+  date: 1988
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "37"}
+  page-range: "3786-3789"
+  doi: "10.1103/PhysRevB.37.3786"
+
+"Halperin20":
+  type: misc
+  title: "Fractional Quantum Hall Effects"
+  author: [{name: "Halperin, Bertrand I and Jain, Jainendra K"}]
+  date: 2020
+  serial-number: "arXiv:https://www.worldscientific.com/doi/pdf/10.1142/11751"
+  doi: "10.1142/11751"
+
+"Gregor11":
+  type: article
+  title: "Diagnosing deconfinement and topological order"
+  author: [{name: "K Gregor and David A Huse and R Moessner and S L Sondhi"}]
+  date: 2011
+  parent: {type: periodical, title: "New Journal of Physics", volume: "13"}
+  page-range: "025009"
+  doi: "10.1088/1367-2630/13/2/025009"
+
+"Moessner01":
+  type: article
+  title: "Resonating Valence Bond Phase in the Triangular Lattice Quantum Dimer Model"
+  author: [{name: "Moessner, R. and Sondhi, S. L."}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "86"}
+  page-range: "1881-1884"
+  doi: "10.1103/PhysRevLett.86.1881"
+
+"Rokhsar88":
+  type: article
+  title: "Superconductivity and the Quantum Hard-Core Dimer Gas"
+  author: [{name: "Rokhsar, Daniel S. and Kivelson, Steven A."}]
+  date: 1988
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "61"}
+  page-range: "2376-2379"
+  doi: "10.1103/PhysRevLett.61.2376"
+
+"Lieb61":
+  type: article
+  title: "Two soluble models of an antiferromagnetic chain"
+  author: [{name: "Elliott Lieb and Theodore Schultz and Daniel Mattis"}]
+  date: 1961
+  parent: {type: periodical, title: "Annals of Physics", volume: "16"}
+  page-range: "407-466"
+  doi: "https://doi.org/10.1016/0003-4916(61)90115-4"
+
+"Po17":
+  type: article
+  title: "Lattice Homotopy Constraints on Phases of Quantum Magnets"
+  author: [{name: "Po, Hoi Chun and Watanabe, Haruki and Jian, Chao-Ming and Zaletel, Michael P."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "119"}
+  page-range: "127202"
+  doi: "10.1103/PhysRevLett.119.127202"
+
+"lukin2001":
+  type: article
+  title: "Dipole Blockade and Quantum Information Processing in Mesoscopic Atomic Ensembles"
+  author: [{name: "Lukin, M. D. and Fleischhauer, M. and Cote, R. and Duan, L. M. and Jaksch, D. and Cirac, J. I. and Zoller, P."}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "87"}
+  page-range: "037901"
+  doi: "10.1103/PhysRevLett.87.037901"
+
+"jaksch2000":
+  type: article
+  title: "Fast quantum gates for neutral atoms"
+  author: [{name: "Jaksch, D and Cirac, J I and Zoller, P and Rolston, S L and Côté, R and Lukin, Mikhail D"}]
+  date: 2000
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "85"}
+  page-range: "2208"
+  doi: "10.1103/PhysRevLett.85.2208"
+
+"WenReview2017":
+  type: article
+  title: "Colloquium: Zoo of quantum-topological phases of matter"
+  author: [{name: "Wen, Xiao-Gang"}]
+  date: 2017
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "89"}
+  page-range: "041004"
+  doi: "10.1103/RevModPhys.89.041004"
+
+"Glaetzle14":
+  type: article
+  title: "Quantum Spin-Ice and Dimer Models with Rydberg Atoms"
+  author: [{name: "Glaetzle, A. W. and Dalmonte, M. and Nath, R. and Rousochatzakis, I. and Moessner, R. and Zoller, P."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "4"}
+  page-range: "041037"
+  doi: "10.1103/PhysRevX.4.041037"
+
+"Celi20":
+  type: article
+  title: "Emerging Two-Dimensional Gauge Theories in Rydberg Configurable Arrays"
+  author: [{name: "Celi, Alessio and Vermersch, Benoît and Viyuela, Oscar and Pichler, Hannes and Lukin, Mikhail D. and Zoller, Peter"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "021057"
+  doi: "10.1103/PhysRevX.10.021057"
+
+"SachdevReview2018":
+  type: article
+  title: "Topological order, emergent gauge fields, and Fermi surface reconstruction"
+  author: [{name: "Subir Sachdev"}]
+  date: 2018
+  parent: {type: periodical, title: "Reports on Progress in Physics", volume: "82"}
+  page-range: "014001"
+  doi: "10.1088/1361-6633/aae110"
+
+"Kitaev2003fault":
+  type: article
+  title: "Fault-tolerant quantum computation by anyons"
+  author: [{name: "A.Yu. Kitaev"}]
+  date: 2003
+  parent: {type: periodical, title: "Annals of Physics", volume: "303"}
+  serial-number: "2 - 30"
+  doi: "https://doi.org/10.1016/S0003-4916(02)00018-0"
+
+"balents2010spin":
+  type: article
+  title: "Spin liquids in frustrated magnets"
+  author: [{name: "Balents, Leon"}]
+  date: 2010
+  parent: {type: periodical, title: "Nature", volume: "464"}
+  page-range: "199-208"
+  doi: "10.1038/nature08917"
+
+"savary2016quantum":
+  type: article
+  title: "Quantum spin liquids: a review"
+  author: [{name: "Lucile Savary and Leon Balents"}]
+  date: 2016
+  parent: {type: periodical, title: "Reports on Progress in Physics", volume: "80"}
+  page-range: "016502"
+  doi: "10.1088/0034-4885/80/1/016502"
+
+"Ruben2020":
+  type: article
+  title: "Prediction of Toric Code Topological Order from Rydberg Blockade"
+  author: [{name: "Verresen, Ruben and Lukin, Mikhail D. and Vishwanath, Ashvin"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2011.12310"}
+
+"Rhine2020a":
+  type: article
+  title: "Quantum phases of Rydberg atoms on a kagome lattice"
+  author: [{name: "Samajdar, Rhine and Ho, Wen Wei and Pichler, Hannes and Lukin, Mikhail D. and Sachdev, Subir"}]
+  date: 2021
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "118"}
+  serial-number: "e2015785118"
+  doi: "10.1073/pnas.2015785118"
+
+"BF1983":
+  type: article
+  title: "An order parameter distinguishing between different phases of lattice gauge theories with matter fields"
+  author: [{name: "Jean Bricmont and Jürg Frölich"}]
+  date: 1983
+  parent: {type: periodical, title: "Physics Letters B", volume: "122"}
+  page-range: "73-77"
+  doi: "https://doi.org/10.1016/0370-2693(83)91171-1"
+
+"FM1983":
+  type: article
+  title: "Charged states in Z₂ gauge theories"
+  author: [{name: "Klaus Fredenhagen and Mihail Marcu"}]
+  date: 1983
+  parent: {type: periodical, title: "Communications in Mathematical Physics", volume: "92"}
+  serial-number: "81 - 119"
+  doi: "cmp/1103940736"
+
+"FM1986":
+  type: article
+  title: "Confinement criterion for QCD with dynamical quarks"
+  author: [{name: "Fredenhagen, Klaus and Marcu, Mihail"}]
+  date: 1986
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "56"}
+  page-range: "223-224"
+  doi: "10.1103/PhysRevLett.56.223"
+
+"FM1988":
+  type: article
+  title: "Dual interpretation of order parameters for lattice gauge theories with matter fields"
+  author: [{name: "Klaus Fredenhagen and Mihail Marcu"}]
+  date: 1988
+  parent: {type: periodical, title: "Nuclear Physics B - Proceedings Supplements", volume: "4"}
+  page-range: "352-357"
+  doi: "https://doi.org/10.1016/0920-5632(88)90124-7"
+
+"Duan2003":
+  type: article
+  title: "Controlling Spin Exchange Interactions of Ultracold Atoms in Optical Lattices"
+  author: [{name: "Duan, L.-M. and Demler, E. and Lukin, M. D."}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "91"}
+  page-range: "090402"
+  doi: "10.1103/PhysRevLett.91.090402"
+
+"Hermele2009":
+  type: article
+  title: "Mott Insulators of Ultracold Fermionic Alkaline Earth Atoms: Underconstrained Magnetism and Chiral Spin Liquid"
+  author: [{name: "Hermele, Michael and Gurarie, Victor and Rey, Ana Maria"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "103"}
+  page-range: "135301"
+  doi: "10.1103/PhysRevLett.103.135301"
+
+"Yao2013":
+  type: article
+  title: "Realizing Fractional Chern Insulators in Dipolar Spin Systems"
+  author: [{name: "Yao, N. Y. and Gorshkov, A. V. and Laumann, C. R. and Läuchli, A. M. and Ye, J. and Lukin, M. D."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "110"}
+  page-range: "185302"
+  doi: "10.1103/PhysRevLett.110.185302"
+
+"YoungLee2012":
+  type: article
+  title: "Fractionalized excitations in the spin-liquid state of a kagome-lattice antiferromagnet"
+  author: [{name: "Han, Tian-Heng and Helton, Joel S. and Chu, Shaoyan and Nocera, Daniel G. and Rodriguez-Rivera, Jose A. and Broholm, Collin and Lee, Young S."}]
+  date: 2012
+  parent: {type: periodical, title: "Nature", volume: "492"}
+  page-range: "406-410"
+  doi: "10.1038/nature11659"
+
+"Imai2015":
+  type: article
+  title: "Evidence for a gapped spin-liquid ground state in a kagome Heisenberg antiferromagnet"
+  author: [{name: "Fu, Mingxuan and Imai, Takashi and Han, Tian-Heng and Lee, Young S."}]
+  date: 2015
+  parent: {type: periodical, title: "Science", volume: "350"}
+  page-range: "655-658"
+  doi: "10.1126/science.aab2120"
+
+"Feng2017":
+  type: article
+  title: "Gapped Spin-1/2 Spinon Excitations in a New Kagome Quantum Spin Liquid Compound Cu 3 Zn(OH) 6 FBr"
+  author: [{name: "Zili Feng and Zheng Li and Xin Meng and Wei Yi and Yuan Wei and Jun Zhang and Yan-Cheng Wang and Wei Jiang and Zheng Liu and Shiyan Li and Feng Liu and Jianlin Luo and Shiliang Li and Guo-qing Zheng and Zi Yang Meng and Jia-Wei Mei and Youguo Shi"}]
+  date: 2017
+  parent: {type: periodical, title: "Chinese Physics Letters", volume: "34"}
+  page-range: "077502"
+  doi: "10.1088/0256-307x/34/7/077502"
+
+"katoAdiabaticTheoremQuantum1950":
+  type: article
+  title: "On the Adiabatic Theorem of Quantum Mechanics"
+  author: [{name: "Kato, Tosio"}]
+  date: 1950
+  parent: {type: periodical, title: "Journal of the Physical Society of Japan", volume: "5"}
+  page-range: "435-439"
+  doi: "10.1143/JPSJ.5.435"
+
+"zurekDynamicsQuantumPhase2005":
+  type: article
+  title: "Dynamics of a Quantum Phase Transition"
+  author: [{name: "Zurek, Wojciech H and Dorner, Uwe and Zoller, Peter"}]
+  date: 2005
+  parent: {type: periodical, title: "Physical Review Letters", volume: "95"}
+  page-range: "105701"
+  doi: "10.1103/PhysRevLett.95.105701"
+
+"polkovnikovUniversalAdiabaticDynamics2005":
+  type: article
+  title: "Universal Adiabatic Dynamics in the Vicinity of a Quantum Critical Point"
+  author: [{name: "Polkovnikov, Anatoli"}]
+  date: 2005
+  parent: {type: periodical, title: "Physical Review B", volume: "72"}
+  page-range: "161201"
+  doi: "10.1103/PhysRevB.72.161201"
+
+"dziarmagaDynamicsQuantumPhase2005a":
+  type: article
+  title: "Dynamics of a Quantum Phase Transition: Exact Solution of the Quantum Ising Model"
+  author: [{name: "Dziarmaga, Jacek"}]
+  date: 2005
+  parent: {type: periodical, title: "Physical Review Letters", volume: "95"}
+  page-range: "245701"
+  doi: "10.1103/PhysRevLett.95.245701"
+
+"Nayak2008":
+  type: article
+  title: "Non-Abelian anyons and topological quantum computation"
+  author: [{name: "Nayak, Chetan and Simon, Steven H. and Stern, Ady and Freedman, Michael and Das Sarma, Sankar"}]
+  date: 2008
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "80"}
+  page-range: "1083-1159"
+  doi: "10.1103/RevModPhys.80.1083"
+
+"Supplement":
+  type: article
+  title: "Materials and methods are available as supplementary materials."
+
+"SachdevPRB1992":
+  type: article
+  title: "Kagomé- and triangular-lattice Heisenberg antiferromagnets: Ordering from quantum fluctuations and quantum-disordered ground states with unconfined bosonic spinons"
+  author: [{name: "Sachdev, Subir"}]
+  date: 1992
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "45"}
+  page-range: "12377-12396"
+  doi: "10.1103/PhysRevB.45.12377"
+
+"KitaevPreskill4D":
+  type: article
+  title: "Topological quantum memory"
+  author: [{name: "Dennis,Eric and Kitaev,Alexei and Landahl,Andrew and Preskill,John"}]
+  date: 2002
+  parent: {type: periodical, title: "Journal of Mathematical Physics", volume: "43"}
+  page-range: "4452-4505"
+  doi: "10.1063/1.1499754"
+
+"dai_four-body_2017":
+  type: article
+  title: "Four-body ring-exchange interactions and anyonic statistics within a minimal toric-code Hamiltonian"
+  author: [{name: "Dai, Han-Ning and Yang, Bing and Reingruber, Andreas and Sun, Hui and Xu, Xiao-Fan and Chen, Yu-Ao and Yuan, Zhen-Sheng and Pan, Jian-Wei"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature Physics", volume: "13"}
+  page-range: "1195-1200"
+  doi: "10.1038/nphys4243"
+
+"JWPanPRL2018":
+  type: article
+  title: "Demonstration of Topological Robustness of Anyonic Braiding Statistics with a Superconducting Quantum Circuit"
+  author: [{name: "Song, Chao and Xu, Da and Zhang, Pengfei and Wang, Jianwen and Guo, Qiujiang and Liu, Wuxin and Xu, Kai and Deng, Hui and Huang, Keqiang and Zheng, Dongning and Zheng, Shi-Biao and Wang, H. and Zhu, Xiaobo and Lu, Chao-Yang and Pan, Jian-Wei"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "030502"
+  doi: "10.1103/PhysRevLett.121.030502"
+
+"Wallraff2020":
+  type: article
+  title: "Repeated quantum error detection in a surface code"
+  author: [{name: "Andersen, Christian Kraglund and Remm, Ants and Lazar, Stefania and Krinner, Sebastian and Lacroix, Nathan and Norris, Graham J. and Gabureac, Mihai and Eichler, Christopher and Wallraff, Andreas"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "875-880"
+  doi: "10.1038/s41567-020-0920-y"
+
+"Cong2019":
+  type: article
+  title: "Quantum convolutional neural networks"
+  author: [{name: "Cong, Iris and Choi, Soonwon and Lukin, Mikhail D."}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Physics", volume: "15"}
+  page-range: "1273-1278"
+  doi: "10.1038/s41567-019-0648-8"
+
+"HastingsWen2005":
+  type: article
+  title: "Quasiadiabatic continuation of quantum states: The stability of topological ground-state degeneracy and emergent gauge invariance"
+  author: [{name: "Hastings, M. B. and Wen, Xiao-Gang"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "72"}
+  page-range: "045141"
+  doi: "10.1103/PhysRevB.72.045141"
+
+"KitaevHoneycomb":
+  type: article
+  title: "Anyons in an exactly solved model and beyond"
+  author: [{name: "Alexei Kitaev"}]
+  date: 2006
+  parent: {type: periodical, title: "Annals of Physics", volume: "321"}
+  page-range: "2-111"
+  doi: "https://doi.org/10.1016/j.aop.2005.10.005"
+
+"CiracLGT2020":
+  type: article
+  title: "Simulating lattice gauge theories within quantum technologies"
+  author: [{name: "Bañuls, Mari Carmen and Blatt, Rainer and Catani, Jacopo and Celi, Alessio and Cirac, Juan Ignacio and Dalmonte, Marcello and Fallani, Leonardo and Jansen, Karl and Lewenstein, Maciej and Montangero, Simone and Muschik, Christine A. and Reznik, Benni and Rico, Enrique and Tagliacozzo, Luca and Van Acoleyen, Karel and Verstraete, Frank and Wiese, Uwe-Jens and Wingate, Matthew and Zakrzewski, Jakub and Zoller, Peter"}]
+  date: 2020
+  parent: {type: periodical, title: "The European Physical Journal D", volume: "74"}
+  page-range: "165"
+  doi: "10.1140/epjd/e2020-100571-8"
+
+"Lewenstein2013":
+  type: article
+  title: "Optical Abelian lattice gauge theories"
+  author: [{name: "L. Tagliacozzo and A. Celi and A. Zamora and M. Lewenstein"}]
+  date: 2013
+  parent: {type: periodical, title: "Annals of Physics", volume: "330"}
+  page-range: "160-191"
+  doi: "https://doi.org/10.1016/j.aop.2012.11.009"
+
+"BrowaeysSSH":
+  type: article
+  title: "Observation of a symmetry-protected topological phase of interacting bosons with Rydberg atoms"
+  author: [{name: "de Léséleuc, Sylvain and Lienhard, Vincent and Scholl, Pascal and Barredo, Daniel and Weber, Sebastian and Lang, Nicolai and Büchler, Hans Peter and Lahaye, Thierry and Browaeys, Antoine"}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "365"}
+  page-range: "775-780"
+  doi: "10.1126/science.aav9105"
+
+"Scholl2020":
+  type: article
+  title: "Programmable quantum simulation of 2D antiferromagnets with hundreds of Rydberg atoms"
+  author: [{name: "Scholl, Pascal and Michael, Schuler and Williams, Hannah J. and Eberthaler, Alexander A. and Barredo, Daniel and Schymik, Kai-Niklas and Lienhard, Vincent and Henry, Louis-Paul and Lang, Thomas C. and Lahaye, Thierry and Läuchli, Andreas M. and Browaeys, Antoine"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2012.12268"}
+
+"Google2021":
+  type: article
+  title: "Realizing topologically ordered states on a quantum processor"
+  author: [{name: "K. J. Satzinger and Y. Liu and A. Smith and C. Knapp and M. Newman and C. Jones and Z. Chen and C. Quintana and X. Mi and A. Dunsworth and C. Gidney and I. Aleiner and F. Arute and K. Arya and J. Atalaya and R. Babbush and J. C. Bardin and R. Barends and J. Basso and A. Bengtsson and A. Bilmes and M. Broughton and B. B. Buckley and D. A. Buell and B. Burkett and N. Bushnell and B. Chiaro and R. Collins and W. Courtney and S. Demura and A. R. Derk and D. Eppens and C. Erickson and E. Farhi and L. Foaro and A. G. Fowler and B. Foxen and M. Giustina and A. Greene and J. A. Gross and M. P. Harrigan and S. D. Harrington and J. Hilton and S. Hong and T. Huang and W. J. Huggins and L. B. Ioffe and S. V. Isakov and E. Jeffrey and Z. Jiang and D. Kafri and K. Kechedzhi and T. Khattar and S. Kim and P. V. Klimov and A. N. Korotkov and F. Kostritsa and D. Landhuis and P. Laptev and A. Locharla and E. Lucero and O. Martin and J. R. McClean and M. McEwen and K. C. Miao and M. Mohseni and S. Montazeri and W. Mruczkiewicz and J. Mutus and O. Naaman and M. Neeley and C. Neill and M. Y. Niu and T. E. O'Brien and A. Opremcak and B. Pató and A. Petukhov and N. C. Rubin and D. Sank and V. Shvarts and D. Strain and M. Szalay and B. Villalonga and T. C. White and Z. Yao and P. Yeh and J. Yoo and A. Zalcman and H. Neven and S. Boixo and A. Megrant and Y. Chen and J. Kelly and V. Smelyanskiy and A. Kitaev and M. Knap and F. Pollmann and P. Roushan"}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv:2104.01180"}
+
+"weimer_rydberg_2010":
+  type: article
+  title: "A Rydberg quantum simulator"
+  author: [{name: "Weimer, Hendrik and Müller, Markus and Lesanovsky, Igor and Zoller, Peter and Büchler, Hans Peter"}]
+  date: 2010
+  parent: {type: periodical, title: "Nature Physics", volume: "6"}
+  page-range: "382-388"
+  doi: "10.1038/nphys1614"
+
+"Saffman2010":
+  type: article
+  title: "Quantum information with Rydberg atoms"
+  author: [{name: "Saffman, M. and Walker, T. G. and Mølmer, K."}]
+  date: 2010
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "82"}
+  page-range: "2313-2363"
+  doi: "10.1103/RevModPhys.82.2313"
+
+"Gross2017":
+  type: article
+  title: "Quantum simulations with ultracold atoms in optical lattices"
+  author: [{name: "Gross, Christian and Bloch, Immanuel"}]
+  date: 2017
+  parent: {type: periodical, title: "Science", volume: "357"}
+  page-range: "995-1001"
+  doi: "10.1126/science.aal3837"
+
+"rispoli_quantum_2019":
+  type: article
+  title: "Quantum critical behaviour at the many-body localization transition"
+  author: [{name: "Rispoli, Matthew and Lukin, Alexander and Schittko, Robert and Kim, Sooshin and Tai, M. Eric and Léonard, Julian and Greiner, Markus"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature", volume: "573"}
+  page-range: "385-389"
+  doi: "10.1038/s41586-019-1527-2"

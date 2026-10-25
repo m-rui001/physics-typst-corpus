@@ -1,0 +1,473 @@
+"2022MNRAS.510.4873A":
+  type: article
+  title: ""
+  author: [{name: "Antoniadis, J., Arzoumanian, Z., Babak, S."}]
+  date: 2022
+  parent: {type: periodical, title: "MNRAS", volume: "510"}
+  page-range: "4873"
+
+"NANOGRAV":
+  type: article
+  title: ""
+  author: [{name: "Arzoumanian, Z., Baker, P. T., Blumer, H."}]
+  date: 2020
+  parent: {type: periodical, title: "ApJL", volume: "905"}
+  serial-number: "L34"
+
+"CLL16":
+  type: article
+  title: ""
+  author: [{name: "Caballero, R. N., Lee, K. J., Lentati, L."}]
+  date: 2016
+  parent: {type: periodical, title: "MNRAS", volume: "457"}
+  page-range: "4421"
+
+"cgl-2018":
+  type: article
+  title: ""
+  author: [{name: "Caballero, R. N., Guo, Y. J., Lee, K. J."}]
+  date: 2018
+  parent: {type: periodical, title: "MNRAS", volume: "481"}
+  page-range: "5501"
+
+"2022MNRAS.509.5538C":
+  type: article
+  title: ""
+  author: [{name: "Chalumeau, A., Babak, S., Petiteau, A."}]
+  date: 2022
+  parent: {type: periodical, title: "MNRAS", volume: "509"}
+  page-range: "5538"
+
+"CHM10":
+  type: article
+  title: ""
+  author: [{name: "Champion, D. J., Hobbs, G. B., Manchester, R. N."}]
+  date: 2010
+  parent: {type: periodical, title: "ApJL", volume: "720"}
+  serial-number: "L201"
+
+"EPTA21":
+  type: article
+  title: ""
+  author: [{name: "Chen, S., Caballero, R. N., Guo, Y. J."}]
+  date: 2021
+  parent: {type: periodical, title: "MNRAS", volume: "508"}
+  page-range: "4970"
+
+"2023arXiv230504464D":
+  type: article
+  title: ""
+  author: [{name: "Di Marco, V., Zic, A., Miles, M. T."}]
+  date: 2023
+  parent: {type: periodical, title: "arXiv e-prints"}
+
+"ptmcmc":
+  type: article
+  title: ""
+  author: [{name: "Ellis, J. A."}]
+  date: 2013
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "30"}
+  page-range: "224004"
+
+"fb1990":
+  type: article
+  title: ""
+  author: [{name: "Foster, R. S., & Backer, D. C."}]
+  date: 1990
+  parent: {type: periodical, title: "ApJ", volume: "361"}
+  page-range: "300"
+
+"gold69":
+  type: article
+  title: ""
+  author: [{name: "Gold, T."}]
+  date: 1969
+  parent: {type: periodical, title: "Nature", volume: "221"}
+  page-range: "25"
+
+"2021ApJ...917L..19G":
+  type: article
+  title: ""
+  author: [{name: "Goncharov, B., Shannon, R. M., Reardon, D. J."}]
+  date: 2021
+  parent: {type: periodical, title: "ApJL", volume: "917"}
+  serial-number: "L19"
+
+"2022ApJ...932L..22G":
+  type: article
+  title: ""
+  author: [{name: "Goncharov, B., Thrane, E., Shannon, R. M."}]
+  date: 2022
+  parent: {type: periodical, title: "ApJL", volume: "932"}
+  serial-number: "L22"
+
+"gri2005":
+  type: article
+  title: ""
+  author: [{name: "Grishchuk, L. P."}]
+  date: 2005
+  parent: {type: periodical, title: "Physics Uspekhi", volume: "48"}
+  page-range: "1235"
+
+"GLLC19":
+  type: article
+  title: ""
+  author: [{name: "Guo, Y. J., Li, G. Y., Lee, K. J., & Caballero, R. N."}]
+  date: 2019
+  parent: {type: periodical, title: "MNRAS", volume: "489"}
+  page-range: "5573"
+
+"HD83":
+  type: article
+  title: ""
+  author: [{name: "Hellings, R. W., & Downs, G. S."}]
+  date: 1983
+  parent: {type: periodical, title: "ApJL", volume: "265"}
+  serial-number: "L39"
+
+"tempo22006":
+  type: article
+  title: ""
+  author: [{name: "Hobbs, G. B., Edwards, R. T., & Manchester, R. N."}]
+  date: 2006
+  parent: {type: periodical, title: "MNRAS", volume: "369"}
+  page-range: "655"
+
+"HCM12":
+  type: article
+  title: ""
+  author: [{name: "Hobbs, G., Coles, W., Manchester, R. N."}]
+  date: 2012
+  parent: {type: periodical, title: "MNRAS", volume: "427"}
+  page-range: "2780"
+
+"HGC20":
+  type: article
+  title: ""
+  author: [{name: "Hobbs, G., Guo, L., Caballero, R. N."}]
+  date: 2020
+  parent: {type: periodical, title: "MNRAS", volume: "491"}
+  page-range: "5951"
+
+"psrchive":
+  type: article
+  title: ""
+  author: [{name: "Hotan, A. W., van Straten, W., & Manchester, R. N."}]
+  date: 2004
+  parent: {type: periodical, title: "PASA", volume: "21"}
+  page-range: "302"
+
+"JHLM05":
+  type: article
+  title: ""
+  author: [{name: "Jenet, F. A., Hobbs, G. B., Lee, K. J., & Manchester, R. N."}]
+  date: 2005
+  parent: {type: periodical, title: "ApJL", volume: "625"}
+  serial-number: "L123"
+
+"jll-2004":
+  type: article
+  title: ""
+  author: [{name: "Jenet, F. A., Lommen, A., Larson, S. L., & Wen, L."}]
+  date: 2004
+  parent: {type: periodical, title: "ApJ", volume: "606"}
+  page-range: "799"
+
+"NANOGRAV09":
+  type: article
+  title: ""
+  author: [{name: "Jenet, F., Finn, L. S., Lazio, J."}]
+  date: 2009
+  parent: {type: periodical, title: "arXiv e-prints"}
+
+"2022arXiv221012266J":
+  type: article
+  title: ""
+  author: [{name: "Jennings, R. J., Cordes, J. M., Chatterjee, S."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv e-prints"}
+
+"Jiang19SCPMA":
+  type: article
+  title: ""
+  author: [{name: "Jiang, P., Yue, Y., Gan, H."}]
+  date: 2019
+  parent: {type: periodical, title: "Science China Physics, Mechanics, and Astronomy", volume: "62"}
+  page-range: "959502"
+
+"Jiang20RAA":
+  type: article
+  title: ""
+  author: [{name: "Jiang, P., Tang, N.-Y., Hou, L.-G."}]
+  date: 2020
+  parent: {type: periodical, title: "Research in Astronomy and Astrophysics", volume: "20"}
+  page-range: "064"
+
+"ks39":
+  type: article
+  title: ""
+  author: [{name: "Kenney, J. F., & Keeping, E. S."}]
+  date: 1939
+
+"kib1976":
+  type: article
+  title: ""
+  author: [{name: "Kibble, T. W. B."}]
+  date: 1976
+  parent: {type: periodical, title: "Journal of Physics A Mathematical General", volume: "9"}
+  page-range: "1387"
+
+"EPTA":
+  type: article
+  title: ""
+  author: [{name: "Kramer, M., & Champion, D. J."}]
+  date: 2013
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "30"}
+  page-range: "224009"
+
+"2021RNAAS...5..167L":
+  type: article
+  title: ""
+  author: [{name: "Lam, M. T."}]
+  date: 2021
+  parent: {type: periodical, title: "Research Notes of the American Astronomical Society", volume: "5"}
+  page-range: "167"
+
+"LMS16":
+  type: article
+  title: ""
+  author: [{name: "Lasky, P. D., Mingarelli, C. M. F., Smith, T. L."}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review X", volume: "6"}
+  page-range: "011035"
+
+"CPTA":
+  type: article
+  title: ""
+  author: [{name: "Lee, K. J."}]
+  date: 2016
+  parent: {type: proceedings, title: "Astronomical Society of the Pacific Conference Series", volume: "502"}
+  page-range: "19"
+
+"LBJ12":
+  type: article
+  title: ""
+  author: [{name: "Lee, K. J., Bassa, C. G., Janssen, G. H."}]
+  date: 2012
+  parent: {type: periodical, title: "MNRAS", volume: "423"}
+  page-range: "2642"
+
+"lwk-2011":
+  type: article
+  title: ""
+  author: [{name: "Lee, K. J., Wex, N., Kramer, M."}]
+  date: 2011
+  parent: {type: periodical, title: "MNRAS", volume: "414"}
+  page-range: "3251"
+
+"LBJ14":
+  type: article
+  title: ""
+  author: [{name: "Lee, K. J., Bassa, C. G., Janssen, G. H."}]
+  date: 2014
+  parent: {type: periodical, title: "MNRAS", volume: "441"}
+  page-range: "2831"
+
+"temponest":
+  type: article
+  title: ""
+  author: [{name: "Lentati, L., Alexander, P., Hobson, M. P."}]
+  date: 2014
+  parent: {type: periodical, title: "MNRAS", volume: "437"}
+  page-range: "3004"
+
+"EPTA15":
+  type: article
+  title: ""
+  author: [{name: "Lentati, L., Taylor, S. R., Mingarelli, C. M. F."}]
+  date: 2015
+  parent: {type: periodical, title: "MNRAS", volume: "453"}
+  page-range: "2576"
+
+"llc-2020":
+  type: article
+  title: ""
+  author: [{name: "Li, Z., Lee, K., Caballero, R. N."}]
+  date: 2020
+  parent: {type: periodical, title: "Science China Physics, Mechanics, and Astronomy", volume: "63"}
+  page-range: "219512"
+
+"PPTA0":
+  type: article
+  title: ""
+  author: [{name: "Manchester, R. N."}]
+  date: 2008
+  parent: {type: proceedings, title: "American Institute of Physics Conference Series", volume: "983"}
+  page-range: "584"
+
+"IPTA":
+  type: article
+  title: ""
+  author: [{name: "Manchester, R. N., & IPTA."}]
+  date: 2013
+  parent: {type: periodical, title: "Classical and Quantum Gravity", volume: "30"}
+  page-range: "224010"
+
+"PPTA":
+  type: article
+  title: ""
+  author: [{name: "Manchester, R. N., Hobbs, G., Bailes, M."}]
+  date: 2013
+  parent: {type: periodical, title: "PASA", volume: "30"}
+  serial-number: "e017"
+
+"2014ApJ...789..156M":
+  type: article
+  title: ""
+  author: [{name: "McWilliams, S. T., Ostriker, J. P., & Pretorius, F."}]
+  date: 2014
+  parent: {type: periodical, title: "ApJ", volume: "789"}
+  page-range: "156"
+
+"ng2015":
+  type: article
+  title: ""
+  author: [{name: "NANOGrav Collaboration, Arzoumanian, Z., Brazier, A."}]
+  date: 2015
+  parent: {type: periodical, title: "ApJ", volume: "813"}
+  page-range: "65"
+
+"neal1996sampling":
+  type: article
+  title: ""
+  author: [{name: "Neal, R. M."}]
+  date: 1996
+  parent: {type: periodical, title: "Statistics and computing", volume: "6"}
+  page-range: "353"
+
+"InPTA":
+  type: article
+  title: ""
+  author: [{name: "Nobleson, K., Agarwal, N., Girgaonkar, R."}]
+  date: 2022
+  parent: {type: periodical, title: "MNRAS", volume: "512"}
+  page-range: "1234"
+
+"Phinney01":
+  type: article
+  title: ""
+  author: [{name: "Phinney, E. S."}]
+  date: 2001
+  parent: {type: periodical, title: "arXiv e-prints"}
+
+"SBS12":
+  type: article
+  title: ""
+  author: [{name: "Sanidas, S. A., Battye, R. A., & Stappers, B. W."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "85"}
+  page-range: "122003"
+
+"SESANA13":
+  type: article
+  title: ""
+  author: [{name: "Sesana, A."}]
+  date: 2013
+  parent: {type: periodical, title: "MNRAS", volume: "433"}
+  serial-number: "L1"
+
+"svv2009":
+  type: article
+  title: ""
+  author: [{name: "Sesana, A., Vecchio, A., & Volonteri, M."}]
+  date: 2009
+  parent: {type: periodical, title: "MNRAS", volume: "394"}
+  page-range: "2255"
+
+"2021MNRAS.507L..57S":
+  type: article
+  title: ""
+  author: [{name: "Singha, J., Surnis, M. P., Joshi, B. C."}]
+  date: 2021
+  parent: {type: periodical, title: "MNRAS", volume: "507"}
+  serial-number: "L57"
+
+"2022PASA...39...27S":
+  type: article
+  title: ""
+  author: [{name: "Spiewak, R., Bailes, M., Miles, M. T."}]
+  date: 2022
+  parent: {type: periodical, title: "PASA", volume: "39"}
+  serial-number: "e027"
+
+"tay1992":
+  type: article
+  title: ""
+  author: [{name: "Taylor, J. H."}]
+  date: 1992
+  parent: {type: periodical, title: "Philosophical Transactions of the Royal Society of London Series A", volume: "341"}
+  page-range: "117"
+
+"2017PhRvD..95d2002T":
+  type: article
+  title: ""
+  author: [{name: "Taylor, S. R., Lentati, L., Babak, S."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "95"}
+  page-range: "042002"
+
+"VV14":
+  type: article
+  title: ""
+  author: [{name: "van Haasteren, R., & Vallisneri, M."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "90"}
+  page-range: "104012"
+
+"vlj-2011":
+  type: article
+  title: ""
+  author: [{name: "van Haasteren, R., Levin, Y., Janssen, G. H."}]
+  date: 2011
+  parent: {type: periodical, title: "MNRAS", volume: "414"}
+  page-range: "3117"
+
+"Straten2011":
+  type: article
+  title: ""
+  author: [{name: "van Straten, W., & Bailes, M."}]
+  date: 2011
+  parent: {type: periodical, title: "Publications of the Astronomical Society of Australia", volume: "28"}
+  page-range: "1"
+
+"VFM16":
+  type: article
+  title: ""
+  author: [{name: "Vousden, W. D., Farr, W. M., & Mandel, I."}]
+  date: 2016
+  parent: {type: periodical, title: "MNRAS", volume: "455"}
+  page-range: "1919"
+
+"2021ATel14642....1X":
+  type: article
+  title: ""
+  author: [{name: "Xu, H., Huang, Y. X., Burgay, M."}]
+  date: 2021
+  parent: {type: periodical, title: "The Astronomer's Telegram", volume: "14642"}
+  page-range: "1"
+
+"2013PhRvD..87l4012Z":
+  type: article
+  title: ""
+  author: [{name: "Zhao, W., Zhang, Y., You, X.-P., & Zhu, Z.-H."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "87"}
+  page-range: "124012"
+
+"redherr":
+  type: article
+  title: ""
+  author: [{name: "Zic, A., Hobbs, G., Shannon, R. M."}]
+  date: 2022
+  parent: {type: periodical, title: "MNRAS", volume: "516"}
+  page-range: "410"

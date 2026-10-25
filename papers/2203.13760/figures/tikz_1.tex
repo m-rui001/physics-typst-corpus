@@ -1,0 +1,26 @@
+\begin{tikzpicture}
+        \draw[line width=1pt] (0,0) -- (14,0);
+        \node[circle, draw=black, fill=black, inner sep=1pt] (A) at (4,0) {};
+        \node[circle, draw=black, fill=black, inner sep=1pt] (B) at (10,0) {};
+        \node[below,yshift=-0.5cm] at (A) {$i-1$};
+        \node[below,yshift=-0.5cm] at (7,0) {$i-\frac{1}{2}$};
+        \node[below,yshift=-0.5cm] at (B) {$i$};
+        \node[color=blue] at ([yshift=2.2cm]A) {vanished cell};
+        \node[color=blue] at ([yshift=2.2cm]B) {target cell};
+        \node[color=red] at ([yshift=-2.2cm]A) {target cell};
+        \node[color=red] at ([yshift=-2.2cm]B) {newly created cell};
+        \node[color=red] at (1,-2.2) {$\phi > 0$};
+        \node[color=blue] at (13,2.2) {$\phi < 0$};
+
+
+        \draw (1,0.3) -- (1,-0.3);
+        \draw (7,0.3) -- (7,-0.3);
+        \draw (13,0.3) -- (13,-0.3);
+        \draw[line width=0.8pt, dashed, color=green!50!black] (6.2,1.5) -- (6.2,-1.5) node[at start, above] {$\Gamma_0(t^{n-1})$};
+        \draw[line width=0.8pt, dashed, color=green!50!black] (8.5,1.5) -- (8.5,-1.5) node[at start, above] {$\Gamma_0(t^n)$};
+        \draw[<->] (7,-1.5) -- (8.5,-1.5) node[above, midway] {$\alpha_1$};
+        \draw[<->] (8.5,1.5) -- (13,1.5) node[below, midway] {$\alpha_2$};
+
+        \draw[->, line width=1pt] (5,-3) -- (9,-3) node[below, yshift=-0.2cm, midway] {Mixing flux $\mathbf{M}_1$};
+        \draw[<-, line width=1pt] (5,3) -- (9,3) node[above, yshift=0.2cm, midway] {Mixing flux $\mathbf{M}_2$};
+    \end{tikzpicture}

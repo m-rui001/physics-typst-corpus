@@ -1,0 +1,13 @@
+{
+ "salvaged": true,
+ "paper": "2408.13687",
+ "compiled": true,
+ "fixed_by": "agent",
+ "pages": 12,
+ "notes": "Rewrote Google Quantum AI author/affiliation block (249 names) as centered Typst with bold names + superscript affiliations and small-italic affiliation list; fixed correspondence email; bibliography style set to ieee; cleared 2 unclosed-delimiter/string errors.",
+ "cetz_figures": 4,
+ "latexblock": {
+  "before": 0,
+  "after": 0
+ }
+}

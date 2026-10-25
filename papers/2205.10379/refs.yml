@@ -1,0 +1,2053 @@
+"Kane-review":
+  type: article
+  title: "Colloquium: Topological insulators"
+  author: [{name: "M. Z. Hasan and C. L. Kane"}]
+  date: 2010
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "82"}
+  page-range: "3045"
+
+"Zhang-review":
+  type: article
+  title: "Topological insulators and superconductors"
+  author: [{name: "X.-L. Qi and S.-C. Zhang"}]
+  date: 2011
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "83"}
+  page-range: "1057"
+
+"SSH-79":
+  type: article
+  title: "Solitons in Polyacetylene"
+  author: [{name: "W. P. Su and J. R. Schrieffer and A. J. Heeger"}]
+  date: 1979
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "42"}
+  page-range: "1698"
+
+"Haldane-88":
+  type: article
+  title: "Model for a Quantum Hall Effect without Landau Levels: Condensed-Matter Realization of the “Parity Anomaly”"
+  author: [{name: "F. D. M. Haldane"}]
+  date: 1988
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "61"}
+  page-range: "2015"
+
+"Kane-Mele-05-QSH":
+  type: article
+  title: "Quantum Spin Hall Effect in Graphene"
+  author: [{name: "C. L. Kane and E. J. Mele"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "95"}
+  page-range: "226801"
+
+"Kane-Mele-05-Z2":
+  type: article
+  title: "Z₂ Topological Order and the Quantum Spin Hall Effect"
+  author: [{name: "C. L. Kane, and E. J. Mele"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "95"}
+  page-range: "146802"
+
+"Kitaev-01":
+  type: article
+  title: "Unpaired Majorana fermions in quantum wires"
+  author: [{name: "A. Y. Kitaev"}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Usp.", volume: "44"}
+  page-range: "131"
+
+"Read-Green-00":
+  type: article
+  title: "Paired states of fermions in two dimensions with breaking of parity and time-reversal symmetries and the fractional quantum Hall effect"
+  author: [{name: "N. Read, and D. Green"}]
+  date: 2000
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "61"}
+  page-range: "10267"
+
+"Wan-11":
+  type: article
+  title: "Topological semimetal and Fermi-arc surface states in the electronic structure of pyrochlore iridates"
+  author: [{name: "X. Wan, and A. M. Turner, and A. Vishwanath, and S. Y. Savrasov"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "83"}
+  page-range: "205101"
+
+"Lu-review":
+  type: article
+  title: "Topological photonics"
+  author: [{name: "L. Lu, and J. D. Joannopoulos, and M. Soljac̆ić"}]
+  date: 2014
+  parent: {type: periodical, title: "Nat. Photon.", volume: "8"}
+  page-range: "821"
+
+"Ozawa-review":
+  type: article
+  title: "Topological photonics"
+  author: [{name: "Ozawa, T. and Price, H. M. and Amo, A. and Goldman, N. and Hafezi, M. and Lu, L. and Rechtsman, M. C. and Schuster, D. and Simon, J. and Zilberberg, O. and Carusotto, I."}]
+  date: 2019
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "91"}
+  page-range: "1"
+
+"Goldman-review":
+  type: article
+  title: "Topological quantum matter with ultracold gases in optical lattices"
+  author: [{name: "N. Goldman, and J. C. Budich, and P. Zoller"}]
+  date: 2016
+  parent: {type: periodical, title: "Nat. Phys.", volume: "12"}
+  page-range: "639"
+
+"Cooper-review":
+  type: article
+  title: "Topological bands for ultracold atoms"
+  author: [{name: "Cooper, N. R. and Dalibard, J. and Spielman, I. B."}]
+  date: 2019
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "91"}
+  page-range: "015005"
+
+"Schnyder-08":
+  type: article
+  title: "Classification of topological insulators and superconductors in three spatial dimensions"
+  author: [{name: "A. P. Schnyder and S. Ryu and A. Furusaki and A. W. W. Ludwig"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "78"}
+  page-range: "195125"
+
+"Kitaev-09":
+  type: article
+  title: "Periodic table for topological insulators and superconductors"
+  author: [{name: "A. Kitaev"}]
+  date: 2009
+  parent: {type: periodical, title: "AIP Conf. Proc.", volume: "1134"}
+  page-range: "22"
+
+"Ryu-10":
+  type: article
+  title: "Topological insulators and superconductors: tenfold way and dimensional hierarchy"
+  author: [{name: "S. Ryu and A. P. Schnyder and A. Furusaki and A. W. W. Ludwig"}]
+  date: 2010
+  parent: {type: periodical, title: "New J. Phys.", volume: "12"}
+  page-range: "065010"
+
+"Schnyder-Ryu-review":
+  type: article
+  title: "Classification of topological quantum matter with symmetries"
+  author: [{name: "C.-K. Chiu and J. C. Y. Teo and A. P. Schnyder and S. Ryu"}]
+  date: 2016
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "88"}
+  page-range: "035005"
+
+"Konotop-review":
+  type: article
+  title: "Nonlinear waves in PT-symmetric systems"
+  author: [{name: "V. V. Konotop and J. Yang and D. A. Zezyulin"}]
+  date: 2016
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "88"}
+  page-range: "035002"
+
+"Christodoulides-review":
+  type: article
+  title: "Non-Hermitian physics and PT symmetry"
+  author: [{name: "R. El-Ganainy and K. G. Makris and M. Khajavikhan and Z. H. Musslimani and S. Rotter and D. N. Christodoulides"}]
+  date: 2018
+  parent: {type: periodical, title: "Nat. Phys.", volume: "14"}
+  page-range: "11"
+
+"Ota-review":
+  type: article
+  title: "Active topological photonics"
+  author: [{name: "Y. Ota, and K. Takata, and T. Ozawa, and A. Amo, and Z. Jia, and B. Kante, and M. Notomi, and Y. Arakawa, and S. Iwamoto"}]
+  date: 2020
+  parent: {type: periodical, title: "Nanophotonics", volume: "9"}
+  page-range: "547"
+
+"Bergholtz-review":
+  type: article
+  title: "Exceptional topology of non-Hermitian systems"
+  author: [{name: "Bergholtz, Emil J. and Budich, Jan Carl and Kunst, Flore K."}]
+  date: 2021
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "93"}
+  page-range: "015005"
+  doi: "10.1103/RevModPhys.93.015005"
+
+"Rudner-09":
+  type: article
+  title: "Topological Transition in a Non-Hermitian Quantum Walk"
+  author: [{name: "Rudner, M. S. and Levitov, L. S."}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "102"}
+  page-range: "065703"
+  doi: "10.1103/PhysRevLett.102.065703"
+
+"Sato-11":
+  type: article
+  title: "Time-Reversal Symmetry in Non-Hermitian Systems"
+  author: [{name: "M. Sato and K. Hasebe and K. Esaki and M. Kohmoto"}]
+  date: 2012
+  parent: {type: periodical, title: "Prog. Theor. Phys.", volume: "127"}
+  page-range: "937"
+
+"Esaki-11":
+  type: article
+  title: "Edge states and topological phases in non-Hermitian systems"
+  author: [{name: "K. Esaki and M. Sato and K. Hasebe and M. Kohmoto"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "84"}
+  page-range: "205128"
+
+"Hu-11":
+  type: article
+  title: "Absence of topological insulator phases in non-Hermitian PT-symmetric Hamiltonians"
+  author: [{name: "Y. C. Hu and T. L. Hughes"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "84"}
+  page-range: "153101"
+
+"Schomerus-13":
+  type: article
+  title: "Topologically protected midgap states in complex photonic lattices"
+  author: [{name: "H. Schomerus"}]
+  date: 2013
+  parent: {type: periodical, title: "Opt. Lett.", volume: "38"}
+  page-range: "1912"
+
+"Malzard-15":
+  type: article
+  title: "Topologically Protected Defect States in Open Photonic Systems with Non-Hermitian Charge-Conjugation and Parity-Time Symmetry"
+  author: [{name: "S. Malzard, and C. Poli, and H. Schomerus"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "115"}
+  page-range: "200402"
+
+"Lee-16":
+  type: article
+  title: "Anomalous Edge State in a Non-Hermitian Lattice"
+  author: [{name: "T. E. Lee"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "116"}
+  page-range: "133903"
+
+"Leykam-17":
+  type: article
+  title: "Edge Modes, Degeneracies, and Topological Numbers in Non-Hermitian Systems"
+  author: [{name: "D. Leykam, and K. Y. Bliokh, and C. Huang, and Y. D. Chong, and F. Nori"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "118"}
+  page-range: "040401"
+
+"Xu-17":
+  type: article
+  title: "Weyl Exceptional Rings in a Three-Dimensional Dissipative Cold Atomic Gas"
+  author: [{name: "Y. Xu and S.-T. Wang and L.-M. Duan"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "118"}
+  page-range: "045701"
+
+"Xiong-18":
+  type: article
+  title: "Why does bulk boundary correspondence fail in some non-hermitian topological models"
+  author: [{name: "Y. Xiong"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Phys. Commun.", volume: "2"}
+  page-range: "035043"
+
+"Shen-18":
+  type: article
+  title: "Topological Band Theory for Non-Hermitian Hamiltonians"
+  author: [{name: "H. Shen and B. Zhen and L. Fu"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "120"}
+  page-range: "146402"
+
+"Kozii-17":
+  type: article
+  title: ""
+  author: [{name: "V. Kozii and L. Fu"}]
+  date: 2017
+  parent: {type: periodical, title: "arXiv preprint, arXiv:1708.05841"}
+
+"Takata-18":
+  type: article
+  title: "Photonic Topological Insulating Phase Induced Solely by Gain and Loss"
+  author: [{name: "K. Takata, and M. Notomi"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "213902"
+
+"MartinezAlvarez-18":
+  type: article
+  title: "Non-Hermitian robust edge states in one dimension: Anomalous localization and eigenspace condensation at exceptional points"
+  author: [{name: "Martinez Alvarez, V. M. and Barrios Vargas, J. E. and Foa Torres, L. E. F."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "97"}
+  serial-number: "121401(R)"
+
+"KAKU-18":
+  type: article
+  title: "Parity-time-symmetric topological superconductor"
+  author: [{name: "K. Kawabata, and Y. Ashida, and H. Katsura, and M. Ueda"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "085116"
+
+"Gong-18":
+  type: article
+  title: "Topological Phases of Non-Hermitian Systems"
+  author: [{name: "Z. Gong and Y. Ashida and K. Kawabata and K. Takasan and S. Higashikawa and M. Ueda"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "8"}
+  page-range: "031079"
+
+"Kawabata-19":
+  type: article
+  title: "Topological unification of time-reversal and particle-hole symmetries in non-Hermitian physics"
+  author: [{name: "K. Kawabata and S. Higashikawa and Z. Gong and Y. Ashida and M. Ueda"}]
+  date: 2019
+  parent: {type: periodical, title: "Nat. Commun.", volume: "10"}
+  page-range: "297"
+
+"YW-18-SSH":
+  type: article
+  title: "Edge States and Topological Invariants of Non-Hermitian Systems"
+  author: [{name: "S. Yao and Z. Wang"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "086803"
+
+"YSW-18-Chern":
+  type: article
+  title: "Non-Hermitian Chern Bands"
+  author: [{name: "S. Yao and F. Song and Z. Wang"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "136802"
+
+"Kunst-18":
+  type: article
+  title: "Biorthogonal Bulk-Boundary Correspondence in Non-Hermitian Systems"
+  author: [{name: "F. K. Kunst and E. Edvardsson and J. C. Budich and E. J. Bergholtz"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "026808"
+
+"KSU-18":
+  type: article
+  title: "Anomalous helical edge states in a non-Hermitian Chern insulator"
+  author: [{name: "K. Kawabata, and K. Shiozaki, and M. Ueda"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "165148"
+
+"McDonald-18":
+  type: article
+  title: "Phase-Dependent Chiral Transport and Effective Non-Hermitian Dynamics in a Bosonic Kitaev-Majorana Chain"
+  author: [{name: "A. McDonald, and T. Pereg-Barnea, and A. A. Clerk"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "8"}
+  page-range: "041031"
+
+"Carlstrom-18":
+  type: article
+  title: "Exceptional links and twisted Fermi ribbons in non-Hermitian systems"
+  author: [{name: "J. Carlström, and E. J. Bergholtz"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "98"}
+  page-range: "042114"
+
+"Carlstrom-19":
+  type: article
+  title: "Knotted non-Hermitian metals"
+  author: [{name: "J. Carlström, and M. Stålhammar, and J. C. Budich, and E. J. Bergholtz"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  serial-number: "161115(R)"
+
+"Lee-19":
+  type: article
+  title: "Anatomy of skin modes and topology in non-Hermitian systems"
+  author: [{name: "C. H. Lee, and R. Thomale"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  serial-number: "201103(R)"
+
+"Jin-19":
+  type: article
+  title: "Bulk-boundary correspondence in a non-Hermitian system in one dimension with chiral inversion symmetry"
+  author: [{name: "Jin, L. and Song, Z."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  serial-number: "081103(R)"
+
+"Budich-19":
+  type: article
+  title: "Symmetry-protected nodal phases in non-Hermitian systems"
+  author: [{name: "J. C. Budich and J. Carlström and F. K. Kunst and E. J. Bergholtz"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  serial-number: "041406(R)"
+
+"Okugawa-19":
+  type: article
+  title: "Topological exceptional surfaces in non-Hermitian systems with parity-time and parity-particle-hole symmetries"
+  author: [{name: "R. Okugawa and T. Yokoyama"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  serial-number: "041202(R)"
+
+"Liu-19":
+  type: article
+  title: "Second-Order Topological Phases in Non-Hermitian Systems"
+  author: [{name: "T. Liu and Y.-R. Zhang and Q. Ai and Z. Gong and K. Kawabata and M. Ueda and F. Nori"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "076801"
+
+"Okugawa-takahashi-yokomizo":
+  type: article
+  title: "Second-order topological non-Hermitian skin effects"
+  author: [{name: "Okugawa, Ryo and Takahashi, Ryo and Yokomizo, Kazuki"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "241202"
+  doi: "10.1103/PhysRevB.102.241202"
+
+"Yoshida-19":
+  type: article
+  title: "Symmetry-protected exceptional rings in two-dimensional correlated systems with chiral symmetry"
+  author: [{name: "T. Yoshida and R. Peters and N. Kawakami and Y. Hatsugai"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  serial-number: "121101(R)"
+
+"Kimura-19":
+  type: article
+  title: "Chiral-symmetry protected exceptional torus in correlated nodal-line semimetals"
+  author: [{name: "Kimura, K. and Yoshida, T. and Kawakami, N."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "100"}
+  page-range: "115124"
+
+"Zhou-19":
+  type: article
+  title: "Exceptional surfaces in PT-symmetric non-Hermitian photonic systems"
+  author: [{name: "H. Zhou and J. Y. Lee and S. Liu and B. Zhen"}]
+  date: 2019
+  parent: {type: periodical, title: "Optica", volume: "6"}
+  page-range: "190"
+
+"Lee-Li-Gong-19":
+  type: article
+  title: "Hybrid Higher-Order Skin-Topological Modes in Nonreciprocal Systems"
+  author: [{name: "Lee, C. H. and Li, L. and Gong, J."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "016805"
+
+"Kunst-19":
+  type: article
+  title: "Non-Hermitian systems and topology: A transfer-matrix perspective"
+  author: [{name: "F. K. Kunst, and V. Dwivedi"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  page-range: "245116"
+
+"Longhi-19":
+  type: article
+  title: "Topological Phase Transition in non-Hermitian Quasicrystals"
+  author: [{name: "Longhi, S."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "237601"
+
+"Edvardsson-19":
+  type: article
+  title: "Non-Hermitian extensions of higher-order topological phases and their biorthogonal bulk-boundary correspondence"
+  author: [{name: "Edvardsson, E. and Kunst, F. K. and Bergholtz, E. J."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  serial-number: "081302(R)"
+
+"KSUS-19":
+  type: article
+  title: "Symmetry and Topology in Non-Hermitian Physics"
+  author: [{name: "K. Kawabata and K. Shiozaki and M. Ueda and M. Sato"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "9"}
+  page-range: "041015"
+
+"ZL-19":
+  type: article
+  title: "Periodic table for topological bands with non-Hermitian symmetries"
+  author: [{name: "H. Zhou and J. Y. Lee"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  page-range: "235112"
+
+"Herviou-19":
+  type: article
+  title: "Defining a bulk-edge correspondence for non-Hermitian Hamiltonians via singular-value decomposition"
+  author: [{name: "Herviou, L. and Bardarson, J. H. and Regnault, N."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "99"}
+  page-range: "052118"
+
+"Zeng-20":
+  type: article
+  title: "Topological phases in non-Hermitian Aubry-André-Harper models"
+  author: [{name: "Q.-B. Zeng, and Y.-B. Yang, and Y. Xu"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  serial-number: "020201(R)"
+
+"Zirnstein-19":
+  type: article
+  title: "Bulk-boundary correspondence for non-Hermitian Hamiltonians via Green functions"
+  author: [{name: "H.-G. Zirnstein, and G. Refael, and B. Rosenow"}]
+
+"Borgnia-19":
+  type: article
+  title: "Non-Hermitian Boundary Modes and Topology"
+  author: [{name: "D. S. Borgnia and A. J. Kruchkov and R.-J. Slager"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "056802"
+
+"KBS-19":
+  type: article
+  title: "Classification of Exceptional Points and Non-Hermitian Topological Semimetals"
+  author: [{name: "K. Kawabata and T. Bessho and M. Sato"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "066405"
+
+"YM-19":
+  type: article
+  title: "Non-Bloch Band Theory of Non-Hermitian Systems"
+  author: [{name: "K. Yokomizo and S. Murakami"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "066404"
+
+"McClarty-19":
+  type: article
+  title: "Non-Hermitian topology of spontaneous magnon decay"
+  author: [{name: "McClarty, P. A. and Rau, J. G."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "100"}
+  serial-number: "100405(R)"
+
+"Okuma-19":
+  type: article
+  title: "Topological Phase Transition Driven by Infinitesimal Instability: Majorana Fermions in Non-Hermitian Spintronics"
+  author: [{name: "N. Okuma and M. Sato"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "097701"
+
+"Song-19-Lindblad":
+  type: article
+  title: "Non-Hermitian Skin Effect and Chiral Damping in Open Quantum Systems"
+  author: [{name: "F. Song, and S. Yao, and Z. Wang"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "170401"
+
+"Bergholtz-19":
+  type: article
+  title: "Non-Hermitian Weyl physics in topological insulator ferromagnet junctions"
+  author: [{name: "Bergholtz, E. J. and Budich, J. C."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "1"}
+  serial-number: "012003(R)"
+
+"Lee-Vishwanath-19":
+  type: article
+  title: "Topological Correspondence between Hermitian and Non-Hermitian Systems: Anomalous Dynamics"
+  author: [{name: "J. Y. Lee and J. Ahn and H. Zhou and A. Vishwanath"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "206404"
+
+"Guo-19":
+  type: article
+  title: "Non-Hermitian Dynamic Strings and Anomalous Topological Degeneracy on non-Hermitian Toric-code Model with Parity-time Symmetry"
+  author: [{name: "C.-X. Guo, and X.-R. Wang, and C. Wang, and S.-P. Kou"}]
+
+"Yoshida-19-FQH":
+  type: article
+  title: "Non-Hermitian fractional quantum Hall states"
+  author: [{name: "T. Yoshida and K. Kudo and Y. Hatsugai"}]
+  date: 2019
+  parent: {type: periodical, title: "Sci. Rep.", volume: "9"}
+  page-range: "16895"
+
+"Rui-19":
+  type: article
+  title: "PT-symmetric non-Hermitian Dirac semimetals"
+  author: [{name: "W. B. Rui, and M. M. Hirschmann, and A. P. Schnyder"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "100"}
+  page-range: "245116"
+
+"Schomerus-20":
+  type: article
+  title: "Nonreciprocal response theory of non-Hermitian mechanical metamaterials: Response phase transition from the skin effect of zero modes"
+  author: [{name: "H. Schomerus"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "013058"
+
+"Imura-19":
+  type: article
+  title: "Generalized bulk-edge correspondence for non-Hermitian topological systems"
+  author: [{name: "K.-I. Imura, and Y. Takane"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "100"}
+  page-range: "165430"
+
+"Herviou-19-ES":
+  type: article
+  title: "Entanglement spectrum and symmetries in non-Hermitian fermionic non-interacting models"
+  author: [{name: "L. Herviou, and N. Regnault, and J. H. Bardarson"}]
+  date: 2019
+  parent: {type: periodical, title: "SciPost Phys.", volume: "7"}
+  page-range: "069"
+
+"Chang-19":
+  type: article
+  title: "Entanglement spectrum and entropy in topological non-Hermitian systems and non-unitary conformal field theories"
+  author: [{name: "P.-Y. Chang, and J.-S. You, and X. Wen, and S. Ryu"}]
+
+"Zhang-20":
+  type: article
+  title: "Non-Hermitian Exceptional Landau Quantization in Electric Circuits"
+  author: [{name: "X.-X. Zhang, and M. Franz"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "046401"
+
+"Zhang-19":
+  type: article
+  title: "Correspondence between Winding Numbers and Skin Modes in Non-Hermitian Systems"
+  author: [{name: "Zhang, Kai and Yang, Zhesen and Fang, Chen"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "126402"
+
+"Yang-19":
+  type: article
+  title: "Non-Hermitian Bulk-Boundary Correspondence and Auxiliary Generalized Brillouin Zone Theory"
+  author: [{name: "Yang, Zhesen and Zhang, Kai and Fang, Chen and Hu, Jiangping"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "226402"
+
+"OKSS-20":
+  type: article
+  title: "Topological Origin of Non-Hermitian Skin Effects"
+  author: [{name: "N. Okuma and K. Kawabata and K. Shiozaki and M. Sato"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "086801"
+
+"Longhi-20":
+  type: article
+  title: "Non-Bloch-Band Collapse and Chiral Zener Tunneling"
+  author: [{name: "S. Longhi"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "066602"
+
+"Wang-19":
+  type: article
+  title: "Defective Edge States and Anomalous Bulk-Boundary Correspondence in non-Hermitian Topological Systems"
+  author: [{name: "X.-R. Wang, and C.-X. Guo, and S.-P. Kou"}]
+
+"Matsumoto-19":
+  type: article
+  title: "Continuous Phase Transition without Gap Closing in Non-Hermitian Quantum Many-Body Systems"
+  author: [{name: "N. Matsumoto, and K. Kawabata, and Y. Ashida, and S. Furukawa, and M. Ueda"}]
+
+"Yoshida-19-mirror":
+  type: article
+  title: "Mirror skin effect and its electric circuit simulation"
+  author: [{name: "T. Yoshida, and T. Mizoguchi, and Y. Hatsugai"}]
+
+"Yokomizo-20":
+  type: article
+  title: "Topological semimetal phase with exceptional points in 1D non-Hermitian systems"
+  author: [{name: "K. Yokomizo, and S. Murakami"}]
+
+"Poli-15":
+  type: article
+  title: "Selective enhancement of topologically induced interface states in a dielectric resonator chain"
+  author: [{name: "C. Poli, and M. Bellec, and U. Kuhl, and F. Mortessagne, and H. Schomerus"}]
+  date: 2015
+  parent: {type: periodical, title: "Nat. Commun.", volume: "6"}
+  page-range: "6710"
+
+"Zeuner-15":
+  type: article
+  title: "Observation of a Topological Transition in the Bulk of a Non-Hermitian System"
+  author: [{name: "J. M. Zeuner, and M. C. Rechtsman, and Y. Plotnik, and Y. Lumer, and S. Nolte, and M. S. Rudner, and M. Segev, and A. Szameit"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "115"}
+  page-range: "040402"
+
+"Zhen-15":
+  type: article
+  title: "Spawning rings of exceptional points out of Dirac cones"
+  author: [{name: "B. Zhen and C. W. Hsu and Y. Igarashi and L. Lu and I. Kaminer and A. Pick and S.-L. Chua and J. D. Joannopoulos and M. Soljac̆ić"}]
+  date: 2015
+  parent: {type: periodical, title: "Nature", volume: "525"}
+  page-range: "354"
+
+"Weimann-17":
+  type: article
+  title: "Topologically protected bound states in photonic parity-time-symmetric crystals"
+  author: [{name: "S. Weimann, and M. Kremer, and Y. Plotnik, and Y. Lumer, and S. Nolte, and K. G. Makris, and M. Segev, and M. C. Rechtsman, and A. Szameit"}]
+  date: 2017
+  parent: {type: periodical, title: "Nat. Mater.", volume: "16"}
+  page-range: "433"
+
+"Xiao-17":
+  type: article
+  title: "Observation of topological edge states in parity-time-symmetric quantum walks"
+  author: [{name: "L. Xiao, and X. Zhan, and Z. H. Bian, and K. K. Wang, and X. Zhang, and X. P. Wang, and J. Li, and K. Mochizuki, and D. Kim, and N. Kawakami, and W. Yi, and H. Obuse, and B. C. Sanders, and P. Xue"}]
+  date: 2017
+  parent: {type: periodical, title: "Nat. Phys.", volume: "13"}
+  page-range: "1117"
+
+"St-Jean-17":
+  type: article
+  title: "Lasing in topological edge states of a one-dimensional lattice"
+  author: [{name: "P. St-Jean, and V. Goblot, and E. Galopin, and A. Lemaître, and T. Ozawa, and L. Le Gratiet, and I. Sagnes, and J. Bloch, and A. Amo"}]
+  date: 2017
+  parent: {type: periodical, title: "Nat. Photon.", volume: "11"}
+  page-range: "651"
+
+"Parto-17":
+  type: article
+  title: "Edge-Mode Lasing in 1D Topological Active Arrays"
+  author: [{name: "Parto, M. and Wittek, S. and Hodaei, H. and Harari, G. and Bandres, M. A. and Ren, J. and Rechtsman, M. C. and Segev, M. and Christodoulides, D. N. and Khajavikhan, M."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "120"}
+  page-range: "113901"
+
+"Bahari-17":
+  type: article
+  title: "Nonreciprocal lasing in topological cavities of arbitrary geometries"
+  author: [{name: "B. Bahari, and A. Ndao, and F. Vallini, and A. El Amili, and Y. Fainman, and B. Kanté"}]
+  date: 2017
+  parent: {type: periodical, title: "Science", volume: "358"}
+  page-range: "636"
+
+"Zhao-18":
+  type: article
+  title: "Topological hybrid silicon microlasers"
+  author: [{name: "H. Zhao, and P. Miao, and M. H. Teimourpour, and S. Malzard, and R. El-Ganainy, and H. Schomerus, and L. Feng"}]
+  date: 2018
+  parent: {type: periodical, title: "Nat. Commun.", volume: "9"}
+  page-range: "981"
+
+"Zhou-18":
+  type: article
+  title: "Observation of bulk Fermi arc and polarization half charge from paired exceptional points"
+  author: [{name: "H. Zhou and C. Peng and Y. Yoon and C. W. Hsu and K. A. Nelson and L. Fu and J. D. Joannopoulos and M. Soljac̆ić and B. Zhen"}]
+  date: 2018
+  parent: {type: periodical, title: "Science", volume: "359"}
+  page-range: "1009"
+
+"Harari-18":
+  type: article
+  title: "Topological insulator laser: Theory"
+  author: [{name: "G. Harari, and M. A. Bandres, and Y. Lumer, and M. C. Rechtsman, and Y. D. Chong, and M. Khajavikhan, and D. N. Christodoulides, and M. Segev"}]
+  date: 2018
+  parent: {type: periodical, title: "Science", volume: "359"}
+  serial-number: "eaar4003"
+
+"Bandres-18":
+  type: article
+  title: "Topological insulator laser: Experiments"
+  author: [{name: "M. A. Bandres, and S. Wittek, and G. Harari, and M. Parto, and J. Ren, and M. Segev, and D. Christodoulides, and M. Khajavikhan"}]
+  date: 2018
+  parent: {type: periodical, title: "Science", volume: "359"}
+  serial-number: "eaar4005"
+
+"Cerjan-19":
+  type: article
+  title: "Experimental realization of a Weyl exceptional ring"
+  author: [{name: "A. Cerjan and S. Huang and K. P. Chen and Y. Chong and M. C. Rechtsman"}]
+  date: 2019
+  parent: {type: periodical, title: "Nat. Photon.", volume: "13"}
+  page-range: "623"
+
+"Zhao-19":
+  type: article
+  title: "Non-Hermitian topological light steering"
+  author: [{name: "H. Zhao, and X. Qiao, and T. Wu, and B. Midya, and S. Longhi, and L. Feng"}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "365"}
+  page-range: "1163"
+
+"Brandenbourger-19-skin-exp":
+  type: article
+  title: "Non-reciprocal robotic metamaterials"
+  author: [{name: "M. Brandenbourger and X. Locsin and E. Lerner, C. Coulais"}]
+  date: 2019
+  parent: {type: periodical, title: "Nat. Commun.", volume: "10"}
+  page-range: "4608"
+
+"Ghatak-19-skin-exp":
+  type: article
+  title: "Observation of non-Hermitian topology and its bulk--edge correspondence in an active mechanical metamaterial"
+  author: [{name: "Ghatak, Ananya and Brandenbourger, Martin and Van Wezel, Jasper and Coulais, Corentin"}]
+  date: 2020
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "117"}
+  page-range: "29561-29568"
+
+"Helbig-19-skin-exp":
+  type: article
+  title: "Generalized bulk--boundary correspondence in non-Hermitian topolectrical circuits"
+  author: [{name: "Helbig, Tobias and Hofmann, Tobias and Imhof, S and Abdelghany, M and Kiessling, T and Molenkamp, LW and Lee, CH and Szameit, A and Greiter, M and Thomale, R"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "747-750"
+
+"Hofmann-19-skin-exp":
+  type: article
+  title: "Reciprocal skin effect and its realization in a topolectrical circuit"
+  author: [{name: "Hofmann, Tobias and Helbig, Tobias and Schindler, Frank and Salgo, Nora and Brzezińska, Marta and Greiter, Martin and Kiessling, Tobias and Wolf, David and Vollhardt, Achim and Kabaši, Anton"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Research", volume: "2"}
+  page-range: "023265"
+
+"Xiao-19-skin-exp":
+  type: article
+  title: "Non-Hermitian bulk--boundary correspondence in quantum dynamics"
+  author: [{name: "Xiao, Lei and Deng, Tianshu and Wang, Kunkun and Zhu, Gaoyan and Wang, Zhong and Yi, Wei and Xue, Peng"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "761-766"
+
+"Hatano-Nelson-96":
+  type: article
+  title: "Localization Transitions in Non-Hermitian Quantum Mechanics"
+  author: [{name: "N. Hatano and D. R. Nelson"}]
+  date: 1996
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "77"}
+  page-range: "570"
+
+"Hatano-Nelson-97":
+  type: article
+  title: "Vortex pinning and non-Hermitian quantum mechanics"
+  author: [{name: "N. Hatano and D. R. Nelson"}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "56"}
+  page-range: "8651"
+
+"Hamazaki-19":
+  type: article
+  title: "Universality classes of non-Hermitian random matrices"
+  author: [{name: "R. Hamazaki, and K. Kawabata, and N. Kura, and M. Ueda"}]
+
+"Lieu-19":
+  type: article
+  title: "Tenfold Way for Quadratic Lindbladians"
+  author: [{name: "S. Lieu and M. McGinley and N. R. Cooper"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "040401"
+
+"Sa-19":
+  type: article
+  title: "Complex spacing ratios: a signature of dissipative quantum chaos"
+  author: [{name: "L. Sá, and P. Ribeiro, and T. Prosen"}]
+
+"Bernard-LeClair-02":
+  type: article
+  title: "A Classification of Non-Hermitian Random Matrices"
+  author: [{name: "D. Bernard and A. LeClair"}]
+  date: 2002
+  parent: {type: proceedings, title: "Statistical Field Theories"}
+  page-range: "207-214"
+
+"Brody-14":
+  type: article
+  title: "Biorthogonal quantum mechanics"
+  author: [{name: "D. C. Brody"}]
+  date: 2014
+  parent: {type: periodical, title: "J. Phys. A", volume: "47"}
+  page-range: "035305"
+
+"Yi-Yang-20":
+  type: article
+  title: "Non-Hermitian Skin Modes Induced by On-Site Dissipations and Chiral Tunneling Effect"
+  author: [{name: "Yi, Yifei and Yang, Zhesen"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "186802"
+  doi: "10.1103/PhysRevLett.125.186802"
+
+"Trefethen":
+  type: article
+  title: "Spectra and Pseudospectra"
+  author: [{name: "L. N. Trefethen and M. Embree"}]
+  date: 2005
+
+"Bender-98":
+  type: article
+  title: "Real Spectra in Non-Hermitian Hamiltonians Having PT Symmetry"
+  author: [{name: "C. M. Bender and S. Boettcher"}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "80"}
+  page-range: "5243"
+
+"Bender-02":
+  type: article
+  title: "Complex Extension of Quantum Mechanics"
+  author: [{name: "C. M. Bender and D. C. Brody and H. F. Jones"}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "89"}
+  page-range: "270401"
+
+"Bender-review":
+  type: article
+  title: "Making sense of non-Hermitian Hamiltonians"
+  author: [{name: "C. M. Bender"}]
+  date: 2007
+  parent: {type: periodical, title: "Rep. Prog. Phys.", volume: "70"}
+  page-range: "947"
+
+"Hatsugai-93":
+  type: article
+  title: "Chern number and edge states in the integer quantum Hall effect"
+  author: [{name: "Hatsugai, Yasuhiro"}]
+  date: 1993
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "71"}
+  page-range: "3697-3700"
+  doi: "10.1103/PhysRevLett.71.3697"
+
+"Bottcher":
+  type: article
+  title: "Spectral Properties of Banded Toeplitz Matrices"
+  author: [{name: "A. Böttcher and S. M. Grudsky"}]
+  date: 2005
+
+"Altland":
+  type: article
+  title: "Nonstandard symmetry classes in mesoscopic normal-superconducting hybrid structures"
+  author: [{name: "Altland, Alexander and Zirnbauer, Martin R."}]
+  date: 1997
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "55"}
+  page-range: "1142-1161"
+  doi: "10.1103/PhysRevB.55.1142"
+
+"Qi-09":
+  type: article
+  title: "Time-Reversal-Invariant Topological Superconductors and Superfluids in Two and Three Dimensions"
+  author: [{name: "X.-L. Qi, and T. L. Hughes, and S. Raghu, and S.-C. Zhang"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "102"}
+  page-range: "187001"
+
+"BBH-2017":
+  type: article
+  title: "Electric multipole moments, topological multipole moment pumping, and chiral hinge states in crystalline insulators"
+  author: [{name: "Benalcazar, Wladimir A. and Bernevig, B. Andrei and Hughes, Taylor L."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "96"}
+  page-range: "245115"
+  doi: "10.1103/PhysRevB.96.245115"
+
+"Xiong-2018":
+  type: article
+  title: "Why does bulk boundary correspondence fail in some non-hermitian topological models"
+  author: [{name: "Ye Xiong"}]
+  date: 2018
+  parent: {type: periodical, title: "Journal of Physics Communications", volume: "2"}
+  page-range: "035043"
+  doi: "10.1088/2399-6528/aab64a"
+
+"Asllani-2018":
+  type: article
+  title: "Structure and dynamical behavior of non-normal networks"
+  author: [{name: "Asllani, Malbor and Lambiotte, Renaud and Carletti, Timoteo"}]
+  date: 2018
+  parent: {type: periodical, title: "Science Advances", volume: "4"}
+  serial-number: "eaau9403"
+
+"Prosen-2008":
+  type: article
+  title: "Third quantization: a general method to solve master equations for quadratic open Fermi systems"
+  author: [{name: "Toma¥vz Prosen"}]
+  date: 2008
+  parent: {type: periodical, title: "New Journal of Physics", volume: "10"}
+  page-range: "043026"
+  doi: "10.1088/1367-2630/10/4/043026"
+
+"Prosen-2010":
+  type: article
+  title: "Spectral theorem for the Lindblad equation for quadratic open fermionic systems"
+  author: [{name: "Toma¥vz Prosen"}]
+  date: 2010
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2010"}
+  serial-number: "P07020"
+  doi: "10.1088/1742-5468/2010/07/p07020"
+
+"Trefethen-97":
+  type: article
+  title: "Numerical Linear Algebra"
+  author: [{name: "L. N. Trefethen, and D. Bau"}]
+  date: 1997
+
+"Mehrmann-97":
+  type: article
+  title: "An analysis of the pole placement problem. II: The multi-input case."
+  author: [{name: "V. Mehrmann, and H. Xu"}]
+  date: 1997
+  parent: {type: periodical, title: "Electronic Transactions on Numerical Analysis", volume: "5"}
+  page-range: "77-97"
+
+"Torres-2019":
+  type: article
+  title: "Perspective on topological states of non-Hermitian lattices"
+  author: [{name: "Luis E F Foa Torres"}]
+  date: 2019
+  parent: {type: periodical, title: "Journal of Physics: Materials", volume: "3"}
+  page-range: "014002"
+  doi: "10.1088/2515-7639/ab4092"
+
+"Feinberg-97":
+  type: article
+  title: "Non-hermitian random matrix theory: Method of hermitian reduction"
+  author: [{name: "Joshua Feinberg and A. Zee"}]
+  date: 1997
+  parent: {type: periodical, title: "Nuclear Physics B", volume: "504"}
+  serial-number: "579 - 608"
+  doi: "https://doi.org/10.1016/S0550-3213(97)00502-6"
+
+"Ashcroft-Mermin":
+  type: article
+  title: "Solid state physics"
+  author: [{name: "N. W. Ashcroft, and N. D. Mermin"}]
+  date: 1981
+
+"Altland-Simons":
+  type: article
+  title: "Condensed matter field theory"
+  author: [{name: "Altland, Alexander and Simons, Ben D"}]
+  date: 2010
+
+"Michishita-20":
+  type: article
+  title: "Equivalence of Effective Non-Hermitian Hamiltonians in the Context of Open Quantum Systems and Strongly Correlated Electron Systems"
+  author: [{name: "Michishita, Yoshihiro and Peters, Robert"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "196401"
+  doi: "10.1103/PhysRevLett.124.196401"
+
+"Weidemann-20-skin-exp":
+  type: article
+  title: "Topological funneling of light"
+  author: [{name: "S. Weidemann, and M. Kremer, and T. Helbig, and T. Hofmann, and A. Stegmaier, and M. Greiter, and R. Thomale, and A. Szameit"}]
+  date: 2020
+  parent: {type: periodical, title: "Science", volume: "368"}
+  page-range: "311"
+
+"KOS-20":
+  type: article
+  title: "Non-Bloch band theory of non-Hermitian Hamiltonians in the symplectic class"
+  author: [{name: "Kawabata, Kohei and Okuma, Nobuyuki and Sato, Masatoshi"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "195147"
+  doi: "10.1103/PhysRevB.101.195147"
+
+"Bessho-Sato-20":
+  type: article
+  title: "Nielsen-Ninomiya Theorem with Bulk Topology: Duality in Floquet and Non-Hermitian Systems"
+  author: [{name: "Bessho, Takumi and Sato, Masatoshi"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "196404"
+
+"supplement":
+  type: article
+  title: ""
+
+"Colbrook-19":
+  type: article
+  title: "How to Compute Spectra with Error Control"
+  author: [{name: "Colbrook, Matthew J. and Roman, Bogdan and Hansen, Anders C."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "250201"
+
+"Okuma-Sato-20":
+  type: article
+  title: "Hermitian zero modes protected by nonnormality: Application of pseudospectra"
+  author: [{name: "Okuma, Nobuyuki and Sato, Masatoshi"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "014203"
+  doi: "10.1103/PhysRevB.102.014203"
+
+"ARPES-review":
+  type: article
+  title: "Angle-resolved photoemission studies of the cuprate superconductors"
+  author: [{name: "Damascelli, Andrea and Hussain, Zahid and Shen, Zhi-Xun"}]
+  date: 2003
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "75"}
+  page-range: "473-541"
+  doi: "10.1103/RevModPhys.75.473"
+
+"Fetter":
+  type: article
+  title: "Quantum theory of many-particle systems"
+  author: [{name: "Fetter, Alexander L and Walecka, John Dirk"}]
+  date: 2012
+
+"Hedin-02":
+  type: article
+  title: "Sudden approximation in photoemission and beyond"
+  author: [{name: "Hedin, Lars and Lee, JD"}]
+  date: 2002
+  parent: {type: periodical, title: "Journal of electron spectroscopy and related phenomena", volume: "124"}
+  page-range: "289-315"
+
+"YZFH-19":
+  type: misc
+  title: "Auxiliary generalized Brillouin zone method in non-Hermitian band theory"
+  author: [{name: "Zhesen Yang and Kai Zhang and Chen Fang and Jiangping Hu"}]
+  date: 2019
+  serial-number: "arXiv:arXiv:1912.05499"
+
+"Minganti-18":
+  type: article
+  title: "Spectral theory of Liouvillians for dissipative phase transitions"
+  author: [{name: "Minganti, Fabrizio and Biella, Alberto and Bartolo, Nicola and Ciuti, Cristiano"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "98"}
+  page-range: "042118"
+  doi: "10.1103/PhysRevA.98.042118"
+
+"ashida-gong-20":
+  type: article
+  title: "Non-Hermitian physics"
+  author: [{name: "Yuto Ashida and Zongping Gong and Masahito Ueda"}]
+  date: 2020
+  parent: {type: periodical, title: "Advances in Physics", volume: "69"}
+  page-range: "249-435"
+
+"yamamoto-monopole":
+  type: misc
+  title: ""
+  author: [{name: "Naoki Yamamoto"}]
+  serial-number: "arXiv:arXiv:2005.05028"
+
+"teo-kane":
+  type: article
+  title: "Topological defects and gapless modes in insulators and superconductors"
+  author: [{name: "Teo, Jeffrey C. Y. and Kane, C. L."}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "82"}
+  page-range: "115120"
+  doi: "10.1103/PhysRevB.82.115120"
+
+"Nayak":
+  type: article
+  title: "Non-Abelian anyons and topological quantum computation"
+  author: [{name: "Nayak, Chetan and Simon, Steven H. and Stern, Ady and Freedman, Michael and Das Sarma, Sankar"}]
+  date: 2008
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "80"}
+  page-range: "1083-1159"
+  doi: "10.1103/RevModPhys.80.1083"
+
+"Alexandradinata":
+  type: article
+  title: "Trace index and spectral flow in the entanglement spectrum of topological insulators"
+  author: [{name: "Alexandradinata, A. and Hughes, Taylor L. and Bernevig, B. Andrei"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "84"}
+  page-range: "195103"
+  doi: "10.1103/PhysRevB.84.195103"
+
+"Okuma-correlated":
+  type: article
+  title: "Non-Hermitian Skin Effects in Hermitian Correlated or Disordered Systems: Quantities Sensitive or Insensitive to Boundary Effects and Pseudo-Quantum-Number"
+  author: [{name: "Okuma, Nobuyuki and Sato, Masatoshi"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "176601"
+
+"Sato-Ando":
+  type: article
+  title: "Topological superconductors: a review"
+  author: [{name: "Masatoshi Sato and Yoichi Ando"}]
+  date: 2017
+  parent: {type: periodical, title: "Reports on Progress in Physics", volume: "80"}
+  page-range: "076501"
+  doi: "10.1088/1361-6633/aa6ac7"
+
+"Sato-Fujimoto":
+  type: article
+  title: "Non-Abelian Topological Order in s-Wave Superfluids of Ultracold Fermionic Atoms"
+  author: [{name: "Sato, Masatoshi and Takahashi, Yoshiro and Fujimoto, Satoshi"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "103"}
+  page-range: "020401"
+  doi: "10.1103/PhysRevLett.103.020401"
+
+"Lutchyn":
+  type: article
+  title: "Majorana Fermions and a Topological Phase Transition in Semiconductor-Superconductor Heterostructures"
+  author: [{name: "Lutchyn, Roman M. and Sau, Jay D. and Das Sarma, S."}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "105"}
+  page-range: "077001"
+  doi: "10.1103/PhysRevLett.105.077001"
+
+"O-R-vO":
+  type: article
+  title: "Helical Liquids and Majorana Bound States in Quantum Wires"
+  author: [{name: "Oreg, Yuval and Refael, Gil and von Oppen, Felix"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "105"}
+  page-range: "177002"
+  doi: "10.1103/PhysRevLett.105.177002"
+
+"haga-20":
+  type: article
+  title: "Liouvillian Skin Effect: Slowing Down of Relaxation Processes without Gap Closing"
+  author: [{name: "Haga, Taiki and Nakagawa, Masaya and Hamazaki, Ryusuke and Ueda, Masahito"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "070402"
+  doi: "10.1103/PhysRevLett.127.070402"
+
+"Song-yao-wang-19":
+  type: article
+  title: "Non-Hermitian Skin Effect and Chiral Damping in Open Quantum Systems"
+  author: [{name: "Song, Fei and Yao, Shunyu and Wang, Zhong"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "170401"
+  doi: "10.1103/PhysRevLett.123.170401"
+
+"mori-20":
+  type: article
+  title: "Resolving a Discrepancy between Liouvillian Gap and Relaxation Time in Boundary-Dissipated Quantum Many-Body Systems"
+  author: [{name: "Mori, Takashi and Shirai, Tatsuhiko"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "230604"
+  doi: "10.1103/PhysRevLett.125.230604"
+
+"Lindblad":
+  type: article
+  title: "On the generators of quantum dynamical semigroups"
+  author: [{name: "G. Lindblad"}]
+  date: 1976
+  parent: {type: periodical, title: "Commun. Math. Phys.", volume: "48"}
+  page-range: "119"
+
+"Kells-12":
+  type: article
+  title: "Near-zero-energy end states in topologically trivial spin-orbit coupled superconducting nanowires with a smooth confinement"
+  author: [{name: "Kells, G. and Meidan, D. and Brouwer, P. W."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "86"}
+  page-range: "100503"
+  doi: "10.1103/PhysRevB.86.100503"
+
+"Parada-12":
+  type: article
+  title: "Transport spectroscopy of NS nanowire junctions with Majorana fermions"
+  author: [{name: "Prada, Elsa and San-Jose, Pablo and Aguado, Ramón"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "86"}
+  page-range: "180503"
+  doi: "10.1103/PhysRevB.86.180503"
+
+"Liu-17":
+  type: article
+  title: "Role of dissipation in realistic Majorana nanowires"
+  author: [{name: "Liu, Chun-Xiao and Sau, Jay D. and Das Sarma, S."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "95"}
+  page-range: "054502"
+  doi: "10.1103/PhysRevB.95.054502"
+
+"Moore-18":
+  type: article
+  title: "Two-terminal charge tunneling: Disentangling Majorana zero modes from partially separated Andreev bound states in semiconductor-superconductor heterostructures"
+  author: [{name: "Moore, Christopher and Stanescu, Tudor D. and Tewari, Sumanta"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "97"}
+  page-range: "165302"
+  doi: "10.1103/PhysRevB.97.165302"
+
+"Moore-18-2":
+  type: article
+  title: "Quantized zero-bias conductance plateau in semiconductor-superconductor heterostructures without topological Majorana zero modes"
+  author: [{name: "Moore, Christopher and Zeng, Chuanchang and Stanescu, Tudor D. and Tewari, Sumanta"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "155314"
+  doi: "10.1103/PhysRevB.98.155314"
+
+"vuik-18":
+  type: misc
+  title: "Reproducing topological properties with quasi-Majorana states"
+  author: [{name: "A. Vuik and B. Nijholt and A. R. Akhmerov and M. Wimmer"}]
+  date: 2018
+  serial-number: "arXiv:arXiv:1806.02801"
+  doi: "10.21468/SciPostPhys.7.5.061"
+
+"sanjose-16":
+  type: article
+  title: ""
+  author: [{name: "San-Jose, Pablo and Cayao, Jorge and Prada, Elsa and Aguado, Ramón"}]
+  date: 2016
+  parent: {type: periodical, title: "Sci. Rep.", volume: "6"}
+  page-range: "21427"
+
+"avila-19":
+  type: article
+  title: ""
+  author: [{name: "Avila, J and Pearanda, Fernando and Prada, Elsa and San-Jose, Pablo and Aguado, Ramón"}]
+  date: 2019
+  parent: {type: periodical, title: "Commun. Phys.", volume: "2"}
+  page-range: "133"
+
+"prada-20":
+  type: article
+  title: ""
+  author: [{name: "Prada, Elsa and San-Jose, Pablo and de Moor, Michiel W. A. and Geresdi, Attila and Lee, Eduardo J. H. and Klinovaja, Jelena and Loss, Daniel and Nygård, Jesper and Aguado, Ramón and Kouwenhoven, Leo P."}]
+  date: 2020
+  parent: {type: periodical, title: "Nat. Rev. Phys.", volume: "2"}
+  page-range: "575"
+
+"Rubakov":
+  type: article
+  title: "Adler-Bell-Jackiw Anomaly and Fermion Number Breaking in the Presence of a Magnetic Monopole"
+  author: [{name: "Rubakov, V.A."}]
+  date: 1982
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "203"}
+  page-range: "311-348"
+  doi: "10.1016/0550-3213(82)90034-7"
+
+"callan":
+  type: article
+  title: "Disappearing dyons"
+  author: [{name: "Callan, Curtis G."}]
+  date: 1982
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "25"}
+  page-range: "2141-2146"
+  doi: "10.1103/PhysRevD.25.2141"
+
+"Makris-08":
+  type: article
+  title: "Beam Dynamics in PT Symmetric Optical Lattices"
+  author: [{name: "K. G. Makris, and R. El-Ganainy, and D. N. Christodoulides, and Z. H. Musslimani"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "100"}
+  page-range: "103904"
+
+"Klaiman-08":
+  type: article
+  title: "Visualization of Branch Points in PT-Symmetric Waveguides"
+  author: [{name: "Klaiman, Shachar and Günther, Uwe and Moiseyev, Nimrod"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "101"}
+  page-range: "080402"
+
+"Guo-09":
+  type: article
+  title: "Observation of PT-Symmetry Breaking in Complex Optical Potentials"
+  author: [{name: "Guo, A. and Salamo, G. J. and Duchesne, D. and Morandotti, R. and Volatier-Ravat, M. and Aimez, V. and Siviloglou, G. A. and Christodoulides, D. N."}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "103"}
+  page-range: "093902"
+
+"Ruter-10":
+  type: article
+  title: "Observation of parity-time symmetry in optics"
+  author: [{name: "C. E. Rüter, and K. G. Makris, and R. El-Ganainy, and D. N. Christodoulides, and M. Segev, and D. Kip"}]
+  date: 2010
+  parent: {type: periodical, title: "Nat. Phys.", volume: "6"}
+  page-range: "192"
+
+"Lin-11":
+  type: article
+  title: "Unidirectional Invisibility Induced by PT-Symmetric Periodic Structures"
+  author: [{name: "Z. Lin, and H. Ramezani, and T. Eichelkraut, and T. Kottos, and H. Cao, and D. N. Christodoulides"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "106"}
+  page-range: "213901"
+
+"Regensburger-12":
+  type: article
+  title: "Parity-time synthetic photonic lattices"
+  author: [{name: "A. Regensburger, and C. Bersch, and M.-A. Miri, and G. Onishchukov, and D. N. Christodoulides, and U. Peschel"}]
+  date: 2012
+  parent: {type: periodical, title: "Nature (London)", volume: "488"}
+  page-range: "167"
+
+"Peng-14":
+  type: article
+  title: "Parity-time-symmetric whispering-gallery microcavities"
+  author: [{name: "B. Peng, and Ş. K. Ozdemir, and F. Lei, and F. Monifi, and M. Gianfreda, and G. L. Long, and S. Fan, and F. Nori, and C. M. Bender, and L. Yang"}]
+  date: 2014
+  parent: {type: periodical, title: "Nat. Phys.", volume: "10"}
+  page-range: "394"
+
+"Nakagawa-18":
+  type: article
+  title: "Non-Hermitian Kondo Effect in Ultracold Alkaline-Earth Atoms"
+  author: [{name: "M. Nakagawa, and N. Kawakami, and M. Ueda"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "203001"
+
+"Li-19":
+  type: article
+  title: "Observation of parity-time symmetry breaking transitions in a dissipative Floquet system of ultracold atoms"
+  author: [{name: "J. Li, and A. K. Harter, and J. Liu, and L. de Melo, and Y. N. Joglekar, and L. Luo"}]
+  date: 2019
+  parent: {type: periodical, title: "Nat. Commun.", volume: "10"}
+  page-range: "855"
+
+"Wu-19":
+  type: article
+  title: "Observation of parity-time symmetry breaking in a single-spin system"
+  author: [{name: "Y. Wu, and W. Liu, and J. Geng, and X. Song, and X. Ye, and C.-K. Duan, and X. Rong, and J. Du"}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "364"}
+  page-range: "878"
+
+"Yamamoto-19":
+  type: article
+  title: "Theory of Non-Hermitian Fermionic Superfluidity with a Complex-Valued Interaction"
+  author: [{name: "Yamamoto, K. and Nakagawa, M. and Adachi, K. and Takasan, K. and Ueda, M. and Kawakami, N."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "123601"
+
+"Xiao-18":
+  type: article
+  title: "Observation of Critical Phenomena in Parity-Time-Symmetric Quantum Dynamics"
+  author: [{name: "L. Xiao, and K. Wang, and X. Zhan, and Z. Bian, and K. Kawabata, and M. Ueda, and W. Yi, and P. Xue"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "230401"
+
+"Lee-14":
+  type: article
+  title: "Heralded Magnetism in Non-Hermitian Atomic Systems"
+  author: [{name: "Lee, Tony E. and Chan, Ching-Kit"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "4"}
+  page-range: "041001"
+
+"Terrier-20":
+  type: article
+  title: "Dissipative analog of four-dimensional quantum Hall physics"
+  author: [{name: "Terrier, Fanny and Kunst, Flore K."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "023364"
+  doi: "10.1103/PhysRevResearch.2.023364"
+
+"Yoshida-18":
+  type: article
+  title: "Non-Hermitian perspective of the band structure in heavy-fermion systems"
+  author: [{name: "Yoshida, T. and Peters, R. and Kawakami, N."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "035141"
+
+"Witten":
+  type: article
+  title: "Superconducting strings"
+  author: [{name: "Edward Witten"}]
+  date: 1985
+  parent: {type: periodical, title: "Nuclear Physics B", volume: "249"}
+  serial-number: "557 - 592"
+  doi: "https://doi.org/10.1016/0550-3213(85)90022-7"
+
+"Ye-20":
+  type: article
+  title: "Entanglement, non-Hermiticity and duality"
+  author: [{name: "Li-Mei Chen and Shuai A. Chen and Peng Ye"}]
+
+"Bardarson-19":
+  type: article
+  title: "Entanglement spectrum and symmetries in non-Hermitian fermionic non-interacting models"
+  author: [{name: "Loïc Herviou and Nicolas Regnault and Jens H. Bardarson"}]
+  date: 2019
+  parent: {type: periodical, title: "SciPost Phys.", volume: "7"}
+  page-range: "69"
+  doi: "10.21468/SciPostPhys.7.5.069"
+
+"Ryu-20":
+  type: article
+  title: "Entanglement spectrum and entropy in topological non-Hermitian systems and nonunitary conformal field theory"
+  author: [{name: "Chang, Po-Yao and You, Jhih-Shih and Wen, Xueda and Ryu, Shinsei"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "033069"
+  doi: "10.1103/PhysRevResearch.2.033069"
+
+"monopolegauge":
+  type: article
+  title: "Witten effect in a crystalline topological insulator"
+  author: [{name: "Rosenberg, G. and Franz, M."}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "82"}
+  page-range: "035105"
+  doi: "10.1103/PhysRevB.82.035105"
+
+"Shiozaki-prep":
+  type: article
+  title: ""
+
+"Okuma-Sato-21":
+  type: article
+  title: "Quantum anomaly, non-Hermitian skin effects, and entanglement entropy in open systems"
+  author: [{name: "Okuma, Nobuyuki and Sato, Masatoshi"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  page-range: "085428"
+  doi: "10.1103/PhysRevB.103.085428"
+
+"topo-magnon":
+  type: article
+  title: "Topological Magnons: A Review"
+  author: [{name: "McClarty, Paul A."}]
+  date: 2022
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "13"}
+  serial-number: "null"
+  doi: "10.1146/annurev-conmatphys-031620-104715"
+
+"Colpa-78":
+  type: article
+  title: "Diagonalization of the quadratic boson hamiltonian"
+  author: [{name: "Colpa, JHP"}]
+  date: 1978
+  parent: {type: periodical, title: "Physica A: Statistical Mechanics and its Applications", volume: "93"}
+  page-range: "327-353"
+
+"bogoliubov1947theory":
+  type: article
+  title: "On the theory of superfluidity"
+  author: [{name: "Bogoliubov, N"}]
+  date: 1947
+  parent: {type: periodical, title: "J. Phys", volume: "11"}
+  page-range: "23"
+
+"Shindou-13":
+  type: article
+  title: "Topological chiral magnonic edge mode in a magnonic crystal"
+  author: [{name: "Shindou, Ryuichi and Matsumoto, Ryo and Murakami, Shuichi and Ohe, Jun-ichiro"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "87"}
+  page-range: "174427"
+  doi: "10.1103/PhysRevB.87.174427"
+
+"roy-floquet-classification":
+  type: article
+  title: "Periodic table for Floquet topological insulators"
+  author: [{name: "Roy, Rahul and Harper, Fenner"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "96"}
+  page-range: "155118"
+  doi: "10.1103/PhysRevB.96.155118"
+
+"Lee-Thomale-19":
+  type: article
+  title: "Anatomy of skin modes and topology in non-Hermitian systems"
+  author: [{name: "C. H. Lee and R. Thomale"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  serial-number: "201103(R)"
+
+"Yoshida-dagger-symmetry":
+  type: article
+  title: "Exceptional band touching for strongly correlated systems in equilibrium"
+  author: [{name: "Yoshida, Tsuneya and Peters, Robert and Kawakami, Norio and Hatsugai, Yasuhiro"}]
+  date: 2020
+  parent: {type: periodical, title: "Progress of Theoretical and Experimental Physics", volume: "2020"}
+
+"lein2020choosing":
+  type: misc
+  title: "On Choosing a Physically Meaningful Topological Classification for Non-Hermitian Systems and the Issue of Diagonalizability"
+  author: [{name: "Lein, Max"}]
+  date: 2020
+  serial-number: "arXiv:2010.09261"
+
+"PhysRevResearch.2.023265":
+  type: article
+  title: "Reciprocal skin effect and its realization in a topolectrical circuit"
+  author: [{name: "Hofmann, Tobias and Helbig, Tobias and Schindler, Frank and Salgo, Nora and Brzezińska, Marta and Greiter, Martin and Kiessling, Tobias and Wolf, David and Vollhardt, Achim and Kabaši, Anton and Lee, Ching Hua and Bilušić, Ante and Thomale, Ronny and Neupert, Titus"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "023265"
+  doi: "10.1103/PhysRevResearch.2.023265"
+
+"Mc-18":
+  type: article
+  title: "Phase-Dependent Chiral Transport and Effective Non-Hermitian Dynamics in a Bosonic Kitaev-Majorana Chain"
+  author: [{name: "A. McDonald, T. Pereg-Barnea, and A. A. Clerk"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "8"}
+  page-range: "041031"
+  doi: "10.1103/PhysRevX.8.041031"
+
+"Flynn-20":
+  type: article
+  title: "Deconstructing effective non-Hermitian dynamics in quadratic bosonic Hamiltonians"
+  author: [{name: "Flynn, Vincent P and Cobanera, Emilio and Viola, Lorenza"}]
+  date: 2020
+  parent: {type: periodical, title: "New Journal of Physics", volume: "22"}
+  page-range: "083004"
+
+"Flynn-21":
+  type: article
+  title: "Topology by Dissipation: Majorana Bosons in Metastable Quadratic Markovian Dynamics"
+  author: [{name: "Flynn, Vincent P. and Cobanera, Emilio and Viola, Lorenza"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "245701"
+  doi: "10.1103/PhysRevLett.127.245701"
+
+"BdG-non-bloch":
+  type: article
+  title: "Non-Bloch band theory in bosonic Bogoliubov--de Gennes systems"
+  author: [{name: "Yokomizo, Kazuki and Murakami, Shuichi"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  page-range: "165123"
+  doi: "10.1103/PhysRevB.103.165123"
+
+"okuma2022boundary":
+  type: misc
+  title: "Boundary-dependent dynamical instability of bosonic Green's function: Dissipative Bogoliubov-de Gennes Hamiltonian and its application to non-Hermitian skin effect"
+  author: [{name: "Okuma, Nobuyuki"}]
+  date: 2022
+  serial-number: "arXiv:2202.07684"
+
+"Daley-14":
+  type: article
+  title: "Quantum trajectories and open many-body quantum systems"
+  author: [{name: "Andrew J. Daley"}]
+  date: 2014
+  parent: {type: periodical, title: "Advances in Physics", volume: "63"}
+  page-range: "77-149"
+  doi: "10.1080/00018732.2014.933502"
+
+"Okuma-Nakagawa":
+  type: article
+  title: "Nonnormal Hamiltonian dynamics in quantum systems and its realization on quantum computers"
+  author: [{name: "Okuma, Nobuyuki and Nakagawa, Yuya O."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "105"}
+  page-range: "054304"
+  doi: "10.1103/PhysRevB.105.054304"
+
+"kawaguchi2012spinor":
+  type: article
+  title: "Spinor bose--einstein condensates"
+  author: [{name: "Kawaguchi, Yuki and Ueda, Masahito"}]
+  date: 2012
+  parent: {type: periodical, title: "Physics Reports", volume: "520"}
+  page-range: "253-381"
+
+"BdGsym":
+  type: article
+  title: "Topological symmetry classes for non-Hermitian models and connections to the bosonic Bogoliubov--de Gennes equation"
+  author: [{name: "Lieu, Simon"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "115135"
+  doi: "10.1103/PhysRevB.98.115135"
+
+"senthil2015symmetry":
+  type: article
+  title: "Symmetry-protected topological phases of quantum matter"
+  author: [{name: "Senthil, T"}]
+  date: 2015
+  parent: {type: periodical, title: "Annu. Rev. Condens. Matter Phys.", volume: "6"}
+  page-range: "299-324"
+
+"song-real-space-19":
+  type: article
+  title: "Non-Hermitian Topological Invariants in Real Space"
+  author: [{name: "Song, Fei and Yao, Shunyu and Wang, Zhong"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "246801"
+  doi: "10.1103/PhysRevLett.123.246801"
+
+"stab-of-fermi-surface":
+  type: article
+  title: "Stability of Fermi Surfaces and K Theory"
+  author: [{name: "Hořava, Petr"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "95"}
+  page-range: "016405"
+  doi: "10.1103/PhysRevLett.95.016405"
+
+"matsuura2013protected":
+  type: article
+  title: "Protected boundary states in gapless topological phases"
+  author: [{name: "Matsuura, Shunji and Chang, Po-Yao and Schnyder, Andreas P and Ryu, Shinsei"}]
+  date: 2013
+  parent: {type: periodical, title: "New Journal of Physics", volume: "15"}
+  page-range: "065001"
+
+"Zhao-PRL-13":
+  type: article
+  title: "Topological Classification and Stability of Fermi Surfaces"
+  author: [{name: "Zhao, Y. X. and Wang, Z. D."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "110"}
+  page-range: "240404"
+  doi: "10.1103/PhysRevLett.110.240404"
+
+"Zhao-PRB-14":
+  type: article
+  title: "Topological connection between the stability of Fermi surfaces and topological insulators and superconductors"
+  author: [{name: "Zhao, Y. X. and Wang, Z. D."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "89"}
+  page-range: "075111"
+  doi: "10.1103/PhysRevB.89.075111"
+
+"Morimoto-semimetal":
+  type: article
+  title: "Weyl and Dirac semimetals with ℤ₂ topological charge"
+  author: [{name: "Morimoto, Takahiro and Furusaki, Akira"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "89"}
+  page-range: "235127"
+  doi: "10.1103/PhysRevB.89.235127"
+
+"Kobayashi-14":
+  type: article
+  title: "Topological Blount's theorem of odd-parity superconductors"
+  author: [{name: "Kobayashi, Shingo and Shiozaki, Ken and Tanaka, Yukio and Sato, Masatoshi"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "90"}
+  page-range: "024516"
+  doi: "10.1103/PhysRevB.90.024516"
+
+"Shiozaki-Sato-14":
+  type: article
+  title: "Topology of crystalline insulators and superconductors"
+  author: [{name: "Shiozaki, Ken and Sato, Masatoshi"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "90"}
+  page-range: "165114"
+  doi: "10.1103/PhysRevB.90.165114"
+
+"CKC-14":
+  type: article
+  title: "Classification of reflection-symmetry-protected topological semimetals and nodal superconductors"
+  author: [{name: "Chiu, Ching-Kai and Schnyder, Andreas P."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "90"}
+  page-range: "205136"
+  doi: "10.1103/PhysRevB.90.205136"
+
+"Zhao-PRL-16":
+  type: article
+  title: "Unified Theory of PT and CP Invariant Topological Metals and Nodal Superconductors"
+  author: [{name: "Zhao, Y. X. and Schnyder, Andreas P. and Wang, Z. D."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "116"}
+  page-range: "156402"
+  doi: "10.1103/PhysRevLett.116.156402"
+
+"Zhao-PRL-17":
+  type: article
+  title: "PT-Symmetric Real Dirac Fermions and Semimetals"
+  author: [{name: "Zhao, Y. X. and Lu, Y."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "118"}
+  page-range: "056401"
+  doi: "10.1103/PhysRevLett.118.056401"
+
+"kato2013perturbation":
+  type: article
+  title: "Perturbation theory for linear operators"
+  author: [{name: "Kato, Tosio"}]
+  date: 2013
+
+"berry2004physics":
+  type: article
+  title: "Physics of nonhermitian degeneracies"
+  author: [{name: "Berry, Michael V"}]
+  date: 2004
+  parent: {type: periodical, title: "Czechoslovak journal of physics", volume: "54"}
+  page-range: "1039-1047"
+
+"heiss2012physics":
+  type: article
+  title: "The physics of exceptional points"
+  author: [{name: "Heiss, WD"}]
+  date: 2012
+  parent: {type: periodical, title: "Journal of Physics A: Mathematical and Theoretical", volume: "45"}
+  page-range: "444016"
+
+"Papaj-19":
+  type: article
+  title: "Nodal arc of disordered Dirac fermions and non-Hermitian band theory"
+  author: [{name: "Papaj, Michał and Isobe, Hiroki and Fu, Liang"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  page-range: "201107"
+  doi: "10.1103/PhysRevB.99.201107"
+
+"Zyuzin-18":
+  type: article
+  title: "Flat band in disorder-driven non-Hermitian Weyl semimetals"
+  author: [{name: "A. A. Zyuzin and A. Y. Zyuzin"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "97"}
+  serial-number: "041203(R)"
+
+"KSS-20":
+  type: article
+  title: "Higher-order non-Hermitian skin effect"
+  author: [{name: "Kawabata, Kohei and Sato, Masatoshi and Shiozaki, Ken"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "205118"
+  doi: "10.1103/PhysRevB.102.205118"
+
+"Fu-Hu-Wan-21":
+  type: article
+  title: "Non-Hermitian second-order skin and topological modes"
+  author: [{name: "Fu, Yongxu and Hu, Jihan and Wan, Shaolong"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "103"}
+  page-range: "045420"
+  doi: "10.1103/PhysRevB.103.045420"
+
+"zhang2021observation":
+  type: article
+  title: "Observation of higher-order non-Hermitian skin effect"
+  author: [{name: "Zhang, Xiujuan and Tian, Yuan and Jiang, Jian-Hua and Lu, Ming-Hui and Chen, Yan-Feng"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature communications", volume: "12"}
+  page-range: "1-8"
+
+"wu2020observation":
+  type: article
+  title: "Observation of corner states in second-order topological electric circuits"
+  author: [{name: "Wu, Jien and Huang, Xueqin and Lu, Jiuyang and Wu, Ying and Deng, Weiyin and Li, Feng and Liu, Zhengyou"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review B", volume: "102"}
+  page-range: "104109"
+
+"zou2021observation":
+  type: article
+  title: "Observation of hybrid higher-order skin-topological effect in non-Hermitian topolectrical circuits"
+  author: [{name: "Zou, Deyuan and Chen, Tian and He, Wenjing and Bao, Jiacheng and Lee, Ching Hua and Sun, Houjun and Zhang, Xiangdong"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Communications", volume: "12"}
+  page-range: "1-11"
+
+"Terrier-Kunst-20":
+  type: article
+  title: "Dissipative analog of four-dimensional quantum Hall physics"
+  author: [{name: "Terrier, Fanny and Kunst, Flore K."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "023364"
+  doi: "10.1103/PhysRevResearch.2.023364"
+
+"Imura-12":
+  type: article
+  title: "Spherical topological insulator"
+  author: [{name: "Imura, Ken-Ichiro and Yoshimura, Yukinori and Takane, Yositake and Fukui, Takahiro"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "86"}
+  page-range: "235119"
+  doi: "10.1103/PhysRevB.86.235119"
+
+"Parente-11":
+  type: article
+  title: "Spin connection and boundary states in a topological insulator"
+  author: [{name: "Parente, V. and Lucignano, P. and Vitale, P. and Tagliacozzo, A. and Guinea, F."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "83"}
+  page-range: "075424"
+  doi: "10.1103/PhysRevB.83.075424"
+
+"DLee-09":
+  type: article
+  title: "Surface States of Topological Insulators: The Dirac Fermion in Curved Two-Dimensional Spaces"
+  author: [{name: "Lee, Dung-Hai"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "103"}
+  page-range: "196804"
+  doi: "10.1103/PhysRevLett.103.196804"
+
+"benalcazar2017quantized":
+  type: article
+  title: "Quantized electric multipole insulators"
+  author: [{name: "Benalcazar, Wladimir A and Bernevig, B Andrei and Hughes, Taylor L"}]
+  date: 2017
+  parent: {type: periodical, title: "Science", volume: "357"}
+  page-range: "61-66"
+
+"benalcazar2017electric":
+  type: article
+  title: "Electric multipole moments, topological multipole moment pumping, and chiral hinge states in crystalline insulators"
+  author: [{name: "Benalcazar, Wladimir A and Bernevig, B Andrei and Hughes, Taylor L"}]
+  date: 2017
+  parent: {type: periodical, title: "Physical Review B", volume: "96"}
+  page-range: "245115"
+
+"langbehn2017reflection":
+  type: article
+  title: "Reflection-symmetric second-order topological insulators and superconductors"
+  author: [{name: "Langbehn, Josias and Peng, Yang and Trifunovic, Luka and von Oppen, Felix and Brouwer, Piet W"}]
+  date: 2017
+  parent: {type: periodical, title: "Physical review letters", volume: "119"}
+  page-range: "246401"
+
+"song2017d":
+  type: article
+  title: "(d- 2)-dimensional edge states of rotation symmetry protected topological states"
+  author: [{name: "Song, Zhida and Fang, Zhong and Fang, Chen"}]
+  date: 2017
+  parent: {type: periodical, title: "Physical review letters", volume: "119"}
+  page-range: "246402"
+
+"fukushima2008chiral":
+  type: article
+  title: "Chiral magnetic effect"
+  author: [{name: "Fukushima, Kenji and Kharzeev, Dmitri E and Warringa, Harmen J"}]
+  date: 2008
+  parent: {type: periodical, title: "Physical Review D", volume: "78"}
+  page-range: "074033"
+
+"yokomizo2020non":
+  type: article
+  title: "Non-Bloch band theory and bulk--edge correspondence in non-Hermitian systems"
+  author: [{name: "Yokomizo, Kazuki and Murakami, Shuichi"}]
+  date: 2020
+  parent: {type: periodical, title: "Progress of Theoretical and Experimental Physics", volume: "2020"}
+  serial-number: "12A102"
+
+"Schmidt-Spitzer-60":
+  type: article
+  title: "The Toeplitz matrices of an arbitrary Laurent polynomial"
+  author: [{name: "Schmidt, Palle and Spitzer, Frank"}]
+  date: 1960
+  parent: {type: periodical, title: "Math. Scand.", volume: "8"}
+  page-range: "15"
+
+"Hatano98":
+  type: article
+  title: "Localization in non-Hermitian quantum mechanicsand ux-line pinning in superconductors"
+  author: [{name: "Hatano, Naomichi"}]
+  date: 1998
+  parent: {type: periodical, title: "Physica A", volume: "254"}
+  page-range: "317"
+
+"GLSH-21":
+  type: article
+  title: "Non-Hermitian higher-order Dirac semimetals"
+  author: [{name: "Ghorashi, Sayed Ali Akbar and Li, Tianhe and Sato, Masatoshi and Hughes, Taylor L."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "104"}
+  serial-number: "L161116"
+  doi: "10.1103/PhysRevB.104.L161116"
+
+"GLS-21":
+  type: article
+  title: "Non-Hermitian higher-order Weyl semimetals"
+  author: [{name: "Ghorashi, Sayed Ali Akbar and Li, Tianhe and Sato, Masatoshi"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "104"}
+  serial-number: "L161117"
+  doi: "10.1103/PhysRevB.104.L161117"
+
+"Ghatak-2019":
+  type: article
+  title: "New topological invariants in non-Hermitian systems"
+  author: [{name: "Ananya Ghatak and Tanmoy Das"}]
+  date: 2019
+  parent: {type: periodical, title: "Journal of Physics: Condensed Matter", volume: "31"}
+  page-range: "263001"
+
+"Bauer-Fike":
+  type: article
+  title: "Norms and Exclusion Theorems"
+  author: [{name: "F. L. Bauer and C. T. Fike"}]
+  date: 1960
+  parent: {type: periodical, title: "Numer. Math.", volume: "2"}
+  page-range: "137"
+
+"Henrici":
+  type: article
+  title: "Bounds for iterations, inverses, spectral variation and fields of values of non-normal natrices"
+  author: [{name: "P.Henrici"}]
+  date: 1962
+  parent: {type: periodical, title: "Numer. Math.", volume: "4"}
+  page-range: "24"
+
+"Nakai-Okuma-Sato":
+  type: article
+  title: ""
+  author: [{name: "Y. Nakai and N. Okuma and M. Sato"}]
+  date: 2022
+  parent: {type: periodical, title: "in preparation"}
+
+"Budich-20":
+  type: article
+  title: "Non-Hermitian Topological Sensors"
+  author: [{name: "Budich, Jan Carl and Bergholtz, Emil J."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "180403"
+  doi: "10.1103/PhysRevLett.125.180403"
+
+"Golub-Van_Loan":
+  type: article
+  title: "Matrix Computations (3rd ed."
+  author: [{name: "G. Golub and C.F.Van Loan"}]
+  date: 1996
+
+"Trouve1995a":
+  type: article
+  title: "Trouvé A. 1995. An approach of pattern recognition through infinite dimensional group action. Rep. LMENS-95-9, Lab. Math. l'Ecole Norm. Superieure, Paris"
+  date: 1995
+
+"Christensen1996":
+  type: article
+  title: "Christensen G, Miller MI, Rabbit RD. 1995. IEEE Trans. Med. Imaging 5(10):1435--47"
+  date: 1995
+
+"Grenander1998":
+  type: article
+  title: "Grenander U, Miller MI. 1998. Q. Appl. Math. 56:617--94"
+  date: 1998
+
+"Dupuis1998":
+  type: article
+  title: "Dupuis P, Grenander U, Miller MI. 1998. Q. Appl. Math. 56:587--600"
+  date: 1998
+
+"Miller-Younes-2001":
+  type: article
+  title: "Miller MI, Younes L. 2001. Int. J. Comput. Vis. 41:61--84"
+  date: 2001
+
+"Toga2001":
+  type: article
+  title: "Toga A, Thompson PM. 2001. Anat. Rec. 265:37--53"
+  date: 2001

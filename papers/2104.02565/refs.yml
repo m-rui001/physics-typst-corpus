@@ -1,0 +1,2802 @@
+"junocollaboration":
+  type: article
+  title: "JUNO Collaboration: JUNOauthors.tex"
+
+"Djurcic:2015vqa":
+  type: misc
+  title: "JUNO Conceptual Design Report"
+  author: [{name: "Djurcic, Zelimir and others"}]
+  date: 2015
+  serial-number: "arXiv:1508.07166"
+
+"Zhan:2008id":
+  type: article
+  title: "Determination of the Neutrino Mass Hierarchy at an Intermediate Baseline"
+  author: [{name: "Zhan, Liang and Wang, Yifang and Cao, Jun and Wen, Liangjian"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "78"}
+  page-range: "111103"
+  doi: "10.1103/PhysRevD.78.111103"
+
+"Zhan:2009rs":
+  type: article
+  title: "Experimental Requirements to Determine the Neutrino Mass Hierarchy Using Reactor Neutrinos"
+  author: [{name: "Zhan, Liang and Wang, Yifang and Cao, Jun and Wen, Liangjian"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "79"}
+  page-range: "073007"
+  doi: "10.1103/PhysRevD.79.073007"
+
+"Li:2013zyd":
+  type: article
+  title: "Unambiguous Determination of the Neutrino Mass Hierarchy Using Reactor Neutrinos"
+  author: [{name: "Li, Yu-Feng and Cao, Jun and Wang, Yifang and Zhan, Liang"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "88"}
+  page-range: "013008"
+  doi: "10.1103/PhysRevD.88.013008"
+
+"Ayres:2004js":
+  type: misc
+  title: "NOvA: Proposal to Build a 30 Kiloton Off-Axis Detector to Study νμ → νₑ Oscillations in the NuMI Beamline"
+  author: [{name: "Ayres, D. S. and others"}]
+  date: 2004
+  serial-number: "arXiv:hep-ex/0503053"
+
+"Adams:2013qkq":
+  type: article
+  title: "The Long-Baseline Neutrino Experiment: Exploring Fundamental Symmetries of the Universe"
+  author: [{name: "Adams, C. and others"}]
+  date: 2013
+  parent: {type: proceedings, title: "Snowmass 2013: Workshop on Energy Frontier"}
+
+"Kumar:2017sdq":
+  type: article
+  title: "Physics Potential of the ICAL detector at the India-based Neutrino Observatory (INO)"
+  author: [{name: "Ahmed, Shakeel and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Pramana", volume: "88"}
+  page-range: "79"
+  doi: "10.1007/s12043-017-1373-4"
+
+"Aartsen:2014oha":
+  type: misc
+  title: "Letter of Intent: The Precision IceCube Next Generation Upgrade (PINGU)"
+  author: [{name: "Aartsen, M.G. and others"}]
+  date: 2014
+  serial-number: "arXiv:1401.2046"
+
+"VanElewyck:2015una":
+  type: article
+  title: "ORCA: measuring the neutrino mass hierarchy with atmospheric neutrinos in the Mediterranean"
+  author: [{name: "Van Elewyck, Veronique"}]
+  date: 2015
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "598"}
+  page-range: "012033"
+  doi: "10.1088/1742-6596/598/1/012033"
+
+"Abe:2011ts":
+  type: misc
+  title: "Letter of Intent: The Hyper-Kamiokande Experiment --- Detector Design and Physics Potential ---"
+  author: [{name: "Abe, K. and others"}]
+  date: 2011
+  serial-number: "arXiv:1109.3262"
+
+"junotaocdr":
+  type: misc
+  title: "TAO Conceptual Design Report"
+  author: [{name: "Angel Abusleme and others"}]
+  date: 2020
+  serial-number: "arXiv:2005.08745"
+
+"Capozzi:2020cxm":
+  type: article
+  title: "Mapping reactor neutrino spectra from TAO to JUNO"
+  author: [{name: "Capozzi, Francesco and Lisi, Eligio and Marrone, Antonio"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "102"}
+  page-range: "056001"
+  doi: "10.1103/PhysRevD.102.056001"
+
+"Lv:2019res":
+  type: misc
+  title: "Reflectance of Silicon Photomultipliers at Vacuum Ultraviolet Wavelengths"
+  author: [{name: "Lv, P. and others"}]
+  date: 2019
+  serial-number: "arXiv:1912.01841"
+
+"web:controlss":
+  type: article
+  title: ""
+
+"smirnov":
+  type: article
+  title: "Methods for precise photoelectron counting with photomultipliers"
+  author: [{name: "R.Dossi and others"}]
+  date: 2000
+  parent: {type: periodical, title: "Nucl. Instr. and Meth. A", volume: "451"}
+  page-range: "623-637"
+
+"pedestal":
+  type: article
+  title: "Characterisation studies of silicon photomultipliers"
+  author: [{name: "P. Eckert and others"}]
+  date: 2010
+  parent: {type: periodical, title: "Nucl. Instr. and Meth. A", volume: "620"}
+  page-range: "217-226"
+  doi: "10.1016/j.nima.2010.03.169"
+
+"crosstalk":
+  type: article
+  title: "Modeling crosstalk in silicon photomultipliers"
+  author: [{name: "L. Gallego and others"}]
+  date: 2013
+  parent: {type: periodical, title: "JINST", volume: "8"}
+  doi: "10.1088/1748-0221/8/05/P05010"
+
+"ti":
+  type: article
+  title: ""
+
+"lt":
+  type: article
+  title: ""
+
+"Hamamatsu":
+  type: article
+  title: ""
+
+"Hamamatsu2":
+  type: article
+  title: ""
+
+"Gola":
+  type: article
+  title: "NUV-Sensitive Silicon Photomultiplier Technologies Developed at Fondazione Bruno Kessler"
+  author: [{name: "Gola, Alberto and Acerbi, Fabio and Capasso, Massimo and Marcante, Marco and Mazzi, Alberto and Paternoster, Giovanni and Piemonte, Claudio and Regazzoni, Veronica and Zorzi, Nicola"}]
+  date: 2019
+  parent: {type: periodical, title: "Sensors", volume: "19"}
+  page-range: "308"
+  doi: "10.3390/s19020308"
+
+"cmt":
+  type: article
+  title: ""
+
+"Chou:1952jqv":
+  type: article
+  title: "The Nature of the Saturation Effect of Fluorescent Scintillators"
+  author: [{name: "Chou, C.N."}]
+  date: 1952
+  parent: {type: periodical, title: "Phys. Rev.", volume: "87"}
+  page-range: "904-905"
+  doi: "10.1103/PhysRev.87.904"
+
+"Palazzo:2013bsa":
+  type: article
+  title: "Constraints on very light sterile neutrinos from θ₁₃-sensitive reactor experiments"
+  author: [{name: "Palazzo, Antonio"}]
+  date: 2013
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "172"
+  doi: "10.1007/JHEP10(2013)172"
+
+"Wang:2001fq":
+  type: article
+  title: "Predicting neutron production from cosmic ray muons"
+  author: [{name: "Wang, Y. F. and Balic, V. and Gratta, G. and Fasso, A. and Roesler, S. and Ferrari, A."}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D64"}
+  page-range: "013012"
+  doi: "10.1103/PhysRevD.64.013012"
+
+"Abe:2009aa":
+  type: article
+  title: "Production of Radioactive Isotopes through Cosmic Muon Spallation in KamLAND"
+  author: [{name: "Abe, S. and others"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev.", volume: "C81"}
+  page-range: "025807"
+  doi: "10.1103/PhysRevC.81.025807"
+
+"Tanabashi:2018oca":
+  type: article
+  title: "Review of Particle Physics"
+  author: [{name: "Tanabashi, M. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D98"}
+  page-range: "030001"
+  doi: "10.1103/PhysRevD.98.030001"
+
+"bes3":
+  type: article
+  title: "BESIII simulation software"
+  author: [{name: "Deng, Ziyan and Liu, Huaimin and Cao, Guofu and He, Miao and Yuan, Ye and You, Zhengyun and Liang, Yutie"}]
+  date: 2007
+  parent: {type: periodical, title: "PoS", volume: "ACAT"}
+  page-range: "043"
+  doi: "10.22323/1.050.0043"
+
+"Belyaev:2003be":
+  type: article
+  title: "Simulation application for the LHCb experiment"
+  author: [{name: "Belyaev, I. and Charpentier, P. and Easo, S. and Mato, P. and Palacios, J. and Pokorski, W. and Ranjard, F. and van Tilburg, J."}]
+  date: 2003
+  parent: {type: periodical, title: "eConf", volume: "C0303241"}
+  serial-number: "TUMT003"
+
+"An:2016ses":
+  type: article
+  title: "Measurement of electron antineutrino oscillation based on 1230 days of operation of the Daya Bay experiment"
+  author: [{name: "An, Fengpeng and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D95"}
+  page-range: "072006"
+  doi: "10.1103/PhysRevD.95.072006"
+
+"Chytracek:2006be":
+  type: article
+  title: "Geometry description markup language for physics simulation and analysis applications."
+  author: [{name: "Chytracek, R. and McCormick, J. and Pokorski, W. and Santin, G."}]
+  date: 2006
+  parent: {type: periodical, title: "IEEE Trans. Nucl. Sci.", volume: "53"}
+  page-range: "2892"
+  doi: "10.1109/TNS.2006.881062"
+
+"Brun:1997pa":
+  type: article
+  title: "ROOT: An object oriented data analysis framework"
+  author: [{name: "Brun, R. and Rademakers, F."}]
+  date: 1997
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A389"}
+  page-range: "81-86"
+  doi: "10.1016/S0168-9002(97)00048-X"
+
+"Lonnblad:1994np":
+  type: article
+  title: "CLHEP: A project for designing a C++ class library for high-energy physics"
+  author: [{name: "Lonnblad, Leif"}]
+  date: 1994
+  parent: {type: periodical, title: "Comput. Phys. Commun.", volume: "84"}
+  page-range: "307-316"
+  doi: "10.1016/0010-4655(94)90217-8"
+
+"Allison:2016lfl":
+  type: article
+  title: "Recent developments in Geant4"
+  author: [{name: "Allison, J. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A835"}
+  page-range: "186-225"
+  doi: "10.1016/j.nima.2016.06.125"
+
+"Allison:2006ve":
+  type: article
+  title: "Geant4 developments and applications"
+  author: [{name: "Allison, John and others"}]
+  date: 2006
+  parent: {type: periodical, title: "IEEE Trans. Nucl. Sci.", volume: "53"}
+  page-range: "270"
+  doi: "10.1109/TNS.2006.869826"
+
+"Agostinelli:2002hh":
+  type: article
+  title: "GEANT4: A Simulation toolkit"
+  author: [{name: "Agostinelli, S. and others"}]
+  date: 2003
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A506"}
+  page-range: "250-303"
+  doi: "10.1016/S0168-9002(03)01368-8"
+
+"Vinogradov:2011vr":
+  type: article
+  title: "Analytical models of probability distribution and excess noise factor of Solid State Photomultiplier signals with crosstalk"
+  author: [{name: "Vinogradov, S."}]
+  date: 2012
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A695"}
+  page-range: "247-251"
+  doi: "10.1016/j.nima.2011.11.086"
+
+"LCS:Dinu":
+  type: article
+  title: "Characteristics of a prototype matrix of Silicon PhotoMultipliers (SiPM)"
+  author: [{name: "Dinu, N. and others"}]
+  date: 2009
+  parent: {type: periodical, title: "JINST", volume: "4"}
+  serial-number: "P03016"
+  doi: "10.1088/1748-0221/4/03/P03016"
+
+"italian":
+  type: article
+  title: "Characterization of the First Prototypes of Silicon Photomultiplier Fabricated at ITC-irst"
+  author: [{name: "Piemonte, Claudio and Battiston, Roberto and Boscardin, Maurizio and Dalla Betta, Gian-Franco and Del Guerra, A. and Dinu, N. and Pozza, Alberto and Zorzi, Nicola"}]
+  date: 2007
+  parent: {type: periodical, title: "Nuclear Science, IEEE Transactions on", volume: "54"}
+  page-range: "236-244"
+  doi: "10.1109/TNS.2006.887115"
+
+"chmill":
+  type: article
+  title: "Study of the breakdown voltage of SiPMs"
+  author: [{name: "Chmill, V. and Garutti, E. and Klanner, R. and Nitschke, M. and Schwandt, J."}]
+  date: 2017
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A845"}
+  page-range: "56-59"
+  doi: "10.1016/j.nima.2016.04.047"
+
+"anfimov":
+  type: article
+  title: "Optimization of the light intensity for Photodetector calibration"
+  author: [{name: "N. Anfimov and A. Rybnikov and A. Sotnikov"}]
+  date: 2019
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A939"}
+  page-range: "61-65"
+  doi: "10.1016/j.nima.2019.05.070"
+
+"An:2012eh":
+  type: article
+  title: "Observation of electron-antineutrino disappearance at Daya Bay"
+  author: [{name: "An, F. P. and others"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "108"}
+  page-range: "171803"
+  doi: "10.1103/PhysRevLett.108.171803"
+
+"Abe:2011fz":
+  type: article
+  title: "Indication of Reactor ν̄ₑ Disappearance in the Double Chooz Experiment"
+  author: [{name: "Abe, Y. and others"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "108"}
+  page-range: "131801"
+  doi: "10.1103/PhysRevLett.108.131801"
+
+"Ahn:2012nd":
+  type: article
+  title: "Observation of Reactor Electron Antineutrino Disappearance in the RENO Experiment"
+  author: [{name: "Ahn, J.K. and others"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "108"}
+  page-range: "191802"
+  doi: "10.1103/PhysRevLett.108.191802"
+
+"wangwei":
+  type: misc
+  title: "Reflectance of Silicon Photomultipliers in Linear Alkylbenzene"
+  author: [{name: "Wang, W. and Cao, G.F. and Xie, Z.Q. and Cao, J. and Qi, M. and Wen, L.J."}]
+  date: 2020
+  serial-number: "arXiv:2002.04218"
+
+"klaus_2016":
+  type: article
+  title: "KLauS: a low power Silicon Photomultiplier charge readout ASIC in 0.18 UMC CMOS"
+  author: [{name: "Briggl, K. and Chen, H. and Schimansky, D. and Shen, W. and Stankova, V. and Schultz-Coulon, H. C."}]
+  date: 2016
+  parent: {type: periodical, title: "JINST", volume: "11"}
+  serial-number: "C03045"
+  doi: "10.1088/1748-0221/11/03/C03045"
+
+"Briggl:2017kyj":
+  type: article
+  title: "KLauS4: A Multi-Channel SiPM Charge Readout ASIC in 0.18μm UMC CMOS Technology"
+  author: [{name: "Yuan, Z. and Briggl, Konrad and Chen, Huangshan and Munwes, Yonathan and Shen, Wei and Stankova, Vera and Schultz-Coulon, Hans-Christian"}]
+  date: 2017
+  parent: {type: periodical, title: "PoS", volume: "TWEPP-17"}
+  page-range: "030"
+  doi: "10.22323/1.313.0030"
+
+"Pontecorvo:1957cp":
+  type: article
+  title: "Mesonium and anti-mesonium"
+  author: [{name: "Pontecorvo, B."}]
+  date: 1957
+  parent: {type: periodical, title: "Sov. Phys. JETP", volume: "6"}
+  page-range: "429"
+
+"Pontecorvo:1967fh":
+  type: article
+  title: "Neutrino Experiments and the Problem of Conservation of Leptonic Charge"
+  author: [{name: "Pontecorvo, B."}]
+  date: 1968
+  parent: {type: periodical, title: "Sov. Phys. JETP", volume: "26"}
+  page-range: "984-988"
+
+"Maki:1962mu":
+  type: article
+  title: "Remarks on the unified model of elementary particles"
+  author: [{name: "Maki, Ziro and Nakagawa, Masami and Sakata, Shoichi"}]
+  date: 1962
+  parent: {type: periodical, title: "Prog. Theor. Phys.", volume: "28"}
+  page-range: "870-880"
+  doi: "10.1143/PTP.28.870"
+
+"Mention:2011rk":
+  type: article
+  title: "The Reactor Antineutrino Anomaly"
+  author: [{name: "Mention, G. and Fechner, M. and Lasserre, Th. and Mueller, Th. A. and Lhuillier, D. and Cribier, M. and Letourneau, A."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D83"}
+  page-range: "073006"
+  doi: "10.1103/PhysRevD.83.073006"
+
+"Aguilar:2001ty":
+  type: article
+  title: "Evidence for neutrino oscillations from the observation of ν̄ₑ appearance in a ν̄μ beam"
+  author: [{name: "Aguilar-Arevalo, A. and others"}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D64"}
+  page-range: "112007"
+  doi: "10.1103/PhysRevD.64.112007"
+
+"Aguilar-Arevalo:2013pmq":
+  type: article
+  title: "Improved Search for ν̄μ → ν̄ₑ Oscillations in the MiniBooNE Experiment"
+  author: [{name: "A.A. Aguilar-Arevalo and others"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "110"}
+  page-range: "161801"
+  doi: "10.1103/PhysRevLett.110.161801"
+
+"Aguilar-Arevalo:2018gpe":
+  type: article
+  title: "Significant Excess of ElectronLike Events in the MiniBooNE Short-Baseline Neutrino Experiment"
+  author: [{name: "Aguilar-Arevalo, A. A. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "221801"
+  doi: "10.1103/PhysRevLett.121.221801"
+
+"ALEPH:2005ab":
+  type: article
+  title: "Precision electroweak measurements on the Z resonance"
+  author: [{name: "Schael, S. and others"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rep.", volume: "427"}
+  page-range: "257-454"
+  doi: "10.1016/j.physrep.2005.12.006"
+
+"Junk1999435":
+  type: article
+  title: "Confidence level computation for combining searches with small statistics"
+  author: [{name: "Junk, Thomas"}]
+  date: 1999
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "434"}
+  page-range: "435-443"
+  doi: "10.1016/S0168-9002(99)00498-2"
+
+"Read:2002hq":
+  type: article
+  title: "Presentation of search results: The CL(s) technique"
+  author: [{name: "Read, Alexander L."}]
+  date: 2002
+  parent: {type: periodical, title: "J. Phys. G", volume: "28"}
+  page-range: "2693-2704"
+  doi: "10.1088/0954-3899/28/10/313"
+
+"CLsMethod":
+  type: article
+  title: "The Gaussian CLₛ method for searches of new physics"
+  author: [{name: "Qian, X. and Tan, A. and Ling, J. J. and Nakajima, Y. and Zhang, C."}]
+  date: 2016
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "827"}
+  page-range: "63-78"
+  doi: "10.1016/j.nima.2016.04.089"
+
+"KOSTENSALO2019542":
+  type: article
+  title: "The gallium anomaly revisited"
+  author: [{name: "J. Kostensalo and J. Suhonen and C. Giunti and P.C. Srivastava"}]
+  date: 2019
+  parent: {type: periodical, title: "Physics Letters B", volume: "795"}
+  page-range: "542-547"
+  doi: "10.1016/j.physletb.2019.06.057"
+
+"An:2016luf":
+  type: article
+  title: "Improved Search for a Light Sterile Neutrino with the Full Configuration of the Daya Bay Experiment"
+  author: [{name: "An, Fengpeng and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "117"}
+  page-range: "151802"
+  doi: "10.1103/PhysRevLett.117.151802"
+
+"Ashenfelter:2018iov":
+  type: article
+  title: "First search for short-baseline neutrino oscillations at HFIR with PROSPECT"
+  author: [{name: "Ashenfelter, J. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "251802"
+  doi: "10.1103/PhysRevLett.121.251802"
+
+"Ashenfelter:2015uxt":
+  type: article
+  title: "The PROSPECT Physics Program"
+  author: [{name: "Ashenfelter, J. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "J. Phys.", volume: "G43"}
+  page-range: "113001"
+  doi: "10.1088/0954-3899/43/11/113001"
+
+"Alekseev:2018efk":
+  type: article
+  title: "Search for sterile neutrinos at the DANSS experiment"
+  author: [{name: "Alekseev, I and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B787"}
+  page-range: "56-63"
+  doi: "10.1016/j.physletb.2018.10.038"
+
+"AlmazanMolina:2019qul":
+  type: misc
+  title: "Improved Sterile Neutrino Constraints from the STEREO Experiment with 179 Days of Reactor-On Data"
+  author: [{name: "Almazán Molina, Helena and others"}]
+  date: 2019
+  serial-number: "arXiv:1912.06582"
+
+"Declais:1994su":
+  type: article
+  title: "Search for neutrino oscillations at 15-meters, 40-meters, and 95-meters from a nuclear power reactor at Bugey"
+  author: [{name: "Declais, Y. and others"}]
+  date: 1995
+  parent: {type: periodical, title: "Nucl. Phys.", volume: "B434"}
+  page-range: "503-534"
+  doi: "10.1016/0550-3213(94)00513-E"
+
+"Ko:2016owz":
+  type: article
+  title: "Sterile Neutrino Search at the NEOS Experiment"
+  author: [{name: "Ko, Y. J. and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "118"}
+  page-range: "121802"
+  doi: "10.1103/PhysRevLett.118.121802"
+
+"Adey:2018zwh":
+  type: article
+  title: "Measurement of the Electron Antineutrino Oscillation with 1958 Days of Operation at Daya Bay"
+  author: [{name: "Adey, D. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "241805"
+  doi: "10.1103/PhysRevLett.121.241805"
+
+"Abe:2016nxk":
+  type: article
+  title: "Solar Neutrino Measurements in Super-Kamiokande-IV"
+  author: [{name: "Abe, K. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D94"}
+  page-range: "052010"
+  doi: "10.1103/PhysRevD.94.052010"
+
+"Gando:2013nba":
+  type: article
+  title: "Reactor On-Off Antineutrino Measurement with KamLAND"
+  author: [{name: "Gando, A. and others"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "88"}
+  page-range: "033001"
+  doi: "10.1103/PhysRevD.88.033001"
+
+"Huber:PhysRevC84":
+  type: article
+  title: "Determination of antineutrino spectra from nuclear reactors"
+  author: [{name: "Huber, Patrick"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "84"}
+  page-range: "024617"
+  doi: "10.1103/PhysRevC.84.024617"
+
+"HAHN1989365":
+  type: article
+  title: "Antineutrino spectra from ²⁴¹Pu and ²³⁹Pu thermal neutron fission products"
+  author: [{name: "A.A. Hahn and K. Schreckenbach and W. Gelletly and F. von Feilitzsch and G. Colvin and B. Krusche"}]
+  date: 1989
+  parent: {type: periodical, title: "Physics Letters B", volume: "218"}
+  page-range: "365-368"
+  doi: "10.1016/0370-2693(89)91598-0"
+
+"PhysRevLett.112.202501":
+  type: article
+  title: "Systematic Uncertainties in the Analysis of the Reactor Neutrino Anomaly"
+  author: [{name: "Hayes, A. C. and Friar, J. L. and Garvey, G. T. and Jungman, Gerard and Jonkmans, G."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "112"}
+  page-range: "202501"
+  doi: "10.1103/PhysRevLett.112.202501"
+
+"PhysRevC.24.1543":
+  type: article
+  title: "Reactor antineutrino spectra and their application to antineutrino-induced reactions. II"
+  author: [{name: "Vogel, P. and Schenter, G. K. and Mann, F. M. and Schenter, R. E."}]
+  date: 1981
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "24"}
+  page-range: "1543-1553"
+  doi: "10.1103/PhysRevC.24.1543"
+
+"PhysRevLett.109.202504":
+  type: article
+  title: "New Antineutrino Energy Spectra Predictions from the Summation of Beta Decay Branches of the Fission Products"
+  author: [{name: "Fallot, M. and Cormon, S. and Estienne, M. and Algora, A. and Bui, V. M. and Cucoanes, A. and Elnimr, M. and Giot, L. and Jordan, D. and Martino, J. and Onillon, A. and Porta, A. and Pronost, G. and Remoto, A. and Taín, J. L. and Yermia, F. and Zakari-Issoufou, A.-A."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "109"}
+  page-range: "202504"
+  doi: "10.1103/PhysRevLett.109.202504"
+
+"Estienne:2019ujo":
+  type: article
+  title: "Updated Summation Model: An Improved Agreement with the Daya Bay Antineutrino Fluxes"
+  author: [{name: "Estienne, M. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "022502"
+  doi: "10.1103/PhysRevLett.123.022502"
+
+"PhysRev.113.280":
+  type: article
+  title: "Free Antineutrino Absorption Cross Section. II. Expected Cross Section from Measurements of Fission Fragment Electron Spectrum"
+  author: [{name: "Carter, R. E. and Reines, F. and Wagner, J. J. and Wyman, M. E."}]
+  date: 1959
+  parent: {type: periodical, title: "Phys. Rev.", volume: "113"}
+  page-range: "280-286"
+  doi: "10.1103/PhysRev.113.280"
+
+"Schreckenbach:1985ep":
+  type: article
+  title: "Determination of the anti-neutrino spectrum from ²³⁵U thermal neutron fission products up to 9.5 MeV"
+  author: [{name: "Schreckenbach, K. and Colvin, G. and Gelletly, W. and Von Feilitzsch, F."}]
+  date: 1985
+  parent: {type: periodical, title: "Phys. Lett.", volume: "160B"}
+  page-range: "325-330"
+  doi: "10.1016/0370-2693(85)91337-1"
+
+"Abusleme:2020bbm":
+  type: article
+  title: "Optimization of the JUNO liquid scintillator composition using a Daya Bay antineutrino detector"
+  author: [{name: "Abusleme, A. and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "988"}
+  page-range: "164823"
+  doi: "10.1016/j.nima.2020.164823"
+
+"VonFeilitzsch:1982jw":
+  type: article
+  title: "Experimental beta spectra from ²³⁹Pu and ²³⁵U thermal neutron fission products and their correlated anti-neutrinos spectra"
+  author: [{name: "Von Feilitzsch, F. and Hahn, A. A. and Schreckenbach, K."}]
+  date: 1982
+  parent: {type: periodical, title: "Phys. Lett.", volume: "118B"}
+  page-range: "162-166"
+  doi: "10.1016/0370-2693(82)90622-0"
+
+"PhysRevC.83.054615":
+  type: article
+  title: "Improved predictions of reactor antineutrino spectra"
+  author: [{name: "Mueller, Th. A. and Lhuillier, D. and Fallot, M. and Letourneau, A. and Cormon, S. and Fechner, M. and Giot, L. and Lasserre, T. and Martino, J. and Mention, G. and Porta, A. and Yermia, F."}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "83"}
+  page-range: "054615"
+  doi: "10.1103/PhysRevC.83.054615"
+
+"An:2013zwz":
+  type: article
+  title: "Spectral measurement of electron antineutrino oscillation amplitude and frequency at Daya Bay"
+  author: [{name: "An, F. P. and others"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "112"}
+  page-range: "061801"
+  doi: "10.1103/PhysRevLett.112.061801"
+
+"Petcov:2001sy":
+  type: article
+  title: "The LMA MSW solution of the solar neutrino problem, inverted neutrino mass hierarchy and reactor neutrino experiments"
+  author: [{name: "Petcov, S. T. and Piai, M."}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "533"}
+  page-range: "94-106"
+  doi: "10.1016/S0370-2693(02)01591-5"
+
+"PhysRevLett.114.012502":
+  type: article
+  title: "Spectral Structure of Electron Antineutrinos from Nuclear Reactors"
+  author: [{name: "Dwyer, D. A. and Langford, T. J."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "114"}
+  page-range: "012502"
+  doi: "10.1103/PhysRevLett.114.012502"
+
+"Bowden2009":
+  type: article
+  title: "Observation of the isotopic evolution of pressurized water reactor fuel using an antineutrino detector"
+  author: [{name: "Bowden,N. S. and Bernstein,A. and Dazeley,S. and Svoboda,R. and Misner,A. and Palmer,T."}]
+  date: 2009
+  parent: {type: periodical, title: "Journal of Applied Physics", volume: "105"}
+  page-range: "064902"
+  doi: "10.1063/1.3080251"
+
+"An:2016srz":
+  type: article
+  title: "Improved Measurement of the Reactor Antineutrino Flux and Spectrum at Daya Bay"
+  author: [{name: "An, Fengpeng and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Chin. Phys.", volume: "C41"}
+  page-range: "013002"
+  doi: "10.1088/1674-1137/41/1/013002"
+
+"An:2017osx":
+  type: article
+  title: "Evolution of the Reactor Antineutrino Flux and Spectrum at Daya Bay"
+  author: [{name: "An, F. P. and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "118"}
+  page-range: "251801"
+  doi: "10.1103/PhysRevLett.118.251801"
+
+"Adey:2019ywk":
+  type: article
+  title: "Extraction of the ²³⁵U and ²³⁹Pu Antineutrino Spectra at Daya Bay"
+  author: [{name: "Adey, D. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "111801"
+  doi: "10.1103/PhysRevLett.123.111801"
+
+"Adey:2018qct":
+  type: article
+  title: "Improved Measurement of the Reactor Antineutrino Flux at Daya Bay"
+  author: [{name: "Adey, D. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D100"}
+  page-range: "052004"
+  doi: "10.1103/PhysRevD.100.052004"
+
+"An:2015nua":
+  type: article
+  title: "Measurement of the Reactor Antineutrino Flux and Spectrum at Daya Bay"
+  author: [{name: "An, Fengpeng and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "116"}
+  page-range: "061801"
+  doi: "10.1103/PhysRevLett.116.061801, 10.1103/PhysRevLett.118.099902"
+
+"Bak:2018ydk":
+  type: article
+  title: "Measurement of Reactor Antineutrino Oscillation Amplitude and Frequency at RENO"
+  author: [{name: "Bak, G. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "201801"
+  doi: "10.1103/PhysRevLett.121.201801"
+
+"Abe:2014bwa":
+  type: article
+  title: "Improved measurements of the neutrino mixing angle θ₁₃ with the Double Chooz detector"
+  author: [{name: "Abe, Y. and others"}]
+  date: 2014
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "086"
+  doi: "10.1007/JHEP02(2015)074"
+
+"Stewart2019":
+  type: article
+  title: "Employing antineutrino detectors to safeguard future nuclear reactors from diversions"
+  author: [{name: "Stewart, Christopher and Abou-Jaoude, Abdalla and Erickson, Anna"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Communications", volume: "10"}
+  page-range: "3527"
+  doi: "10.1038/s41467-019-11434-z"
+
+"Christensen2015":
+  type: article
+  title: "Antineutrino Reactor Safeguards: A Case Study of the DPRK 1994 Nuclear Crisis"
+  author: [{name: "Eric Christensen and Patrick Huber and Patrick Jaffke"}]
+  date: 2015
+  parent: {type: periodical, title: "Science & Global Security", volume: "23"}
+  page-range: "20-47"
+  doi: "10.1080/08929882.2015.996076"
+
+"Sonzogni:2017voo":
+  type: article
+  title: "Revealing Fine Structure in the Antineutrino Spectra From a Nuclear Reactor"
+  author: [{name: "Sonzogni, A. A. and Nino, M. and McCutchan, E. A."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev.", volume: "C98"}
+  page-range: "014323"
+  doi: "10.1103/PhysRevC.98.014323"
+
+"Boireau:2015dda":
+  type: article
+  title: "Online Monitoring of the Osiris Reactor with the Nucifer Neutrino Detector"
+  author: [{name: "Boireau, G. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D93"}
+  page-range: "112006"
+  doi: "10.1103/PhysRevD.93.112006"
+
+"Adamson:2020jvo":
+  type: misc
+  title: "Improved Constraints on Sterile Neutrino Mixing from Disappearance Searches in the MINOS, MINOS+, Daya Bay, and Bugey-3 Experiments"
+  author: [{name: "Adamson, P. and others"}]
+  date: 2020
+  serial-number: "arXiv:2002.00301"
+
+"juno_offline_pro":
+  type: article
+  title: "Offline Data Processing Software for the JUNO Experiment"
+  author: [{name: "Huang, Xingtao and Li, Teng and Zou, Jiaheng and Lin, Tao and Li, Weidong and Deng, Ziyan and Cao, Guofu"}]
+  date: 2017
+  parent: {type: periodical, title: "PoS", volume: "ICHEP2016"}
+  page-range: "1051"
+  doi: "10.22323/1.282.1051"
+
+"DayaBay:2012aa":
+  type: article
+  title: "A side-by-side comparison of Daya Bay antineutrino detectors"
+  author: [{name: "An, F. P. and others"}]
+  date: 2012
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A685"}
+  page-range: "78-97"
+  doi: "10.1016/j.nima.2012.05.030"
+
+"ziyuan":
+  type: article
+  title: "Vertex Reconstruction and Deep Learning Applications in JUNO"
+  author: [{name: "Ziyuan, Li and You, Zhengyun and Zhang, Yumei and Zhu, Jiang and Zhang, Shu"}]
+  date: 2019
+  parent: {type: periodical, title: "PoS", volume: "LeptonPhoton2019"}
+  page-range: "194"
+  doi: "10.22323/1.367.0194"
+
+"dis_eve":
+  type: article
+  title: "A ROOT Based Event Display Software for JUNO"
+  author: [{name: "You, Z. and Li, K. and Zhang, Y. and Zhu, J. and Lin, T. and Li, W."}]
+  date: 2018
+  parent: {type: periodical, title: "JINST", volume: "13"}
+  serial-number: "T02002"
+  doi: "10.1088/1748-0221/13/02/T02002"
+
+"dis_unity":
+  type: article
+  title: "A method of detector and event visualization with Unity in JUNO"
+  author: [{name: "Zhu, J. and You, Z. and Zhang, Y. and Li, Z. and Zhang, S. and Lin, T. and Li, W."}]
+  date: 2019
+  parent: {type: periodical, title: "JINST", volume: "14"}
+  serial-number: "T01007"
+  doi: "10.1088/1748-0221/14/01/T01007"
+
+"INDC-NDS-0786":
+  type: article
+  title: "Antineutrino spectra and their applications"
+  author: [{name: "Fallot, M. and Littlejohn, B. and Dimitriou, P."}]
+  date: 2019
+
+"Xia:2014cca":
+  type: article
+  title: "Temperature dependence of the light yield of the LAB-based and mesitylene-based liquid scintillators"
+  author: [{name: "Xia, Dong-Mei and others"}]
+  date: 2014
+  parent: {type: periodical, title: "Chin. Phys.", volume: "C38"}
+  page-range: "116001"
+  doi: "10.1088/1674-1137/38/11/116001"
+
+"Beriguete:2014gua":
+  type: article
+  title: "Production of a gadolinium-loaded liquid scintillator for the Daya Bay reactor neutrino experiment"
+  author: [{name: "Beriguete, Wanda and others"}]
+  date: 2014
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A763"}
+  page-range: "82-88"
+  doi: "10.1016/j.nima.2014.05.119"
+
+"Zhang:2014iza":
+  type: article
+  title: "Measurement of the liquid scintillator nonlinear energy response to electron"
+  author: [{name: "Zhang, Fei-Hong and Yu, Bo-Xiang and Hu, Wei and Yang, Ma-Sheng and Cao, Guo-Fu and Cao, Jun and Zhou, Li"}]
+  date: 2015
+  parent: {type: periodical, title: "Chin. Phys.", volume: "C39"}
+  page-range: "016003"
+  doi: "10.1088/1674-1137/39/1/016003"
+
+"Adey:2019zfo":
+  type: article
+  title: "A high precision calibration of the nonlinear energy response at Daya Bay"
+  author: [{name: "Adey, D. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A940"}
+  page-range: "230-242"
+  doi: "10.1016/j.nima.2019.06.031"
+
+"Wu:2019gzo":
+  type: article
+  title: "Thermal diffusivity and specific heat capacity of linear alkylbenzene"
+  author: [{name: "Wu, Wenjie and Zhu, Guolei and Zhang, Qingmin and Zhou, Xiang and Ding, Yayun and Qiao, Haoxue and Cao, Jun"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Scripta", volume: "94"}
+  page-range: "105701"
+  doi: "10.1088/1402-4896/ab1cea"
+
+"Zhang:2019rfl":
+  type: article
+  title: "Comparison on PMT Waveform Reconstructions with JUNO Prototype"
+  author: [{name: "Zhang, H. Q. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "JINST", volume: "14"}
+  serial-number: "T08002"
+  doi: "10.1088/1748-0221/14/08/T08002"
+
+"An:2015qga":
+  type: article
+  title: "The Detector System of The Daya Bay Reactor Neutrino Experiment"
+  author: [{name: "An, F. P. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A811"}
+  page-range: "133-161"
+  doi: "10.1016/j.nima.2015.11.144"
+
+"Liu:2013ava":
+  type: article
+  title: "Automated calibration system for a high-precision measurement of neutrino mixing angle θ₁₃ with the Daya Bay antineutrino detectors"
+  author: [{name: "Liu, J. and others"}]
+  date: 2014
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "750"}
+  page-range: "19-37"
+  doi: "10.1016/j.nima.2014.02.049"
+
+"Dayabay:2014vka":
+  type: article
+  title: "The muon system of the Daya Bay Reactor antineutrino experiment"
+  author: [{name: "An, F. P. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "Nucl. Instrum. Meth.", volume: "A773"}
+  page-range: "8-20"
+  doi: "10.1016/j.nima.2014.09.070"
+
+"DYBJUNOLS":
+  type: article
+  title: "A complete optical model for liquid-scintillator detectors"
+  author: [{name: "Zhang, Yan and Yu, Ze-Yuan and Li, Xin-Ying and Deng, Zi-Yan and Wen, Liang-Jian"}]
+  date: 2020
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "967"}
+  page-range: "163860"
+  doi: "10.1016/j.nima.2020.163860"
+
+"mysql":
+  type: article
+  title: ""
+
+"sqlite":
+  type: article
+  title: ""
+
+"cstnet":
+  type: article
+  title: ""
+
+"white_rabbit":
+  type: article
+  title: ""
+
+"calice":
+  type: article
+  title: ""
+
+"Adam:2007ex":
+  type: article
+  title: "The OPERA experiment target tracker"
+  author: [{name: "Adam, T. and others"}]
+  date: 2007
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "577"}
+  page-range: "523-539"
+  doi: "10.1016/j.nima.2007.04.147"
+
+"Radon":
+  type: article
+  title: "A model for calculating atmospheric radon concentration"
+  author: [{name: "Zhang,L.G. and Guo Q.J."}]
+  date: 2006
+  parent: {type: periodical, title: "Radiation Protection", volume: "26"}
+  page-range: "341-346"
+
+"Zhang:2017tsd:addjournal":
+  type: article
+  title: "The development of ²²²Rn detectors for JUNO prototype"
+  author: [{name: "Zhang, Y.P. and Liu, J.C. and Guo, C. and Huang, Y.B. and Yu, Z.Y. and Xu, C. and Guan, M.Y. and Yang, C.G. and Zhang, P."}]
+  date: 2018
+  parent: {type: periodical, title: "Radiat Detect Technol Methods", volume: "2"}
+  page-range: "5"
+  doi: "10.1007/s41605-017-0029-8"
+
+"CGuo:2018zzzzz:bibtex_by_hand":
+  type: article
+  title: "Study on the radon removal for the water system of Jiangmen Underground Neutrino Observatory"
+  author: [{name: "C. Guo and J. C. Liu and Y. P. Zhang and P. Zhang and C. G. Yang and Y. B. Huang and W. X. Xiong and H. Q. Zhang and Y. T. Wei and Y. Y. Gan"}]
+  date: 2018
+  parent: {type: periodical, title: "Radiat Detect Technol Methods", volume: "2"}
+  page-range: "48"
+  doi: "10.1007/s41605-018-0077-8"
+
+"ZYY_CLS_paper":
+  type: article
+  title: "Cable Loop Calibration System for Jiangmen Underground Neutrino Observatory"
+  author: [{name: "Zhang, Yuanyuan and others"}]
+  parent: {type: periodical, title: "manuscript in preparation"}
+
+"Zhang_2019":
+  type: article
+  title: "Laser calibration system in JUNO"
+  author: [{name: "Y. Zhang and J. Liu and M. Xiao and F. Zhang and T. Zhang"}]
+  date: 2019
+  parent: {type: periodical, title: "JINST", volume: "14"}
+  serial-number: "P01009-P01009"
+  doi: "10.1088/1748-0221/14/01/p01009"
+
+"Hirata:1987hu":
+  type: article
+  title: "Observation of a Neutrino Burst from the Supernova SN 1987a"
+  author: [{name: "Hirata, K. and others"}]
+  date: 1987
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "58"}
+  page-range: "1490-1493"
+  doi: "10.1103/PhysRevLett.58.1490"
+
+"Bionta:1987qt":
+  type: article
+  title: "Observation of a Neutrino Burst in Coincidence with Supernova SN 1987a in the Large Magellanic Cloud"
+  author: [{name: "Bionta, R.M. and others"}]
+  date: 1987
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "58"}
+  page-range: "1494"
+  doi: "10.1103/PhysRevLett.58.1494"
+
+"Alekseev:1988gp":
+  type: article
+  title: "Detection of the Neutrino Signal From SN1987A in the LMC Using the Inr Baksan Underground Scintillation Telescope"
+  author: [{name: "Alekseev, E.N. and Alekseeva, L.N. and Krivosheina, I.V. and Volchenko, V.I."}]
+  date: 1988
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "205"}
+  page-range: "209-214"
+  doi: "10.1016/0370-2693(88)91651-6"
+
+"Colgate:1966ax":
+  type: article
+  title: "The Hydrodynamic Behavior of Supernovae Explosions"
+  author: [{name: "Colgate, Stirling A. and White, Richard H."}]
+  date: 1966
+  parent: {type: periodical, title: "Astrophys. J.", volume: "143"}
+  page-range: "626"
+  doi: "10.1086/148549"
+
+"Bethe:1990mw":
+  type: article
+  title: "Supernova mechanisms"
+  author: [{name: "Bethe, H.A."}]
+  date: 1990
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "62"}
+  page-range: "801-866"
+  doi: "10.1103/RevModPhys.62.801"
+
+"Woosley:2002zz":
+  type: article
+  title: "The evolution and explosion of massive stars"
+  author: [{name: "Woosley, S.E. and Heger, A. and Weaver, T.A."}]
+  date: 2002
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "74"}
+  page-range: "1015-1071"
+  doi: "10.1103/RevModPhys.74.1015"
+
+"Janka:2006fh":
+  type: article
+  title: "Theory of Core-Collapse Supernovae"
+  author: [{name: "Janka, Hans-Thomas and Langanke, K. and Marek, A. and Martinez-Pinedo, G. and Mueller, B."}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rept.", volume: "442"}
+  page-range: "38-74"
+  doi: "10.1016/j.physrep.2007.02.002"
+
+"Janka:2017vcp":
+  type: misc
+  title: "Neutrino-driven Explosions. In: Alsabti A., Murdin P. (eds) Handbook of Supernovae. Springer, Cham."
+  author: [{name: "Janka, H. -Th."}]
+  serial-number: "arXiv:1702.08825"
+  doi: "10.1007/978-3-319-21846-5_109"
+
+"Vissani:2014doa":
+  type: article
+  title: "Comparative analysis of SN1987A antineutrino fluence"
+  author: [{name: "Vissani, Francesco"}]
+  date: 2015
+  parent: {type: periodical, title: "J. Phys. G", volume: "42"}
+  page-range: "013001"
+  doi: "10.1088/0954-3899/42/1/013001"
+
+"Mirizzi:2015eza":
+  type: article
+  title: "Supernova Neutrinos: Production, Oscillations and Detection"
+  author: [{name: "Mirizzi, Alessandro and Tamborra, Irene and Janka, Hans-Thomas and Saviano, Ninetta and Scholberg, Kate and Bollig, Robert and Hudepohl, Lorenz and Chakraborty, Sovan"}]
+  date: 2016
+  parent: {type: periodical, title: "Riv. Nuovo Cim.", volume: "39"}
+  page-range: "1-112"
+  doi: "10.1393/ncr/i2016-10120-8"
+
+"Janka:2017vlw":
+  type: misc
+  title: "Neutrino Emission from Supernovae. In: Alsabti A., Murdin P. (eds) Handbook of Supernovae. Springer, Cham."
+  author: [{name: "Janka, H. -Th."}]
+  serial-number: "arXiv:1702.08713"
+  doi: "10.1007/978-3-319-21846-5_4"
+
+"Li:2019qxi":
+  type: article
+  title: "Model-independent approach to the reconstruction of multiflavor supernova neutrino energy spectra"
+  author: [{name: "Li, Hui-Ling and Huang, Xin and Li, Yu-Feng and Wen, Liang-Jian and Zhou, Shun"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "99"}
+  page-range: "123009"
+  doi: "10.1103/PhysRevD.99.123009"
+
+"Li:2017dbg":
+  type: article
+  title: "Towards a complete reconstruction of supernova neutrino spectra in future large liquid-scintillator detectors"
+  author: [{name: "Li, Hui-Ling and Li, Yu-Feng and Wang, Meng and Wen, Liang-Jian and Zhou, Shun"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "97"}
+  page-range: "063014"
+  doi: "10.1103/PhysRevD.97.063014"
+
+"Li:2020gaz":
+  type: article
+  title: "Prospects for Pre-supernova Neutrino Observation in Future Large Liquid-scintillator Detectors"
+  author: [{name: "Li, Hui-Ling and Li, Yu-Feng and Wen, Liang-Jian and Zhou, Shun"}]
+  date: 2020
+  parent: {type: periodical, title: "JCAP", volume: "05"}
+  page-range: "049"
+  doi: "10.1088/1475-7516/2020/05/049"
+
+"Mukhopadhyay:2020ubs":
+  type: article
+  title: "Presupernova neutrinos: directional sensitivity and prospects for progenitor identification"
+  author: [{name: "Mukhopadhyay, Mainak and Lunardini, Cecilia and Timmes, F. X. and Zuber, Kai"}]
+  date: 2020
+  parent: {type: periodical, title: "Astrophys. J.", volume: "899"}
+  page-range: "153"
+  doi: "10.3847/1538-4357/ab99a6"
+
+"Beacom:2002hs":
+  type: article
+  title: "Detection of Supernova Neutrinos by Neutrino Proton Elastic Scattering"
+  author: [{name: "Beacom, John F. and Farr, Will M. and Vogel, Petr"}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "66"}
+  page-range: "033001"
+  doi: "10.1103/PhysRevD.66.033001"
+
+"Pedretti:2018xjc":
+  type: article
+  title: "The Global Control Unit for the JUNO Front-End Electronics"
+  author: [{name: "Pedretti, Davide and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Springer Proc. Phys.", volume: "212"}
+  page-range: "186-189"
+  doi: "10.1007/978-981-13-1313-4_37"
+
+"Kato:2015faa":
+  type: article
+  title: "Pre-supernova neutrino emissions from ONe cores in the progenitors of core-collapse supernovae: are they distinguishable from those of Fe cores?"
+  author: [{name: "Kato, Chinami and Azari, Milad Delfan and Yamada, Shoichi and Takahashi, Koh and Umeda, Hideyuki and Yoshida, Takashi and Ishidoshiro, Koji"}]
+  date: 2015
+  parent: {type: periodical, title: "Astrophys. J.", volume: "808"}
+  page-range: "168"
+  doi: "10.1088/0004-637X/808/2/168"
+
+"Yoshida:2016imf":
+  type: article
+  title: "Presupernova neutrino events relating to the final evolution of massive stars"
+  author: [{name: "Yoshida, Takashi and Takahashi, Koh and Umeda, Hideyuki and Ishidoshiro, Koji"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "93"}
+  page-range: "123012"
+  doi: "10.1103/PhysRevD.93.123012"
+
+"Lu:2016ipr":
+  type: article
+  title: "Getting the most from the detection of Galactic supernova neutrinos in future large liquid-scintillator detectors"
+  author: [{name: "Lu, Jia-Shu and Li, Yu-Feng and Zhou, Shun"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "94"}
+  page-range: "023006"
+  doi: "10.1103/PhysRevD.94.023006"
+
+"Fang:2019lej":
+  type: article
+  title: "Capability of detecting low energy events in JUNO Central Detector"
+  author: [{name: "Fang, X. and Zhang, Y. and Gong, G.H. and Cao, G.F. and Lin, T. and Yang, C.W. and Li, W.D."}]
+  date: 2020
+  parent: {type: periodical, title: "JINST", volume: "15"}
+  serial-number: "P03020"
+  doi: "10.1088/1748-0221/15/03/P03020"
+
+"garching":
+  type: article
+  title: ""
+
+"Nakazato:2012qf":
+  type: article
+  title: "Supernova Neutrino Light Curves and Spectra for Various Progenitor Stars: From Core Collapse to Proto-neutron Star Cooling"
+  author: [{name: "Nakazato, Ken'ichiro and Sumiyoshi, Kohsuke and Suzuki, Hideyuki and Totani, Tomonori and Umeda, Hideyuki and Yamada, Shoichi"}]
+  date: 2013
+  parent: {type: periodical, title: "Astrophys. J. Suppl.", volume: "205"}
+  page-range: "2"
+  doi: "10.1088/0067-0049/205/1/2"
+
+"Lu:2014zma":
+  type: article
+  title: "Constraining Absolute Neutrino Masses via Detection of Galactic Supernova Neutrinos at JUNO"
+  author: [{name: "Lu, Jia-Shu and Cao, Jun and Li, Yu-Feng and Zhou, Shun"}]
+  date: 2015
+  parent: {type: periodical, title: "JCAP", volume: "05"}
+  page-range: "044"
+  doi: "10.1088/1475-7516/2015/05/044"
+
+"Rozwadowska:2021lll":
+  type: article
+  title: "On the rate of core collapse supernovae in the milky way"
+  author: [{name: "Rozwadowska, Karolina and Vissani, Francesco and Cappellaro, Enrico"}]
+  date: 2021
+  parent: {type: periodical, title: "New Astron.", volume: "83"}
+  page-range: "101498"
+  doi: "10.1016/j.newast.2020.101498"
+
+"Kharusi:2020ovw":
+  type: misc
+  title: "SNEWS 2.0: A Next-Generation SuperNova Early Warning System for Multi-messenger Astronomy"
+  author: [{name: "Al Kharusi, S. and others"}]
+  date: 2020
+  serial-number: "arXiv:2011.00035"
+
+"TZeng:2019RT":
+  type: article
+  title: "JUNO DAQ Readout and Event Building Research"
+  author: [{name: "T. Zeng"}]
+  date: 2019
+  parent: {type: periodical, title: "IEEE TRANSACTIONS ON NUCLEAR SCIENCE", volume: "66"}
+  page-range: "1217-1221"
+  doi: "10.1109/TNS.2018.2885986"
+
+"JLi:2019RT":
+  type: article
+  title: "An SOA-Based Design of JUNO DAQ Online Software"
+  author: [{name: "J. Li"}]
+  date: 2019
+  parent: {type: periodical, title: "IEEE TRANSACTIONS ON NUCLEAR SCIENCE", volume: "66"}
+  page-range: "1199-1203"
+  doi: "10.1109/TNS.2019.2907367"
+
+"Fukuda:1998mi":
+  type: article
+  title: "Evidence for oscillation of atmospheric neutrinos"
+  author: [{name: "Fukuda, Y. and others"}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "81"}
+  page-range: "1562-1567"
+  doi: "10.1103/PhysRevLett.81.1562"
+
+"Barr:2004br":
+  type: article
+  title: "A Three - dimensional calculation of atmospheric neutrinos"
+  author: [{name: "Barr, G. D. and Gaisser, T. K. and Lipari, P. and Robbins, Simon and Stanev, T."}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "70"}
+  page-range: "023006"
+  doi: "10.1103/PhysRevD.70.023006"
+
+"Guan:2015vja":
+  type: misc
+  title: "A parametrization of the cosmic-ray muon flux at sea-level"
+  author: [{name: "Guan, Mengyun and Chu, Ming-Chung and Cao, Jun and Luk, Kam-Biu and Yang, Changgen"}]
+  date: 2015
+  serial-number: "arXiv:1509.06176"
+
+"Wolfenstein:1977ue":
+  type: article
+  title: "Neutrino Oscillations in Matter"
+  author: [{name: "Wolfenstein, L."}]
+  date: 1978
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "17"}
+  page-range: "2369-2374"
+  doi: "10.1103/PhysRevD.17.2369"
+
+"Mikheev:1986gs":
+  type: article
+  title: "Resonance Amplification of Oscillations in Matter and Spectroscopy of Solar Neutrinos"
+  author: [{name: "Mikheyev, S.P. and Smirnov, A.Yu."}]
+  date: 1985
+  parent: {type: periodical, title: "Sov. J. Nucl. Phys.", volume: "42"}
+  page-range: "913-917"
+
+"Blennow:2013vta":
+  type: article
+  title: "Determination of the neutrino mass ordering by combining PINGU and Daya Bay II"
+  author: [{name: "Blennow, Mattias and Schwetz, Thomas"}]
+  date: 2013
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+  page-range: "089"
+  doi: "10.1007/JHEP09(2013)089"
+
+"Bezerra:2019dao":
+  type: article
+  title: "Combined sensitivity to the neutrino mass ordering with JUNO, the IceCube Upgrade, and PINGU"
+  author: [{name: "Aartsen, M.G. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "101"}
+  page-range: "032006"
+  doi: "10.1103/PhysRevD.101.032006"
+
+"Settanta:2019ecp":
+  type: article
+  title: "Atmospheric neutrino spectrum reconstruction with JUNO"
+  author: [{name: "Settanta, G. and Mari, S.M. and Martellini, C. and Montini, P."}]
+  date: 2019
+  parent: {type: proceedings, title: "2019 European Physical Society Conference on High Energy Physics"}
+
+"Richard:2015aua":
+  type: article
+  title: "Measurements of the atmospheric neutrino flux by Super-Kamiokande: energy spectra, geomagnetic effects, and solar modulation"
+  author: [{name: "Richard, E. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "94"}
+  page-range: "052001"
+  doi: "10.1103/PhysRevD.94.052001"
+
+"Daum:1994bf":
+  type: article
+  title: "Determination of the atmospheric neutrino spectra with the Frejus detector"
+  author: [{name: "Daum, K. and others"}]
+  date: 1995
+  parent: {type: periodical, title: "Z. Phys. C", volume: "66"}
+  page-range: "417-428"
+  doi: "10.1007/BF01556368"
+
+"Honda:2015fha":
+  type: article
+  title: "Atmospheric neutrino flux calculation using the NRLMSISE-00 atmospheric model"
+  author: [{name: "Honda, M. and Sajjad Athar, M. and Kajita, T. and Kasahara, K. and Midorikawa, S."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "92"}
+  page-range: "023004"
+  doi: "10.1103/PhysRevD.92.023004"
+
+"Sakharov:1967dj":
+  type: article
+  title: "Violation of CP Invariance, C asymmetry, and baryon asymmetry of the universe"
+  author: [{name: "Sakharov, A.D."}]
+  date: 1991
+  parent: {type: periodical, title: "Sov. Phys. Usp.", volume: "34"}
+  page-range: "392-393"
+  doi: "10.1070/PU1991v034n05ABEH002497"
+
+"Georgi:1974sy":
+  type: article
+  title: "Unity of All Elementary Particle Forces"
+  author: [{name: "Georgi, H. and Glashow, S.L."}]
+  date: 1974
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "32"}
+  page-range: "438-441"
+  doi: "10.1103/PhysRevLett.32.438"
+
+"Nath:2006ut":
+  type: article
+  title: "Proton stability in grand unified theories, in strings and in branes"
+  author: [{name: "Nath, Pran and Fileviez Perez, Pavel"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rept.", volume: "441"}
+  page-range: "191-317"
+  doi: "10.1016/j.physrep.2007.02.010"
+
+"Svoboda":
+  type: article
+  title: ""
+  author: [{name: "Svoboda, R."}]
+  date: 2003
+
+"Zou:2015ioy":
+  type: article
+  title: "SNiPER: an offline software framework for non-collider physics experiments"
+  author: [{name: "Zou, J.H. and Huang, X.T. and Li, W.D. and Lin, T. and Li, T. and Zhang, K. and Deng, Z.Y. and Cao, G.F."}]
+  date: 2015
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "664"}
+  page-range: "072053"
+  doi: "10.1088/1742-6596/664/7/072053"
+
+"Andreopoulos:2015wxa":
+  type: misc
+  title: "The GENIE Neutrino Monte Carlo Generator: Physics and User Manual"
+  author: [{name: "Andreopoulos, Costas and Barry, Christopher and Dytman, Steve and Gallagher, Hugh and Golan, Tomasz and Hatcher, Robert and Perdue, Gabriel and Yarba, Julia"}]
+  date: 2015
+  serial-number: "arXiv:1510.05494"
+
+"Undagoitia:2005uu":
+  type: article
+  title: "Search for the proton decay p ---> K+ anti-nu in the large liquid scintillator low energy neutrino astronomy detector LENA"
+  author: [{name: "Undagoitia, T.Marrodan and von Feilitzsch, F. and Goger-Neff, M. and Grieb, C. and Hochmuth, K.A. and Oberauer, L. and Potzel, W. and Wurm, M."}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "72"}
+  page-range: "075014"
+  doi: "10.1103/PhysRevD.72.075014"
+
+"TheKamLAND-Zen:2015eva":
+  type: article
+  title: "Search for the proton decay mode p → ν K⁺ with KamLAND"
+  author: [{name: "Asakura, K. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "92"}
+  page-range: "052006"
+  doi: "10.1103/PhysRevD.92.052006"
+
+"Feldman:1997qc":
+  type: article
+  title: "A Unified approach to the classical statistical analysis of small signals"
+  author: [{name: "Feldman, Gary J. and Cousins, Robert D."}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "57"}
+  page-range: "3873-3889"
+  doi: "10.1103/PhysRevD.57.3873"
+
+"Bellini:2010geo":
+  type: article
+  title: "Observation of Geo-Neutrinos"
+  author: [{name: "Bellini, G. and others"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "687"}
+  page-range: "299-304"
+  doi: "10.1016/j.physletb.2010.03.051"
+
+"Borex-geo-2019":
+  type: article
+  title: "Comprehensive geoneutrino analysis with Borexino"
+  author: [{name: "Agostini, M. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "101"}
+  page-range: "012009"
+  doi: "10.1103/PhysRevD.101.012009"
+
+"Araki:2005qa":
+  type: article
+  title: "Experimental investigation of geologically produced antineutrinos with KamLAND"
+  author: [{name: "Araki, T. and others"}]
+  date: 2005
+  parent: {type: periodical, title: "Nature", volume: "436"}
+  page-range: "499-503"
+  doi: "10.1038/nature03980"
+
+"watanabe19":
+  type: article
+  title: "Geoneutrino measurement with KamLAND"
+  author: [{name: "Watanabe, H."}]
+
+"watanabe20":
+  type: article
+  title: "Geoneutrinos"
+  author: [{name: "Watanabe, H."}]
+
+"Agostini:2015cba":
+  type: article
+  title: "Spectroscopy of geoneutrinos from 2056 days of Borexino data"
+  author: [{name: "Agostini, M. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "92"}
+  page-range: "031101"
+  doi: "10.1103/PhysRevD.92.031101"
+
+"Bellini:2013geo":
+  type: article
+  title: "Measurement of geo-neutrinos from 1353 days of Borexino"
+  author: [{name: "Bellini, G. and others"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "722"}
+  page-range: "295-300"
+  doi: "10.1016/j.physletb.2013.04.030"
+
+"Abe:2008aa":
+  type: article
+  title: "Precision Measurement of Neutrino Oscillation Parameters with KamLAND"
+  author: [{name: "Abe, S. and others"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "100"}
+  page-range: "221803"
+  doi: "10.1103/PhysRevLett.100.221803"
+
+"Gando:1900zz":
+  type: article
+  title: "Partial radiogenic heat model for Earth revealed by geoneutrino measurements"
+  author: [{name: "Gando, A. and others"}]
+  date: 2011
+  parent: {type: periodical, title: "Nature Geo.", volume: "4"}
+  page-range: "647-651"
+  doi: "10.1038/ngeo1205"
+
+"herndon1996substructure":
+  type: article
+  title: "Substructure of the inner core of the Earth"
+  author: [{name: "Herndon, J. M."}]
+  date: 1996
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "93"}
+  page-range: "646-648"
+  doi: "10.1073/pnas.93.2.646"
+
+"herndon1993feasibility":
+  type: article
+  title: "Feasibility of a nuclear fission reactor at the center of the Earth as the energy source for the geomagnetic field"
+  author: [{name: "Herndon, J. M."}]
+  date: 1993
+  parent: {type: periodical, title: "J. Geomag. Geoelectr.", volume: "45"}
+  page-range: "423-437"
+  doi: "10.5636/jgg.45.423"
+
+"de2008feasibility":
+  type: article
+  title: "The feasibility and implications of nuclear georeactors in Earth's core-mantle boundary region"
+  author: [{name: "Meijer, R.J. and Westrenen, Wim"}]
+  date: 2008
+  parent: {type: periodical, title: "South African Journal of Science", volume: "104"}
+  page-range: "111-118"
+
+"rusov2007geoantineutrino":
+  type: article
+  title: "Geoantineutrino spectrum and slow nuclear burning on the boundary of the liquid and solid phases of the Earth's core"
+  author: [{name: "Rusov, V. D. and others"}]
+  date: 2007
+  parent: {type: periodical, title: "Journal of Geophysical Research: Solid Earth", volume: "112"}
+  page-range: "203"
+  doi: "10.1029/2005JB004212"
+
+"Strati:2015geosignal":
+  type: article
+  title: "Expected geoneutrino signal at JUNO"
+  author: [{name: "Strati, V. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "Progress in Earth and Planetary Science", volume: "2"}
+  page-range: "1"
+  doi: "10.1186/s40645-015-0037-6"
+
+"Huang:2013RMmodel":
+  type: article
+  title: "A reference Earth model for the heat-producing elements and associated geoneutrino flux"
+  author: [{name: "Huang, Y. and others"}]
+  date: 2013
+  parent: {type: periodical, title: "Geochemistry, Geophysics, Geosystems", volume: "14"}
+  page-range: "2003"
+  doi: "10.1002/ggge.20129"
+
+"Han:2016geoPotential":
+  type: article
+  title: "Potential of geo-neutrino measurements at JUNO"
+  author: [{name: "Han, R. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Chinese Physics C", volume: "40"}
+  page-range: "033003"
+  doi: "10.1088/1674-1137/40/3/033003"
+
+"web:enomoto":
+  type: article
+  title: "Geoneutrino Spectrum and Luminosity"
+  author: [{name: "Enomoto Sanshiro"}]
+
+"Mao:2019osci":
+  type: article
+  title: "Non-negligible oscillation effects in the crustal geoneutrino calculations"
+  author: [{name: "Mao, X. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review D", volume: "100"}
+  page-range: "113009"
+  doi: "10.1103/PhysRevD.100.113009"
+
+"Reguzzoni:2019GIGJ":
+  type: article
+  title: "GIGJ: a crustal gravity model of the Guangdong Province for predicting the geoneutrino signal at the JUNO experiment"
+  author: [{name: "Reguzzoni, M. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Journal of Geophysical Research: Solid Earth", volume: "124"}
+  page-range: "4231"
+  doi: "10.1029/2018JB016681"
+
+"Gao:2020JULOC":
+  type: article
+  title: "JULOC: A local 3-D high-resolution crustal model in South China for forecasting geoneutrino measurements at JUNO"
+  author: [{name: "Gao, R. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Physics of the Earth and Planetary Interiors", volume: "299"}
+  page-range: "106409"
+  doi: "10.1016/j.pepi.2019.106409"
+
+"Zheng:2010NoiseSesmic":
+  type: article
+  title: "The Role Played and Opportunities Provided by IGP DMC of China National Seismic Network in Wenchuan Earthquake Disaster Relief and Researches. Bulletin of the Seismological Society of America"
+  author: [{name: "Zheng, X. F. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Bulletin of the Seismological Society of America", volume: "100"}
+  page-range: "2866"
+  doi: "10.1785/0120090257"
+
+"Plank:2012Chemicalcom":
+  type: article
+  title: "The chemical composition of subducting sediments"
+  author: [{name: "Plank, T.and others"}]
+  date: 2014
+  parent: {type: periodical, title: "Elsevier"}
+  page-range: "607"
+
+"Rudnick:2003Composition":
+  type: article
+  title: "Composition of the continental crust"
+  author: [{name: "Rudnick, R.L. and Gao, S."}]
+  date: 2003
+  parent: {type: periodical, title: "The Crust 3 Treatise on Geochemistry"}
+  page-range: "1-64"
+
+"Agostini:2018uly":
+  type: article
+  title: "Comprehensive measurement of pp-chain solar neutrinos"
+  author: [{name: "Agostini, M. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature", volume: "562"}
+  page-range: "505-510"
+  doi: "10.1038/s41586-018-0624-y"
+
+"SK2020":
+  type: article
+  title: "Recent results and future prospects from Super- Kamiokande"
+  author: [{name: "Yasuhiro Nakajima"}]
+  date: 2020
+  doi: "10.5281/zenodo.3959640"
+
+"BorexCNO":
+  type: misc
+  title: "First Direct Experimental Evidence of CNO neutrinos"
+  author: [{name: "Agostini, M. and others"}]
+  date: 2020
+  serial-number: "arXiv:2006.15115"
+
+"FUKUGITA1988139":
+  type: article
+  title: "Neutrino reaction cross sections on 12C target"
+  author: [{name: "M. Fukugita and Y. Kohyama and K. Kubodera"}]
+  date: 1988
+  parent: {type: periodical, title: "Physics Letters B", volume: "212"}
+  serial-number: "139 - 144"
+  doi: "10.1016/0370-2693(88)90513-8"
+
+"Suzuki:2012aa":
+  type: article
+  title: "Neutrino Capture on ¹³C"
+  author: [{name: "Suzuki, T. and Balantekin, A.B. and Kajino, T."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "86"}
+  page-range: "015502"
+  doi: "10.1103/PhysRevC.86.015502"
+
+"Suzuki:2019cra":
+  type: article
+  title: "Neutrino-13C Cross Sections at Supernova Neutrino Energies"
+  author: [{name: "Suzuki, T. and Balantekin, A.B. and Kajino, T. and Chiba, S."}]
+  date: 2019
+  parent: {type: periodical, title: "J. Phys. G", volume: "46"}
+  page-range: "075103"
+  doi: "10.1088/1361-6471/ab1c11"
+
+"Serenelli:2012zw":
+  type: article
+  title: "Using the standard solar model to constrain solar composition and nuclear reaction S factors"
+  author: [{name: "Serenelli, Aldo and Peña-Garay, Carlos and Haxton, W.C."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "87"}
+  page-range: "043001"
+  doi: "10.1103/PhysRevD.87.043001"
+
+"B8NCCC":
+  type: article
+  title: "Detecting B8 solar neutrinos via C13 NC and CC channels at JUNO"
+  author: [{name: "xxx"}]
+  date: 2020
+  parent: {type: periodical, title: "dd", volume: "ee"}
+  serial-number: "sd"
+
+"Esteban:2018azc":
+  type: article
+  title: "Global analysis of three-flavour neutrino oscillations: synergies and tensions in the determination of θ₂₃, δCP, and the mass ordering"
+  author: [{name: "Esteban, Ivan and Gonzalez-Garcia, M. C. and Hernandez-Cabezudo, Alvaro and Maltoni, Michele and Schwetz, Thomas"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "01"}
+  page-range: "106"
+  doi: "10.1007/JHEP01(2019)106"
+
+"PIDJUNO":
+  type: article
+  title: "Particle identification at MeV energies in JUNO"
+  author: [{name: "H. Rebber and L. Ludhova and B. Wonsak and Y. Xu"}]
+  date: 2021
+  parent: {type: periodical, title: "JINST", volume: "16"}
+  serial-number: "P01016-P01016"
+  doi: "10.1088/1748-0221/16/01/p01016"
+
+"BxPhaseI":
+  type: article
+  title: "Final results of Borexino Phase-I on low-energy solar neutrino spectroscopy"
+  author: [{name: "G. Bellini et al. (Borexino Coll.)"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "89"}
+  page-range: "1-68"
+
+"Borex-NMM":
+  type: article
+  title: "Limiting neutrino magnetic moments with Borexino Phase-II solar neutrino data"
+  author: [{name: "Agostini, M. and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "96"}
+  page-range: "091103"
+  doi: "10.1103/PhysRevD.96.091103"
+
+"Borex-NSI":
+  type: article
+  title: "Constraints on flavor-diagonal non-standard neutrino interactions from Borexino Phase-II"
+  author: [{name: "Agarwalla, S. K. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "038"
+  doi: "10.1007/JHEP02(2020)038"
+
+"LENA":
+  type: article
+  title: "The next-generation liquid-scintillator neutrino observatory LENA"
+  author: [{name: "Wurm, Michael and others"}]
+  date: 2012
+  parent: {type: periodical, title: "Astropart. Phys.", volume: "35"}
+  page-range: "685-732"
+  doi: "10.1016/j.astropartphys.2012.02.011"
+
+"Vinyoles_2017":
+  type: article
+  title: "A New Generation of Standard Solar Models"
+  author: [{name: "Nuria Vinyoles and Aldo M. Serenelli and Francesco L. Villante and Sarbani Basu and Johannes Bergström and M. C. Gonzalez-Garcia and Michele Maltoni and Carlos Peña-Garay and Ningqiang Song"}]
+  date: 2017
+  parent: {type: periodical, title: "The Astrophysical Journal", volume: "835"}
+  page-range: "202"
+  doi: "10.3847/1538-4357/835/2/202"
+
+"BX-pp":
+  type: article
+  title: "Neutrinos from the primary proton–proton fusion process in the Sun"
+  author: [{name: "Bellini, G.B. and Benziger, Jay and Bick, D. and Bonfini, G. and Bravo, Diane and Caccianiga, B. and Cadonati, Laura and Calaprice, Frank and Caminata, A. and Cavalcante, P. and Chavarria, A. and Chepurnov, A. and D'Angelo, Davide and Davini, S. and Derbin, A. and Empl, Anton and Etenko, Alexander and Fomenko, Kirill and Franco, Davide and Zuzel, G."}]
+  date: 2014
+  parent: {type: periodical, title: "Nature", volume: "512"}
+  page-range: "383-386"
+  doi: "10.1038/nature13702"
+
+"Abusleme:2020zyc":
+  type: article
+  title: "Feasibility and physics potential of detecting ⁸B solar neutrinos at JUNO"
+  author: [{name: "Abusleme, Angel and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Chin. Phys. C", volume: "45"}
+  page-range: "023004"
+  doi: "10.1088/1674-1137/abd92a"
+
+"Aharmim:2011vm":
+  type: article
+  title: "Combined Analysis of all Three Phases of Solar Neutrino Data from the Sudbury Neutrino Observatory"
+  author: [{name: "Aharmim, B. and others"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "88"}
+  page-range: "025501"
+  doi: "10.1103/PhysRevC.88.025501"
+
+"Maltoni:2015kca":
+  type: article
+  title: "Solar neutrinos and neutrino physics"
+  author: [{name: "Maltoni, Michele and Smirnov, Alexei Yu."}]
+  date: 2016
+  parent: {type: periodical, title: "Eur. Phys. J. A", volume: "52"}
+  page-range: "87"
+  doi: "10.1140/epja/i2016-16087-0"
+
+"Bahcall:1996qv":
+  type: article
+  title: "Standard neutrino spectrum from B-8 decay"
+  author: [{name: "Bahcall, John N. and Lisi, E. and Alburger, D. E. and De Braeckeleer, L. and Freedman, S. J. and Napolitano, J."}]
+  date: 1996
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "54"}
+  page-range: "411-422"
+  doi: "10.1103/PhysRevC.54.411"
+
+"Bahcall:2004pz":
+  type: article
+  title: "New solar opacities, abundances, helioseismology, and neutrino fluxes"
+  author: [{name: "Bahcall, John N. and Serenelli, Aldo M. and Basu, Sarbani"}]
+  date: 2005
+  parent: {type: periodical, title: "Astrophys. J.", volume: "621"}
+  serial-number: "L85-L88"
+  doi: "10.1086/428929"
+
+"Genster:2018caz":
+  type: article
+  title: "Muon reconstruction with a geometrical model in JUNO"
+  author: [{name: "Genster, Christoph and Schever, Michaela and Ludhova, Livia and Soiron, Michael and Stahl, Achim and Wiebusch, Christopher"}]
+  date: 2018
+  parent: {type: periodical, title: "JINST", volume: "13"}
+  serial-number: "T03003"
+  doi: "10.1088/1748-0221/13/03/T03003"
+
+"Dolinski:2019nrj":
+  type: article
+  title: "Neutrinoless Double-Beta Decay: Status and Prospects"
+  author: [{name: "Dolinski, Michelle J. and Poon, Alan W.P. and Rodejohann, Werner"}]
+  date: 2019
+  parent: {type: periodical, title: "Ann. Rev. Nucl. Part. Sci.", volume: "69"}
+  page-range: "219-251"
+  doi: "10.1146/annurev-nucl-101918-023407"
+
+"Agostini:2020xta":
+  type: misc
+  title: "Final Results of GERDA on the Search for Neutrinoless Double-β Decay"
+  author: [{name: "Agostini, M. and others"}]
+  date: 2020
+  serial-number: "arXiv:2009.06079"
+
+"Adams:2019jhp":
+  type: article
+  title: "Improved Limit on Neutrinoless Double-Beta Decay in ¹³⁰Te with CUORE"
+  author: [{name: "Adams, D.Q. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "122501"
+  doi: "10.1103/PhysRevLett.124.122501"
+
+"Anton:2019wmi":
+  type: article
+  title: "Search for Neutrinoless Double-β Decay with the Complete EXO-200 Dataset"
+  author: [{name: "Anton, G. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "161802"
+  doi: "10.1103/PhysRevLett.123.161802"
+
+"Alvis:2019sil":
+  type: article
+  title: "A Search for Neutrinoless Double-Beta Decay in ⁷⁶Ge with 26 kg-yr of Exposure from the MAJORANA DEMONSTRATOR"
+  author: [{name: "Alvis, S.I. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "100"}
+  page-range: "025501"
+  doi: "10.1103/PhysRevC.100.025501"
+
+"KamLAND-Zen:2016pfg":
+  type: article
+  title: "Search for Majorana Neutrinos near the Inverted Mass Hierarchy Region with KamLAND-Zen"
+  author: [{name: "Gando, A. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "117"}
+  page-range: "082503"
+  doi: "10.1103/PhysRevLett.117.082503"
+
+"Abgrall:2017syy":
+  type: article
+  title: "The Large Enriched Germanium Experiment for Neutrinoless Double Beta Decay (LEGEND)"
+  author: [{name: "Abgrall, N. and others"}]
+  date: 2017
+  parent: {type: periodical, title: "AIP Conf. Proc.", volume: "1894"}
+  page-range: "020027"
+  doi: "10.1063/1.5007652"
+
+"Kharusi:2018eqi":
+  type: misc
+  title: "nEXO Pre-Conceptual Design Report"
+  author: [{name: "Kharusi, S. Al and others"}]
+  date: 2018
+  serial-number: "arXiv:1805.11142"
+
+"CUPIDInterestGroup:2019inu":
+  type: misc
+  title: "CUPID pre-CDR"
+  author: [{name: "Armstrong, W.R. and others"}]
+  date: 2019
+  serial-number: "arXiv:1907.09376"
+
+"Agostini:2020adk":
+  type: article
+  title: "Sensitivity of the DARWIN observatory to the neutrinoless double beta decay of ¹³⁶Xe"
+  author: [{name: "Agostini, F. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "80"}
+  page-range: "808"
+  doi: "10.1140/epjc/s10052-020-8196-z"
+
+"JUNObetabetaLOI":
+  type: misc
+  title: "Snowmass 2021 - Letter of Interest: Searching for 0νββ decays in JUNO, please see at https://www.snowmass21.org"
+  author: [{name: "Abusleme, A. and others (JUNO)"}]
+  date: 2020
+  serial-number: "arXiv:1907.09376"
+
+"Zhao:2016brs":
+  type: article
+  title: "Physics potential of searching for 0νββ decays in JUNO"
+  author: [{name: "Zhao, Jie and Wen, Liang-Jian and Wang, Yi-Fang and Cao, Jun"}]
+  date: 2017
+  parent: {type: periodical, title: "Chin. Phys. C", volume: "41"}
+  page-range: "053001"
+  doi: "10.1088/1674-1137/41/5/053001"
+
+"Cao:2019hli":
+  type: article
+  title: "Towards the meV limit of the effective neutrino mass in neutrinoless double-beta decays"
+  author: [{name: "Cao, Jun and Huang, Guo-Yuan and Li, Yu-Feng and Wang, Yifang and Wen, Liang-Jian and Xing, Zhi-Zhong and Zhao, Zhen-Hua and Zhou, Shun"}]
+  date: 2020
+  parent: {type: periodical, title: "Chin. Phys. C", volume: "44"}
+  page-range: "031001"
+  doi: "10.1088/1674-1137/44/3/031001"
+
+"Wolf:2008hf":
+  type: article
+  title: "The KATRIN Neutrino Mass Experiment"
+  author: [{name: "Wolf, J."}]
+  date: 2010
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "623"}
+  page-range: "442-444"
+  doi: "10.1016/j.nima.2010.03.030"
+
+"Esfahani:2017dmu":
+  type: article
+  title: "Determining the neutrino mass with cyclotron radiation emission spectroscopy—Project 8"
+  author: [{name: "Ashtari Esfahani, Ali and others"}]
+  date: 2017
+  parent: {type: periodical, title: "J. Phys. G", volume: "44"}
+  page-range: "054004"
+  doi: "10.1088/1361-6471/aa5b4f"
+
+"Dvorkin:2019jgs":
+  type: misc
+  title: "Neutrino Mass from Cosmology: Probing Physics Beyond the Standard Model"
+  author: [{name: "Dvorkin, Cora and others"}]
+  date: 2019
+  serial-number: "arXiv:1903.03689"
+
+"Choi:2015ara":
+  type: article
+  title: "Search for neutrinos from annihilation of captured low-mass dark matter particles in the Sun by Super-Kamiokande"
+  author: [{name: "Choi, K. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "114"}
+  page-range: "141301"
+  doi: "10.1103/PhysRevLett.114.141301"
+
+"Abe:2020sbr":
+  type: article
+  title: "Indirect Search for Dark Matter from the Galactic Center and Halo with the Super-Kamiokande Detector"
+  author: [{name: "Abe, K. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "102"}
+  page-range: "072002"
+  doi: "10.1103/PhysRevD.102.072002"
+
+"Aartsen:2016pfc":
+  type: article
+  title: "All-flavour Search for Neutrinos from Dark Matter Annihilations in the Milky Way with IceCube/DeepCore"
+  author: [{name: "Aartsen, M.G. and others"}]
+  date: 2016
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "76"}
+  page-range: "531"
+  doi: "10.1140/epjc/s10052-016-4375-3"
+
+"Aartsen:2020tdl":
+  type: misc
+  title: "Combined search for neutrinos from dark matter self-annihilation in the Galactic Centre with ANTARES and IceCube"
+  author: [{name: "Albert, A. and others"}]
+  date: 2020
+  serial-number: "arXiv:2003.06614"
+
+"Guo:2015hsy":
+  type: article
+  title: "Detecting electron neutrinos from solar dark matter annihilation by JUNO"
+  author: [{name: "Guo, Wan-Lei"}]
+  date: 2016
+  parent: {type: periodical, title: "JCAP", volume: "01"}
+  page-range: "039"
+  doi: "10.1088/1475-7516/2016/01/039"
+
+"Hawking:1971ei":
+  type: article
+  title: "Gravitationally collapsed objects of very low mass"
+  author: [{name: "Hawking, Stephen"}]
+  date: 1971
+  parent: {type: periodical, title: "Mon. Not. Roy. Astron. Soc.", volume: "152"}
+  page-range: "75"
+
+"Carr:1974nx":
+  type: article
+  title: "Black holes in the early Universe"
+  author: [{name: "Carr, Bernard J. and Hawking, S.W."}]
+  date: 1974
+  parent: {type: periodical, title: "Mon. Not. Roy. Astron. Soc.", volume: "168"}
+  page-range: "399-415"
+
+"Green:2020jor":
+  type: misc
+  title: "Primordial Black Holes as a dark matter candidate"
+  author: [{name: "Green, Anne M. and Kavanagh, Bradley J."}]
+  date: 2020
+  serial-number: "arXiv:2007.10722"
+
+"Hawking:1974sw":
+  type: article
+  title: "Particle Creation by Black Holes"
+  author: [{name: "Hawking, S.W."}]
+  date: 1975
+  parent: {type: periodical, title: "Commun. Math. Phys.", volume: "43"}
+  page-range: "199-220"
+  doi: "10.1007/BF02345020"
+
+"Dasgupta:2019cae":
+  type: article
+  title: "Neutrino and positron constraints on spinning primordial black hole dark matter"
+  author: [{name: "Dasgupta, Basudeb and Laha, Ranjan and Ray, Anupam"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "101101"
+  doi: "10.1103/PhysRevLett.125.101101"
+
+"Bays:2011si":
+  type: article
+  title: "Supernova Relic Neutrino Search at Super-Kamiokande"
+  author: [{name: "Bays, K. and others"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "85"}
+  page-range: "052007"
+  doi: "10.1103/PhysRevD.85.052007"
+
+"WangPBH":
+  type: misc
+  title: "Constraining the Primordial Black Holes as Dark Matter at JUNO"
+  author: [{name: "Wang, Sai and Xia, Dong-Mei and Zhang, Xukun and Zhou, Shun and Chang, Zhe"}]
+  date: 2020
+  serial-number: "arXiv:2010.16053"
+
+"Gariazzo:2015rra":
+  type: article
+  title: "Light sterile neutrinos"
+  author: [{name: "Gariazzo, S. and Giunti, C. and Laveder, M. and Li, Y.F. and Zavanin, E.M."}]
+  date: 2016
+  parent: {type: periodical, title: "J. Phys. G", volume: "43"}
+  page-range: "033001"
+  doi: "10.1088/0954-3899/43/3/033001"
+
+"Antusch:2006vwa":
+  type: article
+  title: "Unitarity of the Leptonic Mixing Matrix"
+  author: [{name: "Antusch, S. and Biggio, C. and Fernandez-Martinez, E. and Gavela, M.B. and Lopez-Pavon, J."}]
+  date: 2006
+  parent: {type: periodical, title: "JHEP", volume: "10"}
+  page-range: "084"
+  doi: "10.1088/1126-6708/2006/10/084"
+
+"Ohlsson:2012kf":
+  type: article
+  title: "Status of non-standard neutrino interactions"
+  author: [{name: "Ohlsson, Tommy"}]
+  date: 2013
+  parent: {type: periodical, title: "Rept. Prog. Phys.", volume: "76"}
+  page-range: "044201"
+  doi: "10.1088/0034-4885/76/4/044201"
+
+"Li:2018jgd":
+  type: article
+  title: "Indirect unitarity violation entangled with matter effects in reactor antineutrino oscillations"
+  author: [{name: "Li, Yu-Feng and Xing, Zhi-Zhong and Zhu, Jing-Yu"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "782"}
+  page-range: "578-588"
+  doi: "10.1016/j.physletb.2018.05.079"
+
+"Li:2014mlo":
+  type: article
+  title: "Shifts of neutrino oscillation parameters in reactor antineutrino experiments with non-standard interactions"
+  author: [{name: "Li, Yu-Feng and Zhou, Ye-Ling"}]
+  date: 2014
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "888"}
+  page-range: "137-153"
+  doi: "10.1016/j.nuclphysb.2014.09.013"
+
+"Li:2014rya":
+  type: article
+  title: "Tests of Lorentz and CPT Violation in the Medium Baseline Reactor Antineutrino Experiment"
+  author: [{name: "Li, Yu-Feng and Zhao, Zhen-Hua"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "90"}
+  page-range: "113014"
+  doi: "10.1103/PhysRevD.90.113014"
+
+"Li:2019snw":
+  type: article
+  title: "Sensitivity to neutrino-antineutrino transitions for boron neutrinos"
+  author: [{name: "Li, S.J. and Ling, J.J. and Raper, N. and Smirnov, M.V."}]
+  date: 2019
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "944"}
+  page-range: "114661"
+  doi: "10.1016/j.nuclphysb.2019.114661"
+
+"Tang:2020pkp":
+  type: article
+  title: "Constraining sterile neutrinos by core-collapse supernovae with multiple detectors"
+  author: [{name: "Tang, Jian and Wang, TseChun and Wu, Meng-Ru"}]
+  date: 2020
+  parent: {type: periodical, title: "JCAP", volume: "10"}
+  page-range: "038"
+  doi: "10.1088/1475-7516/2020/10/038"
+
+"Dirac:1931kp":
+  type: article
+  title: "Quantised singularities in the electromagnetic field,"
+  author: [{name: "Dirac, Paul Adrien Maurice"}]
+  date: 1931
+  parent: {type: periodical, title: "Proc. Roy. Soc. Lond. A", volume: "133"}
+  page-range: "60-72"
+  doi: "10.1098/rspa.1931.0130"
+
+"tHooft:1974kcl":
+  type: article
+  title: "Magnetic Monopoles in Unified Gauge Theories"
+  author: [{name: "'t Hooft, Gerard"}]
+  date: 1974
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "79"}
+  page-range: "276-284"
+  doi: "10.1016/0550-3213(74)90486-6"
+
+"Polyakov:1974ek":
+  type: article
+  title: "Particle Spectrum in the Quantum Field Theory"
+  author: [{name: "Polyakov, Alexander M."}]
+  date: 1974
+  parent: {type: periodical, title: "JETP Lett.", volume: "20"}
+  page-range: "194-195"
+
+"Ambrosio:2002qq":
+  type: article
+  title: "Final results of magnetic monopole searches with the MACRO experiment"
+  author: [{name: "Ambrosio, M. and others"}]
+  date: 2002
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "25"}
+  page-range: "511-522"
+  doi: "10.1140/epjc/s2002-01046-9"
+
+"Novoseltsev:2006mw":
+  type: article
+  title: "A search for massive magnetic monopoles at the Baksan Underground Scintillation Telescope (BUST)"
+  author: [{name: "Novoseltsev, Yu.F. and Boliev, M.M. and Butkevich, A.V. and Mikheev, S.P. and Petkov, V.B."}]
+  date: 2006
+  parent: {type: periodical, title: "Nucl. Phys. B Proc. Suppl.", volume: "151"}
+  page-range: "337-340"
+  doi: "10.1016/j.nuclphysbps.2005.07.048"
+
+"Thron:1992ri":
+  type: article
+  title: "A Search for magnetic monopoles with the SOUDAN-2 detector"
+  author: [{name: "Thron, J.L. and others"}]
+  date: 1992
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "46"}
+  page-range: "4846-4851"
+  doi: "10.1103/PhysRevD.46.4846"
+
+"Acero:2020isd":
+  type: misc
+  title: "Search for Slow Magnetic Monopoles with the NOvA Detector on the Surface"
+  author: [{name: "Acero, M.A. and others"}]
+  date: 2020
+  serial-number: "arXiv:2009.04867"
+
+"Coleman:1985ki":
+  type: article
+  title: "Q Balls"
+  author: [{name: "Coleman, Sidney R."}]
+  date: 1985
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "262"}
+  page-range: "263"
+  doi: "10.1016/0550-3213(86)90520-1"
+
+"Lee:1991ax":
+  type: article
+  title: "Nontopological solitons"
+  author: [{name: "Lee, T.D. and Pang, Y."}]
+  date: 1992
+  parent: {type: periodical, title: "Phys. Rept.", volume: "221"}
+  page-range: "251-350"
+  doi: "10.1016/0370-1573(92)90064-7"
+
+"Kusenko:1997si":
+  type: article
+  title: "Supersymmetric Q balls as dark matter"
+  author: [{name: "Kusenko, Alexander and Shaposhnikov, Mikhail E."}]
+  date: 1998
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "418"}
+  page-range: "46-54"
+  doi: "10.1016/S0370-2693(97)01375-0"
+
+"Takenaga:2006nr":
+  type: article
+  title: "Search for neutral Q-balls in super-Kamiokande II"
+  author: [{name: "Takenaga, Y. and others"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "647"}
+  page-range: "18-22"
+  doi: "10.1016/j.physletb.2007.01.047"
+
+"Arafune:2000yv":
+  type: article
+  title: "Experimental bounds on masses and fluxes of nontopological solitons"
+  author: [{name: "Arafune, J. and Yoshida, T. and Nakamura, S. and Ogure, K."}]
+  date: 2000
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "62"}
+  page-range: "105013"
+  doi: "10.1103/PhysRevD.62.105013"
+
+"Kasuya:2015uka":
+  type: article
+  title: "IceCube potential for detecting Q-ball dark matter in gauge mediation"
+  author: [{name: "Kasuya, Shinta and Kawasaki, Masahiro and Yanagida, Tsutomu T."}]
+  date: 2015
+  parent: {type: periodical, title: "PTEP", volume: "2015"}
+  serial-number: "053B02"
+  doi: "10.1093/ptep/ptv056"
+
+"Bodmer:1971we":
+  type: article
+  title: "Collapsed nuclei"
+  author: [{name: "Bodmer, A.R."}]
+  date: 1971
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "4"}
+  page-range: "1601-1606"
+  doi: "10.1103/PhysRevD.4.1601"
+
+"Witten:1984rs":
+  type: article
+  title: "Cosmic Separation of Phases"
+  author: [{name: "Witten, Edward"}]
+  date: 1984
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "30"}
+  page-range: "272-285"
+  doi: "10.1103/PhysRevD.30.272"
+
+"DeRujula:1984axn":
+  type: article
+  title: "Nuclearites: A Novel Form of Cosmic Radiation"
+  author: [{name: "De Rujula, A. and Glashow, S.L."}]
+  date: 1984
+  parent: {type: periodical, title: "Nature", volume: "312"}
+  page-range: "734-737"
+  doi: "10.1038/312734a0"
+
+"DeRujula:1984hs":
+  type: article
+  title: "Aborigines of the Nuclear Desert"
+  author: [{name: "De Rujula, A."}]
+  date: 1985
+  parent: {type: periodical, title: "Nucl. Phys. A", volume: "434"}
+  serial-number: "605C"
+  doi: "10.1016/0375-9474(85)90525-1"
+
+"Ahlen:1992mq":
+  type: article
+  title: "Search for nuclearites using the MACRO detector"
+  author: [{name: "Ahlen, S.P. and others"}]
+  date: 1992
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "69"}
+  page-range: "1860-1863"
+  doi: "10.1103/PhysRevLett.69.1860"
+
+"Cecchini:2008su":
+  type: article
+  title: "Results of the Search for Strange Quark Matter and Q-balls with the SLIM Experiment"
+  author: [{name: "Cecchini, S. and others"}]
+  date: 2008
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "57"}
+  page-range: "525-533"
+  doi: "10.1140/epjc/s10052-008-0747-7"
+
+"Orito:1990ny":
+  type: article
+  title: "Search for supermassive relics with 2000-m**2 array of plastic track detector"
+  author: [{name: "Orito, S. and others"}]
+  date: 1991
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "66"}
+  page-range: "1951-1954"
+  doi: "10.1103/PhysRevLett.66.1951"
+
+"Pavalas:2015nab":
+  type: article
+  title: "Search for nuclearites with the ANTARES neutrino telescope"
+  author: [{name: "Păvălaş, Gabriela Emilia"}]
+  date: 2016
+  parent: {type: periodical, title: "PoS", volume: "ICRC2015"}
+  page-range: "1060"
+  doi: "10.22323/1.236.1060"
+
+"Guo:2016kyj":
+  type: article
+  title: "Exploring detection of nuclearites in a large liquid scintillator neutrino detector"
+  author: [{name: "Guo, Wan-Lei and Xia, Cheng-Jun and Lin, Tao and Wang, Zhi-Min"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "95"}
+  page-range: "015010"
+  doi: "10.1103/PhysRevD.95.015010"
+
+"Li:2017zku":
+  type: article
+  title: "Design and Development of JUNO Event Data Model"
+  author: [{name: "Li, Teng and Xia, Xin and Huang, XingTao and Zou, JiaHeng and Li, WeiDong and lin, Tao and Zhang, Kun and Deng, ZiYan"}]
+  date: 2017
+  parent: {type: periodical, title: "Chin. Phys. C", volume: "41"}
+  page-range: "066201"
+  doi: "10.1088/1674-1137/41/6/066201"
+
+"Li:2016psi":
+  type: article
+  title: "A new type of smart pointer for data object reference both in memory and in root files"
+  author: [{name: "Li, T. and Huang, X.T."}]
+  date: 2016
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "762"}
+  page-range: "012001"
+  doi: "10.1088/1742-6596/762/1/012001"
+
+"10-5555-1461409":
+  type: article
+  title: "Intel Threading Building Blocks"
+  author: [{name: "Reinders, James"}]
+  date: 2007
+
+"Li:2018fny":
+  type: article
+  title: "GDML based geometry management system for offline software in JUNO"
+  author: [{name: "Li, Kaijie and You, Zhengyun and Zhang, Yumei and Zhu, Jiang and Lin, Tao and Deng, Ziyan and Li, Weidong"}]
+  date: 2018
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "908"}
+  page-range: "43-48"
+  doi: "10.1016/j.nima.2018.08.008"
+
+"Zhu:2018vjj":
+  type: article
+  title: "Event Display in the JUNO Experiment"
+  author: [{name: "Zhu, Jiang and You, Zhengyun and Zhang, Yumei"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "1085"}
+  page-range: "032038"
+  doi: "10.1088/1742-6596/1085/3/032038"
+
+"zhu2019method":
+  type: article
+  title: "A method of detector and event visualization with Unity in JUNO"
+  author: [{name: "Zhu, Jiang and You, Zhengyun and Zhang, Yumei and Li, Ziyuan and Zhang, Shu and Lin, Tao and Li, Weidong"}]
+  date: 2019
+  parent: {type: periodical, title: "JINST", volume: "14"}
+  serial-number: "T01007"
+
+"you2018root":
+  type: article
+  title: "A ROOT based event display software for JUNO"
+  author: [{name: "You, Zhengyun and Li, Kaijie and Zhang, Yumei and Zhu, Jiang and Lin, Tao and Li, Weidong"}]
+  date: 2018
+  parent: {type: periodical, title: "JINST", volume: "13"}
+  serial-number: "T02002"
+
+"Antonioli:1997qw":
+  type: article
+  title: "A Three-dimensional code for muon propagation through the rock: Music"
+  author: [{name: "Antonioli, P. and Ghetti, C. and Korolkova, E.V. and Kudryavtsev, V.A. and Sartorelli, G."}]
+  date: 1997
+  parent: {type: periodical, title: "Astropart. Phys.", volume: "7"}
+  page-range: "357-368"
+  doi: "10.1016/S0927-6505(97)00035-2"
+
+"Li:2015cqa":
+  type: article
+  title: "Simulation of natural radioactivity backgrounds in the JUNO central detector"
+  author: [{name: "Li, Xinying and Deng, Ziyan and Wen, Liangjian and Li, Weidong and You, Zhengyun and Yu, Chunxu and Zhang, Yumei and Lin, Tao"}]
+  date: 2016
+  parent: {type: periodical, title: "Chin. Phys. C", volume: "40"}
+  page-range: "026001"
+  doi: "10.1088/1674-1137/40/2/026001"
+
+"Lin:2017usg":
+  type: article
+  title: "The Application of SNiPER to the JUNO Simulation"
+  author: [{name: "Lin, Tao and Zou, Jiaheng and Li, Weidong and Deng, Ziyan and Fang, Xiao and Cao, Guofu and Huang, Xingtao and You, Zhengyun"}]
+  date: 2017
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "898"}
+  page-range: "042029"
+  doi: "10.1088/1742-6596/898/4/042029"
+
+"Lin:2017yxy":
+  type: article
+  title: "Parallelized JUNO simulation software based on SNiPER"
+  author: [{name: "Lin, Tao and Zou, Jiaheng and Li, Weidong and Deng, Ziyan and Cao, Guofu and Huang, Xingtao and You, Zhengyun"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "1085"}
+  page-range: "032048"
+  doi: "10.1088/1742-6596/1085/3/032048"
+
+"Lin:2016vua":
+  type: article
+  title: "Fast Muon Simulation in the JUNO Central Detector"
+  author: [{name: "Lin, Tao and Deng, Zi-Yan and Li, Wei-Dong and Cao, Guo-Fu and You, Zheng-Yun and Li, Xin-Ying"}]
+  date: 2016
+  parent: {type: periodical, title: "Chin. Phys. C", volume: "40"}
+  page-range: "086201"
+  doi: "10.1088/1674-1137/40/8/086201"
+
+"SimonC:2017hge":
+  type: article
+  title: "Opticks : GPU Optical Photon Simulation for Particle Physics using NVIDIA® OptiX™"
+  author: [{name: "Simon C, Blyth"}]
+  date: 2017
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "898"}
+  page-range: "042001"
+  doi: "10.1088/1742-6596/898/4/042001"
+
+"Blyth:2019yrd":
+  type: article
+  title: "Opticks : GPU Optical Photon Simulation for Particle Physics using NVIDIA® OptiXTM"
+  author: [{name: "Blyth, Simon"}]
+  date: 2019
+  parent: {type: periodical, title: "EPJ Web Conf.", volume: "214"}
+  page-range: "02027"
+  doi: "10.1051/epjconf/201921402027"
+
+"Wu:2018zwk":
+  type: article
+  title: "A new method of energy reconstruction for large spherical liquid scintillator detectors"
+  author: [{name: "Wu, Wenjie and He, Miao and Zhou, Xiang and Qiao, Haoxue"}]
+  date: 2019
+  parent: {type: periodical, title: "JINST", volume: "14"}
+  serial-number: "P03009"
+  doi: "10.1088/1748-0221/14/03/P03009"
+
+"Liu:2018fpq":
+  type: article
+  title: "A vertex reconstruction algorithm in the central detector of JUNO"
+  author: [{name: "Liu, Qin and He, Miao and Ding, Xuefeng and Li, Weidong and Peng, Haiping"}]
+  date: 2018
+  parent: {type: periodical, title: "JINST", volume: "13"}
+  serial-number: "T09005"
+  doi: "10.1088/1748-0221/13/09/T09005"
+
+"Li:2021oos":
+  type: misc
+  title: "Event vertex and time reconstruction in large volume liquid scintillator detector"
+  author: [{name: "Li, Ziyuan and others"}]
+  date: 2021
+  serial-number: "arXiv:2101.08901"
+
+"Huang:2021baf":
+  type: misc
+  title: "Improving the energy uniformity for large liquid scintillator detectors"
+  author: [{name: "Huang, Guihong and others"}]
+  date: 2021
+  serial-number: "arXiv:2102.03736"
+  doi: "10.1016/j.nima.2021.165287"
+
+"Qian:2021vnh":
+  type: misc
+  title: "Vertex and Energy Reconstruction in JUNO with Machine Learning Methods"
+  author: [{name: "Qian, Zhen and others"}]
+  date: 2021
+  serial-number: "arXiv:2101.04839"
+
+"Zhang:2018kag":
+  type: misc
+  title: "Muon Tracking with the fastest light in the JUNO Central Detector"
+  author: [{name: "Zhang, Kun and He, Miao and Li, Weidong and Xu, Jilei"}]
+  date: 2018
+  serial-number: "arXiv:1803.10407"
+  doi: "10.1007/s41605-018-0040-8"
+
+"Tsaregorodtsev:2008zz":
+  type: article
+  title: "DIRAC: A community grid solution"
+  author: [{name: "Tsaregorodtsev, A. and others"}]
+  date: 2008
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "119"}
+  page-range: "062048"
+  doi: "10.1088/1742-6596/119/6/062048"
+
+"Zhang:2019kal":
+  type: article
+  title: "Multicore workload scheduling in JUNO[1]"
+  author: [{name: "Zhang, Xiaomei and Li, Kang and Zhao, Xiang Hu and Yan, Tian and Sun, Yong"}]
+  date: 2019
+  parent: {type: periodical, title: "EPJ Web Conf.", volume: "214"}
+  page-range: "03048"
+  doi: "10.1051/epjconf/201921403048"
+
+"Huang:2020gpj":
+  type: article
+  title: "Development of the JUNO Conditions Data Management System"
+  author: [{name: "Huang, Xingtao"}]
+  date: 2020
+  parent: {type: periodical, title: "EPJ Web Conf.", volume: "245"}
+  page-range: "04030"
+  doi: "10.1051/epjconf/202024504030"
+
+"Dykstra:2011zz":
+  type: article
+  title: "Scaling HEP to Web size with RESTful protocols: The frontier example"
+  author: [{name: "Dykstra, Dave"}]
+  date: 2011
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "331"}
+  page-range: "042008"
+  doi: "10.1088/1742-6596/331/4/042008"
+
+"Buncic:2010zz":
+  type: article
+  title: "CernVM: A virtual software appliance for LHC applications"
+  author: [{name: "Buncic, P. and Aguado Sanchez, C. and Blomer, J. and Franco, L. and Harutyunian, A. and Mato, P. and Yao, Y."}]
+  date: 2010
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "219"}
+  page-range: "042003"
+  doi: "10.1088/1742-6596/219/4/042003"
+
+"Martelli:2015mkr":
+  type: article
+  title: "LHCOPN and LHCONE: Status and Future Evolution"
+  author: [{name: "Martelli, E. and Stancu, S."}]
+  date: 2015
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "664"}
+  page-range: "052025"
+  doi: "10.1088/1742-6596/664/5/052025"
+
+"Bonacorsi:2006zz":
+  type: article
+  title: "WLCG service challenges and tiered architecture in the LHC era"
+  author: [{name: "Bonacorsi, Daniele and Ferrari, Tiziana"}]
+  date: 2007
+  parent: {type: proceedings, title: "18th Conference on High Energy Physics"}
+  page-range: "365-368"
+  doi: "10.1007/978-88-470-0530-3_68"
+
+"bib:juno:bxscheme":
+  type: article
+  title: "Embedded readout electronics R&D for the large PMTs in the JUNO experiment"
+  author: [{name: "Bellato, A and others"}]
+  date: 2021
+  parent: {type: periodical, title: "Nucl. Instr. Meth.", volume: "A986"}
+  page-range: "164600"
+  doi: "10.1016/j.nima.2020.164600"
+
+"bib:elec:ipbus":
+  type: article
+  title: "IPbus: a flexible Ethernet-based control system for xTCA hardware"
+  author: [{name: "Ghabrous Larrea, C. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "JINST.", volume: "10"}
+  serial-number: "C02019"
+  doi: "10.1088/1748-0221/10/02/C02019"
+
+"Lombardi:2019epz":
+  type: article
+  title: "Distillation and stripping pilot plants for the JUNO neutrino detector: Design, operations and reliability"
+  author: [{name: "Lombardi, P. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "925"}
+  page-range: "6-17"
+  doi: "10.1016/j.nima.2019.01.071"
+
+"Collaboration:2011jza":
+  type: article
+  title: "A study of extraterrestrial antineutrino sources with the KamLAND detector"
+  author: [{name: "Gando, A. and others"}]
+  date: 2012
+  parent: {type: periodical, title: "Astrophys. J.", volume: "745"}
+  page-range: "193"
+  doi: "10.1088/0004-637X/745/2/193"
+
+"Cheng:2020aaw":
+  type: misc
+  title: "Neutral-current background induced by atmospheric neutrinos at large liquid-scintillator detectors: I. model predictions"
+  author: [{name: "Cheng, Jie and Li, Yu-Feng and Wen, Liang-Jian and Zhou, Shun"}]
+  date: 2020
+  serial-number: "arXiv:2008.04633"
+
+"Cheng:2020oko":
+  type: misc
+  title: "Neutral-current background induced by atmospheric neutrinos at large liquid-scintillator detectors:II. in situ measurement"
+  author: [{name: "Cheng, Jie and Li, Yu-Feng and Lu, Hao-Qi and Wen, Liang-Jian"}]
+  date: 2020
+  serial-number: "arXiv:2009.04085"
+
+"Mollenberg:2014pwa":
+  type: article
+  title: "Detecting the Diffuse Supernova Neutrino Background with LENA"
+  author: [{name: "Möllenberg, R. and von Feilitzsch, Franz and Hellgartner, Dominikus and Oberauer, Lothar and Tippmann, Marc and Zimmer, Vincenz and Winter, Jürgen and Wurm, Michael"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "91"}
+  page-range: "032005"
+  doi: "10.1103/PhysRevD.91.032005"
+
+"Sisti:2020jie":
+  type: article
+  title: "Physics prospects of the JUNO experiment"
+  author: [{name: "Sisti, Monica"}]
+  date: 2020
+  parent: {type: periodical, title: "J. Phys. Conf. Ser.", volume: "1468"}
+  page-range: "012150"
+  doi: "10.1088/1742-6596/1468/1/012150"
+
+"Strumia:2003zx":
+  type: article
+  title: "Precise quasielastic neutrino/nucleon cross-section"
+  author: [{name: "Strumia, Alessandro and Vissani, Francesco"}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B564"}
+  page-range: "42-54"
+
+"Ando:2004hc":
+  type: article
+  title: "Relic neutrino background from cosmological supernovae"
+  author: [{name: "Ando, Shin'ichiro and Sato, Katsuhiko"}]
+  date: 2004
+  parent: {type: periodical, title: "New J. Phys.", volume: "6"}
+  page-range: "170"
+
+"Beacom:2010kk":
+  type: article
+  title: "The Diffuse Supernova Neutrino Background"
+  author: [{name: "Beacom, John F."}]
+  date: 2010
+  parent: {type: periodical, title: "Ann. Rev. Nucl. Part. Sci.", volume: "60"}
+  page-range: "439-462"
+
+"Kresse:2020":
+  type: misc
+  title: "Stellar Collapse Diversity and the Diffuse Supernova Neutrino Background"
+  author: [{name: "Daniel Kresse and Thomas Ertl and Hans-Thomas Janka"}]
+  date: 2020
+  serial-number: "arXiv:2010.04728"
+
+"Abusleme:2020lur":
+  type: article
+  title: "Calibration Strategy of the JUNO Experiment"
+  author: [{name: "Abusleme, Angel and others"}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+  page-range: "004"
+  doi: "10.1007/JHEP03(2021)004"
+
+"Liu:2015hwa":
+  type: article
+  title: "Rayleigh scattering and depolarization ratio in linear alkylbenzene"
+  author: [{name: "Liu, Q. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "795"}
+  page-range: "284"
+  doi: ""
+
+"Agostini:2020mfq":
+  type: article
+  title: "Experimental evidence of neutrinos produced in the CNO fusion cycle in the Sun"
+  author: [{name: "Agostini, M. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature", volume: "587"}
+  page-range: "577-582"
+  doi: "10.1038/s41586-020-2934-0"
+
+"Antonelli:2018fbv":
+  type: article
+  title: "Neutrino oscillations and Lorentz Invariance Violation in a Finslerian Geometrical model"
+  author: [{name: "Antonelli, Vito and Miramonti, L. and Torri, M.D.C."}]
+  date: 2018
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "78"}
+  page-range: "667"
+  doi: "10.1140/epjc/s10052-018-6124-2"
+
+"Antonelli:2020uui":
+  type: article
+  title: "Present and Future Contributions of Reactor Experiments to Mass Ordering and Neutrino Oscillation Studies"
+  author: [{name: "Antonelli, Vito and Miramonti, Lino and Ranucci, Gioacchino"}]
+  date: 2020
+  parent: {type: periodical, title: "Universe", volume: "6"}
+  page-range: "52"
+  doi: "10.3390/universe6040052"
+
+"Cao:2021wrq":
+  type: misc
+  title: "Mass production and characterization of 3-inch PMTs for the JUNO experiment"
+  author: [{name: "Cao, Chuanya and others"}]
+  date: 2021
+  serial-number: "arXiv:2102.11538"
+
+"Conforti:2020ibx":
+  type: misc
+  title: "CATIROC: an integrated chip for neutrino experiments using photomultiplier tubes"
+  author: [{name: "Conforti, Selma and others"}]
+  date: 2020
+  serial-number: "arXiv:2012.01565"
+
+"DUNE_TDR_vol2":
+  type: misc
+  title: "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume II DUNE Physics"
+  author: [{name: "Abi, Babak and others"}]
+  date: 2020
+  serial-number: "arXiv:2002.03005"
+
+"yellowbook":
+  type: article
+  title: "Neutrino Physics with JUNO"
+  author: [{name: "An, Fengpeng and others"}]
+  date: 2016
+  parent: {type: periodical, title: "J. Phys.", volume: "G43"}
+  page-range: "030401"
+  doi: "10.1088/0954-3899/43/3/030401"
+
+"Acero:2019ksn":
+  type: article
+  title: "First Measurement of Neutrino Oscillation Parameters using Neutrinos and Antineutrinos by NOvA"
+  author: [{name: "Acero, M.A. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "151803"
+  doi: "10.1103/PhysRevLett.123.151803"
+
+"Abe:2018wpn":
+  type: article
+  title: "Search for CP Violation in Neutrino and Antineutrino Oscillations by the T2K Experiment with 2.2×10²¹ Protons on Target"
+  author: [{name: "Abe, K. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "171802"
+  doi: "10.1103/PhysRevLett.121.171802"
+
+"Forero:2017vrg":
+  type: misc
+  title: "The benefits of a near detector for JUNO"
+  author: [{name: "Forero, David V. and Hawkins, Rebekah and Huber, Patrick"}]
+  serial-number: "arXiv:1710.07378"
+
+"Wen:PMTSelections":
+  type: article
+  title: "A quantitative approach to select PMTs for large detectors"
+  author: [{name: "Wen, Liang-Jian and He, Miao and Wang, Yi-Fang and Cao, Jun and Liu, Shu-Lin and Heng, Yue-Kun and Qin, Zhong-Hua"}]
+  date: 2019
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "947"}
+  page-range: "162766"
+  doi: "10.1016/j.nima.2019.162766"
+
+"EPICS":
+  type: article
+  title: ""
+
+"Wonsak:2021uum":
+  type: misc
+  title: "A container-based facility for testing 20'000 20-inch PMTs for JUNO"
+  author: [{name: "Wonsak, Björn and others"}]
+  date: 2021
+  serial-number: "arXiv:2103.10193"
+
+"Zhang:2017ocm":
+  type: article
+  title: "Study on the large area MCP-PMT glass radioactivity reduction"
+  author: [{name: "Zhang, Xuantong and Zhao, Jie and Liu, Shulin and Niu, Shunli and Han, Xiaoming and Wen, Liangjian and He, Jincheng and Hu, Tao"}]
+  date: 2018
+  parent: {type: periodical, title: "Nucl. Instrum. Meth. A", volume: "898"}
+  page-range: "67-71"
+  doi: "10.1016/j.nima.2018.05.008"
+
+"Cao:2020zyr":
+  type: misc
+  title: "A practical approach of high precision U and Th concentration measurement in acrylic"
+  author: [{name: "Cao, Chuanya and Li, Nan and Yang, Xiaoyu and Zhao, Jie and Li, Yuanxia and Cai, Zhiyan and Wen, Liangjian and Luo, Xiaolan and Heng, Yuekun and Ding, Yayun"}]
+  date: 2020
+  serial-number: "arXiv:2011.06817"
+
+"radon":
+  type: article
+  title: "A model for calculating atmospheric radon concentration"
+  author: [{name: "L. Zhang and G. Q. J."}]
+  date: 2006
+  parent: {type: periodical, title: "Radiation Protection", volume: "26"}
+  page-range: "341-346"

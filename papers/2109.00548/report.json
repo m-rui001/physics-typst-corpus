@@ -1,0 +1,12 @@
+{
+ "paper": "2109.00548",
+ "tikz": 0,
+ "bib": false,
+ "last_errors": "error: unclosed delimiter\n     \u250c\u2500 \\\\?\\E:\\phys\\papers\\2109.00548\\main.typ:1220:9\n     \u2502\n1220 \u2502  equation* \n     \u2502          ^\n\n",
+ "salvaged": false,
+ "compiled": false,
+ "latexblock": {
+  "before": 0,
+  "after": 0
+ }
+}

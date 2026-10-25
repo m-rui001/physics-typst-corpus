@@ -1,0 +1,25 @@
+\begin{tikzpicture}
+\node[shape=circle,draw=black,fill=gray!5] (1) at (0,2) {1}; 
+\node[shape=circle,draw=black,fill=gray!5] (2) at (1,2) {2};
+\node[shape=circle,draw=black,fill=gray!5] (3) at (2,2) {3};
+\node[shape=circle,draw=black,fill=gray!5] (6) at (0,1) {6};
+\node[shape=circle,draw=black,fill=gray!5] (5) at (1,1) {5};
+\node[shape=circle,draw=black,fill=gray!5] (4) at (2,1) {4};
+\node[shape=circle,draw=black,fill=gray!5] (7) at (0,0) {7};
+\node[shape=circle,draw=black,fill=gray!5] (8) at (1,0) {8};
+\node[shape=circle,draw=black,fill=gray!5] (9) at (2,0) {9}; 
+
+\path [->] (1) edge[color=red,thick] (2);
+\path [->] (2) edge[color=red,thick] (3);
+\path [->] (3) edge[color=red,thick] (4);
+\path [->] (4) edge[color=red,thick] (5);
+\path [->] (5) edge[color=red,thick] (6);
+\path [->] (6) edge[color=red,thick] (7);
+\path [->] (7) edge[color=red,thick] (8);
+\path [->] (8) edge[color=red,thick] (9);
+\path [-] (1) edge[color=black,dotted] (6);
+\path [-] (2) edge[color=black,dotted] (5);
+\path [-] (5) edge[color=black,dotted] (8);
+\path [-] (4) edge[color=black,dotted] (9);
+
+\end{tikzpicture}

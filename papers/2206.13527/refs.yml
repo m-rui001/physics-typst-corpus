@@ -1,0 +1,558 @@
+"Raussendorf_2001_ghz":
+  type: article
+  title: "Persistent entanglement in arrays of interacting particles"
+  author: [{name: "H. J. Briegel"}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. Lett", volume: "86"}
+  page-range: "910"
+  doi: "10.1103/PhysRevLett.86.910"
+
+"3d_cluster_state_2005":
+  type: article
+  title: "Long-range quantum entanglement in noisy cluster states"
+  author: [{name: "R. Raussendorf"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "71"}
+  page-range: "062313"
+  doi: "10.1103/PhysRevA.71.062313"
+
+"cirac_2008_optical":
+  type: article
+  title: "Creation, manipulation, and detection of abelian and non-abelian anyons in optical lattices"
+  author: [{name: "M. Aguado"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett", volume: "101"}
+  page-range: "260501"
+  doi: "10.1103/PhysRevLett.101.260501"
+
+"cirac_2021_locc":
+  type: article
+  title: "Quantum circuits assisted by local operations and classical communication: Transformations and phases of matter"
+  author: [{name: "L. Piroli"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett", volume: "127"}
+  page-range: "220503"
+  doi: "10.1103/PhysRevLett.127.220503"
+
+"spt_1d_2011":
+  type: article
+  title: "Classification of gapped symmetric phases in one-dimensional spin systems"
+  author: [{name: "X. Chen"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "83"}
+  page-range: "035107"
+  doi: "10.1103/PhysRevB.83.035107"
+
+"spt_2011":
+  type: article
+  title: "Complete classification of one-dimensional gapped quantum phases in interacting spin systems"
+  author: [{name: "X. Chen"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "84"}
+  page-range: "235128"
+  doi: "10.1103/PhysRevB.84.235128"
+
+"ashvin_2021_measurement":
+  type: misc
+  title: "Long-range entanglement from measuring symmetry-protected topological phases"
+  author: [{name: "N. Tantivasadakarn"}]
+  date: 2021
+  serial-number: "arXiv:2112.01519"
+
+"verresen2021_measurement_cold_atom":
+  type: misc
+  title: "Efficiently preparing ghz, topological and fracton states by measuring cold atoms"
+  author: [{name: "R. Verresen"}]
+  date: 2021
+  serial-number: "arXiv:2112.03061"
+
+"kitaev2003fault":
+  type: article
+  title: "Fault-tolerant quantum computation by anyons"
+  author: [{name: "A. Kitaev"}]
+  date: 2003
+  parent: {type: periodical, title: "Annals of Physics", volume: "303"}
+  page-range: "2"
+  doi: "https://doi.org/10.1016/S0003-4916(02)00018-0"
+
+"Chen2021":
+  type: article
+  title: "Exponential suppression of bit or phase errors with cyclic error correction"
+  author: [{name: "Z. Chen"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "595"}
+  page-range: "383"
+  doi: "10.1038/s41586-021-03588-y"
+
+"Ryan-Anderson2021":
+  type: article
+  title: "Realization of real-time fault-tolerant quantum error correction"
+  author: [{name: "C. Ryan-Anderson"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "11"}
+  page-range: "041058"
+  doi: "10.1103/PhysRevX.11.041058"
+
+"fisher_2018_mit":
+  type: article
+  title: "Quantum zeno effect and the many-body entanglement transition"
+  author: [{name: "Y. Li"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "205136"
+  doi: "10.1103/PhysRevB.98.205136"
+
+"amos_mit_2019":
+  type: article
+  title: "Unitary-projective entanglement dynamics"
+  author: [{name: "A. Chan"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  page-range: "224307"
+  doi: "10.1103/PhysRevB.99.224307"
+
+"nahum_mit_2019":
+  type: article
+  title: "Measurement-induced phase transitions in the dynamics of entanglement"
+  author: [{name: "B. Skinner"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "9"}
+  page-range: "031009"
+  doi: "10.1103/PhysRevX.9.031009"
+
+"cirac_2021_tn_review":
+  type: article
+  title: "Matrix product states and projected entangled pair states: Concepts, symmetries, theorems"
+  author: [{name: "J. I. Cirac"}]
+  date: 2021
+  parent: {type: periodical, title: "Rev. Mod. Phys", volume: "93"}
+  page-range: "045003"
+  doi: "10.1103/RevModPhys.93.045003"
+
+"wen_string_net2005":
+  type: article
+  title: "String-net condensation: A physical mechanism for topological phases"
+  author: [{name: "M. A. Levin"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "71"}
+  page-range: "045110"
+  doi: "10.1103/PhysRevB.71.045110"
+
+"fusion_based_2021":
+  type: misc
+  title: "Fusion-based quantum computation"
+  author: [{name: "S. Bartolucci"}]
+  date: 2021
+  serial-number: "arXiv:2101.09310"
+
+"cao_lego_2021":
+  type: misc
+  title: "Quantum lego: Building quantum error correction codes from tensor networks"
+  author: [{name: "C. Cao"}]
+  date: 2021
+  serial-number: "arXiv:2109.08158"
+
+"vidal_2007_mera":
+  type: article
+  title: "Entanglement renormalization"
+  author: [{name: "G. Vidal"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. Lett", volume: "99"}
+  page-range: "220405"
+  doi: "10.1103/PhysRevLett.99.220405"
+
+"vidal_2008_mera":
+  type: article
+  title: "Class of quantum many-body states that can be efficiently simulated"
+  author: [{name: "G. Vidal"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett", volume: "101"}
+  page-range: "110501"
+  doi: "10.1103/PhysRevLett.101.110501"
+
+"wilczek_1994":
+  type: article
+  title: "Geometric and renormalized entropy in conformal field theory"
+  author: [{name: "C. Holzhey"}]
+  date: 1994
+  parent: {type: periodical, title: "Nuclear Physics B", volume: "424"}
+  page-range: "443"
+  doi: "https://doi.org/10.1016/0550-3213(94)90402-2"
+
+"kitave_2003_entanglement":
+  type: article
+  title: "Entanglement in quantum critical phenomena"
+  author: [{name: "G. Vidal"}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. Lett", volume: "90"}
+  page-range: "227902"
+  doi: "10.1103/PhysRevLett.90.227902"
+
+"vidal_2004_entanglement":
+  type: article
+  title: "Ground state entanglement in quantum spin chains"
+  author: [{name: "J. I. Latorre"}]
+  date: 2004
+  parent: {type: periodical, title: "Quantum Info. Comput", volume: "4"}
+  serial-number: "48–92"
+
+"calabrese_2004":
+  type: article
+  title: "Entanglement entropy and quantum field theory"
+  author: [{name: "P. Calabrese"}]
+  date: 2004
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2004"}
+  serial-number: "P06002"
+  doi: "10.1088/1742-5468/2004/06/p06002"
+
+"cardy_2009_cft":
+  type: article
+  title: "Entanglement entropy and conformal field theory"
+  author: [{name: "P. Calabrese"}]
+  date: 2009
+  parent: {type: periodical, title: "Journal of Physics A: Mathematical and Theoretical", volume: "42"}
+  page-range: "504005"
+  doi: "10.1088/1751-8113/42/50/504005"
+
+"wen2004quantum":
+  type: article
+  title: "Quantum field theory of many-body systems: from the origin of sound to an origin of light and electrons"
+  author: [{name: "X.-G. Wen"}]
+  date: 2004
+  parent: {type: periodical, title: "OUP Oxford"}
+
+"kitaev_2006":
+  type: article
+  title: "Anyons in an exactly solved model and beyond"
+  author: [{name: "A. Kitaev"}]
+  date: 2006
+  parent: {type: periodical, title: "Annals of Physics", volume: "321"}
+  page-range: "2"
+  doi: "https://doi.org/10.1016/j.aop.2005.10.005"
+
+"dwSPT":
+  type: article
+  title: "Symmetry-protected topological phases from decorated domain walls"
+  author: [{name: "X. Chen"}]
+  date: 2014
+  parent: {type: periodical, title: "Nature Communications", volume: "5"}
+  page-range: "3507"
+  doi: "10.1038/ncomms4507"
+
+"erez_2022_duality":
+  type: article
+  title: "Duality as a feasible physical transformation for quantum simulation"
+  author: [{name: "S. Ashkenazi"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "105"}
+  page-range: "022431"
+  doi: "10.1103/PhysRevA.105.022431"
+
+"css_Steane":
+  type: article
+  title: "Error correcting codes in quantum theory"
+  author: [{name: "A. M. Steane"}]
+  date: 1996
+  parent: {type: periodical, title: "Phys. Rev. Lett", volume: "77"}
+  page-range: "793"
+  doi: "10.1103/PhysRevLett.77.793"
+
+"css_Shor":
+  type: article
+  title: "Good quantum error-correcting codes exist"
+  author: [{name: "A. R. Calderbank"}]
+  date: 1996
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "54"}
+  page-range: "1098"
+  doi: "10.1103/PhysRevA.54.1098"
+
+"stace_2016_css":
+  type: article
+  title: "Foliated quantum error-correcting codes"
+  author: [{name: "A. Bolt"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett", volume: "117"}
+  page-range: "070501"
+  doi: "10.1103/PhysRevLett.117.070501"
+
+"niko_2021_ldpc_review":
+  type: article
+  title: "Quantum low-density parity-check codes"
+  author: [{name: "N. P. Breuckmann"}]
+  date: 2021
+  parent: {type: periodical, title: "PRX Quantum", volume: "2"}
+  page-range: "040101"
+  doi: "10.1103/PRXQuantum.2.040101"
+
+"wang_2019_set":
+  type: article
+  title: "Symmetry fractionalization, defects, and gauging of topological phases"
+  author: [{name: "M. Barkeshli"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "100"}
+  page-range: "115147"
+  doi: "10.1103/PhysRevB.100.115147"
+
+"wen_tnrg_2008":
+  type: article
+  title: "Tensor-entanglement renormalization group approach as a unified method for symmetry breaking and topological phase transitions"
+  author: [{name: "Z.-C. Gu"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "78"}
+  page-range: "205116"
+  doi: "10.1103/PhysRevB.78.205116"
+
+"tn_string_net_wen_2009":
+  type: article
+  title: "Tensor-product representations for string-net condensed states"
+  author: [{name: "Z.-C. Gu"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "79"}
+  page-range: "085118"
+  doi: "10.1103/PhysRevB.79.085118"
+
+"color_model_castelnovo_2018":
+  type: article
+  title: "Color-dependent interactions in the three coloring model"
+  author: [{name: "P. C. Verpoort"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "024403"
+  doi: "10.1103/PhysRevB.98.024403"
+
+"wen_tn_symmetry_2010":
+  type: article
+  title: "Tensor product representation of a topological ordered phase: Necessary symmetry conditions"
+  author: [{name: "X. Chen"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "82"}
+  page-range: "165119"
+  doi: "10.1103/PhysRevB.82.165119"
+
+"twisted_qd_2013_Wu":
+  type: article
+  title: "Twisted quantum double model of topological phases in two dimensions"
+  author: [{name: "Y. Hu"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "87"}
+  page-range: "125114"
+  doi: "10.1103/PhysRevB.87.125114"
+
+"fracton_review_2019_hermele":
+  type: article
+  title: "Fractons"
+  author: [{name: "R. M. Nandkishore"}]
+  date: 2019
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "10"}
+  page-range: "295"
+  doi: "10.1146/annurev-conmatphys-031218-013604"
+
+"you_2020_fracton":
+  type: article
+  title: "Fracton phases of matter"
+  author: [{name: "M. Pretko"}]
+  date: 2020
+  parent: {type: periodical, title: "International Journal of Modern Physics A", volume: "35"}
+  page-range: "2030003"
+  doi: "10.1142/S0217751X20300033"
+
+"xcube_Chamon_2010":
+  type: article
+  title: "Quantum mechanical and information theoretic view on classical glass transitions"
+  author: [{name: "C. Castelnovo"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "81"}
+  page-range: "184303"
+  doi: "10.1103/PhysRevB.81.184303"
+
+"xcube":
+  type: article
+  title: "Fracton topological order, generalized lattice gauge theory, and duality"
+  author: [{name: "S. Vijay"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "94"}
+  page-range: "235157"
+  doi: "10.1103/PhysRevB.94.235157"
+
+"wootters_1993_teleport":
+  type: article
+  title: "Teleporting an unknown quantum state via dual classical and einstein-podolsky-rosen channels"
+  author: [{name: "C. H. Bennett"}]
+  date: 1993
+  parent: {type: periodical, title: "Phys. Rev. Lett", volume: "70"}
+  page-range: "1895"
+  doi: "10.1103/PhysRevLett.70.1895"
+
+"white_2016_wavelet":
+  type: article
+  title: "Entanglement renormalization and wavelets"
+  author: [{name: "G. Evenbly"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett", volume: "116"}
+  page-range: "140403"
+  doi: "10.1103/PhysRevLett.116.140403"
+
+"Haegeman2018":
+  type: article
+  title: "Rigorous free-fermion entanglement renormalization from wavelet theory"
+  author: [{name: "J. Haegeman"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "8"}
+  page-range: "011003"
+  doi: "10.1103/PhysRevX.8.011003"
+
+"vidal_2008_mera_to":
+  type: article
+  title: "Entanglement renormalization and topological order"
+  author: [{name: "M. Aguado"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett", volume: "100"}
+  page-range: "070404"
+  doi: "10.1103/PhysRevLett.100.070404"
+
+"bravyi_2022_adaptive":
+  type: misc
+  title: "Adaptive constant-depth circuits for manipulating non-abelian anyons"
+  author: [{name: "S. Bravyi"}]
+  date: 2022
+  serial-number: "arXiv:2205.01933"
+
+"vidal_2009_mera_string_net":
+  type: article
+  title: "Exact entanglement renormalization for string-net models"
+  author: [{name: "R. K\\\"onig"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "79"}
+  page-range: "195123"
+  doi: "10.1103/PhysRevB.79.195123"
+
+"Read_pwave_2000":
+  type: article
+  title: "Paired states of fermions in two dimensions with breaking of parity and time-reversal symmetries and the fractional quantum hall effect"
+  author: [{name: "N. Read"}]
+  date: 2000
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "61"}
+  page-range: "10267"
+  doi: "10.1103/PhysRevB.61.10267"
+
+"pwave_2001_Ivanov":
+  type: article
+  title: "Non-abelian statistics of half-quantum vortices in $p$-wave superconductors"
+  author: [{name: "D. A. Ivanov"}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. Lett", volume: "86"}
+  page-range: "268"
+  doi: "10.1103/PhysRevLett.86.268"
+
+"loss_2011_honeycomb":
+  type: article
+  title: "Physical solutions of the kitaev honeycomb model"
+  author: [{name: "F. L. Pedrocchi"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "84"}
+  page-range: "165414"
+  doi: "10.1103/PhysRevB.84.165414"
+
+"topbootstrap":
+  type: article
+  title: "Topological bootstrap: Fractionalization from kondo coupling"
+  author: [{name: "T. H. Hsieh"}]
+  date: 2017
+  parent: {type: periodical, title: "Science Advances", volume: "3"}
+  serial-number: "e1700729"
+  doi: "10.1126/sciadv.1700729"
+
+"zohar_2015_spt":
+  type: article
+  title: "Hidden order and flux attachment in symmetry-protected topological phases: A laughlin-like approach"
+  author: [{name: "Z. Ringel"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "91"}
+  page-range: "195117"
+  doi: "10.1103/PhysRevB.91.195117"
+
+"zohar_2016_spt":
+  type: article
+  title: "Wave functions of symmetry-protected topological phases from conformal field theories"
+  author: [{name: "T. Scaffidi"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "93"}
+  page-range: "115105"
+  doi: "10.1103/PhysRevB.93.115105"
+
+"Chong_2015_loop":
+  type: article
+  title: "Topological paramagnetism in frustrated spin-1 mott insulators"
+  author: [{name: "C. Wang"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "91"}
+  page-range: "195131"
+  doi: "10.1103/PhysRevB.91.195131"
+
+"mcgreevy_2016_snake":
+  type: article
+  title: "Exactly solvable models of spin liquids with spinons, and of three-dimensional topological paramagnets"
+  author: [{name: "D. Ben-Zion"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "93"}
+  page-range: "155147"
+  doi: "10.1103/PhysRevB.93.155147"
+
+"adaptivebounds":
+  type: misc
+  title: "Locality and error correction in quantum dynamics with measurement"
+  author: [{name: "A. J. Friedman"}]
+  date: 2022
+  serial-number: "arXiv:2206.09929"
+  doi: "10.48550/ARXIV.2206.09929"
+
+"rg_mcgreevy_2016":
+  type: article
+  title: "Renormalization group circuits for gapless states"
+  author: [{name: "B. Swingle"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "93"}
+  page-range: "205159"
+  doi: "10.1103/PhysRevB.93.205159"
+
+"topo_scar_2019_chamon":
+  type: article
+  title: "Topological many-body scar states in dimensions one, two, and three"
+  author: [{name: "S. Ok"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "1"}
+  page-range: "033144"
+  doi: "10.1103/PhysRevResearch.1.033144"
+
+"he_2018_stabilizer":
+  type: article
+  title: "Entanglement entropy from tensor network states for stabilizer codes"
+  author: [{name: "H. He"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "97"}
+  page-range: "125102"
+  doi: "10.1103/PhysRevB.97.125102"
+
+"bravyi2014homological":
+  type: article
+  title: "Homological product codes"
+  author: [{name: "S. Bravyi"}]
+  date: 2014
+  parent: {type: proceedings, title: "Proceedings of the forty-sixth annual ACM symposium on Theory of computing"}
+  page-range: "273-282"
+
+"kubica2018ungauging":
+  type: misc
+  title: "Ungauging quantum error-correcting codes"
+  author: [{name: "A. Kubica"}]
+  date: 2018
+  serial-number: "arXiv:1805.01836"
+
+"cresswell_2020_pusing":
+  type: article
+  title: "Operational symmetries of entangled states"
+  author: [{name: "I. Tzitrin"}]
+  date: 2020
+  parent: {type: periodical, title: "Journal of Physics A: Mathematical and Theoretical", volume: "53"}
+  page-range: "095304"
+  doi: "10.1088/1751-8121/ab6fc9"

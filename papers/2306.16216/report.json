@@ -1,0 +1,24 @@
+{
+ "id": "2306.16216",
+ "title": "Searching for the nano-Hertz stochastic gravitational wave background with the Chinese Pulsar Timing Array Data Release I",
+ "compiled": true,
+ "fixed_by": "agent",
+ "cetz_figures": 4,
+ "pages": 15,
+ "pdf_bytes": 1787808,
+ "image_calls_remaining": 7,
+ "notes": [
+  "Added `#import \"@preview/cetz:0.4.2\"` at the top of main.typ.",
+  "Converted 4 raster image() calls into native CeTZ canvases (3 figure environments, captions and <fig:> labels preserved):",
+  "  - fig:cijerr (f5): log-log plot of the systematic error delta-c vs f, with dashed vertical line at f=1.5/T.",
+  "  - fig:scam (f6a + f6b): 2x2 panel of Gaussian PDF and survivor functions for the phase-shift and sky-scramble experiments.",
+  "  - fig:nthel (f7): log-y survivor function, analytic Gaussian Q(S) (red dashed) plus the scramble curve (black).",
+  "Analytic reference curves (Gaussian PDF and its survivor Q(S)) are computed numerically inside the canvas; simulated curves are traced to match the original figure.",
+  "Left as raster image(): fig:data (f1), fig:gwa (f2), fig:gw23 (f3), fig:hdfun (f4a/b/c), fig:skfall (f8) - dense empirical scatter, corner plot, posterior histogram and 1000-curve ensemble.",
+  "typst compile main.typ build/main.pdf exits 0 with no errors or warnings; page count unchanged at 15."
+ ],
+ "latexblock": {
+  "before": 0,
+  "after": 0
+ }
+}

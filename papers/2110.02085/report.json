@@ -1,0 +1,12 @@
+{
+ "paper": "2110.02085",
+ "tikz": 0,
+ "bib": false,
+ "last_errors": "error: unclosed delimiter\n   \u250c\u2500 \\\\?\\E:\\phys\\papers\\2110.02085\\main.typ:13:44\n   \u2502\n13 \u2502   #text(10.5pt)[normalsizeRicardo Vinuesa1,2*]\n   \u2502                                             ^\n\n",
+ "salvaged": true,
+ "compiled": true,
+ "latexblock": {
+  "before": 0,
+  "after": 0
+ }
+}

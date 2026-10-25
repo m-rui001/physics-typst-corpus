@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" demote-non-dropping-particle="never">
+  <info>
+    <title>plain.bst</title>
+    <id>http://local/plain-bst</id>
+    <updated>2024-01-01T00:00:00+00:00</updated>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter=", " and="text" delimiter-precedes-last="contextual"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush" entry-spacing="0" line-spacing="1">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued"/>
+      <key variable="title"/>
+    </sort>
+    <layout suffix=".">
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <group delimiter=" ">
+        <text macro="author" suffix="."/>
+        <text variable="title" suffix="."/>
+        <choose>
+          <if variable="container-title">
+            <group delimiter=", ">
+              <text variable="container-title" font-style="italic"/>
+              <choose>
+                <if variable="volume">
+                  <group>
+                    <text variable="volume"/>
+                    <text variable="issue" prefix="(" suffix=")"/>
+                    <text variable="page" prefix=":"/>
+                  </group>
+                </if>
+                <else>
+                  <text variable="page"/>
+                </else>
+              </choose>
+              <date variable="issued">
+                <date-part name="year"/>
+              </date>
+            </group>
+          </if>
+          <else>
+            <text variable="note"/>
+          </else>
+        </choose>
+      </group>
+    </layout>
+  </bibliography>
+</style>

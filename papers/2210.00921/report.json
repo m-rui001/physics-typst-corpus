@@ -1,0 +1,11 @@
+{
+ "paper": "2210.00921",
+ "tikz": 0,
+ "bib": true,
+ "last_errors": "error: unclosed raw text\n     \u250c\u2500 \\\\?\\E:\\phys\\papers\\2210.00921\\main.typ:115:27\n     \u2502  \n 115 \u2502   In this review when we say `bias', sometimes we are referring to the magnitude of the bias $ | Bias[ O] |$, the exact meaning should be obvious from the context.\n     \u2502 \u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500^\n 116 \u2502 \u2502 \n 117 \u2502 \u2502 \n 118 \u2502 \u2502 The simplest way to construct the estimator $hat(O)$ is by directly measuring $O$ on the #emph[noisy] output state of the primary circuit $rho$, and the measurement output is simply denoted using the random variable $hat(O)_rho$. After running the noisy primary circuit $N_(upright(c i r))$ times, we can take the average of these noisy outputs (obtaining the noisy sample mean) to estimate the ideal expectation value $\"Tr\" [ O rho_0 ]$. This noisy sample mean estimator is denoted as $overline(O)_rho$ and its mean square error is given by\n     \u00b7 \u2502\n1368 \u2502 \u2502 #bibliography(\"refs.bib\")\n1369 \u2502 \u2502 \n     \u2502 \u2570^\n\n",
+ "compiled": false,
+ "latexblock": {
+  "before": 16,
+  "after": 0
+ }
+}

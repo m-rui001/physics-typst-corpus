@@ -1,0 +1,2736 @@
+"cha95":
+  type: article
+  title: "Principles of Condensed Matter Physics"
+  author: [{name: "Chaikin, P. M. and Lubensky, T. C."}]
+  date: 1995
+
+"coleman_2015":
+  type: article
+  title: "Introduction to Many-Body Physics"
+  author: [{name: "Coleman, Piers"}]
+  date: 2015
+  doi: "10.1017/CBO9781139020916"
+
+"moessner_moore_2021":
+  type: article
+  title: "Topological Phases of Matter"
+  author: [{name: "Moessner, Roderich and Moore, Joel E."}]
+  date: 2021
+  doi: "10.1017/9781316226308"
+
+"Wilkinson20":
+  type: article
+  title: "Exact solution of the Floquet-PXP cellular automaton"
+  author: [{name: "Wilkinson, Joseph W. P. and Klobas, Katja and Prosen, Tomaz and Garrahan, Juan P."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "102"}
+  page-range: "062107"
+  doi: "10.1103/PhysRevE.102.062107"
+
+"Qi2019determininglocal":
+  type: article
+  title: "Determining a local Hamiltonian from a single eigenstate"
+  author: [{name: "Qi, Xiao-Liang and Ranard, Daniel"}]
+  date: 2019
+  parent: {type: periodical, title: "Quantum", volume: "3"}
+  page-range: "159"
+  doi: "10.22331/q-2019-07-08-159"
+
+"Hudomal:2020":
+  type: article
+  title: "Quantum scars of bosons with correlated hopping"
+  author: [{name: "Hudomal, Ana and Vasić, Ivana and Regnault, Nicolas and Papić, Zlatko"}]
+  date: 2020
+  parent: {type: periodical, title: "Communications Physics", volume: "3"}
+  page-range: "99"
+
+"Celi20":
+  type: article
+  title: "Emerging Two-Dimensional Gauge Theories in Rydberg Configurable Arrays"
+  author: [{name: "Celi, Alessio and Vermersch, Benoît and Viyuela, Oscar and Pichler, Hannes and Lukin, Mikhail D. and Zoller, Peter"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  doi: "10.1103/physrevx.10.021057"
+
+"Wintermantel20":
+  type: article
+  title: "Unitary and Nonunitary Quantum Cellular Automata with Rydberg Arrays"
+  author: [{name: "Wintermantel, T. M. and Wang, Y. and Lochead, G. and Shevate, S. and Brennen, G. K. and Whitlock, S."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "070503"
+  doi: "10.1103/PhysRevLett.124.070503"
+
+"Gopalakrishnan18":
+  type: article
+  title: "Facilitated quantum cellular automata as simple models with non-thermal eigenstates and dynamics"
+  author: [{name: "Sarang Gopalakrishnan and Bahti Zakirov"}]
+  date: 2018
+  parent: {type: periodical, title: "Quantum Sci. Technol.", volume: "3"}
+  page-range: "044004"
+  doi: "10.1088/2058-9565/aad759"
+
+"GuardadoSanchez20":
+  type: article
+  title: "Subdiffusion and Heat Transport in a Tilted Two-Dimensional Fermi-Hubbard System"
+  author: [{name: "Guardado-Sanchez, Elmer and Morningstar, Alan and Spar, Benjamin M. and Brown, Peter T. and Huse, David A. and Bakr, Waseem S."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "011042"
+  doi: "10.1103/PhysRevX.10.011042"
+
+"GuardadoSanchez21":
+  type: article
+  title: "Quench Dynamics of a Fermi Gas with Strong Nonlocal Interactions"
+  author: [{name: "Guardado-Sanchez, Elmer and Spar, Benjamin M. and Schauss, Peter and Belyansky, Ron and Young, Jeremy T. and Bienias, Przemyslaw and Gorshkov, Alexey V. and Iadecola, Thomas and Bakr, Waseem S."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "11"}
+  page-range: "021036"
+  doi: "10.1103/PhysRevX.11.021036"
+
+"Iaconis19":
+  type: article
+  title: "Anomalous subdiffusion from subsystem symmetries"
+  author: [{name: "Iaconis, Jason and Vijay, Sagar and Nandkishore, Rahul"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "100"}
+  page-range: "214301"
+  doi: "10.1103/PhysRevB.100.214301"
+
+"Friedman19":
+  type: article
+  title: "Integrable Many-Body Quantum Floquet-Thouless Pumps"
+  author: [{name: "Friedman, Aaron J. and Gopalakrishnan, Sarang and Vasseur, Romain"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "170603"
+  doi: "10.1103/PhysRevLett.123.170603"
+
+"Shiraishi18b":
+  type: article
+  title: "Analytic model of thermalization: Quantum emulation of classical cellular automata"
+  author: [{name: "Shiraishi, Naoto"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "97"}
+  page-range: "062144"
+  doi: "10.1103/PhysRevE.97.062144"
+
+"White93":
+  type: article
+  title: "Numerical renormalization-group study of low-lying eigenstates of the antiferromagnetic S=1 Heisenberg chain"
+  author: [{name: "White, Steven R. and Huse, David A."}]
+  date: 1993
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "48"}
+  page-range: "3844-3852"
+  doi: "10.1103/PhysRevB.48.3844"
+
+"Schollwock11":
+  type: article
+  title: "The density-matrix renormalization group in the age of matrix product states"
+  author: [{name: "Schollwöck, Ulrich"}]
+  date: 2011
+  parent: {type: periodical, title: "Ann. Phys. (N. Y.)", volume: "326"}
+  page-range: "96-192"
+  doi: "10.1016/j.aop.2010.09.012"
+
+"Fernandez15":
+  type: article
+  title: "Frustration Free Gapless Hamiltonians for Matrix Product States"
+  author: [{name: "Fernández-González, C. and Schuch, N. and Wolf, M. M. and Cirac, J. I. and Pérez-García, D."}]
+  date: 2015
+  parent: {type: periodical, title: "Commun. Math. Phys.", volume: "333"}
+  page-range: "299-333"
+  doi: "10.1007/s00220-014-2173-z"
+
+"PerezGarcia07":
+  type: article
+  title: "Matrix Product State Representations"
+  author: [{name: "Perez-Garcia, D. and Verstraete, F. and Wolf, M. M. and Cirac, J. I."}]
+  date: 2007
+  parent: {type: periodical, title: "Quantum Info. Comput.", volume: "7"}
+  serial-number: "401–430"
+
+"Fannes92":
+  type: article
+  title: "Finitely correlated states on quantum spin chains"
+  author: [{name: "M. Fannes and B. Nachtergaele and R. F. Werner"}]
+  date: 1992
+  parent: {type: periodical, title: "Commun. Math. Phys.", volume: "144"}
+  page-range: "443-490"
+  doi: "10.1007/bf02099178"
+
+"Nachtergaele96":
+  type: article
+  title: "The spectral gap for some spin chains with discrete symmetry breaking"
+  author: [{name: "Bruno Nachtergaele"}]
+  date: 1996
+  parent: {type: periodical, title: "Commun. Math. Phys.", volume: "175"}
+  page-range: "565-606"
+  doi: "10.1007/bf02099509"
+
+"Sarang_Automaton1":
+  type: article
+  title: "Operator growth and eigenstate entanglement in an interacting integrable Floquet system"
+  author: [{name: "Gopalakrishnan, Sarang"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "060302"
+  doi: "10.1103/PhysRevB.98.060302"
+
+"Rokhsar88":
+  type: article
+  title: "Superconductivity and the Quantum Hard-Core Dimer Gas"
+  author: [{name: "Rokhsar, Daniel S. and Kivelson, Steven A."}]
+  date: 1988
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "61"}
+  page-range: "2376-2379"
+  doi: "10.1103/PhysRevLett.61.2376"
+
+"Castelnovo05":
+  type: article
+  title: "From quantum mechanics to classical statistical physics: Generalized Rokhsar-Kivelson Hamiltonians and the Stochastic Matrix Form decomposition"
+  author: [{name: "Claudio Castelnovo and Claudio Chamon and Christopher Mudry and Pierre Pujol"}]
+  date: 2005
+  parent: {type: periodical, title: "Annals of Physics", volume: "318"}
+  page-range: "316-344"
+  doi: "10.1016/j.aop.2005.01.006"
+
+"Eisert10":
+  type: article
+  title: "Colloquium: Area laws for the entanglement entropy"
+  author: [{name: "Eisert, J. and Cramer, M. and Plenio, M. B."}]
+  date: 2010
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "82"}
+  page-range: "277-306"
+  doi: "10.1103/RevModPhys.82.277"
+
+"Movassagh16":
+  type: article
+  title: "Supercritical entanglement in local systems: Counterexample to the area law for quantum matter"
+  author: [{name: "Movassagh, Ramis and Shor, Peter W."}]
+  date: 2016
+  parent: {type: periodical, title: "Proc. Natl. Acad. Sci. U.S.A.", volume: "113"}
+  page-range: "13278-13282"
+  doi: "10.1073/pnas.1605716113"
+
+"Lukin01":
+  type: article
+  title: "Dipole Blockade and Quantum Information Processing in Mesoscopic Atomic Ensembles"
+  author: [{name: "Lukin, M. D. and Fleischhauer, M. and Cote, R. and Duan, L. M. and Jaksch, D. and Cirac, J. I. and Zoller, P."}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "87"}
+  page-range: "037901"
+  doi: "10.1103/PhysRevLett.87.037901"
+
+"Magnifico19":
+  type: article
+  title: ""
+  author: [{name: "Giuseppe Magnifico and Marcello Dalmonte and Paolo Facchi and Saverio Pascazio and Francesco V. Pepe and Elisa Ercolessi"}]
+  date: 2020
+  parent: {type: periodical, title: "Quantum", volume: "4"}
+  page-range: "281"
+  doi: "10.22331/q-2020-06-15-281"
+
+"Basko06":
+  type: article
+  title: "Metal–insulator transition in a weakly interacting many-electron system with localized single-particle states"
+  author: [{name: "D.M. Basko and I.L. Aleiner and B.L. Altshuler"}]
+  date: 2006
+  parent: {type: periodical, title: "Ann. Phys. (N. Y.)", volume: "321"}
+  page-range: "1126-1205"
+  doi: "10.1016/j.aop.2005.11.014"
+
+"Borla19":
+  type: article
+  title: "Confined Phases of One-Dimensional Spinless Fermions Coupled to Z₂ Gauge Theory"
+  author: [{name: "Borla, Umberto and Verresen, Ruben and Grusdt, Fabian and Moroz, Sergej"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "120503"
+  doi: "10.1103/PhysRevLett.124.120503"
+
+"Barbiero19":
+  type: article
+  title: ""
+  author: [{name: "Barbiero, Luca and Schweizer, Christian and Aidelsburger, Monika and Demler, Eugene and Goldman, Nathan and Grusdt, Fabian"}]
+  date: 2019
+  parent: {type: periodical, title: "Sci. Adv.", volume: "5"}
+
+"Gorg19":
+  type: article
+  title: ""
+
+"Schweizer19":
+  type: article
+  title: ""
+
+"Atiyah63":
+  type: article
+  title: ""
+
+"Jackiw76":
+  type: article
+  title: "Solitons with fermion number ½"
+  author: [{name: "Jackiw, R. and Rebbi, C."}]
+  date: 1976
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "13"}
+  page-range: "3398-3409"
+  doi: "10.1103/PhysRevD.13.3398"
+
+"Jackiw81":
+  type: article
+  title: "Zero modes of the vortex-fermion system"
+  author: [{name: "R. Jackiw and P. Rossi"}]
+  date: 1981
+  parent: {type: periodical, title: "Nuclear Physics B", volume: "190"}
+  serial-number: "681 - 691"
+  doi: "10.1016/0550-3213(81)90044-4"
+
+"Weinberg81":
+  type: article
+  title: "Index calculations for the fermion-vortex system"
+  author: [{name: "Weinberg, Erick J."}]
+  date: 1981
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "24"}
+  page-range: "2669-2673"
+  doi: "10.1103/PhysRevD.24.2669"
+
+"Khemani19b":
+  type: misc
+  title: "A Brief History of Time Crystals"
+  author: [{name: "Vedika Khemani and Roderich Moessner and S. L. Sondhi"}]
+  date: 2019
+  serial-number: "arXiv:arXiv:1910.10745"
+
+"Chen22b":
+  type: misc
+  title: "Non-Hermitian quantum many-body scar"
+  author: [{name: "Qianqian Chen and Shuai A. Chen and Zheng Zhu"}]
+  date: 2022
+  serial-number: "arXiv:arXiv:2202.08638"
+
+"Wisniacki08":
+  type: article
+  title: "Scarring in open quantum systems"
+  author: [{name: "Wisniacki, Diego and Carlo, Gabriel G."}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "77"}
+  page-range: "045201"
+  doi: "10.1103/PhysRevE.77.045201"
+
+"Else20":
+  type: article
+  title: "Discrete Time Crystals"
+  author: [{name: "Dominic V. Else and Christopher Monroe and Chetan Nayak and Norman Y. Yao"}]
+  date: 2020
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "11"}
+  page-range: "467-499"
+  doi: "10.1146/annurev-conmatphys-031119-050658"
+
+"Rozon21":
+  type: misc
+  title: "Constructing quantum many-body scar Hamiltonians from Floquet automata"
+  author: [{name: "Pierre-Gabriel Rozon and Michael J. Gullans and Kartiek Agarwal"}]
+  date: 2021
+  serial-number: "arXiv:arXiv:2112.12153"
+
+"Su79":
+  type: article
+  title: "Solitons in Polyacetylene"
+  author: [{name: "Su, W. P. and Schrieffer, J. R. and Heeger, A. J."}]
+  date: 1979
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "42"}
+  page-range: "1698-1701"
+  doi: "10.1103/PhysRevLett.42.1698"
+
+"Read00":
+  type: article
+  title: "Paired states of fermions in two dimensions with breaking of parity and time-reversal symmetries and the fractional quantum Hall effect"
+  author: [{name: "Read, N. and Green, Dmitry"}]
+  date: 2000
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "61"}
+  page-range: "10267-10297"
+  doi: "10.1103/PhysRevB.61.10267"
+
+"Teo10":
+  type: article
+  title: "Topological defects and gapless modes in insulators and superconductors"
+  author: [{name: "Teo, Jeffrey C. Y. and Kane, C. L."}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "82"}
+  page-range: "115120"
+  doi: "10.1103/PhysRevB.82.115120"
+
+"Schecter18":
+  type: article
+  title: "Many-body spectral reflection symmetry and protected infinite-temperature degeneracy"
+  author: [{name: "Schecter, Michael and Iadecola, Thomas"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "035139"
+  doi: "10.1103/PhysRevB.98.035139"
+
+"Nicolai76":
+  type: article
+  title: "Supersymmetry and spin systems"
+  author: [{name: "H Nicolai"}]
+  date: 1976
+  parent: {type: periodical, title: "Journal of Physics A: Mathematical and General", volume: "9"}
+  page-range: "1497"
+  doi: "10.1088/0305-4470/9/9/010"
+
+"Witten81":
+  type: article
+  title: "Dynamical breaking of supersymmetry"
+  author: [{name: "Edward Witten"}]
+  date: 1981
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "188"}
+  serial-number: "513 - 554"
+  doi: "10.1016/0550-3213(81)90006-7"
+
+"Witten82":
+  type: article
+  title: "Constraints on supersymmetry breaking"
+  author: [{name: "Edward Witten"}]
+  date: 1982
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "202"}
+  serial-number: "253 - 316"
+  doi: "10.1016/0550-3213(82)90071-2"
+
+"Fendley05":
+  type: article
+  title: "Exact Results for Strongly Correlated Fermions in 2+1 Dimensions"
+  author: [{name: "Fendley, Paul and Schoutens, Kareljan"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "95"}
+  page-range: "046403"
+  doi: "10.1103/PhysRevLett.95.046403"
+
+"vanEerten05":
+  type: article
+  title: "Extensive ground state entropy in supersymmetric lattice models"
+  author: [{name: "Hendrik van Eerten"}]
+  date: 2005
+  parent: {type: periodical, title: "J. Math. Phys.", volume: "46"}
+  page-range: "123302"
+  doi: "10.1063/1.2142836"
+
+"Huijse08":
+  type: article
+  title: "Superfrustration of charge degrees of freedom"
+  author: [{name: "Huijse, Liza and Schoutens, Kareljan"}]
+  date: 2008
+  parent: {type: periodical, title: "Eur. Phys. J. B", volume: "64"}
+  page-range: "543-550"
+  doi: "10.1140/epjb/e2008-00150-9"
+
+"Huijse12":
+  type: article
+  title: "Supersymmetric lattice fermions on the triangular lattice: superfrustration and criticality"
+  author: [{name: "L Huijse and D Mehta and N Moran and K Schoutens and J Vala"}]
+  date: 2012
+  parent: {type: periodical, title: "New J. Phys.", volume: "14"}
+  page-range: "073002"
+  doi: "10.1088/1367-2630/14/7/073002"
+
+"Katsura17":
+  type: article
+  title: ""
+
+"Bernien17":
+  type: article
+  title: "Probing many-body dynamics on a 51-atom quantum simulator"
+  author: [{name: "Bernien, Hannes and Schwartz, Sylvain and Keesling, Alexander and Levine, Harry and Omran, Ahmed and Pichler, Hannes and Choi, Soonwon and Zibrov, Alexander S and Endres, Manuel and Greiner, Markus and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "551"}
+  page-range: "579"
+  doi: "10.1038/nature24622"
+
+"Kitazawa03":
+  type: article
+  title: "AnSU(2) symmetry of the one-dimensional spin-1XYmodel"
+  author: [{name: "Atsuhiro Kitazawa and Keigo Hijii and Kiyohide Nomura"}]
+  date: 2003
+  parent: {type: periodical, title: "J. Phys. A", volume: "36"}
+  serial-number: "L351-L357"
+  doi: "10.1088/0305-4470/36/23/104"
+
+"Guardado-Sanchez18":
+  type: article
+  title: "Probing the Quench Dynamics of Antiferromagnetic Correlations in a 2D Quantum Ising Spin System"
+  author: [{name: "Guardado-Sanchez, Elmer and Brown, Peter T. and Mitra, Debayan and Devakul, Trithep and Huse, David A. and Schauß, Peter and Bakr, Waseem S."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "8"}
+  page-range: "021069"
+  doi: "10.1103/PhysRevX.8.021069"
+
+"Biroli10":
+  type: article
+  title: "Effect of Rare Fluctuations on the Thermalization of Isolated Quantum Systems"
+  author: [{name: "Biroli, Giulio and Kollath, Corinna and Läuchli, Andreas M."}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "105"}
+  page-range: "250401"
+  doi: "10.1103/PhysRevLett.105.250401"
+
+"Lienhard18":
+  type: article
+  title: "Observing the Space- and Time-Dependent Growth of Correlations in Dynamically Tuned Synthetic Ising Models with Antiferromagnetic Interactions"
+  author: [{name: "Lienhard, Vincent and de Léséleuc, Sylvain and Barredo, Daniel and Lahaye, Thierry and Browaeys, Antoine and Schuler, Michael and Henry, Louis-Paul and Läuchli, Andreas M."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "8"}
+  page-range: "021070"
+  doi: "10.1103/PhysRevX.8.021070"
+
+"Jaksch00":
+  type: article
+  title: "Fast Quantum Gates for Neutral Atoms"
+  author: [{name: "Jaksch, D. and Cirac, J. I. and Zoller, P. and Rolston, S. L. and Côté, R. and Lukin, M. D."}]
+  date: 2000
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "85"}
+  page-range: "2208-2211"
+  doi: "10.1103/PhysRevLett.85.2208"
+
+"Affleck87":
+  type: article
+  title: "Rigorous results on valence-bond ground states in antiferromagnets"
+  author: [{name: "Affleck, Ian and Kennedy, Tom and Lieb, Elliott H. and Tasaki, Hal"}]
+  date: 1987
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "59"}
+  page-range: "799-802"
+  doi: "10.1103/PhysRevLett.59.799"
+
+"OlmosLesanovsky":
+  type: article
+  title: "Thermalization of a strongly interacting 1D Rydberg lattice gas"
+  author: [{name: "Olmos, B. and Müller, M. and Lesanovsky, I."}]
+  date: 2010
+  parent: {type: periodical, title: "New Journal of Physics", volume: "12"}
+  page-range: "013024"
+  doi: "10.1088/1367-2630/12/1/013024"
+
+"dimerfracture":
+  type: article
+  title: "Extended quantum U(1)-liquid phase in a three-dimensional quantum dimer model"
+  author: [{name: "Sikora, Olga and Shannon, Nic and Pollmann, Frank and Penc, Karlo and Fulde, Peter"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "84"}
+  page-range: "115129"
+  doi: "10.1103/PhysRevB.84.115129"
+
+"Shiraishi17":
+  type: article
+  title: "Systematic Construction of Counterexamples to the Eigenstate Thermalization Hypothesis"
+  author: [{name: "Shiraishi, Naoto and Mori, Takashi"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "119"}
+  page-range: "030601"
+  doi: "10.1103/PhysRevLett.119.030601"
+
+"Mori17a":
+  type: article
+  title: "Thermalization without eigenstate thermalization hypothesis after a quantum quench"
+  author: [{name: "Mori, Takashi and Shiraishi, Naoto"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "96"}
+  page-range: "022153"
+  doi: "10.1103/PhysRevE.96.022153"
+
+"Mondaini18":
+  type: article
+  title: "Comment on “Systematic Construction of Counterexamples to the Eigenstate Thermalization Hypothesis”"
+  author: [{name: "Mondaini, Rubem and Mallayya, Krishnanand and Santos, Lea F. and Rigol, Marcos"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "038901"
+  doi: "10.1103/PhysRevLett.121.038901"
+
+"Shiraishi18a":
+  type: article
+  title: "Shiraishi and Mori Reply"
+  author: [{name: "Shiraishi, Naoto and Mori, Takashi"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "038902"
+  doi: "10.1103/PhysRevLett.121.038902"
+
+"Chattopadhyay20":
+  type: article
+  title: "Quantum many-body scars from virtual entangled pairs"
+  author: [{name: "Chattopadhyay, Sambuddha and Pichler, Hannes and Lukin, Mikhail D. and Ho, Wen Wei"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "174308"
+  doi: "10.1103/PhysRevB.101.174308"
+
+"Lin19":
+  type: article
+  title: "Slow thermalization of exact quantum many-body scar states under perturbations"
+  author: [{name: "Lin, Cheng-Ju and Chandran, Anushya and Motrunich, Olexei I."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "033044"
+  doi: "10.1103/PhysRevResearch.2.033044"
+
+"Pai19":
+  type: article
+  title: "Dynamical Scar States in Driven Fracton Systems"
+  author: [{name: "Pai, Shriya and Pretko, Michael"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "136401"
+  doi: "10.1103/PhysRevLett.123.136401"
+
+"Turner18a":
+  type: article
+  title: "Weak ergodicity breaking from quantum many-body scars"
+  author: [{name: "C. J. Turner and A. A. Michailidis and D. A. Abanin and M. Serbyn and Z. Papić"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature Physics", volume: "14"}
+  page-range: "745-749"
+  doi: "10.1038/s41567-018-0137-5"
+
+"Khemani19":
+  type: article
+  title: "Signatures of integrability in the dynamics of Rydberg-blockaded chains"
+  author: [{name: "Khemani, Vedika and Laumann, Chris R. and Chandran, Anushya"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  page-range: "161101"
+  doi: "10.1103/PhysRevB.99.161101"
+
+"Turner18b":
+  type: article
+  title: "Quantum scarred eigenstates in a Rydberg atom chain: Entanglement, breakdown of thermalization, and stability to perturbations"
+  author: [{name: "Turner, C. J. and Michailidis, A. A. and Abanin, D. A. and Serbyn, M. and Papić, Z."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "155134"
+  doi: "10.1103/PhysRevB.98.155134"
+
+"Lin18":
+  type: article
+  title: "Exact Quantum Many-Body Scar States in the Rydberg-Blockaded Atom Chain"
+  author: [{name: "Lin, Cheng-Ju and Motrunich, Olexei I."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "173401"
+  doi: "10.1103/PhysRevLett.122.173401"
+
+"Choi19":
+  type: article
+  title: "Emergent SU(2) Dynamics and Perfect Quantum Many-Body Scars"
+  author: [{name: "Choi, Soonwon and Turner, Christopher J. and Pichler, Hannes and Ho, Wen Wei and Michailidis, Alexios A. and Papić, Zlatko and Serbyn, Maksym and Lukin, Mikhail D. and Abanin, Dmitry A."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "220603"
+  doi: "10.1103/PhysRevLett.122.220603"
+
+"Moudgalya18a":
+  type: article
+  title: "Exact excited states of nonintegrable models"
+  author: [{name: "Moudgalya, Sanjay and Rachel, Stephan and Bernevig, B. Andrei and Regnault, Nicolas"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "235155"
+  doi: "10.1103/PhysRevB.98.235155"
+
+"Sugiura:2021":
+  type: article
+  title: "Many-body scar state intrinsic to periodically driven system"
+  author: [{name: "Sugiura, Sho and Kuwahara, Tomotaka and Saito, Keiji"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "3"}
+  serial-number: "L012010"
+  doi: "10.1103/PhysRevResearch.3.L012010"
+
+"Moudgalya18b":
+  type: article
+  title: "Entanglement of exact excited states of Affleck-Kennedy-Lieb-Tasaki models: Exact results, many-body scars, and violation of the strong eigenstate thermalization hypothesis"
+  author: [{name: "Moudgalya, Sanjay and Regnault, Nicolas and Bernevig, B. Andrei"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "98"}
+  page-range: "235156"
+  doi: "10.1103/PhysRevB.98.235156"
+
+"Moudgalya20":
+  type: article
+  title: "η-pairing in Hubbard models: From spectrum generating algebras to quantum many-body scars"
+  author: [{name: "Moudgalya, Sanjay and Regnault, Nicolas and Bernevig, B. Andrei"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "085140"
+  doi: "10.1103/PhysRevB.102.085140"
+
+"Ren22":
+  type: article
+  title: "Deformed symmetry structures and quantum many-body scar subspaces"
+  author: [{name: "Ren, Jie and Liang, Chenguang and Fang, Chen"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "4"}
+  page-range: "013155"
+  doi: "10.1103/PhysRevResearch.4.013155"
+
+"Bergholtz05":
+  type: article
+  title: "“One-dimensional” theory of the quantum Hall system"
+  author: [{name: "Emil J Bergholtz and Anders Karlhede"}]
+  date: 2006
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2006"}
+  serial-number: "L04001-L04001"
+  doi: "10.1088/1742-5468/2006/04/l04001"
+
+"Tao83":
+  type: article
+  title: "Fractional quantization of Hall conductance"
+  author: [{name: "Tao, R. and Thouless, D. J."}]
+  date: 1983
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "28"}
+  page-range: "1142-1144"
+  doi: "10.1103/PhysRevB.28.1142"
+
+"Nachtergaele:2020ws":
+  type: article
+  title: "Low-complexity eigenstates of a ν = 1/3 fractional quantum Hall system"
+  author: [{name: "Bruno Nachtergaele and Simone Warzel and Amanda Young"}]
+  date: 2020
+  parent: {type: periodical, title: "Journal of Physics A: Mathematical and Theoretical", volume: "54"}
+  serial-number: "01LT01"
+
+"Moudgalya20b":
+  type: article
+  title: "Large classes of quantum scarred Hamiltonians from matrix product states"
+  author: [{name: "Moudgalya, Sanjay and O'Brien, Edward and Bernevig, B. Andrei and Fendley, Paul and Regnault, Nicolas"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "085120"
+  doi: "10.1103/PhysRevB.102.085120"
+
+"Michailidis20revivals":
+  type: article
+  title: "Slow Quantum Thermalization and Many-Body Revivals from Mixed Phase Space"
+  author: [{name: "Michailidis, A. A. and Turner, C. J. and Papić, Z. and Abanin, D. A. and Serbyn, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "011055"
+  doi: "10.1103/PhysRevX.10.011055"
+
+"Ho19":
+  type: article
+  title: "Periodic Orbits, Entanglement, and Quantum Many-Body Scars in Constrained Models: Matrix Product State Approach"
+  author: [{name: "Ho, Wen Wei and Choi, Soonwon and Pichler, Hannes and Lukin, Mikhail D."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "040603"
+  doi: "10.1103/PhysRevLett.122.040603"
+
+"Ok:2019":
+  type: article
+  title: "Topological many-body scar states in dimensions one, two, and three"
+  author: [{name: "Ok, Seulgi and Choo, Kenny and Mudry, Christopher and Castelnovo, Claudio and Chamon, Claudio and Neupert, Titus"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "1"}
+  page-range: "033144"
+  doi: "10.1103/PhysRevResearch.1.033144"
+
+"Medenjak:2020":
+  type: article
+  title: "Isolated Heisenberg magnet as a quantum time crystal"
+  author: [{name: "Medenjak, Marko and Buča, Berislav and Jaksch, Dieter"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "041117"
+  doi: "10.1103/PhysRevB.102.041117"
+
+"Shibata:2020":
+  type: article
+  title: "Onsager's Scars in Disordered Spin Chains"
+  author: [{name: "Shibata, Naoyuki and Yoshioka, Nobuyuki and Katsura, Hosho"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "180604"
+  doi: "10.1103/PhysRevLett.124.180604"
+
+"Iadecola19":
+  type: article
+  title: "Quantum many-body scars from magnon condensation"
+  author: [{name: "Iadecola, Thomas and Schecter, Michael and Xu, Shenglong"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "100"}
+  page-range: "184312"
+  doi: "10.1103/PhysRevB.100.184312"
+
+"Iadecola20":
+  type: article
+  title: "Quantum many-body scar states with emergent kinetic constraints and finite-entanglement revivals"
+  author: [{name: "Iadecola, Thomas and Schecter, Michael"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "024306"
+  doi: "10.1103/PhysRevB.101.024306"
+
+"Iadecola20b":
+  type: article
+  title: "Nonergodic quantum dynamics from deformations of classical cellular automata"
+  author: [{name: "Iadecola, Thomas and Vijay, Sagar"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "180302"
+  doi: "10.1103/PhysRevB.102.180302"
+
+"Schecter19":
+  type: article
+  title: "Weak Ergodicity Breaking and Quantum Many-Body Scars in Spin-1 XY Magnets"
+  author: [{name: "Schecter, Michael and Iadecola, Thomas"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "147201"
+  doi: "10.1103/PhysRevLett.123.147201"
+
+"Lesanovsky11":
+  type: article
+  title: "Many-Body Spin Interactions and the Ground State of a Dense Rydberg Lattice Gas"
+  author: [{name: "Lesanovsky, Igor"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "106"}
+  page-range: "025301"
+  doi: "10.1103/PhysRevLett.106.025301"
+
+"Lesanovsky12b":
+  type: article
+  title: "Interacting Fibonacci anyons in a Rydberg gas"
+  author: [{name: "Lesanovsky, Igor and Katsura, Hosho"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "86"}
+  page-range: "041601"
+  doi: "10.1103/PhysRevA.86.041601"
+
+"Lesanovsky12a":
+  type: article
+  title: "Liquid Ground State, Gap, and Excited States of a Strongly Correlated Spin Chain"
+  author: [{name: "Lesanovsky, Igor"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "108"}
+  page-range: "105301"
+  doi: "10.1103/PhysRevLett.108.105301"
+
+"Ostmann19":
+  type: article
+  title: "Localization in spin chains with facilitation constraints and disordered interactions"
+  author: [{name: "Ostmann, Maike and Marcuzzi, Matteo and Garrahan, Juan P. and Lesanovsky, Igor"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "99"}
+  page-range: "060101"
+  doi: "10.1103/PhysRevA.99.060101"
+
+"Chen17":
+  type: article
+  title: "How Does a Locally Constrained Quantum System Localize?"
+  author: [{name: "Chen, Chun and Burnell, Fiona and Chandran, Anushya"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "085701"
+  doi: "10.1103/physrevlett.121.085701"
+
+"Omiya22":
+  type: misc
+  title: "Nature of many-body scars in a Rydberg chain: Gutzwiller projection of a large precessing pseudospin"
+  author: [{name: "Keita Omiya and Markus Müller"}]
+  date: 2022
+  serial-number: "arXiv:arXiv:2203.00658"
+
+"Houck12":
+  type: article
+  title: "On-chip quantum simulation with superconducting circuits"
+  author: [{name: "Andrew A. Houck and Hakan E. Türeci and Jens Koch"}]
+  date: 2012
+  parent: {type: periodical, title: "Nature Physics", volume: "8"}
+  page-range: "292-299"
+  doi: "10.1038/nphys2251"
+
+"Monroe21":
+  type: article
+  title: "Programmable quantum simulations of spin systems with trapped ions"
+  author: [{name: "Monroe, C. and Campbell, W. C. and Duan, L.-M. and Gong, Z.-X. and Gorshkov, A. V. and Hess, P. W. and Islam, R. and Kim, K. and Linke, N. M. and Pagano, G. and Richerme, P. and Senko, C. and Yao, N. Y."}]
+  date: 2021
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "93"}
+  page-range: "025001"
+  doi: "10.1103/RevModPhys.93.025001"
+
+"Langen14":
+  type: article
+  title: "Ultracold Atoms Out of Equilibrium"
+  author: [{name: "Tim Langen and Remi Geiger and Jörg Schmiedmayer"}]
+  date: 2015
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "6"}
+  page-range: "201-217"
+  doi: "10.1146/annurev-conmatphys-031214-014548"
+
+"Cazalilla:2011nx":
+  type: article
+  title: "One dimensional bosons: From condensed matter systems to ultracold gases"
+  author: [{name: "Cazalilla, M. A. and Citro, R. and Giamarchi, T. and Orignac, E. and Rigol, M."}]
+  date: 2011
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "83"}
+  page-range: "1405-1466"
+
+"Giamarchi:2003oq":
+  type: article
+  title: "Quantum Physics in One Dimension"
+  author: [{name: "Giamarchi, Thierry"}]
+  date: 2003
+
+"Vasseur:2016ub":
+  type: article
+  title: "Nonequilibrium quantum dynamics and transport: from integrability to many-body localization"
+  author: [{name: "Romain Vasseur and Joel E Moore"}]
+  date: 2016
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2016"}
+  page-range: "064010"
+
+"Eisert:2015aa":
+  type: article
+  title: "Quantum many-body systems out of equilibrium"
+  author: [{name: "Eisert, J. and Friesdorf, M. and Gogolin, C."}]
+  date: 2015
+  parent: {type: periodical, title: "Nat Phys", volume: "11"}
+  page-range: "124-130"
+
+"Neyenhuis:2017wi":
+  type: article
+  title: "Observation of prethermalization in long-range interacting spin chains"
+  author: [{name: "Neyenhuis, Brian and Zhang, Jiehang and Hess, Paul W and Smith, Jacob and Lee, Aaron C and Richerme, Phil and Gong, Zhe-Xuan and Gorshkov, Alexey V and Monroe, Christopher"}]
+  date: 2017
+  parent: {type: periodical, title: "Science advances", volume: "3"}
+  serial-number: "e1700672-e1700672"
+
+"Langlett22":
+  type: article
+  title: "Rainbow scars: From area to volume law"
+  author: [{name: "Langlett, Christopher M. and Yang, Zhi-Cheng and Wildeboer, Julia and Gorshkov, Alexey V. and Iadecola, Thomas and Xu, Shenglong"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "105"}
+  serial-number: "L060301"
+  doi: "10.1103/PhysRevB.105.L060301"
+
+"Ovchinnikov03":
+  type: article
+  title: "Antiferromagnetic Ising chain in a mixed transverse and longitudinal magnetic field"
+  author: [{name: "Ovchinnikov, A. A. and Dmitriev, D. V. and Krivnov, V. Ya. and Cheranovskii, V. O."}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "68"}
+  page-range: "214406"
+  doi: "10.1103/PhysRevB.68.214406"
+
+"Iadecola18":
+  type: article
+  title: "Exact Localized and Ballistic Eigenstates in Disordered Chaotic Spin Ladders and the Fermi-Hubbard Model"
+  author: [{name: "Iadecola, Thomas and Žnidarič, Marko"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "036403"
+  doi: "10.1103/PhysRevLett.123.036403"
+
+"Berges:2004":
+  type: article
+  title: "Prethermalization"
+  author: [{name: "Berges, J. and Borsányi, Sz. and Wetterich, C."}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "93"}
+  page-range: "142002"
+  doi: "10.1103/PhysRevLett.93.142002"
+
+"Gring:2012ly":
+  type: article
+  title: "Relaxation and Prethermalization in an Isolated Quantum System"
+  author: [{name: "Gring, M. and Kuhnert, M. and Langen, T. and Kitagawa, T. and Rauer, B. and Schreitl, M. and Mazets, I. and Smith, D. Adu and Demler, E. and Schmiedmayer, J."}]
+  date: 2012
+  parent: {type: periodical, title: "Science"}
+
+"Mark20":
+  type: article
+  title: "η-pairing states as true scars in an extended Hubbard model"
+  author: [{name: "Mark, Daniel K. and Motrunich, Olexei I."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "075132"
+  doi: "10.1103/PhysRevB.102.075132"
+
+"Mark20a":
+  type: article
+  title: "Unified structure for exact towers of scar states in the Affleck-Kennedy-Lieb-Tasaki and other models"
+  author: [{name: "Mark, Daniel K. and Lin, Cheng-Ju and Motrunich, Olexei I."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "195131"
+  doi: "10.1103/PhysRevB.101.195131"
+
+"Moudgalya22":
+  type: article
+  title: "Hilbert Space Fragmentation and Commutant Algebras"
+  author: [{name: "Moudgalya, Sanjay and Motrunich, Olexei I."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "12"}
+  page-range: "011050"
+  doi: "10.1103/PhysRevX.12.011050"
+
+"Surace19":
+  type: article
+  title: "Lattice Gauge Theories and String Dynamics in Rydberg Atom Quantum Simulators"
+  author: [{name: "Surace, Federica M. and Mazza, Paolo P. and Giudici, Giuliano and Lerose, Alessio and Gambassi, Andrea and Dalmonte, Marcello"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "021041"
+  doi: "10.1103/PhysRevX.10.021041"
+
+"Eckstein:2009wv":
+  type: article
+  title: "New theoretical approaches for correlated systems in nonequilibrium"
+  author: [{name: "Eckstein, M. and Hackl, A. and Kehrein, S. and Kollar, M. and Moeckel, M. and Werner, P. and Wolf, F. A."}]
+  date: 2009
+  parent: {type: periodical, title: "The European Physical Journal Special Topics", volume: "180"}
+  page-range: "217-235"
+
+"Voorden:2020wo":
+  type: article
+  title: "Quantum many-body scars in transverse field Ising ladders and beyond"
+  author: [{name: "van Voorden, Bart and Minář, Jiří and Schoutens, Kareljan"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "220305"
+
+"Bull19a":
+  type: article
+  title: "Systematic Construction of Scarred Many-Body Dynamics in 1D Lattice Models"
+  author: [{name: "Bull, Kieran and Martin, Ivar and Papić, Z."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "123"}
+  page-range: "030601"
+  doi: "10.1103/PhysRevLett.123.030601"
+
+"Bull19b":
+  type: article
+  title: "Quantum scars as embeddings of weakly broken Lie algebra representations"
+  author: [{name: "Bull, Kieran and Desaules, Jean-Yves and Papić, Zlatko"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "165139"
+  doi: "10.1103/PhysRevB.101.165139"
+
+"Moudgalya19":
+  type: article
+  title: "Quantum many-body scars in a Landau level on a thin torus"
+  author: [{name: "Moudgalya, Sanjay and Bernevig, B. Andrei and Regnault, Nicolas"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "195150"
+  doi: "10.1103/PhysRevB.102.195150"
+
+"Shiraishi19":
+  type: article
+  title: "Connection between quantum-many-body scars and the Affleck-Kennedy-Lieb-Tasaki model from the viewpoint of embedded Hamiltonians"
+  author: [{name: "Naoto Shiraishi"}]
+  date: 2019
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2019"}
+  page-range: "083103"
+  doi: "10.1088/1742-5468/ab342e"
+
+"Hudomal19":
+  type: article
+  title: "Quantum scars of bosons with correlated hopping"
+  author: [{name: "Hudomal, Ana and Vasić, Ivana and Regnault, Nicolas and Papić, Zlatko"}]
+  date: 2020
+  parent: {type: periodical, title: "Commun. Phys.", volume: "3"}
+  page-range: "1-12"
+
+"Heller84":
+  type: article
+  title: "Bound-State Eigenfunctions of Classically Chaotic Hamiltonian Systems: Scars of Periodic Orbits"
+  author: [{name: "Heller, Eric J."}]
+  date: 1984
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "53"}
+  page-range: "1515-1518"
+  doi: "10.1103/PhysRevLett.53.1515"
+
+"Moeckel:2009kq":
+  type: article
+  title: "Real-time evolution for weak interaction quenches in quantum systems"
+  author: [{name: "Michael Moeckel and Stefan Kehrein"}]
+  date: 2009
+  parent: {type: periodical, title: "Annals of Physics", volume: "324"}
+  serial-number: "2146 - 2178"
+
+"Kinoshita:2006ve":
+  type: article
+  title: "A quantum Newton's cradle"
+  author: [{name: "Kinoshita, Toshiya and Wenger, Trevor and Weiss, David S."}]
+  date: 2006
+  parent: {type: periodical, title: "Nature", volume: "440"}
+  page-range: "900-903"
+
+"Martin:2022uj":
+  type: article
+  title: "Scar states in a system of interacting chiral fermions"
+  author: [{name: "Martin, I. and Matveev, K. A."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "105"}
+  page-range: "045119"
+
+"Kollar:2011wh":
+  type: article
+  title: "Generalized Gibbs ensemble prediction of prethermalization plateaus and their relation to nonthermal steady states in integrable systems"
+  author: [{name: "Kollar, Marcus and Wolf, F. Alexander and Eckstein, Martin"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "84"}
+  page-range: "054304"
+
+"Jepsen:2021":
+  type: article
+  title: "Catching Bethe phantoms and quantum many-body scars: Long-lived spin-helix states in Heisenberg magnets"
+  author: [{name: "Jepsen, Paul Niklas and Lee, Yoo Kyung and Lin, Hanzhen and Dimitrova, Ivana and Margalit, Yair and Ho, Wen Wei and Ketterle, Wolfgang"}]
+  date: 2021
+  doi: "10.48550/ARXIV.2110.12043"
+
+"Schindler:2022":
+  type: article
+  title: "Exact quantum scars in the chiral nonlinear Luttinger liquid"
+  author: [{name: "Schindler, Frank and Regnault, Nicolas and Bernevig, B. Andrei"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "105"}
+  page-range: "035146"
+  doi: "10.1103/PhysRevB.105.035146"
+
+"Wil:2021vr":
+  type: article
+  title: "Topological pumping of a 1D dipolar gas into strongly correlated prethermal states"
+  author: [{name: "Kao Wil and Li Kuan-Yu and Lin Kuan-Yu and Gopalakrishnan Sarang and Lev Benjamin L."}]
+  date: 2021
+  parent: {type: periodical, title: "Science", volume: "371"}
+  page-range: "296-300"
+
+"Haegeman11":
+  type: article
+  title: "Time-Dependent Variational Principle for Quantum Lattices"
+  author: [{name: "Haegeman, Jutho and Cirac, J. Ignacio and Osborne, Tobias J. and Pižorn, Iztok and Verschelde, Henri and Verstraete, Frank"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "107"}
+  page-range: "070601"
+  doi: "10.1103/PhysRevLett.107.070601"
+
+"Rozon:2021":
+  type: article
+  title: "Constructing quantum many-body scar Hamiltonians from Floquet automata"
+  author: [{name: "Rozon, Pierre-Gabriel and Gullans, Michael J. and Agarwal, Kartiek"}]
+  date: 2021
+  doi: "10.48550/ARXIV.2112.12153"
+
+"Mukherjee19":
+  type: article
+  title: "Collapse and revival of quantum many-body scars via Floquet engineering"
+  author: [{name: "Mukherjee, Bhaskar and Nandy, Sourav and Sen, Arnab and Sen, Diptiman and Sengupta, K."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "245107"
+  doi: "10.1103/PhysRevB.101.245107"
+
+"Shiraishi18":
+  type: article
+  title: "Analytic model of thermalization: Quantum emulation of classical cellular automata"
+  author: [{name: "Shiraishi, Naoto"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "97"}
+  page-range: "062144"
+  doi: "10.1103/PhysRevE.97.062144"
+
+"Takesue89":
+  type: article
+  title: "Ergodic properties and thermodynamic behavior of elementary reversible cellular automata. I. Basic properties"
+  author: [{name: "Shinji Takesue"}]
+  date: 1989
+  parent: {type: periodical, title: "J. Stat. Phys.", volume: "56"}
+  page-range: "371-402"
+  doi: "10.1007/bf01044442"
+
+"Haldar19":
+  type: article
+  title: "Dynamical Freezing and Scar Points in Strongly Driven Floquet Matter: Resonance vs Emergent Conservation Laws"
+  author: [{name: "Asmi Haldar and Diptiman Sen and Roderich Moessner and Arnab Das"}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review X", volume: "11"}
+  doi: "10.1103/physrevx.11.021008"
+
+"Kitaev:2003vn":
+  type: article
+  title: "Fault-tolerant quantum computation by anyons"
+  author: [{name: "Kitaev, A.Yu."}]
+  date: 2003
+  parent: {type: periodical, title: "Annals of Physics", volume: "303"}
+  serial-number: "2 - 30"
+
+"Sattath:2016":
+  type: article
+  title: "When a local Hamiltonian must be frustration-free"
+  author: [{name: "Or Sattath and Siddhardh C. Morampudi and Chris R. Laumann and Roderich Moessner"}]
+  date: 2016
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "113"}
+  page-range: "6433-6437"
+
+"Panda:2020aa":
+  type: article
+  title: "Can we study the many-body localisation transition?"
+  author: [{name: "R. K. Panda and A. Scardicchio and M. Schulz and S. R. Taylor and M. Žnidarič"}]
+  date: 2020
+  parent: {type: periodical, title: "EPL (Europhysics Letters)", volume: "128"}
+  page-range: "67003"
+
+"Mizuta:2020":
+  type: article
+  title: "Exact Floquet quantum many-body scars under Rydberg blockade"
+  author: [{name: "Mizuta, Kaoru and Takasan, Kazuaki and Kawakami, Norio"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "033284"
+  doi: "10.1103/PhysRevResearch.2.033284"
+
+"Mukherjee20":
+  type: article
+  title: "Dynamics of the vacuum state in a periodically driven Rydberg chain"
+  author: [{name: "Bhaskar Mukherjee and Arnab Sen and Diptiman Sen and K. Sengupta"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review B", volume: "102"}
+  doi: "10.1103/physrevb.102.075123"
+
+"Bijl40":
+  type: article
+  title: "The lowest wave function of the symmetrical many particles system"
+  author: [{name: "A. Bijl"}]
+  date: 1940
+  parent: {type: periodical, title: "Physica", volume: "7"}
+  serial-number: "869 - 886"
+  doi: "https://doi.org/10.1016/0031-8914(40)90166-5"
+
+"Feynman54":
+  type: article
+  title: "Atomic Theory of the Two-Fluid Model of Liquid Helium"
+  author: [{name: "Feynman, R. P."}]
+  date: 1954
+  parent: {type: periodical, title: "Phys. Rev.", volume: "94"}
+  page-range: "262-277"
+  doi: "10.1103/PhysRev.94.262"
+
+"Girvin86":
+  type: article
+  title: "Magneto-roton theory of collective excitations in the fractional quantum Hall effect"
+  author: [{name: "Girvin, S. M. and MacDonald, A. H. and Platzman, P. M."}]
+  date: 1986
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "33"}
+  page-range: "2481-2494"
+  doi: "10.1103/PhysRevB.33.2481"
+
+"Wilczek12":
+  type: article
+  title: "Quantum Time Crystals"
+  author: [{name: "Wilczek, Frank"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "109"}
+  page-range: "160401"
+  doi: "10.1103/PhysRevLett.109.160401"
+
+"Sacha15":
+  type: article
+  title: "Modeling spontaneous breaking of time-translation symmetry"
+  author: [{name: "Sacha, Krzysztof"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "91"}
+  page-range: "033617"
+  doi: "10.1103/PhysRevA.91.033617"
+
+"Robinson:2019":
+  type: article
+  title: "Signatures of rare states and thermalization in a theory with confinement"
+  author: [{name: "Robinson, Neil J. and James, Andrew J. A. and Konik, Robert M."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "99"}
+  page-range: "195108"
+  doi: "10.1103/PhysRevB.99.195108"
+
+"James:2019":
+  type: article
+  title: "Nonthermal States Arising from Confinement in One and Two Dimensions"
+  author: [{name: "James, Andrew J. A. and Konik, Robert M. and Robinson, Neil J."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "130603"
+  doi: "10.1103/PhysRevLett.122.130603"
+
+"Kuno:2020":
+  type: article
+  title: "Flat band quantum scar"
+  author: [{name: "Kuno, Yoshihito and Mizoguchi, Tomonari and Hatsugai, Yasuhiro"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "241115"
+  doi: "10.1103/PhysRevB.102.241115"
+
+"Classical_OTOC":
+  type: article
+  title: "Light-Cone Spreading of Perturbations and the Butterfly Effect in a Classical Spin Chain"
+  author: [{name: "Das, Avijit and Chakrabarty, Saurish and Dhar, Abhishek and Kundu, Anupam and Huse, David A. and Moessner, Roderich and Ray, Samriddhi Sankar and Bhattacharjee, Subhro"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "024101"
+  doi: "10.1103/PhysRevLett.121.024101"
+
+"Khemani16":
+  type: article
+  title: "Phase Structure of Driven Quantum Systems"
+  author: [{name: "Khemani, Vedika and Lazarides, Achilleas and Moessner, Roderich and Sondhi, S. L."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "116"}
+  page-range: "250401"
+  doi: "10.1103/PhysRevLett.116.250401"
+
+"Else16":
+  type: article
+  title: "Floquet Time Crystals"
+  author: [{name: "Else, Dominic V. and Bauer, Bela and Nayak, Chetan"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "117"}
+  page-range: "090402"
+  doi: "10.1103/PhysRevLett.117.090402"
+
+"vonKeyserlingk16":
+  type: article
+  title: "Absolute stability and spatiotemporal long-range order in Floquet systems"
+  author: [{name: "von Keyserlingk, C. W. and Khemani, Vedika and Sondhi, S. L."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "94"}
+  page-range: "085112"
+  doi: "10.1103/PhysRevB.94.085112"
+
+"Else17":
+  type: article
+  title: "Prethermal Phases of Matter Protected by Time-Translation Symmetry"
+  author: [{name: "Else, Dominic V. and Bauer, Bela and Nayak, Chetan"}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "7"}
+  page-range: "011026"
+  doi: "10.1103/PhysRevX.7.011026"
+
+"Khemani17":
+  type: article
+  title: "Defining time crystals via representation theory"
+  author: [{name: "Khemani, Vedika and von Keyserlingk, C. W. and Sondhi, S. L."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "96"}
+  page-range: "115127"
+  doi: "10.1103/PhysRevB.96.115127"
+
+"Choi17":
+  type: article
+  title: "Observation of discrete time-crystalline order in a disordered dipolar many-body system"
+  author: [{name: "Choi, Soonwon and Choi, Joonhee and Landig, Renate and Kucsko, Georg and Zhou, Hengyun and Isoya, Junichi and Jelezko, Fedor and Onoda, Shinobu and Sumiya, Hitoshi and Khemani, Vedika and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "543"}
+  page-range: "221-225"
+
+"Zhang17":
+  type: article
+  title: "Observation of a discrete time crystal"
+  author: [{name: "Zhang, J and Hess, PW and Kyprianidis, A and Becker, P and Lee, A and Smith, J and Pagano, G and Potirniche, ID and Potter, AC and Vishwanath, A and others"}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "543"}
+  page-range: "217-217"
+
+"Pal18":
+  type: article
+  title: "Temporal Order in Periodically Driven Spins in Star-Shaped Clusters"
+  author: [{name: "Pal, Soham and Nishad, Naveen and Mahesh, T. S. and Sreejith, G. J."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "120"}
+  page-range: "180602"
+  doi: "10.1103/PhysRevLett.120.180602"
+
+"Rovny18a":
+  type: article
+  title: "Observation of Discrete-Time-Crystal Signatures in an Ordered Dipolar Many-Body System"
+  author: [{name: "Rovny, Jared and Blum, Robert L. and Barrett, Sean E."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "120"}
+  page-range: "180603"
+  doi: "10.1103/PhysRevLett.120.180603"
+
+"Rovny18b":
+  type: article
+  title: "³¹P NMR study of discrete time-crystalline signatures in an ordered crystal of ammonium dihydrogen phosphate"
+  author: [{name: "Rovny, Jared and Blum, Robert L. and Barrett, Sean E."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "97"}
+  page-range: "184301"
+  doi: "10.1103/PhysRevB.97.184301"
+
+"Smits18":
+  type: article
+  title: "Observation of a Space-Time Crystal in a Superfluid Quantum Gas"
+  author: [{name: "Smits, J. and Liao, L. and Stoof, H. T. C. and van der Straten, P."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "185301"
+  doi: "10.1103/PhysRevLett.121.185301"
+
+"Sacha17":
+  type: article
+  title: "Time crystals: a review"
+  author: [{name: "Krzysztof Sacha and Jakub Zakrzewski"}]
+  date: 2017
+  parent: {type: periodical, title: "Rep. Prog. Phys.", volume: "81"}
+  page-range: "016401"
+  doi: "10.1088/1361-6633/aa8b38"
+
+"Bruno13":
+  type: article
+  title: "Impossibility of Spontaneously Rotating Time Crystals: A No-Go Theorem"
+  author: [{name: "Bruno, Patrick"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "111"}
+  page-range: "070402"
+  doi: "10.1103/PhysRevLett.111.070402"
+
+"Volovik13":
+  type: article
+  title: "On the broken time translation symmetry in macroscopic systems: Precessing states and off-diagonal long-range order"
+  author: [{name: "Volovik, G. E."}]
+  date: 2013
+  parent: {type: periodical, title: "JETP Lett.", volume: "98"}
+  page-range: "491-495"
+  doi: "10.1134/S0021364013210133"
+
+"Wilczek13":
+  type: article
+  title: "Superfluidity and Space-Time Translation Symmetry Breaking"
+  author: [{name: "Wilczek, Frank"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "111"}
+  page-range: "250402"
+  doi: "10.1103/PhysRevLett.111.250402"
+
+"Watanabe15":
+  type: article
+  title: "Absence of Quantum Time Crystals"
+  author: [{name: "Watanabe, Haruki and Oshikawa, Masaki"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "114"}
+  page-range: "251603"
+  doi: "10.1103/PhysRevLett.114.251603"
+
+"Yang62":
+  type: article
+  title: "Concept of Off-Diagonal Long-Range Order and the Quantum Phases of Liquid He and of Superconductors"
+  author: [{name: "Yang, C. N."}]
+  date: 1962
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "34"}
+  page-range: "694-704"
+  doi: "10.1103/RevModPhys.34.694"
+
+"Yang89":
+  type: article
+  title: "η pairing and off-diagonal long-range order in a Hubbard model"
+  author: [{name: "Yang, Chen Ning"}]
+  date: 1989
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "63"}
+  page-range: "2144-2147"
+  doi: "10.1103/PhysRevLett.63.2144"
+
+"Vafek17":
+  type: article
+  title: "Entanglement of Exact Excited Eigenstates of the Hubbard Model in Arbitrary Dimension"
+  author: [{name: "Oskar Vafek and Nicolas Regnault and B. Andrei Bernevig"}]
+  date: 2017
+  parent: {type: periodical, title: "SciPost Phys.", volume: "3"}
+  page-range: "043"
+  doi: "10.21468/SciPostPhys.3.6.043"
+
+"Vanderstraeten14":
+  type: article
+  title: "S Matrix from Matrix Product States"
+  author: [{name: "Vanderstraeten, Laurens and Haegeman, Jutho and Osborne, Tobias J. and Verstraete, Frank"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "112"}
+  page-range: "257202"
+  doi: "10.1103/PhysRevLett.112.257202"
+
+"Feiguin07":
+  type: article
+  title: "Interacting Anyons in Topological Quantum Liquids: The Golden Chain"
+  author: [{name: "Feiguin, Adrian and Trebst, Simon and Ludwig, Andreas W. W. and Troyer, Matthias and Kitaev, Alexei and Wang, Zhenghan and Freedman, Michael H."}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "98"}
+  page-range: "160409"
+  doi: "10.1103/PhysRevLett.98.160409"
+
+"Trebst08":
+  type: article
+  title: "Collective States of Interacting Fibonacci Anyons"
+  author: [{name: "Trebst, Simon and Ardonne, Eddy and Feiguin, Adrian and Huse, David A. and Ludwig, Andreas W. W. and Troyer, Matthias"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "101"}
+  page-range: "050401"
+  doi: "10.1103/PhysRevLett.101.050401"
+
+"Chandran16":
+  type: article
+  title: "The eigenstate thermalization hypothesis in constrained Hilbert spaces: A case study in non-Abelian anyon chains"
+  author: [{name: "Chandran, A. and Schulz, Marc D. and Burnell, F. J."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "94"}
+  page-range: "235122"
+  doi: "10.1103/PhysRevB.94.235122"
+
+"Iadecola17":
+  type: article
+  title: "Floquet Supersymmetry"
+  author: [{name: "Iadecola, Thomas and Hsieh, Timothy H."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "120"}
+  page-range: "210603"
+  doi: "10.1103/PhysRevLett.120.210603"
+
+"Polkovnikov11":
+  type: article
+  title: "Colloquium: Nonequilibrium dynamics of closed interacting quantum systems"
+  author: [{name: "Polkovnikov, Anatoli and Sengupta, Krishnendu and Silva, Alessandro and Vengalattore, Mukund"}]
+  date: 2011
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "83"}
+  page-range: "863-883"
+  doi: "10.1103/RevModPhys.83.863"
+
+"Khemani20":
+  type: article
+  title: "Localization from Hilbert space shattering: From theory to physical realizations"
+  author: [{name: "Khemani, Vedika and Hermele, Michael and Nandkishore, Rahul"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "174204"
+  doi: "10.1103/PhysRevB.101.174204"
+
+"Zhao:2020":
+  type: article
+  title: "Quantum Many-Body Scars in Optical Lattices"
+  author: [{name: "Zhao, Hongzheng and Vovrosh, Joseph and Mintert, Florian and Knolle, Johannes"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "160604"
+  doi: "10.1103/PhysRevLett.124.160604"
+
+"Sala20":
+  type: article
+  title: "Ergodicity Breaking Arising from Hilbert Space Fragmentation in Dipole-Conserving Hamiltonians"
+  author: [{name: "Sala, Pablo and Rakovszky, Tibor and Verresen, Ruben and Knap, Michael and Pollmann, Frank"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "011047"
+  doi: "10.1103/PhysRevX.10.011047"
+
+"Calabrese16":
+  type: article
+  title: "Introduction to “Quantum Integrability in Out of Equilibrium Systems”"
+  author: [{name: "Pasquale Calabrese and Fabian H L Essler and Giuseppe Mussardo"}]
+  date: 2016
+  parent: {type: periodical, title: "J. Stat. Mech.: Theory Exp.", volume: "2016"}
+  page-range: "064001"
+  doi: "10.1088/1742-5468/2016/06/064001"
+
+"Deutsch91":
+  type: article
+  title: "Quantum statistical mechanics in a closed system"
+  author: [{name: "Deutsch, J. M."}]
+  date: 1991
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "43"}
+  page-range: "2046-2049"
+  doi: "10.1103/PhysRevA.43.2046"
+
+"Srednicki94":
+  type: article
+  title: "Chaos and quantum thermalization"
+  author: [{name: "Srednicki, Mark"}]
+  date: 1994
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "50"}
+  page-range: "888-901"
+  doi: "10.1103/PhysRevE.50.888"
+
+"Page93":
+  type: article
+  title: "Average entropy of a subsystem"
+  author: [{name: "Page, Don N."}]
+  date: 1993
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "71"}
+  page-range: "1291-1294"
+  doi: "10.1103/PhysRevLett.71.1291"
+
+"DAlessio14":
+  type: article
+  title: "Long-time Behavior of Isolated Periodically Driven Interacting Lattice Systems"
+  author: [{name: "D'Alessio, Luca and Rigol, Marcos"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "4"}
+  page-range: "041048"
+  doi: "10.1103/PhysRevX.4.041048"
+
+"Ponte15":
+  type: article
+  title: "Periodically driven ergodic and many-body localized quantum systems"
+  author: [{name: "Pedro Ponte and Anushya Chandran and Z. Papić and Dmitry A. Abanin"}]
+  date: 2015
+  parent: {type: periodical, title: "Ann. Phys. (N. Y.)", volume: "353"}
+  page-range: "196-204"
+  doi: "10.1016/j.aop.2014.11.008"
+
+"Kim14":
+  type: article
+  title: "Testing whether all eigenstates obey the eigenstate thermalization hypothesis"
+  author: [{name: "Kim, Hyungwon and Ikeda, Tatsuhiko N. and Huse, David A."}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "90"}
+  page-range: "052105"
+  doi: "10.1103/PhysRevE.90.052105"
+
+"Lazarides14":
+  type: article
+  title: "Equilibrium states of generic quantum systems subject to periodic driving"
+  author: [{name: "Lazarides, Achilleas and Das, Arnab and Moessner, Roderich"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "90"}
+  page-range: "012110"
+  doi: "10.1103/PhysRevE.90.012110"
+
+"DAlessio16":
+  type: article
+  title: "From quantum chaos and eigenstate thermalization to statistical mechanics and thermodynamics"
+  author: [{name: "Luca D'Alessio and Yariv Kafri and Anatoli Polkovnikov and Marcos Rigol"}]
+  date: 2016
+  parent: {type: periodical, title: "Adv. Phys.", volume: "65"}
+  page-range: "239-362"
+  doi: "10.1080/00018732.2016.1198134"
+
+"Mori17":
+  type: article
+  title: ""
+
+"Deutsch18":
+  type: article
+  title: "Eigenstate thermalization hypothesis"
+  author: [{name: "Joshua M Deutsch"}]
+  date: 2018
+  parent: {type: periodical, title: "Rep. Prog. Phys.", volume: "81"}
+  page-range: "082001"
+  doi: "10.1088/1361-6633/aac9f1"
+
+"Goussev16":
+  type: article
+  title: "Loschmidt echo and time reversal in complex systems"
+  author: [{name: "Goussev, Arseni and Jalabert, Rodolfo A. and Pastawski, Horacio M. and Wisniacki, Diego A."}]
+  date: 2016
+  parent: {type: periodical, title: "Philos. Trans. Royal Soc. A", volume: "374"}
+  page-range: "20150383"
+
+"Gorin06":
+  type: article
+  title: "Dynamics of Loschmidt echoes and fidelity decay"
+  author: [{name: "T. Gorin and T. Prosen and T. H. Seligman and M.~Žnidarič"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rep.", volume: "435"}
+  serial-number: "33 - 156"
+  doi: "https://doi.org/10.1016/j.physrep.2006.09.003"
+
+"Znidaric08":
+  type: article
+  title: "Many-body localization in the Heisenberg XXZ magnet in a random field"
+  author: [{name: "Žnidarič, M. and Prosen, T. and Prelovšek, P."}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "77"}
+  page-range: "064426"
+  doi: "10.1103/PhysRevB.77.064426"
+
+"Mehta04":
+  type: article
+  title: "Random matrices"
+  author: [{name: "Mehta, Madan Lal"}]
+  date: 2004
+
+"Oganesyan07":
+  type: article
+  title: "Localization of interacting fermions at high temperature"
+  author: [{name: "Oganesyan, Vadim and Huse, David A."}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "75"}
+  page-range: "155111"
+  doi: "10.1103/PhysRevB.75.155111"
+
+"PhysRevLett.110.084101":
+  type: article
+  title: "Distribution of the Ratio of Consecutive Level Spacings in Random Matrix Ensembles"
+  author: [{name: "Atas, Y. Y. and Bogomolny, E. and Giraud, O. and Roux, G."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "110"}
+  page-range: "084101"
+  doi: "10.1103/PhysRevLett.110.084101"
+
+"Lee:2020":
+  type: article
+  title: "Exact three-colored quantum scars from geometric frustration"
+  author: [{name: "Lee, Kyungmin and Melendrez, Ronald and Pal, Arijeet and Changlani, Hitesh J."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "241111"
+  doi: "10.1103/PhysRevB.101.241111"
+
+"Pal10":
+  type: article
+  title: "Many-body localization phase transition"
+  author: [{name: "Pal, Arijeet and Huse, David A."}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "82"}
+  page-range: "174411"
+  doi: "10.1103/PhysRevB.82.174411"
+
+"Bardarson12":
+  type: article
+  title: "Unbounded Growth of Entanglement in Models of Many-Body Localization"
+  author: [{name: "Bardarson, Jens H. and Pollmann, Frank and Moore, Joel E."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "109"}
+  page-range: "017202"
+  doi: "10.1103/PhysRevLett.109.017202"
+
+"Abanin19":
+  type: article
+  title: "Colloquium: Many-body localization, thermalization, and entanglement"
+  author: [{name: "Abanin, Dmitry A. and Altman, Ehud and Bloch, Immanuel and Serbyn, Maksym"}]
+  date: 2019
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "91"}
+  page-range: "021001"
+  doi: "10.1103/RevModPhys.91.021001"
+
+"Nandkishore15":
+  type: article
+  title: "Many-Body Localization and Thermalization in Quantum Statistical Mechanics"
+  author: [{name: "Rahul Nandkishore and David A. Huse"}]
+  date: 2015
+  parent: {type: periodical, title: "Annu. Rev. Condens. Matter Phys", volume: "6"}
+  page-range: "15-38"
+  doi: "10.1146/annurev-conmatphys-031214-014726"
+
+"Altman15":
+  type: article
+  title: "Universal Dynamics and Renormalization in Many-Body-Localized Systems"
+  author: [{name: "Ehud Altman and Ronen Vosk"}]
+  date: 2015
+  parent: {type: periodical, title: "Annu. Rev. Condens. Matter Phys", volume: "6"}
+  page-range: "383-409"
+  doi: "10.1146/annurev-conmatphys-031214-014701"
+
+"Parameswaran17":
+  type: article
+  title: "Eigenstate phase transitions and the emergence of universal dynamics in highly excited states"
+  author: [{name: "Parameswaran, S. A. and Potter, Andrew C. and Vasseur, Romain"}]
+  date: 2017
+  parent: {type: periodical, title: "Ann. Phys. (Berl.)", volume: "529"}
+  page-range: "1600302"
+
+"Serbyn13":
+  type: article
+  title: "Local Conservation Laws and the Structure of the Many-Body Localized States"
+  author: [{name: "Serbyn, Maksym and Papić, Z. and Abanin, Dmitry A."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "111"}
+  page-range: "127201"
+  doi: "10.1103/PhysRevLett.111.127201"
+
+"Huse14":
+  type: article
+  title: "Phenomenology of fully many-body-localized systems"
+  author: [{name: "Huse, David A. and Nandkishore, Rahul and Oganesyan, Vadim"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "90"}
+  page-range: "174202"
+  doi: "10.1103/PhysRevB.90.174202"
+
+"Swingle13":
+  type: misc
+  title: "A simple model of many-body localization"
+  author: [{name: "Brian Swingle"}]
+  date: 2013
+  serial-number: "arXiv:arXiv:1307.0507"
+
+"Kollar08":
+  type: article
+  title: "Relaxation of a one-dimensional Mott insulator after an interaction quench"
+  author: [{name: "Kollar, Marcus and Eckstein, Martin"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "78"}
+  page-range: "013626"
+  doi: "10.1103/PhysRevA.78.013626"
+
+"Rigol08":
+  type: article
+  title: "Thermalization and its mechanism for generic isolated quantum systems"
+  author: [{name: "M. Rigol and V. Dunjko and M. Olshanii"}]
+  date: 2008
+  parent: {type: periodical, title: "Nature", volume: "452"}
+  page-range: "854"
+  doi: "doi:10.1038/nature06838"
+
+"Freivogel12":
+  type: article
+  title: "Exactly stable collective oscillations in conformal field theory"
+  author: [{name: "Freivogel, Ben and McGreevy, John and Suh, S. Josephine"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "85"}
+  page-range: "105002"
+  doi: "10.1103/PhysRevD.85.105002"
+
+"Crowley:2020":
+  type: article
+  title: "A constructive theory of the numerically accessible many-body localized to thermal crossover"
+  author: [{name: "Crowley, Philip J. D. and Chandran, Anushya"}]
+  date: 2020
+  doi: "10.48550/ARXIV.2012.14393"
+
+"MoudgalyaReview:2021":
+  type: article
+  title: "Quantum Many-Body Scars and Hilbert Space Fragmentation: A Review of Exact Results"
+  author: [{name: "Moudgalya, Sanjay and Bernevig, B. Andrei and Regnault, Nicolas"}]
+  date: 2021
+  doi: "10.48550/ARXIV.2109.00548"
+
+"SerbynReview:2021":
+  type: article
+  title: "Quantum many-body scars and weak breaking of ergodicity"
+  author: [{name: "Serbyn, Maksym and Abanin, Dmitry A. and Papić, Zlatko"}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Physics", volume: "17"}
+  page-range: "675-685"
+
+"Morningstar:2021":
+  type: article
+  title: "Avalanches and many-body resonances in many-body localized systems"
+  author: [{name: "Morningstar, Alan and Colmenarez, Luis and Khemani, Vedika and Luitz, David J. and Huse, David A."}]
+  date: 2021
+  doi: "10.48550/ARXIV.2107.05642"
+
+"Abanin:2021vq":
+  type: article
+  title: "Distinguishing localization from chaos: Challenges in finite-size systems"
+  author: [{name: "D.A. Abanin and J.H. Bardarson and G. De Tomasi and S. Gopalakrishnan and V. Khemani and S.A. Parameswaran and F. Pollmann and A.C. Potter and M. Serbyn and R. Vasseur"}]
+  date: 2021
+  parent: {type: periodical, title: "Annals of Physics", volume: "427"}
+  page-range: "168415"
+
+"Sels2021":
+  type: article
+  title: "Dynamical obstruction to localization in a disordered spin chain"
+  author: [{name: "Sels, Dries and Polkovnikov, Anatoli"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "104"}
+  page-range: "054105"
+  doi: "10.1103/PhysRevE.104.054105"
+
+"Suntajs2020":
+  type: article
+  title: "Quantum chaos challenges many-body localization"
+  author: [{name: "Šuntajs, Jan and Bonča, Janez and Prosen, Tomaz and Vidmar, Lev"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "102"}
+  page-range: "062144"
+  doi: "10.1103/PhysRevE.102.062144"
+
+"Schrieffer66":
+  type: article
+  title: "Relation between the Anderson and Kondo Hamiltonians"
+  author: [{name: "Schrieffer, J. R. and Wolff, P. A."}]
+  date: 1966
+  parent: {type: periodical, title: "Phys. Rev.", volume: "149"}
+  page-range: "491-492"
+  doi: "10.1103/PhysRev.149.491"
+
+"Bravyi11":
+  type: article
+  title: "Schrieffer–Wolff transformation for quantum many-body systems"
+  author: [{name: "Bravyi, S. and DiVincenzo, D. P. and Loss, D."}]
+  date: 2011
+  parent: {type: periodical, title: "Ann. Phys. (N. Y.)", volume: "326"}
+  page-range: "2793-2826"
+  doi: "10.1016/j.aop.2011.06.004"
+
+"Yang20":
+  type: article
+  title: "Hilbert-Space Fragmentation from Strict Confinement"
+  author: [{name: "Yang, Zhi-Cheng and Liu, Fangli and Gorshkov, Alexey V. and Iadecola, Thomas"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "124"}
+  page-range: "207602"
+  doi: "10.1103/PhysRevLett.124.207602"
+
+"Moudgalya19b":
+  type: article
+  title: "Thermalization and Its Absence within Krylov Subspaces of a Constrained Hamiltonian"
+  author: [{name: "Sanjay Moudgalya and Abhinav Prem and Rahul Nandkishore and Nicolas Regnault and B. Andrei Bernevig"}]
+  date: 2021
+  parent: {type: proceedings, title: "Memorial Volume for Shoucheng Zhang"}
+  page-range: "147-209"
+  doi: "10.1142/9789811231711_0009"
+
+"DeTomasi19":
+  type: article
+  title: "Dynamics of strongly interacting systems: From Fock-space fragmentation to many-body localization"
+  author: [{name: "De Tomasi, Giuseppe and Hetterich, Daniel and Sala, Pablo and Pollmann, Frank"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "100"}
+  page-range: "214313"
+  doi: "10.1103/PhysRevB.100.214313"
+
+"Rakovszky20":
+  type: article
+  title: "Statistical localization: From strong fragmentation to strong edge modes"
+  author: [{name: "Rakovszky, Tibor and Sala, Pablo and Verresen, Ruben and Knap, Michael and Pollmann, Frank"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "125126"
+  doi: "10.1103/PhysRevB.101.125126"
+
+"Tang21":
+  type: misc
+  title: "Multi-magnon quantum many-body scars from tensor operators"
+  author: [{name: "Long-Hin Tang and Nicholas O'Dea and Anushya Chandran"}]
+  date: 2021
+  serial-number: "arXiv:arXiv:2110.11448"
+
+"ODea20":
+  type: article
+  title: "From tunnels to towers: Quantum scars from Lie algebras and q-deformed Lie algebras"
+  author: [{name: "O'Dea, Nicholas and Burnell, Fiona and Chandran, Anushya and Khemani, Vedika"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "043305"
+  doi: "10.1103/PhysRevResearch.2.043305"
+
+"Labuhn16":
+  type: article
+  title: "Tunable two-dimensional arrays of single Rydberg atoms for realizing quantum Ising models"
+  author: [{name: "Labuhn, Henning and Barredo, Daniel and Ravets, Sylvain and De Léséleuc, Sylvain and Macrì, Tommaso and Lahaye, Thierry and Browaeys, Antoine"}]
+  date: 2016
+  parent: {type: periodical, title: "Nature", volume: "534"}
+  page-range: "667-670"
+
+"Ebadi20":
+  type: misc
+  title: "Quantum Phases of Matter on a 256-Atom Programmable Quantum Simulator"
+  author: [{name: "Sepehr Ebadi and Tout T. Wang and Harry Levine and Alexander Keesling and Giulia Semeghini and Ahmed Omran and Dolev Bluvstein and Rhine Samajdar and Hannes Pichler and Wen Wei Ho and Soonwon Choi and Subir Sachdev and Markus Greiner and Vladan Vuletic and Mikhail D. Lukin"}]
+  serial-number: "arXiv:2012.12281"
+
+"Scholl20":
+  type: misc
+  title: "Programmable quantum simulation of 2D antiferromagnets with hundreds of Rydberg atoms"
+  author: [{name: "Pascal Scholl and Michael Schuler and Hannah J. Williams and Alexander A. Eberharter and Daniel Barredo and Kai-Niklas Schymik and Vincent Lienhard and Louis-Paul Henry and Thomas C. Lang and Thierry Lahaye and Andreas M. Läuchli and Antoine Browaeys"}]
+  serial-number: "arXiv:2012.12268"
+
+"Bluvstein21":
+  type: article
+  title: "Controlling quantum many-body dynamics in driven Rydberg atom arrays"
+  author: [{name: "Bluvstein, D. and Omran, A. and Levine, H. and Keesling, A. and Semeghini, G. and Ebadi, S. and Wang, T. T. and Michailidis, A. A. and Maskara, N. and Ho, W. W. and et al."}]
+  date: 2021
+  parent: {type: periodical, title: "Science"}
+  serial-number: "eabg2530"
+  doi: "10.1126/science.abg2530"
+
+"Morgado20":
+  type: article
+  title: "Quantum simulation and computing with Rydberg-interacting qubits"
+  author: [{name: "M. Morgado and S. Whitlock"}]
+  date: 2021
+  parent: {type: periodical, title: "AVS Quantum Science", volume: "3"}
+  page-range: "023501"
+  doi: "10.1116/5.0036562"
+
+"Urban09":
+  type: article
+  title: "Observation of Rydberg blockade between two atoms"
+  author: [{name: "Urban, E. and Johnson, T. A. and Henage, T. and Isenhower, L. and Yavuz, D. D. and Walker, T. G. and Saffman, M."}]
+  date: 2009
+  parent: {type: periodical, title: "Nature Physics", volume: "5"}
+  serial-number: "110–114"
+  doi: "10.1038/nphys1178"
+
+"Fendley04":
+  type: article
+  title: "Competing density-wave orders in a one-dimensional hard-boson model"
+  author: [{name: "Fendley, Paul and Sengupta, K. and Sachdev, Subir"}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "69"}
+  page-range: "075106"
+  doi: "10.1103/physrevb.69.075106"
+
+"Domb60":
+  type: article
+  title: "On the theory of cooperative phenomena in crystals"
+  author: [{name: "C. Domb"}]
+  date: 1960
+  parent: {type: periodical, title: "Advances in Physics", volume: "9"}
+  page-range: "149-244"
+  doi: "10.1080/00018736000101189"
+
+"Pancotti20":
+  type: article
+  title: "Quantum East Model: Localization, Nonthermal Eigenstates, and Slow Dynamics"
+  author: [{name: "Pancotti, Nicola and Giudice, Giacomo and Cirac, J. Ignacio and Garrahan, Juan P. and Bañuls, Mari Carmen"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "021051"
+  doi: "10.1103/physrevx.10.021051"
+
+"Garrahan02":
+  type: article
+  title: "Geometrical Explanation and Scaling of Dynamical Heterogeneities in Glass Forming Systems"
+  author: [{name: "Garrahan, Juan P. and Chandler, David"}]
+  date: 2002
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "89"}
+  page-range: "035704"
+  doi: "10.1103/PhysRevLett.89.035704"
+
+"Lan18":
+  type: article
+  title: "Quantum Slow Relaxation and Metastability due to Dynamical Constraints"
+  author: [{name: "Lan, Zhihao and van Horssen, Merlijn and Powell, Stephen and Garrahan, Juan P."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "121"}
+  page-range: "040603"
+  doi: "10.1103/PhysRevLett.121.040603"
+
+"Garrahan07":
+  type: article
+  title: "Dynamical First-Order Phase Transition in Kinetically Constrained Models of Glasses"
+  author: [{name: "Garrahan, J. P. and Jack, R. L. and Lecomte, V. and Pitard, E. and van Duijvendijk, K. and van Wijland, F."}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "98"}
+  page-range: "195702"
+  doi: "10.1103/PhysRevLett.98.195702"
+
+"VanHorssen15":
+  type: article
+  title: "Dynamics of many-body localization in a translation-invariant quantum glass model"
+  author: [{name: "van Horssen, Merlijn and Levi, Emanuele and Garrahan, Juan P."}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "92"}
+  page-range: "100305"
+  doi: "10.1103/PhysRevB.92.100305"
+
+"Turner20":
+  type: article
+  title: "Correspondence Principle for Many-Body Scars in Ultracold Rydberg Atoms"
+  author: [{name: "Turner, C. J. and Desaules, J.-Y. and Bull, K. and Papić, Z."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "11"}
+  page-range: "021021"
+  doi: "10.1103/PhysRevX.11.021021"
+
+"Moessner01":
+  type: article
+  title: "Ising models of quantum frustration"
+  author: [{name: "Moessner, R. and Sondhi, S. L."}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "63"}
+  page-range: "224401"
+  doi: "10.1103/physrevb.63.224401"
+
+"Laumann12":
+  type: article
+  title: "Quantum Adiabatic Algorithm and Scaling of Gaps at First-Order Quantum Phase Transitions"
+  author: [{name: "Laumann, C. R. and Moessner, R. and Scardicchio, A. and Sondhi, S. L."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "109"}
+  page-range: "030502"
+  doi: "10.1103/physrevlett.109.030502"
+
+"McClarty:2020":
+  type: article
+  title: "Disorder-free localization and many-body quantum scars from magnetic frustration"
+  author: [{name: "McClarty, Paul A. and Haque, Masudul and Sen, Arnab and Richter, Johannes"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "224303"
+  doi: "10.1103/PhysRevB.102.224303"
+
+"McCoy78":
+  type: article
+  title: "Two-dimensional Ising field theory in a magnetic field: Breakup of the cut in the two-point function"
+  author: [{name: "McCoy, Barry M. and Wu, Tai Tsun"}]
+  date: 1978
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "18"}
+  page-range: "1259-1267"
+  doi: "10.1103/PhysRevD.18.1259"
+
+"Rutkevich08":
+  type: article
+  title: "Energy spectrum of bound-spinons in the quantum Ising spin-chain ferromagnet"
+  author: [{name: "Rutkevich, SB"}]
+  date: 2008
+  parent: {type: periodical, title: "J. Stat. Phys.", volume: "131"}
+  page-range: "917-939"
+
+"Kormos17":
+  type: article
+  title: "Real-time confinement following a quantum quench to a non-integrable model"
+  author: [{name: "Kormos, Marton and Collura, Mario and Takács, Gabor and Calabrese, Pasquale"}]
+  date: 2017
+  parent: {type: periodical, title: "Nat. Phys.", volume: "13"}
+  page-range: "246"
+
+"Liu19":
+  type: article
+  title: "Confined Quasiparticle Dynamics in Long-Range Interacting Quantum Spin Chains"
+  author: [{name: "Liu, Fangli and Lundgren, Rex and Titum, Paraj and Pagano, Guido and Zhang, Jiehang and Monroe, Christopher and Gorshkov, Alexey V."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "150601"
+  doi: "10.1103/PhysRevLett.122.150601"
+
+"Tan19":
+  type: misc
+  title: "Observation of Domain Wall Confinement and Dynamics in a Quantum Simulator"
+  author: [{name: "W. L. Tan and P. Becker and F. Liu and G. Pagano and K. S. Collins and A. De and L. Feng and H. B. Kaplan and A. Kyprianidis and R. Lundgren and W. Morong and S. Whitsitt and A. V. Gorshkov and C. Monroe"}]
+  serial-number: "arXiv:1912.11117"
+
+"Pai20":
+  type: article
+  title: "Fractons from confinement in one dimension"
+  author: [{name: "Pai, Shriya and Pretko, Michael"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "013094"
+  doi: "10.1103/physrevresearch.2.013094"
+
+"Prosen03":
+  type: article
+  title: "Theory of Quantum Loschmidt Echoes"
+  author: [{name: "Prosen, Tomaž and Seligman, Thomas H. and Žnidarič, Marko"}]
+  date: 2003
+  parent: {type: periodical, title: "Progress of Theoretical Physics Supplement", volume: "150"}
+  serial-number: "200–228"
+  doi: "10.1143/ptps.150.200"
+
+"Michailidis20":
+  type: article
+  title: "Stabilizing two-dimensional quantum scars by deformation and synchronization"
+  author: [{name: "Michailidis, A. A. and Turner, C. J. and Papić, Z. and Abanin, D. A. and Serbyn, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "022065"
+  doi: "10.1103/physrevresearch.2.022065"
+
+"Lin20":
+  type: article
+  title: "Quantum many-body scar states in two-dimensional Rydberg atom arrays"
+  author: [{name: "Lin, Cheng-Ju and Calvera, Vladimir and Hsieh, Timothy H."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "101"}
+  page-range: "220304"
+  doi: "10.1103/physrevb.101.220304"
+
+"Chandrasekharan97":
+  type: article
+  title: "Quantum link models: A discrete approach to gauge theories"
+  author: [{name: "Chandrasekharan, Shailesh and Wiese, U-J"}]
+  date: 1997
+  parent: {type: periodical, title: "Nuclear Physics B", volume: "492"}
+  page-range: "455-471"
+
+"Orland90":
+  type: article
+  title: "Lattice gauge magnets: Local isospin from spin"
+  author: [{name: "Orland, Peter and Rohrlich, Daniel"}]
+  date: 1990
+  parent: {type: periodical, title: "Nuclear Physics B", volume: "338"}
+  page-range: "647-672"
+
+"Banerjee13":
+  type: article
+  title: "Atomic Quantum Simulation of U(N) and SU(N) Non-Abelian Lattice Gauge Theories"
+  author: [{name: "Banerjee, D. and Bögli, M. and Dalmonte, M. and Rico, E. and Stebler, P. and Wiese, U.-J. and Zoller, P."}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "110"}
+  page-range: "125303"
+  doi: "10.1103/PhysRevLett.110.125303"
+
+"MondragonShem21":
+  type: article
+  title: "Fate of Quantum Many-Body Scars in the Presence of Disorder"
+  author: [{name: "Mondragon-Shem, Ian and Vavilov, Maxim G. and Martin, Ivar"}]
+  date: 2021
+  parent: {type: periodical, title: "PRX Quantum", volume: "2"}
+  page-range: "030349"
+  doi: "10.1103/PRXQuantum.2.030349"
+
+"Desaules21":
+  type: misc
+  title: "Hypergrid subgraphs and the origin of scarred quantum walks in the many-body Hilbert space"
+  author: [{name: "Jean-Yves Desaules and Kieran Bull and Aiden Daniel and Zlatko Papić"}]
+  date: 2021
+  serial-number: "arXiv:2112.06885"
+
+"Windt21":
+  type: article
+  title: "Squeezing Quantum Many-Body Scars"
+  author: [{name: "Windt, Bennet and Pichler, Hannes"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "128"}
+  page-range: "090606"
+  doi: "10.1103/PhysRevLett.128.090606"
+
+"Su22":
+  type: misc
+  title: "Observation of unconventional many-body scarring in a quantum simulator"
+  author: [{name: "Guo-Xian Su and Hui Sun and Ana Hudomal and Jean-Yves Desaules and Zhao-Yu Zhou and Bing Yang and Jad C. Halimeh and Zhen-Sheng Yuan and Zlatko Papić and Jian-Wei Pan"}]
+  date: 2022
+  serial-number: "arXiv:2201.00821"
+
+"Banerjee21":
+  type: article
+  title: "Quantum Scars from Zero Modes in an Abelian Lattice Gauge Theory on Ladders"
+  author: [{name: "Banerjee, Debasish and Sen, Arnab"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "220601"
+  doi: "10.1103/PhysRevLett.126.220601"
+
+"Franchini:2017vz":
+  type: article
+  title: "An Introduction to Integrable Techniques for One-Dimensional Quantum Systems"
+  author: [{name: "Franchini, Fabio"}]
+  date: 2017
+
+"Biswas22":
+  type: misc
+  title: "Scars from protected zero modes and beyond in U(1) quantum link and quantum dimer models, author=Saptarshi Biswas and Debasish Banerjee and Arnab Sen"
+  author: [{name: "Saptarshi Biswas and Debasish Banerjee and Arnab Sen"}]
+  date: 2022
+  serial-number: "arXiv:2202.03451"
+
+"Wildeboer21":
+  type: article
+  title: "Topological quantum many-body scars in quantum dimer models on the kagome lattice"
+  author: [{name: "Wildeboer, Julia and Seidel, Alexander and Srivatsa, N. S. and Nielsen, Anne E. B. and Erten, Onur"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "104"}
+  serial-number: "L121103"
+  doi: "10.1103/PhysRevB.104.L121103"
+
+"Srivatsa20b":
+  type: article
+  title: "Quantum many-body scars with chiral topological order in two dimensions and critical properties in one dimension"
+  author: [{name: "Srivatsa, N. S. and Wildeboer, Julia and Seidel, Alexander and Nielsen, Anne E. B."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "102"}
+  page-range: "235106"
+  doi: "10.1103/PhysRevB.102.235106"
+
+"Aramthottil22":
+  type: misc
+  title: "Scar States in Deconfined Z₂ Lattice Gauge Theories, author=Adith Sai Aramthottil and Utso Bhattacharya and Daniel González-Cuadra and Maciej Lewenstein and Luca Barbiero and Jakub Zakrzewski"
+  author: [{name: "Adith Sai Aramthottil and Utso Bhattacharya and Daniel González-Cuadra and Maciej Lewenstein and Luca Barbiero and Jakub Zakrzewski"}]
+  date: 2022
+  serial-number: "arXiv:2201.10260"
+
+"Verresen:2019":
+  type: article
+  title: "Avoided quasiparticle decay from strong quantum interactions"
+  author: [{name: "Verresen, Ruben and Moessner, Roderich and Pollmann, Frank"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Physics", volume: "15"}
+  page-range: "750-753"
+  doi: "10.1038/s41567-019-0535-3"
+
+"Mori18":
+  type: article
+  title: "Thermalization and prethermalization in isolated quantum systems: a theoretical overview"
+  author: [{name: "Takashi Mori and Tatsuhiko N Ikeda and Eriko Kaminishi and Masahito Ueda"}]
+  date: 2018
+  parent: {type: periodical, title: "Journal of Physics B: Atomic, Molecular and Optical Physics", volume: "51"}
+  page-range: "112001"
+  doi: "10.1088/1361-6455/aabcdf"
+
+"Shastry:1981":
+  type: article
+  title: "Exact ground state of a quantum mechanical antiferromagnet"
+  author: [{name: "Shastry, B.Sriram and Sutherland, Bill"}]
+  date: 1981
+  parent: {type: periodical, title: "Physica", volume: "108B"}
+  page-range: "1069-1070"
+
+"Sutherland04":
+  type: article
+  title: "Beautiful models: 70 years of exactly solved quantum many-body problems"
+  author: [{name: "Sutherland, Bill"}]
+  date: 2004
+
+"Essler05":
+  type: article
+  title: "The one-dimensional Hubbard model"
+  author: [{name: "Essler, Fabian HL and Frahm, Holger and Göhmann, Frank and Klümper, Andreas and Korepin, Vladimir E"}]
+  date: 2005
+
+"Giamarchi03":
+  type: article
+  title: "Quantum physics in one dimension"
+  author: [{name: "Giamarchi, Thierry"}]
+  date: 2003
+
+"Chen22":
+  type: misc
+  title: "Error-Mitigated Simulation of Quantum Many-Body Scars on Quantum Computers with Pulse-Level Control"
+  author: [{name: "I-Chi Chen and Benjamin Burdick and Yongxin Yao and Peter P. Orth and Thomas Iadecola"}]
+  date: 2022
+  serial-number: "arXiv:arXiv:2203.08291"
+
+"Zhang22":
+  type: misc
+  title: "Many-body Hilbert space scarring on a superconducting processor"
+  author: [{name: "Pengfei Zhang and Hang Dong and Yu Gao and Liangtian Zhao and Jie Hao and Qiujiang Guo and Jiachen Chen and Jinfeng Deng and Bobo Liu and Wenhui Ren and Yunyan Yao and Xu Zhang and Shibo Xu and Ke Wang and Feitong Jin and Xuhao Zhu and Hekang Li and Chao Song and Zhen Wang and Fangli Liu and Zlatko Papić and Lei Ying and H. Wang and Ying-Cheng Lai"}]
+  date: 2022
+  serial-number: "arXiv:arXiv:2201.03438"
+
+"CamposVenuti15":
+  type: misc
+  title: "The recurrence time in quantum mechanics"
+  author: [{name: "Lorenzo Campos Venuti"}]
+  date: 2015
+  serial-number: "arXiv:arXiv:1509.04352"
+
+"Ren21":
+  type: article
+  title: "Quasisymmetry Groups and Many-Body Scar Dynamics"
+  author: [{name: "Ren, Jie and Liang, Chenguang and Fang, Chen"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "126"}
+  page-range: "120604"
+  doi: "10.1103/PhysRevLett.126.120604"
+
+"Pakrouski20":
+  type: article
+  title: "Many-Body Scars as a Group Invariant Sector of Hilbert Space"
+  author: [{name: "Pakrouski, K. and Pallegar, P. N. and Popov, F. K. and Klebanov, I. R."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "230602"
+  doi: "10.1103/PhysRevLett.125.230602"
+
+"Charbonneau:2017ul":
+  type: article
+  title: "Glass and Jamming Transitions: From Exact Results to Finite-Dimensional Descriptions"
+  author: [{name: "Charbonneau, Patrick and Kurchan, Jorge and Parisi, Giorgio and Urbani, Pierfrancesco and Zamponi, Francesco"}]
+  date: 2017
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "8"}
+  page-range: "265-288"
+
+"Pakrouski21":
+  type: article
+  title: "Group theoretic approach to many-body scar states in fermionic lattice models"
+  author: [{name: "Pakrouski, K. and Pallegar, P. N. and Popov, F. K. and Klebanov, I. R."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "3"}
+  page-range: "043156"
+  doi: "10.1103/PhysRevResearch.3.043156"
+
+"Dooley21":
+  type: article
+  title: "Robust Quantum Sensing in Strongly Interacting Systems with Many-Body Scars"
+  author: [{name: "Dooley, Shane"}]
+  date: 2021
+  parent: {type: periodical, title: "PRX Quantum", volume: "2"}
+  page-range: "020330"
+  doi: "10.1103/PRXQuantum.2.020330"
+
+"Cassidy11":
+  type: article
+  title: "Generalized Thermalization in an Integrable Lattice System"
+  author: [{name: "Cassidy, Amy C. and Clark, Charles W. and Rigol, Marcos"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "106"}
+  page-range: "140405"
+  doi: "10.1103/PhysRevLett.106.140405"
+
+"Rigol07":
+  type: article
+  title: "Relaxation in a Completely Integrable Many-Body Quantum System: An Ab Initio Study of the Dynamics of the Highly Excited States of 1D Lattice Hard-Core Bosons"
+  author: [{name: "Rigol, Marcos and Dunjko, Vanja and Yurovsky, Vladimir and Olshanii, Maxim"}]
+  date: 2007
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "98"}
+  page-range: "050405"
+  doi: "10.1103/PhysRevLett.98.050405"
+
+"Vidmar16":
+  type: article
+  title: "Generalized Gibbs ensemble in integrable lattice models"
+  author: [{name: "Vidmar, Lev and Rigol, Marcos"}]
+  date: 2016
+  parent: {type: periodical, title: "Journal of Statistical Mechanics: Theory and Experiment", volume: "2016"}
+  page-range: "064007"
+
+"You_2020":
+  type: article
+  title: "Fracton phases of matter"
+  author: [{name: "Pretko, Michael and Chen, Xie and You, Yizhi"}]
+  date: 2020
+  parent: {type: periodical, title: "International Journal of Modern Physics A", volume: "35"}
+  page-range: "2030003"
+  doi: "10.1142/S0217751X20300033"
+
+"Nand_2019":
+  type: article
+  title: "Fractons"
+  author: [{name: "Nandkishore, Rahul M. and Hermele, Michael"}]
+  date: 2019
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "10"}
+  page-range: "295-313"
+  doi: "10.1146/annurev-conmatphys-031218-013604"
+
+"Rezayi_1994":
+  type: article
+  title: "Laughlin state on stretched and squeezed cylinders and edge excitations in the quantum Hall effect"
+  author: [{name: "Rezayi, E. H. and Haldane, F. D. M."}]
+  date: 1994
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "50"}
+  page-range: "17199-17207"
+  doi: "10.1103/PhysRevB.50.17199"
+
+"Schulz_2019":
+  type: article
+  title: "Stark Many-Body Localization"
+  author: [{name: "Schulz, M. and Hooley, C. A. and Moessner, R. and Pollmann, F."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "122"}
+  page-range: "040606"
+  doi: "10.1103/PhysRevLett.122.040606"
+
+"Refael_2019":
+  type: article
+  title: "From Bloch oscillations to many-body localization in clean interacting systems"
+  author: [{name: "van Nieuwenburg, Evert and Baum, Yuval and Refael, Gil"}]
+  date: 2019
+  parent: {type: periodical, title: "Proceedings of the National Academy of Science", volume: "116"}
+  page-range: "9269-9274"
+  doi: "10.1073/pnas.1819316116"
+
+"Guo_2021":
+  type: article
+  title: "Stark Many-Body Localization on a Superconducting Quantum Processor"
+  author: [{name: "Guo, Qiujiang and Cheng, Chen and Li, Hekang and Xu, Shibo and Zhang, Pengfei and Wang, Zhen and Song, Chao and Liu, Wuxin and Ren, Wenhui and Dong, Hang and Mondaini, Rubem and Wang, H."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "240502"
+  doi: "10.1103/PhysRevLett.127.240502"
+
+"Iaconis21":
+  type: article
+  title: "Multipole conservation laws and subdiffusion in any dimension"
+  author: [{name: "Iaconis, Jason and Lucas, Andrew and Nandkishore, Rahul"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "103"}
+  page-range: "022142"
+  doi: "10.1103/PhysRevE.103.022142"
+
+"Grosvenor21":
+  type: article
+  title: "Hydrodynamics of ideal fracton fluids"
+  author: [{name: "Grosvenor, Kevin T. and Hoyos, Carlos and Peña-Benitez, Francisco and Surówka, Piotr"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "3"}
+  page-range: "043186"
+  doi: "10.1103/PhysRevResearch.3.043186"
+
+"Gromov20":
+  type: article
+  title: "Fracton hydrodynamics"
+  author: [{name: "Gromov, Andrey and Lucas, Andrew and Nandkishore, Rahul M."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Research", volume: "2"}
+  page-range: "033124"
+  doi: "10.1103/PhysRevResearch.2.033124"
+
+"Morong_2021":
+  type: article
+  title: "Observation of Stark many-body localization without disorder"
+  author: [{name: "Morong, W. and Liu, F. and Becker, P. and Collins, K. S. and Feng, L. and Kyprianidis, A. and Pagano, G. and You, T. and Gorshkov, A. V. and Monroe, C."}]
+  date: 2021
+  parent: {type: periodical, title: "Nature", volume: "599"}
+  page-range: "393-398"
+  doi: "10.1038/s41586-021-03988-0"
+
+"Wang_2021":
+  type: article
+  title: "Stark many-body localization transitions in superconducting circuits"
+  author: [{name: "Wang, Yong-Yi and Sun, Zheng-Hang and Fan, Heng"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "104"}
+  page-range: "205122"
+  doi: "10.1103/PhysRevB.104.205122"
+
+"Cepas_2019":
+  type: article
+  title: "Invariants of winding-numbers and steric obstruction in dynamics of flux lines"
+  author: [{name: "CEPAS, Olivier and Akhmetiev, Peter"}]
+  date: 2019
+  parent: {type: periodical, title: "SciPost Physics", volume: "7"}
+  doi: "10.21468/SciPostPhys.7.3.032"
+
+"Yin_2001":
+  type: article
+  title: "Entropy-Vanishing Transition and Glassy Dynamics in Frustrated Spins"
+  author: [{name: "Yin, Hui and Chakraborty, Bulbul"}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "86"}
+  page-range: "2058-2061"
+  doi: "10.1103/PhysRevLett.86.2058"
+
+"Pandey:2020uo":
+  type: article
+  title: "Adiabatic Eigenstate Deformations as a Sensitive Probe for Quantum Chaos"
+  author: [{name: "Pandey, Mohit and Claeys, Pieter W. and Campbell, David K. and Polkovnikov, Anatoli and Sels, Dries"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "041017"
+
+"Santos:2010va":
+  type: article
+  title: "Onset of quantum chaos in one-dimensional bosonic and fermionic systems and its relation to thermalization"
+  author: [{name: "Santos, Lea F. and Rigol, Marcos"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "81"}
+  page-range: "036206"
+
+"Rabson:2004nx":
+  type: article
+  title: "Crossover from Poisson to Wigner-Dyson level statistics in spin chains with integrability breaking"
+  author: [{name: "Rabson, D. A. and Narozhny, B. N. and Millis, A. J."}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "69"}
+  page-range: "054403"
+
+"Maskara21":
+  type: article
+  title: "Discrete Time-Crystalline Order Enabled by Quantum Many-Body Scars: Entanglement Steering via Periodic Driving"
+  author: [{name: "Maskara, N. and Michailidis, A. A. and Ho, W. W. and Bluvstein, D. and Choi, S. and Lukin, M. D. and Serbyn, M."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "090602"
+  doi: "10.1103/PhysRevLett.127.090602"
+
+"Chayes_1989":
+  type: article
+  title: "Valence bond ground states in a frustrated two-dimensional spin-1/2 Heisenberg antiferromagnet"
+  author: [{name: "Chayes, J. T. and Chayes, L. and Kivelson, S. A."}]
+  date: 1989
+  parent: {type: periodical, title: "Communications in Mathematical Physics", volume: "123"}
+  page-range: "53-83"
+  doi: "10.1007/BF01244017"
+
+"Bethe_1931":
+  type: article
+  title: "Zur Theorie der Metalle"
+  author: [{name: "Bethe, H."}]
+  date: 1931
+  parent: {type: periodical, title: "Zeitschrift fur Physik", volume: "71"}
+  page-range: "205-226"
+  doi: "10.1007/BF01341708"
+
+"Modak:2014":
+  type: article
+  title: "Universal power law in crossover from integrability to quantum chaos"
+  author: [{name: "Modak, Ranjan and Mukerjee, Subroto and Ramaswamy, Sriram"}]
+  date: 2014
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "90"}
+  page-range: "075152"
+  doi: "10.1103/PhysRevB.90.075152"
+
+"Srivatsa_20":
+  type: article
+  title: "Many-body Delocalization via Emergent Symmetry"
+  author: [{name: "Srivatsa, N. S. and Moessner, Roderich and Nielsen, Anne E. B."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "240401"
+  doi: "10.1103/PhysRevLett.125.240401"
+
+"Cepas_21":
+  type: article
+  title: "Topological interpretation of color exchange invariants: hexagonal lattice on a torus"
+  author: [{name: "O. Cépas and P. M. Akhmetiev"}]
+  date: 2021
+  parent: {type: periodical, title: "SciPost Phys.", volume: "10"}
+  page-range: "42"
+  doi: "10.21468/SciPostPhys.10.2.042"
+
+"Santos:2004vu":
+  type: article
+  title: "Integrability of a disordered Heisenberg spin-1/2 chain"
+  author: [{name: "L F Santos"}]
+  date: 2004
+  parent: {type: periodical, title: "Journal of Physics A: Mathematical and General", volume: "37"}
+  page-range: "4723-4729"
+
+"Mori_16":
+  type: article
+  title: "Rigorous Bound on Energy Absorption and Generic Relaxation in Periodically Driven Quantum Systems"
+  author: [{name: "Mori, Takashi and Kuwahara, Tomotaka and Saito, Keiji"}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "116"}
+  page-range: "120401"
+  doi: "10.1103/PhysRevLett.116.120401"
+
+"Haldar_21":
+  type: article
+  title: "Dynamical Freezing and Scar Points in Strongly Driven Floquet Matter: Resonance vs Emergent Conservation Laws"
+  author: [{name: "Haldar, Asmi and Sen, Diptiman and Moessner, Roderich and Das, Arnab"}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review X", volume: "11"}
+  page-range: "021008"
+  doi: "10.1103/PhysRevX.11.021008"
+
+"Bhatt:1974":
+  type: article
+  title: "Theory of anomalous dispersion in liquid He⁴"
+  author: [{name: "Bhatt, Ravindra N. and McMillan, W. L."}]
+  date: 1974
+  parent: {type: periodical, title: "Phys. Rev. A", volume: "10"}
+  page-range: "1591-1597"
+  doi: "10.1103/PhysRevA.10.1591"
+
+"Jensen:1985aa":
+  type: article
+  title: "Statistical Behavior in Deterministic Quantum Systems with Few Degrees of Freedom"
+  author: [{name: "Jensen, R. V. and Shankar, R."}]
+  date: 1985
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "54"}
+  page-range: "1879-1882"
+
+"Basko:2017":
+  type: article
+  title: "Landau-Zener-Stueckelberg Physics with a Singular Continuum of States"
+  author: [{name: "Basko, D. M."}]
+  date: 2017
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "118"}
+  page-range: "016805"
+  doi: "10.1103/PhysRevLett.118.016805"
+
+"Abanin_17":
+  type: article
+  title: "A Rigorous Theory of Many-Body Prethermalization for Periodically Driven and Closed Quantum Systems"
+  author: [{name: "Abanin, Dmitry and De Roeck, Wojciech and Ho, Wen Wei and Huveneers, François"}]
+  date: 2017
+  parent: {type: periodical, title: "Communications in Mathematical Physics", volume: "354"}
+  page-range: "809-827"
+  doi: "10.1007/s00220-017-2930-x"
+
+"Gutzwiller_63":
+  type: article
+  title: "Effect of Correlation on the Ferromagnetism of Transition Metals"
+  author: [{name: "Gutzwiller, Martin C."}]
+  date: 1963
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "10"}
+  page-range: "159-162"
+  doi: "10.1103/PhysRevLett.10.159"
+
+"Anderson_87":
+  type: article
+  title: "The resonating valence bond state in La2CuO4 and superconductivity"
+  author: [{name: "Anderson, P. W."}]
+  date: 1987
+  parent: {type: periodical, title: "Science", volume: "235"}
+  page-range: "1196-1198"
+  doi: "10.1126/science.235.4793.1196"
+
+"Moessner_rvb":
+  type: article
+  title: "Resonating Valence Bond Phase in the Triangular Lattice Quantum Dimer Model"
+  author: [{name: "Moessner, R. and Sondhi, S. L."}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "86"}
+  page-range: "1881-1884"
+  doi: "10.1103/PhysRevLett.86.1881"
+
+"Castelnovo_12":
+  type: article
+  title: "Spin Ice, Fractionalization, and Topological Order"
+  author: [{name: "Castelnovo, C. and Moessner, R. and Sondhi, S.L."}]
+  date: 2012
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "3"}
+  page-range: "35-55"
+  doi: "10.1146/annurev-conmatphys-020911-125058"
+
+"Girvin_99":
+  type: article
+  title: "Course 2: The Quantum Hall Effect: Novel Excitations and Broken Symmetries"
+  author: [{name: "Girvin, S. M."}]
+  date: 1999
+  parent: {type: proceedings, title: "Topological Aspects of Low Dimensional Systems", volume: "69"}
+  page-range: "53"
+
+"Desaules21b":
+  type: misc
+  title: "Quantum many-body scars have extensive multipartite entanglement"
+  author: [{name: "Jean-Yves Desaules and Francesca Pietracaprina and Zlatko Papić and John Goold and Silvia Pappalardi"}]
+  date: 2021
+  serial-number: "arXiv:arXiv:2109.09724"
+
+"Zhao21":
+  type: article
+  title: "Orthogonal Quantum Many-Body Scars"
+  author: [{name: "Zhao, Hongzheng and Smith, Adam and Mintert, Florian and Knolle, Johannes"}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "127"}
+  page-range: "150601"
+  doi: "10.1103/PhysRevLett.127.150601"
+
+"Zhang22b":
+  type: misc
+  title: "Quantum many-body scars beyond single mode approximation"
+  author: [{name: "Zhao Zhang and Giuseppe Mussardo"}]
+  date: 2022
+  serial-number: "arXiv:arXiv:2205.03425"
+
+"Zhang22c":
+  type: misc
+  title: "Hilbert space fragmentation in a frustration-free fully packed loop model"
+  author: [{name: "Zhao Zhang and Henrik Schou Røising"}]
+  date: 2022
+  serial-number: "arXiv:arXiv:2206.01758"
+
+"Buca19":
+  type: article
+  title: "Non-stationary coherent quantum many-body dynamics through dissipation"
+  author: [{name: "Berislav Buča and Joseph Tindall and Dieter Jaksch"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Communications", volume: "10"}
+  doi: "10.1038/s41467-019-09757-y"
+
+"Buca20":
+  type: misc
+  title: "Quantum many-body attractors"
+  author: [{name: "Berislav Buča and Archak Purkayastha and Giacomo Guarnieri and Mark T. Mitchison and Dieter Jaksch and John Goold"}]
+  date: 2020
+  serial-number: "arXiv:arXiv:2008.11166"
+
+"Buca22":
+  type: article
+  title: "Out-of-Time-Ordered Crystals and Fragmentation"
+  author: [{name: "Buča, Berislav"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "128"}
+  page-range: "100601"
+  doi: "10.1103/PhysRevLett.128.100601"
+
+"Pan22":
+  type: misc
+  title: "Composite Spin Approach to the Blockade Effect in Rydberg Atom Arrays"
+  author: [{name: "Lei Pan and Hui Zhai"}]
+  date: 2022
+  serial-number: "arXiv:arXiv:2202.04902"

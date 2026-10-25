@@ -1,0 +1,554 @@
+"Gaiotto:2014kfa":
+  type: article
+  title: "Generalized Global Symmetries"
+  author: [{name: "D. Gaiotto, A. Kapustin, N. Seiberg, and B. Willett"}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+
+"polchinski:2003bq":
+  type: article
+  title: "Monopoles, duality, and string theory"
+  author: [{name: "J. Polchinski"}]
+  date: 2004
+  parent: {type: periodical, title: "Int.J.Mod.Phys.", volume: "A19S1"}
+  page-range: "145-156"
+
+"banks:1988yz":
+  type: article
+  title: "Constraints on String Vacua with Space-Time Supersymmetry"
+  author: [{name: "T. Banks and L. J. Dixon"}]
+  date: 1988
+  parent: {type: periodical, title: "Nucl. Phys.", volume: "B307"}
+  page-range: "93-108"
+
+"kallosh:1995hi":
+  type: article
+  title: "Gravity and global symmetries"
+  author: [{name: "R. Kallosh, A. D. Linde, D. A. Linde, and L. Susskind"}]
+  date: 1995
+  parent: {type: periodical, title: "Phys.Rev.", volume: "D52"}
+  page-range: "912-935"
+
+"Banks:2010zn":
+  type: article
+  title: "Symmetries and Strings in Field Theory and Gravity"
+  author: [{name: "T. Banks and N. Seiberg"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev.", volume: "D83"}
+
+"Harlow:2018tng":
+  type: article
+  title: "Symmetries in quantum field theory and quantum gravity"
+  author: [{name: "D. Harlow and H. Ooguri"}]
+  date: 2021
+  parent: {type: periodical, title: "Commun. Math. Phys.", volume: "383"}
+  page-range: "1669-1804"
+
+"Harlow:2020bee":
+  type: article
+  title: "Global symmetry, Euclidean gravity, and the black hole information problem"
+  author: [{name: "D. Harlow and E. Shaghoulian"}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "04"}
+
+"Chen:2020ojn":
+  type: article
+  title: "Signatures of global symmetry violation in relative entropies and replica wormholes"
+  author: [{name: "Y. Chen and H. W. Lin"}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+
+"Belin:2020jxr":
+  type: misc
+  title: "Charged Eigenstate Thermalization, Euclidean Wormholes and Global Symmetries in Quantum Gravity"
+  author: [{name: "A. Belin, J. De Boer, P. Nayak, and J. Sonner"}]
+  serial-number: "arXiv:2012.07875"
+
+"Yonekura:2020ino":
+  type: misc
+  title: "Topological violation of global symmetries in quantum gravity"
+  author: [{name: "K. Yonekura"}]
+  serial-number: "arXiv:2011.11868"
+
+"Casini:2020rgj":
+  type: article
+  title: "Entropic order parameters for the phases of QFT"
+  author: [{name: "H. Casini, M. Huerta, J. M. Magan, and D. Pontello"}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "04"}
+
+"Rudelius:2020orz":
+  type: article
+  title: "Topological Operators and Completeness of Spectrum in Discrete Gauge Theories"
+  author: [{name: "T. Rudelius and S.-H. Shao"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "12"}
+
+"Gukov_2006":
+  type: article
+  title: "Gauge theory, ramification, and the geometric langlands program,"
+  author: [{name: "S. Gukov and E. Witten"}]
+  date: 2006
+  parent: {type: periodical, title: "Current Developments in Mathematics", volume: "2006"}
+  page-range: "35-180"
+
+"Gukov_2010":
+  type: article
+  title: "Rigid surface operators,"
+  author: [{name: "S. Gukov and E. Witten"}]
+  date: 2010
+  parent: {type: periodical, title: "Advances in Theoretical and Mathematical Physics", volume: "14"}
+  page-range: "87-178"
+
+"Cordova:2018cvg":
+  type: article
+  title: "Exploring 2-Group Global Symmetries"
+  author: [{name: "C. Córdova, T. T. Dumitrescu, and K. Intriligator"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+
+"Hidaka:2020iaz":
+  type: article
+  title: "Higher-form symmetries and 3-group in axion electrodynamics"
+  author: [{name: "Y. Hidaka, M. Nitta, and R. Yokokura"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "808"}
+
+"Hidaka:2020izy":
+  type: article
+  title: "Global 3-group symmetry and 't Hooft anomalies in axion electrodynamics"
+  author: [{name: "Y. Hidaka, M. Nitta, and R. Yokokura"}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "01"}
+
+"Verlinde:1988sn":
+  type: article
+  title: "Fusion Rules and Modular Transformations in 2D Conformal Field Theory"
+  author: [{name: "E. P. Verlinde"}]
+  date: 1988
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "300"}
+  page-range: "360-376"
+
+"Moore:1988qv":
+  type: article
+  title: "Classical and Quantum Conformal Field Theory"
+  author: [{name: "G. W. Moore and N. Seiberg"}]
+  date: 1989
+  parent: {type: periodical, title: "Commun. Math. Phys.", volume: "123"}
+
+"Frohlich:2006ch":
+  type: article
+  title: "Duality and defects in rational conformal field theory"
+  author: [{name: "J. Frohlich, J. Fuchs, I. Runkel, and C. Schweigert"}]
+  date: 2007
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "763"}
+  page-range: "354-430"
+
+"Davydov:2010rm":
+  type: article
+  title: "Invertible Defects and Isomorphisms of Rational CFTs"
+  author: [{name: "A. Davydov, L. Kong, and I. Runkel"}]
+  date: 2011
+  parent: {type: periodical, title: "Adv. Theor. Math. Phys.", volume: "15"}
+  page-range: "43-69"
+
+"Bhardwaj:2017xup":
+  type: article
+  title: "On finite symmetries and their gauging in two dimensions"
+  author: [{name: "L. Bhardwaj and Y. Tachikawa"}]
+  date: 2018
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+
+"Chang:2018iay":
+  type: article
+  title: "Topological Defect Lines and Renormalization Group Flows in Two Dimensions"
+  author: [{name: "C.-M. Chang, Y.-H. Lin, S.-H. Shao, Y. Wang, and X. Yin"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "01"}
+
+"Ji:2019jhk":
+  type: article
+  title: "Categorical symmetry and noninvertible anomaly in symmetry-breaking and topological phase transitions"
+  author: [{name: "W. Ji and X.-G. Wen"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Res.", volume: "2"}
+
+"Kong:2020jne":
+  type: article
+  title: "Classification of topological phases with finite internal symmetries in all dimensions"
+  author: [{name: "L. Kong, T. Lan, X.-G. Wen, Z.-H. Zhang, and H. Zheng"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+
+"Kong_2020":
+  type: article
+  title: "Algebraic higher symmetry and categorical symmetry: A holographic and entanglement view of symmetry,"
+  author: [{name: "L. Kong, T. Lan, X.-G. Wen, Z.-H. Zhang, and H. Zheng"}]
+  parent: {type: periodical, title: "Physical Review Research", volume: "2"}
+
+"Komargodski:2020mxz":
+  type: article
+  title: "Symmetries and strings of adjoint QCD₂"
+  author: [{name: "Z. Komargodski, K. Ohmori, K. Roumpedakis, and S. Seifnashri"}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+
+"Nayak:2008zza":
+  type: article
+  title: "Non-Abelian anyons and topological quantum computation"
+  author: [{name: "C. Nayak, S. H. Simon, A. Stern, M. Freedman, and S. Das Sarma"}]
+  date: 2008
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "80"}
+  page-range: "1083-1159"
+
+"Dijkgraaf:1989hb":
+  type: article
+  title: "The Operator Algebra of Orbifold Models"
+  author: [{name: "R. Dijkgraaf, C. Vafa, E. P. Verlinde, and H. L. Verlinde"}]
+  date: 1989
+  parent: {type: periodical, title: "Commun. Math. Phys.", volume: "123"}
+
+"Alford:1992yx":
+  type: article
+  title: "Quantum field theory of nonAbelian strings and vortices"
+  author: [{name: "M. G. Alford, K.-M. Lee, J. March-Russell, and J. Preskill"}]
+  date: 1992
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "384"}
+  page-range: "251-317"
+
+"AmbroseSinger":
+  type: article
+  title: "A theorem on holonomy,"
+  author: [{name: "W. Ambrose and I. M. Singer"}]
+  date: 1953
+  parent: {type: periodical, title: "Transactions of the American Mathematical Society", volume: "75"}
+  page-range: "428-443"
+
+"tHooft:1977nqb":
+  type: article
+  title: "On the Phase Transition Towards Permanent Quark Confinement"
+  author: [{name: "G. 't Hooft"}]
+  date: 1978
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "138"}
+  page-range: "1-25"
+
+"Kapustin:2005py":
+  type: article
+  title: "Wilson-'t Hooft operators in four-dimensional gauge theories and S-duality"
+  author: [{name: "A. Kapustin"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "74"}
+
+"Kapustin:2006pk":
+  type: article
+  title: "Electric-Magnetic Duality And The Geometric Langlands Program"
+  author: [{name: "A. Kapustin and E. Witten"}]
+  date: 2007
+  parent: {type: periodical, title: "Commun. Num. Theor. Phys.", volume: "1"}
+  page-range: "1-236"
+
+"Goddard:1976qe":
+  type: article
+  title: "Gauge Theories and Magnetic Charge"
+  author: [{name: "P. Goddard, J. Nuyts, and D. I. Olive"}]
+  date: 1977
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "125"}
+  page-range: "1-28"
+
+"Aharony:2013hda":
+  type: article
+  title: "Reading between the lines of four-dimensional gauge theories"
+  author: [{name: "O. Aharony, N. Seiberg, and Y. Tachikawa"}]
+  date: 2013
+  parent: {type: periodical, title: "JHEP", volume: "08"}
+
+"fulton2013representation":
+  type: article
+  title: "Representation Theory: A First Course"
+  author: [{name: "W. Fulton and J. Harris"}]
+
+"Yamatsu:2015npn":
+  type: misc
+  title: "Finite-Dimensional Lie Algebras and Their Representations for Unified Model Building"
+  author: [{name: "N. Yamatsu"}]
+  serial-number: "arXiv:1511.08771"
+
+"Krauss:1988zc":
+  type: article
+  title: "Discrete Gauge Symmetry in Continuum Theories"
+  author: [{name: "L. M. Krauss and F. Wilczek"}]
+  date: 1989
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "62"}
+
+"Alford:1989ch":
+  type: article
+  title: "Discrete Quantum Hair on Black Holes and the Nonabelian Aharonov-Bohm Effect"
+  author: [{name: "M. G. Alford, J. March-Russell, and F. Wilczek"}]
+  date: 1990
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "337"}
+  page-range: "695-708"
+
+"Preskill:1990bm":
+  type: article
+  title: "Local Discrete Symmetry and Quantum Mechanical Hair"
+  author: [{name: "J. Preskill and L. M. Krauss"}]
+  date: 1990
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "341"}
+  page-range: "50-100"
+
+"muger2003structure":
+  type: article
+  title: "On the structure of modular categories"
+  author: [{name: "M. Muger"}]
+  date: 2003
+  parent: {type: periodical, title: "Proceedings of the London Mathematical Society", volume: "87"}
+  page-range: "291-308"
+
+"Nguyen:2021yld":
+  type: article
+  title: "Semi-Abelian gauge theories, non-invertible symmetries, and string tensions beyond N-ality"
+  author: [{name: "M. Nguyen, Y. Tanizaki, and M. Unsal"}]
+  date: 2021
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+
+"Kiskis:1978ed":
+  type: article
+  title: "Disconnected Gauge Groups and the Global Violation of Charge Conservation"
+  author: [{name: "J. E. Kiskis"}]
+  date: 1978
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "17"}
+
+"Schwarz:1982ec":
+  type: article
+  title: "Field Theories with No Local Conservation of the Electric Charge"
+  author: [{name: "A. S. Schwarz"}]
+  date: 1982
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "208"}
+  page-range: "141-158"
+
+"Benini:2018reh":
+  type: article
+  title: "On 2-Group Global Symmetries and their Anomalies"
+  author: [{name: "F. Benini, C. Córdova, and P.-S. Hsin"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+
+"Moradi_2015":
+  type: article
+  title: "Universal topological data for gapped quantum liquids in three dimensions and fusion algebra for non-abelian string excitations,"
+  author: [{name: "H. Moradi and X.-G. Wen"}]
+  parent: {type: periodical, title: "Physical Review B", volume: "91"}
+
+"Alford:1990mk":
+  type: article
+  title: "The Interactions and Excitations of Nonabelian Vortices"
+  author: [{name: "M. G. Alford, K. Benson, S. R. Coleman, J. March-Russell, and F. Wilczek"}]
+  date: 1990
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "64"}
+
+"Dine:1992ya":
+  type: article
+  title: "Of CP and other gauge symmetries in string theory"
+  author: [{name: "M. Dine, R. G. Leigh, and D. A. MacIntire"}]
+  date: 1992
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "69"}
+  page-range: "2030-2032"
+
+"378257":
+  type: article
+  title: "Improved classification of compact Lie groups."
+  author: [{name: "B. Heidenreich"}]
+
+"378141":
+  type: article
+  title: "Classification of (not necessarily connected) compact Lie groups."
+  author: [{name: "L. Spice"}]
+
+"378220":
+  type: article
+  title: "Does Aut(G) Out(G) always split for a compact, connected Lie group G?."
+  author: [{name: "L. Spice"}]
+
+"150949":
+  type: article
+  title: "In any Lie group with finitely many connected components, does there exist a finite subgroup which meets every component?."
+  author: [{name: "K. Bou-Rabee"}]
+
+"Polyakov:1974ek":
+  type: article
+  title: "Particle Spectrum in the Quantum Field Theory"
+  author: [{name: "A. M. Polyakov"}]
+  date: 1974
+  parent: {type: periodical, title: "JETP Lett.", volume: "20"}
+  page-range: "194-195"
+
+"tHooft:1974kcl":
+  type: article
+  title: "Magnetic Monopoles in Unified Gauge Theories"
+  author: [{name: "G. 't Hooft"}]
+  date: 1974
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "79"}
+  page-range: "276-284"
+
+"Abrikosov:1956sx":
+  type: article
+  title: "On the Magnetic properties of superconductors of the second group"
+  author: [{name: "A. A. Abrikosov"}]
+  date: 1957
+  parent: {type: periodical, title: "Sov. Phys. JETP", volume: "5"}
+  page-range: "1174-1182"
+
+"Nielsen:1973cs":
+  type: article
+  title: "Vortex Line Models for Dual Strings"
+  author: [{name: "H. B. Nielsen and P. Olesen"}]
+  date: 1973
+  parent: {type: periodical, title: "Nucl. Phys.", volume: "B61"}
+  page-range: "45-61"
+
+"brocker2003representations":
+  type: article
+  title: "Representations of Compact Lie Groups"
+  author: [{name: "T. Brocker and T. Dieck"}]
+
+"bourbaki2008lie":
+  type: article
+  title: "Lie Groups and Lie Algebras: Chapters 7-9"
+  author: [{name: "N. Bourbaki"}]
+
+"Brennan:2020ehu":
+  type: misc
+  title: "Axions, Higher-Groups, and Emergent Symmetry"
+  author: [{name: "T. D. Brennan and C. Cordova"}]
+  serial-number: "arXiv:2011.09600"
+
+"Heidenreich:2020pkc":
+  type: misc
+  title: "Chern-Weil Global Symmetries and How Quantum Gravity Avoids Them"
+  author: [{name: "B. Heidenreich, J. McNamara, M. Montero, M. Reece, T. Rudelius, and I. Valenzuela"}]
+  serial-number: "arXiv:2012.00009"
+
+"Witten:1979ey":
+  type: article
+  title: "Dyons of Charge e theta/2 pi"
+  author: [{name: "E. Witten"}]
+  date: 1979
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "86"}
+  page-range: "283-287"
+
+"McNamara:2021cuo":
+  type: misc
+  title: "Gravitational Solitons and Completeness"
+  author: [{name: "J. McNamara"}]
+  serial-number: "arXiv:2108.02228"
+
+"Callan:1984sa":
+  type: article
+  title: "Anomalies and Fermion Zero Modes on Strings and Domain Walls"
+  author: [{name: "C. G. Callan, Jr. and J. A. Harvey"}]
+  date: 1985
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "250"}
+  page-range: "427-436"
+
+"Cordova:2019jnf":
+  type: article
+  title: "Anomalies in the Space of Coupling Constants and Their Dynamical Applications I"
+  author: [{name: "C. Córdova, D. S. Freed, H. T. Lam, and N. Seiberg"}]
+  date: 2020
+  parent: {type: periodical, title: "SciPost Phys.", volume: "8"}
+
+"Jackiw:1975ep":
+  type: article
+  title: "Charge and Mass Spectrum of Quantum Solitons"
+  author: [{name: "R. Jackiw"}]
+  date: 1976
+  page-range: "377-401"
+
+"Witten:2015aoa":
+  type: article
+  title: "Three lectures on topological phases of matter"
+  author: [{name: "E. Witten"}]
+  date: 2016
+  parent: {type: periodical, title: "Riv. Nuovo Cim.", volume: "39"}
+  page-range: "313-370"
+
+"McNamara:2020uza":
+  type: misc
+  title: "Baby Universes, Holography, and the Swampland"
+  author: [{name: "J. McNamara and C. Vafa"}]
+  serial-number: "arXiv:2004.06738"
+
+"Witten:2017hdv":
+  type: article
+  title: "Symmetry and Emergence"
+  author: [{name: "E. Witten"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature Phys.", volume: "14"}
+  page-range: "116-119"
+
+"Ibanez:1991hv":
+  type: article
+  title: "Discrete gauge symmetry anomalies"
+  author: [{name: "L. E. Ibanez and G. G. Ross"}]
+  date: 1991
+  parent: {type: periodical, title: "Phys. Lett.", volume: "B260"}
+  page-range: "291-295"
+
+"Ibanez:1991pr":
+  type: article
+  title: "Discrete gauge symmetries and the origin of baryon and lepton number conservation in supersymmetric versions of the standard model"
+  author: [{name: "L. E. Ibanez and G. G. Ross"}]
+  date: 1992
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "368"}
+  page-range: "3-37"
+
+"Dreiner:2005rd":
+  type: article
+  title: "What is the discrete gauge symmetry of the MSSM?"
+  author: [{name: "H. K. Dreiner, C. Luhn, and M. Thormeier"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "73"}
+
+"Zeldovich:1974uw":
+  type: article
+  title: "Cosmological Consequences of the Spontaneous Breakdown of Discrete Symmetry"
+  author: [{name: "Y. B. Zeldovich, I. Y. Kobzarev, and L. B. Okun"}]
+  date: 1974
+  parent: {type: periodical, title: "Zh. Eksp. Teor. Fiz.", volume: "67"}
+  page-range: "3-11"
+
+"Kibble:1976sj":
+  type: article
+  title: "Topology of Cosmic Domains and Strings"
+  author: [{name: "T. W. B. Kibble"}]
+  date: 1976
+  parent: {type: periodical, title: "J. Phys. A", volume: "9"}
+  page-range: "1387-1398"
+
+"Kibble:1982dd":
+  type: article
+  title: "Walls Bounded by Strings"
+  author: [{name: "T. W. B. Kibble, G. Lazarides, and Q. Shafi"}]
+  date: 1982
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "26"}
+
+"Chacko:2005pe":
+  type: article
+  title: "The Twin Higgs: Natural electroweak breaking from mirror symmetry"
+  author: [{name: "Z. Chacko, H.-S. Goh, and R. Harnik"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "96"}
+
+"Geller:2014kta":
+  type: article
+  title: "Holographic Twin Higgs Model"
+  author: [{name: "M. Geller and O. Telem"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "114"}
+
+"Beauchesne:2015lva":
+  type: article
+  title: "The spontaneous Z₂ breaking Twin Higgs"
+  author: [{name: "H. Beauchesne, K. Earl, and T. Grégoire"}]
+  date: 2016
+  parent: {type: periodical, title: "JHEP", volume: "01"}

@@ -1,0 +1,11 @@
+{
+ "paper": "2112.00778",
+ "tikz": 0,
+ "bib": true,
+ "last_errors": "error: unclosed label\n     \u250c\u2500 \\\\?\\E:\\phys\\papers\\2112.00778\\main.typ:2237:3\n     \u2502\n2237 \u2502 \\] <thm:data\\_analysis>\n     \u2502    ^^^^^^^^^\n\n",
+ "compiled": false,
+ "latexblock": {
+  "before": 37,
+  "after": 0
+ }
+}

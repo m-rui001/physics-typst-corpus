@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="en-US">
+  <info>
+    <title>APS RevTeX 4-1 long bibliography</title>
+    <id>http://phys.local/apsrev-long</id>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+  </info>
+  <citation collapse="citation-number">
+    <sort><key variable="citation-number"/></sort>
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true" entry-spacing="0" line-spacing="1">
+    <layout suffix=".">
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <names variable="author">
+        <name delimiter=", " and="text"/>
+        <substitute>
+          <names variable="editor"/>
+          <text variable="title"/>
+        </substitute>
+      </names>
+      <text variable="title" prefix=", “" suffix=",”"/>
+      <choose>
+        <if type="article-journal">
+          <choose>
+            <if variable="container-title">
+              <group>
+                <text variable="container-title" prefix=" " font-style="italic"/>
+                <text variable="volume" prefix=" " font-weight="bold"/>
+                <text variable="page" prefix=", "/>
+                <date variable="issued" prefix=" (" suffix=")"><date-part name="year"/></date>
+              </group>
+            </if>
+            <else>
+              <date variable="issued" prefix=" (" suffix=")"><date-part name="year"/></date>
+            </else>
+          </choose>
+          <text variable="note" prefix=", "/>
+        </if>
+        <else-if type="paper-conference">
+          <text variable="container-title" prefix=" in " font-style="italic"/>
+          <date variable="issued" prefix=" (" suffix=")"><date-part name="year"/></date>
+          <text variable="note" prefix=" "/>
+        </else-if>
+        <else-if type="chapter">
+          <text variable="container-title" prefix=" in " font-style="italic"/>
+          <names variable="editor" prefix=", edited by ">
+            <name delimiter=", " and="text"/>
+          </names>
+          <group prefix=" (" suffix=")">
+            <text variable="publisher"/>
+            <date variable="issued" prefix=", "><date-part name="year"/></date>
+          </group>
+          <text variable="page" prefix=" pp. "/>
+          <text variable="note" prefix=", "/>
+        </else-if>
+        <else-if type="book">
+          <text variable="title" font-style="italic" prefix=" "/>
+          <group prefix=" (" suffix=")">
+            <text variable="publisher"/>
+            <date variable="issued" prefix=", "><date-part name="year"/></date>
+          </group>
+          <text variable="note" prefix=", "/>
+        </else-if>
+        <else>
+          <date variable="issued" prefix=" (" suffix=")"><date-part name="year"/></date>
+          <text variable="note" prefix=", "/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

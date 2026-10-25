@@ -1,0 +1,1 @@
++ Our work gives a depth-7 syndrome measurement circuit, as measured by the number of $sans("CNOT")$ layers. Is it possible to reduce the circuit depth? Numerical experiments performed for the code $[ [ 72 , 12 , 6 ] ]$ indicate that this code may have no depth-6 syndrome measurement (SM) circuit@AlexanderPrivateComm

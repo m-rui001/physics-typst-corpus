@@ -1,0 +1,632 @@
+"T2K:2024wfn":
+  type: misc
+  title: "First joint oscillation analysis of Super-Kamiokande atmospheric and T2K accelerator neutrino data"
+  author: [{name: "T2K, Super-Kamiokande collaboration"}]
+  serial-number: "arXiv:2405.12488"
+
+"T2K:nu24":
+  type: article
+  title: "T2K collaboration, “T2K experiment status and plans.” Talk given at the XXXI International Conference on Neutrino Physics and Astrophysics, Milan, Italy, June 16–22, 2024."
+  date: 2024
+
+"NOvA:nu24":
+  type: article
+  title: "New NOvA Results with 10 Years of Data"
+  author: [{name: "NOvA collaboration"}]
+
+"Esteban:2020cvm":
+  type: article
+  title: "The fate of hints: updated global analysis of three-flavor neutrino oscillations"
+  author: [{name: "I. Esteban and M.C. Gonzalez-Garcia and M. Maltoni and T. Schwetz and A. Zhou"}]
+  date: 2020
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+  page-range: "178"
+  doi: "10.1007/JHEP09(2020)178"
+
+"deSalas:2020pgw":
+  type: misc
+  title: "2020 Global Reassessment of the Neutrino Oscillation Picture"
+  author: [{name: "P. de Salas, D. Forero, S. Gariazzo, P. Martinez-Mirave, O. Mena, C. Ternes et al."}]
+  date: 2020
+  serial-number: "arXiv:2006.11237"
+
+"Capozzi:2018ubv":
+  type: article
+  title: "Current Unknowns in the Three Neutrino Framework"
+  author: [{name: "F. Capozzi and E. Lisi and A. Marrone and A. Palazzo"}]
+  date: 2018
+  parent: {type: periodical, title: "Prog. Part. Nucl. Phys.", volume: "102"}
+  page-range: "48"
+  doi: "10.1016/j.ppnp.2018.05.005"
+
+"JUNO:2024jaw":
+  type: misc
+  title: "Potential to Identify the Neutrino Mass Ordering with Reactor Antineutrinos in JUNO"
+  author: [{name: "JUNO collaboration"}]
+  serial-number: "arXiv:2405.18008"
+
+"DUNE:2020jqi":
+  type: article
+  title: "Long-baseline neutrino oscillation physics potential of the DUNE experiment"
+  author: [{name: "DUNE collaboration"}]
+  date: 2020
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "80"}
+  page-range: "978"
+  doi: "10.1140/epjc/s10052-020-08456-z"
+
+"Hyper-Kamiokande:2018ofw":
+  type: misc
+  title: "Hyper-Kamiokande Design Report"
+  author: [{name: "Hyper-Kamiokande collaboration"}]
+  serial-number: "arXiv:1805.04163"
+
+"B23Fluxes":
+  type: article
+  title: "Standard Solar Models B23 / SF-III"
+  author: [{name: "Y. Herrera and A. Serenelli"}]
+  date: 2023
+  parent: {type: periodical, title: "ZENODO"}
+  doi: "10.5281/zenodo.10174170"
+
+"Super-Kamiokande:2023jbt":
+  type: misc
+  title: "Solar neutrino measurements using the full data period of Super-Kamiokande-IV"
+  author: [{name: "Super-Kamiokande collaboration"}]
+  serial-number: "arXiv:2312.12907"
+
+"Borexino:2017rsf":
+  type: article
+  title: "First Simultaneous Precision Spectroscopy of pp, ⁷Be, and pep Solar Neutrinos with Borexino Phase-II"
+  author: [{name: "Borexino collaboration"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "100"}
+  page-range: "082004"
+  doi: "10.1103/PhysRevD.100.082004"
+
+"BOREXINO:2022abl":
+  type: article
+  title: "Improved Measurement of Solar Neutrinos from the Carbon-Nitrogen-Oxygen Cycle by Borexino and Its Implications for the Standard Solar Model"
+  author: [{name: "BOREXINO collaboration"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "129"}
+  page-range: "252701"
+  doi: "10.1103/PhysRevLett.129.252701"
+
+"DayaBay:2021dqj":
+  type: article
+  title: "Antineutrino energy spectrum unfolding based on the Daya Bay measurement and its applications"
+  author: [{name: "Daya Bay collaboration"}]
+  date: 2021
+  parent: {type: periodical, title: "Chin. Phys. C", volume: "45"}
+  page-range: "073001"
+  doi: "10.1088/1674-1137/abfc38"
+
+"SNO:2024wzq":
+  type: misc
+  title: "Initial measurement of reactor antineutrino oscillation at SNO+"
+  author: [{name: "SNO+ collaboration"}]
+  serial-number: "arXiv:2405.19700"
+
+"SNO-:nu24":
+  type: article
+  title: "SNO+ collaboration, “Reactor Antineutrino Oscillations and Geoneutrinos in SNO+.” Poster 525 at the XXXI International Conference on Neutrino Physics and Astrophysics, Milan, Italy, June 16–22, 2024."
+  date: 2024
+
+"SNO-poster:nu24":
+  type: article
+  title: "SNO+ collaboration, “Solar Neutrinos: Recent Results and Propspects.” Talk given at the XXXI International Conference on Neutrino Physics and Astrophysics, Milan, Italy, June 16–22, 2024."
+  date: 2024
+
+"DayaBay:2022orm":
+  type: misc
+  title: "Precision measurement of reactor antineutrino oscillation at kilometer-scale baselines by Daya Bay"
+  author: [{name: "Daya Bay collaboration"}]
+  serial-number: "arXiv:2211.14988"
+
+"IceCube:2019dyb":
+  type: article
+  title: "Development of an analysis to probe the neutrino mass ordering with atmospheric neutrinos using three years of IceCube DeepCore data"
+  author: [{name: "IceCube collaboration"}]
+  date: 2020
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "80"}
+  page-range: "9"
+  doi: "10.1140/epjc/s10052-019-7555-0"
+
+"IceCube:2019dqi":
+  type: article
+  title: "Measurement of Atmospheric Tau Neutrino Appearance with IceCube DeepCore"
+  author: [{name: "IceCube collaboration"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "99"}
+  page-range: "032007"
+  doi: "10.1103/PhysRevD.99.032007"
+
+"Super-Kamiokande:2023ahc":
+  type: misc
+  title: "Atmospheric neutrino oscillation analysis with neutron tagging and an expanded fiducial volume in Super-Kamiokande I-V"
+  author: [{name: "Super-Kamiokande collaboration"}]
+  serial-number: "arXiv:2311.05105"
+
+"SKatm:data2024":
+  type: article
+  title: "Atmospheric neutrino oscillation analysis with neutron tagging and an expanded fiducial volume in Super-Kamiokande I-V"
+  author: [{name: "SuperKamiokande collaboration"}]
+  date: 2024
+  parent: {type: periodical, title: "ZENODO"}
+  doi: "0.5281/zenodo.8401262"
+
+"IceCube:2024xjj":
+  type: misc
+  title: "Measurement of atmospheric neutrino oscillation parameters using convolutional neural networks with 9.3 years of data in IceCube DeepCore"
+  author: [{name: "IceCube collaboration"}]
+  serial-number: "arXiv:2405.02163"
+
+"IC:data2024":
+  type: article
+  title: "ICECUBE collaboration, release for neutrino oscillation parameters using convolutional neural networks with 9.3 years of data in icecube deepcore, 2024.:"
+  date: 2024
+
+"Esteban:2018azc":
+  type: article
+  title: "Global analysis of three-flavour neutrino oscillations: synergies and tensions in the determination of ₂3, CP, and the mass ordering"
+  author: [{name: "I. Esteban and M.C. Gonzalez-Garcia and A. Hernandez-Cabezudo and M. Maltoni and T. Schwetz"}]
+  date: 2019
+  parent: {type: periodical, title: "JHEP", volume: "01"}
+  page-range: "106"
+  doi: "10.1007/JHEP01(2019)106"
+
+"Maki:1962mu":
+  type: article
+  title: "Remarks on the unified model of elementary particles"
+  author: [{name: "Z. Maki and M. Nakagawa and S. Sakata"}]
+  date: 1962
+  parent: {type: periodical, title: "Prog. Theor. Phys.", volume: "28"}
+  page-range: "870"
+  doi: "10.1143/PTP.28.870"
+
+"Kobayashi:1973fv":
+  type: article
+  title: "CP Violation in the Renormalizable Theory of Weak Interaction"
+  author: [{name: "M. Kobayashi and T. Maskawa"}]
+  date: 1973
+  parent: {type: periodical, title: "Prog. Theor. Phys.", volume: "49"}
+  page-range: "652"
+  doi: "10.1143/PTP.49.652"
+
+"Cabibbo:1977nk":
+  type: article
+  title: "Time Reversal Violation in Neutrino Oscillation"
+  author: [{name: "N. Cabibbo"}]
+  date: 1978
+  parent: {type: periodical, title: "Phys. Lett.", volume: "72B"}
+  page-range: "333"
+  doi: "10.1016/0370-2693(78)90132-6"
+
+"Bilenky:1980cx":
+  type: article
+  title: "On Oscillations of Neutrinos with Dirac and Majorana Masses"
+  author: [{name: "S.M. Bilenky and J. Hosek and S.T. Petcov"}]
+  date: 1980
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "94"}
+  page-range: "495"
+  doi: "10.1016/0370-2693(80)90927-2"
+
+"Barger:1980jm":
+  type: article
+  title: "CP Violation in Three Neutrino Oscillations"
+  author: [{name: "V.D. Barger and K. Whisnant and R.J.N. Phillips"}]
+  date: 1980
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "45"}
+  page-range: "2084"
+  doi: "10.1103/PhysRevLett.45.2084"
+
+"Langacker:1986jv":
+  type: article
+  title: "On the Mikheev-Smirnov-Wolfenstein (MSW) Mechanism of Amplification of Neutrino Oscillations in Matter"
+  author: [{name: "P. Langacker and S.T. Petcov and G. Steigman and S. Toshev"}]
+  date: 1987
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "282"}
+  page-range: "589"
+  doi: "10.1016/0550-3213(87)90699-7"
+
+"nufit":
+  type: article
+  title: "“NuFit webpage.”:"
+
+"GonzalezGarcia:2003qf":
+  type: article
+  title: "Three neutrino mixing after the first results from K2K and KamLAND"
+  author: [{name: "M.C. Gonzalez-Garcia and C. Pena-Garay"}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "68"}
+  page-range: "093003"
+  doi: "10.1103/PhysRevD.68.093003"
+
+"Krastev:1988yu":
+  type: article
+  title: "Resonance Amplification and t Violation Effects in Three Neutrino Oscillations in the Earth"
+  author: [{name: "P.I. Krastev and S.T. Petcov"}]
+  date: 1988
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "205"}
+  page-range: "84"
+  doi: "10.1016/0370-2693(88)90404-2"
+
+"Jarlskog:1985ht":
+  type: article
+  title: "Commutator of the Quark Mass Matrices in the Standard Electroweak Model and a Measure of Maximal CP Violation"
+  author: [{name: "C. Jarlskog"}]
+  date: 1985
+  parent: {type: periodical, title: "Phys.Rev.Lett.", volume: "55"}
+  page-range: "1039"
+  doi: "10.1103/PhysRevLett.55.1039"
+
+"PDG":
+  type: article
+  title: "Review of particle physics"
+  author: [{name: "Particle Data Group collaboration"}]
+  date: 2024
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "110"}
+  page-range: "030001"
+  doi: "10.1103/PhysRevD.110.030001"
+
+"Elevant:2015ska":
+  type: article
+  title: "On the determination of the leptonic CP phase"
+  author: [{name: "J. Elevant and T. Schwetz"}]
+  date: 2015
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+  page-range: "016"
+  doi: "10.1007/JHEP09(2015)016"
+
+"Wolfenstein:1977ue":
+  type: article
+  title: "Neutrino oscillations in matter"
+  author: [{name: "L. Wolfenstein"}]
+  date: 1978
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "17"}
+  page-range: "2369"
+  doi: "10.1103/PhysRevD.17.2369"
+
+"Maltoni:2003cu":
+  type: article
+  title: "Testing the Statistical Compatibility of Independent Data Sets"
+  author: [{name: "M. Maltoni and T. Schwetz"}]
+  date: 2003
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "68"}
+  page-range: "033020"
+  doi: "10.1103/PhysRevD.68.033020"
+
+"Nunokawa:2005nx":
+  type: article
+  title: "Another Possible Way to Determine the Neutrino Mass Hierarchy"
+  author: [{name: "H. Nunokawa and S.J. Parke and R. Zukanovich Funchal"}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "72"}
+  page-range: "013009"
+  doi: "10.1103/PhysRevD.72.013009"
+
+"Minakata:2006gq":
+  type: article
+  title: "Determining Neutrino Mass Hierarchy by Precision Measurements in Electron and Muon Neutrino Disappearance Experiments"
+  author: [{name: "H. Minakata and H. Nunokawa and S.J. Parke and R. Zukanovich Funchal"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "74"}
+  page-range: "053008"
+  doi: "10.1103/PhysRevD.74.053008"
+
+"Blennow:2013vta":
+  type: article
+  title: "Determination of the Neutrino Mass Ordering by Combining Pingu and Daya Bay II"
+  author: [{name: "M. Blennow and T. Schwetz"}]
+  date: 2013
+  parent: {type: periodical, title: "JHEP", volume: "09"}
+  page-range: "089"
+  doi: "10.1007/JHEP09(2013)089"
+
+"Blennow:2013oma":
+  type: article
+  title: "Quantifying the sensitivity of oscillation experiments to the neutrino mass ordering"
+  author: [{name: "M. Blennow and P. Coloma and P. Huber and T. Schwetz"}]
+  date: 2014
+  parent: {type: periodical, title: "JHEP", volume: "03"}
+  page-range: "028"
+  doi: "10.1007/JHEP03(2014)028"
+
+"Qian:2012zn":
+  type: article
+  title: "Statistical Evaluation of Experimental Determinations of Neutrino Mass Hierarchy"
+  author: [{name: "X. Qian and A. Tan and W. Wang and J.J. Ling and R.D. McKeown and C. Zhang"}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "86"}
+  page-range: "113011"
+  doi: "10.1103/PhysRevD.86.113011"
+
+"Cravens:2008aa":
+  type: article
+  title: "Solar neutrino measurements in Super-Kamiokande-II"
+  author: [{name: "Super-Kamiokande collaboration"}]
+  date: 2008
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "78"}
+  page-range: "032002"
+  doi: "10.1103/PhysRevD.78.032002"
+
+"Grevesse1998":
+  type: article
+  title: "Standard Solar Composition"
+  author: [{name: "N. Grevesse and A.J. Sauval"}]
+  date: 1998
+  parent: {type: periodical, title: "Space Sci. Rev.", volume: "85"}
+  page-range: "161"
+  doi: "10.1023/A:1005161325181"
+
+"Asplund2009":
+  type: article
+  title: "The Chemical Composition of the Sun"
+  author: [{name: "M. Asplund and N. Grevesse and A.J. Sauval and P. Scott"}]
+  date: 2009
+  parent: {type: periodical, title: "ARA&A", volume: "47"}
+  page-range: "481"
+  doi: "10.1146/annurev.astro.46.060407.145222"
+
+"Serenelli:2009yc":
+  type: article
+  title: "New Solar Composition: The Problem With Solar Models Revisited"
+  author: [{name: "A. Serenelli and S. Basu and J.W. Ferguson and M. Asplund"}]
+  date: 2009
+  parent: {type: periodical, title: "Astrophys. J.", volume: "705"}
+  doi: "10.1088/0004-637X/705/2/L123"
+
+"Serenelli:2011py":
+  type: article
+  title: "Solar models with accretion. I. Application to the solar abundance problem"
+  author: [{name: "A.M. Serenelli and W.C. Haxton and C. Pena-Garay"}]
+  date: 2011
+  parent: {type: periodical, title: "Astrophys. J.", volume: "743"}
+  page-range: "24"
+  doi: "10.1088/0004-637X/743/1/24"
+
+"Vinyoles:2016djt":
+  type: article
+  title: "A new Generation of Standard Solar Models"
+  author: [{name: "N. Vinyoles, A.M. Serenelli, F.L. Villante, S. Basu, J. Bergström, M.C. Gonzalez-Garcia et al."}]
+  date: 2017
+  parent: {type: periodical, title: "Astrophys. J.", volume: "835"}
+  page-range: "202"
+  doi: "10.3847/1538-4357/835/2/202"
+
+"Asplund2021":
+  type: misc
+  title: "The chemical make-up of the Sun: A 2020 vision"
+  author: [{name: "M. Asplund and A.M. Amarsi and N. Grevesse"}]
+  date: 2020
+  serial-number: "arXiv:2105.01661"
+
+"Magg:2022rxb":
+  type: article
+  title: "Observational constraints on the origin of the elements - IV. Standard composition of the Sun"
+  author: [{name: "E. Magg et al."}]
+  date: 2023
+  parent: {type: periodical, title: "Astron. Astrophys.", volume: "661"}
+  doi: "10.1051/0004-6361/202142971"
+
+"Gonzalez-Garcia:2023kva":
+  type: article
+  title: "Status of direct determination of solar neutrino fluxes after Borexino"
+  author: [{name: "M.C. Gonzalez-Garcia and M. Maltoni and J.a.P. Pinheiro and A.M. Serenelli"}]
+  date: 2024
+  parent: {type: periodical, title: "JHEP", volume: "02"}
+  page-range: "064"
+  doi: "10.1007/JHEP02(2024)064"
+
+"Katrin:2024tvg":
+  type: misc
+  title: "Direct neutrino-mass measurement based on 259 days of KATRIN data"
+  author: [{name: "Katrin collaboration"}]
+  serial-number: "arXiv:2406.13516"
+
+"GERDA:2020xhi":
+  type: article
+  title: "Final Results of GERDA on the Search for Neutrinoless Double- Decay"
+  author: [{name: "GERDA collaboration"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "125"}
+  page-range: "252502"
+  doi: "10.1103/PhysRevLett.125.252502"
+
+"KamLAND-Zen:2024eml":
+  type: misc
+  title: "Search for Majorana Neutrinos with the Complete KamLAND-Zen Dataset"
+  author: [{name: "KamLAND-Zen collaboration"}]
+  serial-number: "arXiv:2406.11438"
+
+"Jiang:2024viw":
+  type: misc
+  title: "Neutrino cosmology after DESI: tightest mass upper limits, preference for the normal ordering, and tension with terrestrial observations"
+  author: [{name: "J.-Q. Jiang, W. Giarè, S. Gariazzo, M.G. Dainotti, E. Di Valentino, O. Mena et al."}]
+  serial-number: "arXiv:2407.18047"
+
+"Naredo-Tuero:2024sgf":
+  type: misc
+  title: "Living at the Edge: A Critical Look at the Cosmological Neutrino Mass Bound"
+  author: [{name: "D. Naredo-Tuero and M. Escudero and E. Fernández-Martínez and X. Marcano and V. Poulin"}]
+  serial-number: "arXiv:2407.13831"
+
+"DESI:2024mwx":
+  type: misc
+  title: "DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations"
+  author: [{name: "DESI collaboration"}]
+  date: 2024
+  serial-number: "arXiv:2404.03002"
+
+"Fogli:2004as":
+  type: article
+  title: "Observables sensitive to absolute neutrino masses: Constraints and correlations from world neutrino data"
+  author: [{name: "G.L. Fogli, E. Lisi, A. Marrone, A. Melchiorri, A. Palazzo, P. Serra et al."}]
+  date: 2004
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "70"}
+  page-range: "113003"
+  doi: "10.1103/PhysRevD.70.113003"
+
+"Pascoli:2005zb":
+  type: article
+  title: "The Absolute Neutrino Mass Scale, Neutrino Mass Spectrum, Majorana Cp-Violation and Neutrinoless Double-Beta Decay"
+  author: [{name: "S. Pascoli and S.T. Petcov and T. Schwetz"}]
+  date: 2006
+  parent: {type: periodical, title: "Nucl. Phys. B", volume: "734"}
+  page-range: "24"
+  doi: "10.1016/j.nuclphysb.2005.11.003"
+
+"Gariazzo:2022ahe":
+  type: article
+  title: "Neutrino mass and mass ordering: no conclusive evidence for normal ordering"
+  author: [{name: "S. Gariazzo et al."}]
+  date: 2022
+  parent: {type: periodical, title: "JCAP", volume: "10"}
+  page-range: "010"
+  doi: "10.1088/1475-7516/2022/10/010"
+
+"Cleveland:1998nv":
+  type: article
+  title: "Measurement of the solar electron neutrino flux with the Homestake chlorine detector"
+  author: [{name: "B.T. Cleveland et al."}]
+  date: 1998
+  parent: {type: periodical, title: "Astrophys. J.", volume: "496"}
+  page-range: "505"
+  doi: "10.1086/305343"
+
+"Kaether:2010ag":
+  type: article
+  title: "Reanalysis of the GALLEX solar neutrino flux and source experiments"
+  author: [{name: "F. Kaether and W. Hampel and G. Heusser and J. Kiko and T. Kirsten"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Lett. B", volume: "685"}
+  page-range: "47"
+  doi: "10.1016/j.physletb.2010.01.030"
+
+"Abdurashitov:2009tn":
+  type: article
+  title: "Measurement of the solar neutrino capture rate with gallium metal. III: Results for the 2002–2007 data-taking period"
+  author: [{name: "SAGE collaboration"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "80"}
+  page-range: "015807"
+  doi: "10.1103/PhysRevC.80.015807"
+
+"Hosaka:2005um":
+  type: article
+  title: "Solar neutrino measurements in Super-Kamiokande-I"
+  author: [{name: "Super-Kamiokande collaboration"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "73"}
+  page-range: "112001"
+  doi: "10.1103/PhysRevD.73.112001"
+
+"Abe:2010hy":
+  type: article
+  title: "Solar neutrino results in Super-Kamiokande-III"
+  author: [{name: "Super-Kamiokande collaboration"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "83"}
+  page-range: "052010"
+  doi: "10.1103/PhysRevD.83.052010"
+
+"Aharmim:2011vm":
+  type: article
+  title: "Combined Analysis of All Three Phases of Solar Neutrino Data from the Sudbury Neutrino Observatory"
+  author: [{name: "SNO collaboration"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. C", volume: "88"}
+  page-range: "025501"
+  doi: "10.1103/PhysRevC.88.025501"
+
+"Bellini:2011rx":
+  type: article
+  title: "Precision measurement of the 7Be solar neutrino interaction rate in Borexino"
+  author: [{name: "Borexino collaboration"}]
+  date: 2011
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "107"}
+  page-range: "141302"
+  doi: "10.1103/PhysRevLett.107.141302"
+
+"Bellini:2008mr":
+  type: article
+  title: "Measurement of the solar 8B neutrino rate with a liquid scintillator target and 3 MeV energy threshold in the Borexino detector"
+  author: [{name: "Borexino collaboration"}]
+  date: 2010
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "82"}
+  page-range: "033006"
+  doi: "10.1103/PhysRevD.82.033006"
+
+"Honda:2015fha":
+  type: article
+  title: "Atmospheric Neutrino Flux Calculation Using the Nrlmsise-00 Atmospheric Model"
+  author: [{name: "M. Honda and M. Sajjad Athar and T. Kajita and K. Kasahara and S. Midorikawa"}]
+  date: 2015
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "92"}
+  page-range: "023004"
+  doi: "10.1103/PhysRevD.92.023004"
+
+"Gando:2013nba":
+  type: article
+  title: "Reactor On-Off Antineutrino Measurement with Kamland"
+  author: [{name: "KamLAND collaboration"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "88"}
+  page-range: "033001"
+  doi: "10.1103/PhysRevD.88.033001"
+
+"DoubleC:nu2020":
+  type: article
+  title: "T. Bezerra, “New Results from the Double Chooz Experiment.” Talk given at the XXIX International Conference on Neutrino Physics and Astrophysics, Chicago, USA, June 22–July 2, 2020 (online conference):"
+  date: 2020
+
+"RENO:nu2020":
+  type: article
+  title: "J. Yoo, “RENO.” Talk given at the XXIX International Conference on Neutrino Physics and Astrophysics, Chicago, USA, June 22–July 2, 2020 (online conference):"
+  date: 2020
+
+"Adamson:2013whj":
+  type: article
+  title: "Measurement of Neutrino and Antineutrino Oscillations Using Beam and Atmospheric Data in MINOS"
+  author: [{name: "MINOS collaboration"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "110"}
+  page-range: "251801"
+  doi: "10.1103/PhysRevLett.110.251801"
+
+"Adamson:2013ue":
+  type: article
+  title: "Electron neutrino and antineutrino appearance in the full MINOS data sample"
+  author: [{name: "MINOS collaboration"}]
+  date: 2013
+  parent: {type: periodical, title: "Phys. Rev. Lett. (2013)"}
+  doi: "10.1103/PhysRevLett.110.171801"
+
+"T2K:2023mcm":
+  type: article
+  title: "Updated T2K measurements of muon neutrino and antineutrino disappearance using 3.61021 protons on target"
+  author: [{name: "T2K collaboration"}]
+  date: 2023
+  parent: {type: periodical, title: "Phys. Rev. D", volume: "108"}
+  page-range: "072011"
+  doi: "10.1103/PhysRevD.108.072011"
+
+"T2K:2023smv":
+  type: article
+  title: "Measurements of neutrino oscillation parameters from the T2K experiment using 3.6× 10²¹ protons on target"
+  author: [{name: "T2K collaboration"}]
+  date: 2023
+  parent: {type: periodical, title: "Eur. Phys. J. C", volume: "83"}
+  page-range: "782"
+  doi: "10.1140/epjc/s10052-023-11819-x"
+
+"NOvA:nu2020":
+  type: article
+  title: "A. Himmel, “New Oscillation Results from the NOvA Experiment.” Talk given at the XXIX International Conference on Neutrino Physics and Astrophysics, Chicago, USA, June 22–July 2, 2020 (online conference):"
+  date: 2020
+
+"Collaboration_2019":
+  type: article
+  title: "IceCube 3 year high statistics neutrino oscillation samples"
+  author: [{name: "IceCube collaboration"}]
+  date: 2019

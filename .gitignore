@@ -1,0 +1,15 @@
+# Typst build outputs
+papers/*/build/
+papers/*/main.pdf
+papers/*/out.pdf
+papers/*/orig.pdf
+papers/*/_*.pdf
+papers/*/*.typ.*
+papers/*/*.bib.*
+papers/*/*.bak
+papers/*/src.tar.gz
+papers/*/_work/
+papers/*/check/
+tmp/
+__pycache__/
+*.pyc

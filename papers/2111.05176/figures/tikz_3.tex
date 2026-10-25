@@ -1,0 +1,28 @@
+\begin{tikzpicture}
+\node[shape=circle,draw=black,fill=black!10] (1) at (0,2) {}; 
+\node[shape=circle,draw=black,fill=black!10] (2) at (1,2) {};
+\node[shape=circle,draw=black,fill=black!10] (3) at (2,2) {};
+\node[shape=circle,draw=black,fill=black!10] (4) at (0,1) {};
+\node[shape=circle,draw=black,fill=black!10] (5) at (1,1) {};
+\node[shape=circle,draw=black,fill=black!10] (6) at (2,1) {};
+\node[shape=circle,draw=black,fill=black!10] (7) at (0,0) {};
+\node[shape=circle,draw=black,fill=black!10] (8) at (1,0) {};
+\node[shape=circle,draw=black,fill=black!10] (9) at (2,0) {}; 
+
+\node[shape=circle,draw=black,fill=black!10] (10) at (0.5,1.5) {}; 
+\node[shape=circle,draw=black,fill=black!10] (11) at (1.5,0.5) {}; 
+
+\path [->] (2) edge[color=black,thick] (1);
+\path [->] (4) edge[color=black,thick] (1);
+\path [->] (4) edge[color=black,thick] (5);
+\path [->] (2) edge[color=black,thick] (5);
+\path [->] (3) edge[color=black,thick] (2);
+\path [->] (5) edge[color=black,thick] (6);
+\path [->] (6) edge[color=black,thick] (3);
+\path [->] (4) edge[color=black,thick] (7);
+\path [->] (7) edge[color=black,thick] (8);
+\path [->] (8) edge[color=black,thick] (5);
+\path [->] (8) edge[color=black,thick] (9);
+\path [->] (6) edge[color=black,thick] (9);
+
+\end{tikzpicture}

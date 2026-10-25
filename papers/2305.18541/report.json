@@ -1,0 +1,6 @@
+{
+ "paper": "2305.18541",
+ "tikz": 0,
+ "bib": true,
+ "last_errors": "error: unclosed label\n    \u250c\u2500 \\\\?\\E:\\phys\\papers\\2305.18541\\main.typ:253:76\n    \u2502\n253 \u2502     & = exp [ ( n - 1 ) ( M_(2 - n) + M_n ) ] - exp [ 2 ( n - 1 ) M_n ] . $ <eq:varn<1> Then, $  & upright(\"Var\") ( M_n ) & approx frac(exp [ ( n - 1 ) ( M_(2 - n) + M_n ) ] - exp [ 2 ( n - 1 ) M_n ], \\| n - 1 \\| exp [ 2 ( n - 1 ) M_n ]) \\\n    \u2502                                                                             ^^^^^^^^\n\n"
+}

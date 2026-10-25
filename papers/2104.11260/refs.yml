@@ -1,0 +1,279 @@
+"r01":
+  type: article
+  title: "Topological insulators"
+  author: [{name: "Hasan, M. Z. and Kane, C. L."}]
+  date: 2010
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "82"}
+  page-range: "3045"
+
+"r02":
+  type: article
+  title: "Topological insulators and superconductors"
+  author: [{name: "Qi, Xiao-Liang and Zhang, Shou-Cheng"}]
+  date: 2011
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "83"}
+  page-range: "1057"
+
+"r03":
+  type: article
+  title: "Weyl and Dirac semimetals in three-dimensional solids"
+  author: [{name: "Armitage, N. P. and Mele, E. J. and Vishwanath, A."}]
+  date: 2018
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "90"}
+  page-range: "015001"
+
+"r04":
+  type: article
+  title: "Topological phases of non-Hermitian systems"
+  author: [{name: "Gong, Z. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review X", volume: "8"}
+  page-range: "031079"
+
+"r05":
+  type: article
+  title: "Edge states and topological invariants of non-Hermitian systems"
+  author: [{name: "Yao, S. and Wang, Z."}]
+  date: 2018
+  parent: {type: periodical, title: "Physical Review Letters", volume: "121"}
+  page-range: "086803"
+
+"r06":
+  type: article
+  title: "Exceptional points in optics and photonics"
+  author: [{name: "Miri, M.-A. and Alù, A."}]
+  date: 2019
+  parent: {type: periodical, title: "Science", volume: "363"}
+  page-range: "7709"
+
+"r07":
+  type: article
+  title: "Topological Origin of Non-Hermitian Skin Effects"
+  author: [{name: "Okuma, N. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Letters", volume: "124"}
+  page-range: "086801"
+
+"r08":
+  type: article
+  title: "Correspondence between Winding Numbers and Skin Modes in Non-Hermitian Systems"
+  author: [{name: "Zhang, K. and Yang, Z. and Fang, C."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Letters", volume: "125"}
+  page-range: "126402"
+
+"r09":
+  type: article
+  title: "Observation of non-Hermitian bulk-boundary correspondence in quantum dynamics"
+  author: [{name: "Xiao, L. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "761"
+
+"r10":
+  type: article
+  title: "Generalized bulk--boundary correspondence in non-Hermitian topolectrical circuits"
+  author: [{name: "Helbig, T. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "747"
+
+"r11":
+  type: article
+  title: "Observation of non-Hermitian topology and its bulk-edge correspondence"
+  author: [{name: "Ghatak, A. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences USA", volume: "117"}
+  page-range: "29561"
+
+"r12":
+  type: article
+  title: "Topological funneling of light"
+  author: [{name: "Weidemann, S. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Science", volume: "368"}
+  page-range: "311-314"
+
+"r13":
+  type: article
+  title: "Hybrid Higher-Order Skin-Topological Modes in Nonreciprocal Systems"
+  author: [{name: "Lee, Ching Hua and Li, Le and Gong, Jiangbin"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Letters", volume: "123"}
+  page-range: "016805"
+
+"r14":
+  type: article
+  title: "Higher-Order Topological Corner States Induced by Gain and Loss"
+  author: [{name: "Luo, X. W. and Zhang, C."}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Letters", volume: "123"}
+  page-range: "073601"
+
+"r15":
+  type: article
+  title: "Second-Order Topological Phases in Non-Hermitian Systems"
+  author: [{name: "Liu, T. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Letters", volume: "122"}
+  page-range: "076801"
+
+"r16":
+  type: article
+  title: "Topological Switch for Non-Hermitian Skin Effect in Cold-Atom Systems with Loss"
+  author: [{name: "Li, Le and Lee, Ching Hua and Gong, Jiangbin"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Letters", volume: "124"}
+  page-range: "250402"
+
+"r17":
+  type: article
+  title: "Observation of a phononic quadrupole topological insulator"
+  author: [{name: "Serra-Garcia, M. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature", volume: "555"}
+  page-range: "342"
+
+"r18":
+  type: article
+  title: "A quantized microwave quadrupole insulator with topologically protected corner states"
+  author: [{name: "Peterson, C. W. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature", volume: "555"}
+  page-range: "346"
+
+"r19":
+  type: article
+  title: "Topolectrical-circuit realization of topological corner modes"
+  author: [{name: "Imhof, S. and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature Physics", volume: "14"}
+  page-range: "925"
+
+"r20":
+  type: article
+  title: "Acoustic higher-order topological insulator on a kagome lattice"
+  author: [{name: "Xue, H. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Materials", volume: "18"}
+  page-range: "108-112"
+
+"r21":
+  type: article
+  title: "Observation of higher-order topological acoustic states protected by generalized chiral symmetry"
+  author: [{name: "Ni, X. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Materials", volume: "18"}
+  page-range: "113-120"
+
+"r22":
+  type: article
+  title: "Photonic quadrupole topological phases"
+  author: [{name: "Mittal, S. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Photonics", volume: "13"}
+  page-range: "692-696"
+
+"r23":
+  type: article
+  title: "Low-threshold topological nanolasers based on the second-order corner state"
+  author: [{name: "Zhang, W. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Light: Science & Applications", volume: "9"}
+  page-range: "109"
+
+"r24":
+  type: article
+  title: "Time and site resolved dynamics in a topological circuit"
+  author: [{name: "Ning, J. and others"}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review X", volume: "5"}
+  page-range: "021031"
+
+"r25":
+  type: article
+  title: "Topological properties of linear circuit lattices"
+  author: [{name: "Albert, V. and Glazman, L. I. and Jiang, L."}]
+  date: 2015
+  parent: {type: periodical, title: "Physical Review Letters", volume: "114"}
+  page-range: "173902"
+
+"r26":
+  type: article
+  title: "Topolectrical circuits"
+  author: [{name: "Lee, Ching Hua and others"}]
+  date: 2018
+  parent: {type: periodical, title: "Communications Physics", volume: "1"}
+  page-range: "39"
+
+"r27":
+  type: article
+  title: "Electric circuit simulations of nth-Chern-number insulators in 2n-dimensional space and their non-Hermitian generalizations"
+  author: [{name: "Ezawa, M."}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review B", volume: "100"}
+  page-range: "075423"
+
+"r28":
+  type: article
+  title: "Chiral voltage propagation and calibration in a topolectrical Chern circuit"
+  author: [{name: "Hofmann, T. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review Letters", volume: "122"}
+  page-range: "247702"
+
+"r29":
+  type: article
+  title: "Non-Hermitian Exceptional Landau Quantization in Electric Circuit"
+  author: [{name: "Zhang, X. X. and Franz, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review Letters", volume: "124"}
+  page-range: "046401"
+
+"r30":
+  type: article
+  title: "4D spinless topological insulator in a periodic electric circuit"
+  author: [{name: "Yu, R. and Zhao, Y. and Schnyder, A. P."}]
+  date: 2020
+  parent: {type: periodical, title: "National Science Review"}
+  serial-number: "nwaa065"
+
+"r31":
+  type: article
+  title: "Topolectrical-circuit octupole insulator with topologically protected corner states"
+  author: [{name: "Bao, J. and others"}]
+  date: 2019
+  parent: {type: periodical, title: "Physical Review B", volume: "100"}
+  serial-number: "201406(R)"
+
+"r32":
+  type: article
+  title: "Topological edge states of interacting photon pairs realized in a topolectrical circuit"
+  author: [{name: "Olekhno, N. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Communications", volume: "11"}
+  page-range: "1436"
+
+"r33":
+  type: article
+  title: "Circuit Realization of a Four-Dimensional Topological Insulator"
+  author: [{name: "Wang, Y. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Communications", volume: "11"}
+  page-range: "2356"
+
+"r34":
+  type: article
+  title: "Topolectrical-circuit realization of a four-dimensional hexadecapole insulator"
+  author: [{name: "Zhang, W. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review B", volume: "102"}
+  serial-number: "100102(R)"
+
+"r35":
+  type: article
+  title: "Imaging nodal knots in momentum space through topolectrical circuits"
+  author: [{name: "Lee, C. H. and others"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Communications", volume: "11"}
+  page-range: "1-13"

@@ -1,0 +1,317 @@
+"berry2014exponential":
+  type: article
+  title: "Exponential improvement in precision for simulating sparse Hamiltonians"
+  author: [{name: "Berry, Dominic W and Childs, Andrew M and Cleve, Richard and Kothari, Robin and Somma, Rolando D"}]
+  date: 2014
+  parent: {type: proceedings, title: "Proceedings of the forty-sixth annual ACM symposium on Theory of computing"}
+  page-range: "283-292"
+
+"Chand":
+  type: article
+  title: "Radiative transfer"
+  author: [{name: "Chandrasekhar, S."}]
+  date: 1960
+  serial-number: "xiv+393"
+
+"Mouhot":
+  type: article
+  title: "Quantitative perturbative study of convergence to equilibrium for collisional kinetic models in the torus"
+  author: [{name: "Mouhot, Clément and Neumann, Lukas"}]
+  date: 2006
+  parent: {type: periodical, title: "Nonlinearity", volume: "19"}
+  page-range: "969-998"
+
+"ge2019faster":
+  type: article
+  title: "Faster ground state preparation and high-precision ground energy estimation with fewer qubits"
+  author: [{name: "Ge, Yimin and Tura, Jordi and Cirac, J Ignacio"}]
+  date: 2019
+  parent: {type: periodical, title: "Journal of Mathematical Physics", volume: "60"}
+  page-range: "022202"
+
+"lin2020near":
+  type: article
+  title: "Near-optimal ground state preparation"
+  author: [{name: "Lin, Lin and Tong, Yu"}]
+  date: 2020
+  parent: {type: periodical, title: "Quantum", volume: "4"}
+  page-range: "372"
+
+"krol2022efficient":
+  type: article
+  title: "Efficient decomposition of unitary matrices in quantum circuit compilers"
+  author: [{name: "Krol, Anna M and Sarkar, Aritra and Ashraf, Imran and Al-Ars, Zaid and Bertels, Koen"}]
+  date: 2022
+  parent: {type: periodical, title: "Applied Sciences", volume: "12"}
+  page-range: "759"
+
+"poulin2009sampling":
+  type: article
+  title: "Sampling from the thermal quantum Gibbs state and evaluating partition functions with a quantum computer"
+  author: [{name: "Poulin, David and Wocjan, Pawel"}]
+  date: 2009
+  parent: {type: periodical, title: "Physical review letters", volume: "103"}
+  page-range: "220502"
+
+"montanaro2015quantum":
+  type: article
+  title: "Quantum speedup of Monte Carlo methods"
+  author: [{name: "Montanaro, Ashley"}]
+  date: 2015
+  parent: {type: periodical, title: "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences", volume: "471"}
+  page-range: "20150301"
+
+"temme2011quantum":
+  type: article
+  title: "Quantum metropolis sampling"
+  author: [{name: "Temme, Kristan and Osborne, Tobias J and Vollbrecht, Karl G and Poulin, David and Verstraete, Frank"}]
+  date: 2011
+  parent: {type: periodical, title: "Nature", volume: "471"}
+  page-range: "87-90"
+
+"meyer2002quantum":
+  type: article
+  title: "Quantum computing classical physics"
+  author: [{name: "Meyer, David A"}]
+  date: 2002
+  parent: {type: periodical, title: "Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences", volume: "360"}
+  page-range: "395-405"
+
+"yung2010simulation":
+  type: article
+  title: "Simulation of classical thermal states on a quantum computer: A transfer-matrix approach"
+  author: [{name: "Yung, Man-Hong and Nagaj, Daniel and Whitfield, James D and Aspuru-Guzik, Alán"}]
+  date: 2010
+  parent: {type: periodical, title: "Physical Review A", volume: "82"}
+  page-range: "060302"
+
+"farhi2000quantum":
+  type: article
+  title: "Quantum computation by adiabatic evolution"
+  author: [{name: "Farhi, Edward and Goldstone, Jeffrey and Gutmann, Sam and Sipser, Michael"}]
+  date: 2000
+  parent: {type: periodical, title: "arXiv preprint quant-ph/0001106"}
+
+"bennett1997strengths":
+  type: article
+  title: "Strengths and weaknesses of quantum computing"
+  author: [{name: "Bennett, Charles H and Bernstein, Ethan and Brassard, Gilles and Vazirani, Umesh"}]
+  date: 1997
+  parent: {type: periodical, title: "SIAM journal on Computing", volume: "26"}
+  page-range: "1510-1523"
+
+"berry2015hamiltonian":
+  type: article
+  title: "Hamiltonian simulation with nearly optimal dependence on all parameters"
+  author: [{name: "Berry, Dominic W and Childs, Andrew M and Kothari, Robin"}]
+  date: 2015
+  parent: {type: proceedings, title: "2015 IEEE 56th annual symposium on foundations of computer science"}
+  page-range: "792-809"
+
+"low2016methodology":
+  type: article
+  title: "Methodology of resonant equiangular composite quantum gates"
+  author: [{name: "Low, Guang Hao and Yoder, Theodore J and Chuang, Isaac L"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review X", volume: "6"}
+  page-range: "041067"
+
+"horn2012matrix":
+  type: article
+  title: "Matrix analysis"
+  author: [{name: "Horn, Roger A and Johnson, Charles R"}]
+  date: 2012
+
+"gilyen2019quantum":
+  type: article
+  title: "Quantum singular value transformation and beyond: exponential improvements for quantum matrix arithmetics"
+  author: [{name: "Gilyén, András and Su, Yuan and Low, Guang Hao and Wiebe, Nathan"}]
+  date: 2019
+  parent: {type: proceedings, title: "Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of Computing"}
+  page-range: "193-204"
+
+"brassard2002quantum":
+  type: article
+  title: "Quantum amplitude amplification and estimation"
+  author: [{name: "Brassard, Gilles and Hoyer, Peter and Mosca, Michele and Tapp, Alain"}]
+  date: 2002
+  parent: {type: periodical, title: "Contemporary Mathematics", volume: "305"}
+  page-range: "53-74"
+
+"ryzhik1996transport":
+  type: article
+  title: "Transport equations for elastic and other waves in random media"
+  author: [{name: "Ryzhik, Leonid and Papanicolaou, George and Keller, Joseph B"}]
+  date: 1996
+  parent: {type: periodical, title: "Wave Motion", volume: "24"}
+  page-range: "327-370"
+
+"montanaro2016quantum":
+  type: article
+  title: "Quantum algorithms and the finite element method"
+  author: [{name: "Montanaro, Ashley and Pallister, Sam"}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review A", volume: "93"}
+  page-range: "032324"
+
+"childs2021high":
+  type: article
+  title: "High-precision quantum algorithms for partial differential equations"
+  author: [{name: "Childs, Andrew M and Liu, Jin-Peng and Ostrander, Aaron"}]
+  date: 2021
+  parent: {type: periodical, title: "Quantum", volume: "5"}
+  page-range: "574"
+
+"jin2022quantum":
+  type: article
+  title: "Quantum algorithms for computing observables of nonlinear partial differential equations"
+  author: [{name: "Jin, Shi and Liu, Nana"}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2202.07834"}
+
+"liu2021efficient":
+  type: article
+  title: "Efficient quantum algorithm for dissipative nonlinear differential equations"
+  author: [{name: "Liu, Jin-Peng and Kolden, Herman Øie and Krovi, Hari K and Loureiro, Nuno F and Trivisa, Konstantina and Childs, Andrew M"}]
+  date: 2021
+  parent: {type: periodical, title: "Proceedings of the National Academy of Sciences", volume: "118"}
+  serial-number: "e2026805118"
+
+"childs2017quantum":
+  type: article
+  title: "Quantum algorithm for systems of linear equations with exponentially improved dependence on precision"
+  author: [{name: "Childs, Andrew M and Kothari, Robin and Somma, Rolando D"}]
+  date: 2017
+  parent: {type: periodical, title: "SIAM Journal on Computing", volume: "46"}
+  page-range: "1920-1950"
+
+"harrow2009quantum":
+  type: article
+  title: "Quantum algorithm for linear systems of equations"
+  author: [{name: "Harrow, Aram W and Hassidim, Avinatan and Lloyd, Seth"}]
+  date: 2009
+  parent: {type: periodical, title: "Physical review letters", volume: "103"}
+  page-range: "150502"
+
+"kempe2006complexity":
+  type: article
+  title: "The complexity of the local Hamiltonian problem"
+  author: [{name: "Kempe, Julia and Kitaev, Alexei and Regev, Oded"}]
+  date: 2006
+  parent: {type: periodical, title: "Siam journal on computing", volume: "35"}
+  page-range: "1070-1097"
+
+"motta2020determining":
+  type: article
+  title: "Determining eigenstates and thermal states on a quantum computer using quantum imaginary time evolution"
+  author: [{name: "Motta, Mario and Sun, Chong and Tan, Adrian TK and O’Rourke, Matthew J and Ye, Erika and Minnich, Austin J and Brandão, Fernando GSL and Chan, Garnet Kin"}]
+  date: 2020
+  parent: {type: periodical, title: "Nature Physics", volume: "16"}
+  page-range: "205-210"
+
+"an2022theory":
+  type: article
+  title: "A theory of quantum differential equation solvers: limitations and fast-forwarding"
+  author: [{name: "An, Dong and Liu, Jin-Peng and Wang, Daochen and Zhao, Qi"}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2211.05246"}
+
+"lehtovaara2007solution":
+  type: article
+  title: "Solution of time-independent Schrödinger equation by the imaginary time propagation method"
+  author: [{name: "Lehtovaara, Lauri and Toivanen, Jari and Eloranta, Jussi"}]
+  date: 2007
+  parent: {type: periodical, title: "Journal of Computational Physics", volume: "221"}
+  page-range: "148-157"
+
+"flannigan2022propagation":
+  type: misc
+  title: "Propagation of errors and quantitative quantum simulation with quantum advantage"
+  author: [{name: "Flannigan, S and Pearson, N and Low, GH and Buyskikh, A and Bloch, I and Zoller, P and Troyer, M and Daley, AJ"}]
+  date: 2022
+  serial-number: "arXiv:2204.13644"
+
+"analogueerrors":
+  type: misc
+  title: "Quantum advantage and stability to errors in analogue quantum simulators"
+  author: [{name: "Trivedi, R, Rubio, A.F and Cirac, J. I"}]
+  date: 2022
+  serial-number: "arXiv:2212.04924"
+
+"buhrman2001quantum":
+  type: article
+  title: "Quantum fingerprinting"
+  author: [{name: "Buhrman, Harry and Cleve, Richard and Watrous, John and De Wolf, Ronald"}]
+  date: 2001
+  parent: {type: periodical, title: "Physical Review Letters", volume: "87"}
+  page-range: "167902"
+
+"case2008wigner":
+  type: article
+  title: "Wigner functions and Weyl transforms for pedestrians"
+  author: [{name: "Case, William B"}]
+  date: 2008
+  parent: {type: periodical, title: "American Journal of Physics", volume: "76"}
+  page-range: "937-946"
+
+"gidney2018halving":
+  type: article
+  title: "Halving the cost of quantum addition"
+  author: [{name: "Gidney, Craig"}]
+  date: 2018
+  parent: {type: periodical, title: "Quantum", volume: "2"}
+  page-range: "74"
+
+"golse2022quantum":
+  type: article
+  title: "Quantum algorithms for uncertainty quantification: application to partial differential equations"
+  author: [{name: "Golse, Francois and Jin, Shi and Liu, Nana"}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2209.11220"}
+
+"schr2":
+  type: article
+  title: "Quantum simulation of partial differential equations via Schrödingerisation: technical details"
+  author: [{name: "Jin, Shi and Liu, Nana and Yu, Yue"}]
+  date: 2022
+  parent: {type: periodical, title: "upcoming arXiv XXXX"}
+
+"daley2022practical":
+  type: article
+  title: "Practical quantum advantage in quantum simulation"
+  author: [{name: "Daley, Andrew J and Bloch, Immanuel and Kokail, Christian and Flannigan, Stuart and Pearson, Natalie and Troyer, Matthias and Zoller, Peter"}]
+  date: 2022
+  parent: {type: periodical, title: "Nature", volume: "607"}
+  page-range: "667-676"
+
+"feynman2018simulating":
+  type: article
+  title: "Simulating physics with computers"
+  author: [{name: "Feynman, Richard P"}]
+  date: 2018
+  parent: {type: proceedings, title: "Feynman and computation"}
+  page-range: "133-153"
+
+"lloyd1996universal":
+  type: article
+  title: "Universal quantum simulators"
+  author: [{name: "Lloyd, Seth"}]
+  date: 1996
+  parent: {type: periodical, title: "Science", volume: "273"}
+  page-range: "1073-1078"
+
+"low2019hamiltonian":
+  type: article
+  title: "Hamiltonian simulation by qubitization"
+  author: [{name: "Low, Guang Hao and Chuang, Isaac L"}]
+  date: 2019
+  parent: {type: periodical, title: "Quantum", volume: "3"}
+  page-range: "163"
+
+"erdHos2000linear":
+  type: article
+  title: "Linear Boltzmann equation as the weak coupling limit of a random Schrödinger equation"
+  author: [{name: "Erdős, László and Yau, Horng-Tzer"}]
+  date: 2000
+  parent: {type: periodical, title: "Communications on Pure and Applied Mathematics: A Journal Issued by the Courant Institute of Mathematical Sciences", volume: "53"}
+  page-range: "667-735"

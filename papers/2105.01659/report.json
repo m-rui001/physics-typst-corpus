@@ -1,0 +1,6 @@
+{
+ "paper": "2105.01659",
+ "tikz": 0,
+ "bib": false,
+ "last_errors": "error: file not found (searched at \\\\?\\E:\\phys\\papers\\2105.01659\\monochromatic-unscaled-contributions-2-panel-lin-and-log.pdf)\n    \u250c\u2500 \\\\?\\E:\\phys\\papers\\2105.01659\\main.typ:154:14\n    \u2502\n154 \u2502 #figure(image(\"monochromatic-unscaled-contributions-2-panel-lin-and-log.pdf\"),\n    \u2502               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n"
+}

@@ -1,0 +1,538 @@
+"Kramers1930":
+  type: article
+  title: "Théorie générale de la rotation paramagnétique dans les cristaux."
+  author: [{name: "Kramers, H. A."}]
+  date: 1930
+  parent: {type: periodical, title: "Proc. Amsterdam Acad.", volume: "33"}
+
+"Wigner1932":
+  type: article
+  title: "Ueber die Operation der Zeitumkehr in der Quantenmechanik"
+  author: [{name: "Wigner, E."}]
+  date: 1932
+  parent: {type: periodical, title: "Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse", volume: "1932"}
+  page-range: "546-559"
+
+"Chappert2007":
+  type: article
+  title: "The emergence of spin electronics in data storage"
+  author: [{name: "Chappert, C. and Fert, A. and Van Dau, F. N."}]
+  date: 2007
+  parent: {type: periodical, title: "Nature Materials", volume: "6"}
+  page-range: "813-823"
+
+"Ralph2008":
+  type: article
+  title: "Spin transfer torques"
+  author: [{name: "Ralph, D. C. and Stiles, M. D."}]
+  date: 2008
+  parent: {type: periodical, title: "Journal of Magnetism and Magnetic Materials", volume: "320"}
+  page-range: "1190-1216"
+
+"Bader2010":
+  type: article
+  title: "Spintronics"
+  author: [{name: "Bader, S. D. and Parkin, S."}]
+  date: 2010
+  parent: {type: periodical, title: "Annual Review of Condensed Matter Physics", volume: "1"}
+  page-range: "71-88"
+
+"Bhatti2017":
+  type: article
+  title: "Spintronics based random access memory: a review"
+  author: [{name: "Bhatti, S."}]
+  date: 2017
+  parent: {type: periodical, title: "Materials Today", volume: "20"}
+  page-range: "530-548"
+
+"Manchon2019":
+  type: article
+  title: "Current-induced spin-orbit torques in ferromagnetic and antiferromagnetic systems"
+  author: [{name: "Manchon, A."}]
+  date: 2019
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "91"}
+  page-range: "035004"
+
+"Nagaosa2010":
+  type: article
+  title: "Anomalous Hall effect"
+  author: [{name: "Nagaosa, N. and Sinova, J. and Onoda, S. and MacDonald, A. H. and Ong, N. P."}]
+  date: 2010
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "82"}
+  page-range: "1539-1592"
+
+"Franz2013":
+  type: article
+  title: "Contemporary Concepts of Condensed Matter Science, vol. 6 - Topological Insulators"
+  author: [{name: "Franz, M. and Molenkamp, L."}]
+  date: 2013
+
+"Bradlyn2017":
+  type: article
+  title: "Topological quantum chemistry"
+  author: [{name: "Bradlyn, B."}]
+  date: 2017
+  parent: {type: periodical, title: "Nature", volume: "547"}
+  page-range: "298-305"
+
+"Smejkal2018":
+  type: article
+  title: "Topological antiferromagnetic spintronics"
+  author: [{name: "Šmejkal, L. and Mokrousov, Y. and Yan, B. and MacDonald, A. H."}]
+  date: 2018
+  parent: {type: periodical, title: "Nature Physics", volume: "14"}
+  page-range: "242-251"
+
+"Zang2018":
+  type: article
+  title: "Topology in Magnetism"
+  author: [{name: "Zang, J. and Cros, V. and Hoffmann, A."}]
+  date: 2018
+
+"Tokura2019":
+  type: article
+  title: "Magnetic topological insulators"
+  author: [{name: "Tokura, Y. and Yasuda, K. and Tsukazaki, A."}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Reviews Physics", volume: "1"}
+  page-range: "126-143"
+
+"Vergniory2019":
+  type: article
+  title: "A complete catalogue of high-quality topological materials"
+  author: [{name: "Vergniory, M. G."}]
+  date: 2019
+  parent: {type: periodical, title: "Nature", volume: "566"}
+  page-range: "480-485"
+
+"Xu2020":
+  type: article
+  title: "High-throughput calculations of magnetic topological materials"
+  author: [{name: "Xu, Y."}]
+  date: 2020
+  parent: {type: periodical, title: "Nature", volume: "586"}
+  page-range: "702-707"
+
+"Elcoro2021":
+  type: article
+  title: "Magnetic topological quantum chemistry"
+  author: [{name: "Elcoro, L."}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Communications", volume: "12"}
+  page-range: "5965"
+
+"Smejkal2022AHEReview":
+  type: article
+  title: "Anomalous Hall antiferromagnets"
+  author: [{name: "Šmejkal, L. and MacDonald, A. H. and Sinova, J. and Nakatsuji, S. and Jungwirth, T."}]
+  date: 2022
+  parent: {type: periodical, title: "Nature Reviews Materials", volume: "7"}
+  page-range: "482-496"
+
+"Landau1984":
+  type: article
+  title: "Electrodynamics of Continuous Media, vol. 8 of Course of Theoretical Physics"
+  author: [{name: "Landau, L. and Lifshitz, E."}]
+  date: 1965
+
+"Winkler2003":
+  type: article
+  title: "Spin–Orbit Coupling Effects in Two-Dimensional Electron and Hole Systems"
+  author: [{name: "Winkler, R."}]
+  date: 2003
+
+"Armitage2018":
+  type: article
+  title: "Weyl and Dirac semimetals in three-dimensional solids"
+  author: [{name: "Armitage, N. P. and Mele, E. J. and Vishwanath, A."}]
+  date: 2018
+  parent: {type: periodical, title: "Reviews of Modern Physics", volume: "90"}
+  page-range: "015001"
+
+"Krempasky2016":
+  type: article
+  title: "Disentangling bulk and surface rashba effects in ferroelectric α-gete"
+  author: [{name: "Krempaský, J."}]
+  date: 2016
+  parent: {type: periodical, title: "Physical Review B", volume: "94"}
+  page-range: "205111"
+
+"DiSante2013":
+  type: article
+  title: "Electric control of the giant rashba effect in bulk gete"
+  author: [{name: "Sante, D. D. and Barone, P. and Bertacco, R. and Picozzi, S."}]
+  date: 2013
+  parent: {type: periodical, title: "Advanced Materials", volume: "25"}
+  page-range: "509-513"
+
+"Smejkal2021a":
+  type: article
+  title: "Beyond Conventional Ferromagnetism and Antiferromagnetism: A Phase with Nonrelativistic Spin and Crystal Rotation Symmetry"
+  author: [{name: "Šmejkal, L. and Sinova, J. and Jungwirth, T."}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review X", volume: "12"}
+  page-range: "031042"
+
+"Smejkal2022a":
+  type: article
+  title: "Emerging Research Landscape of Altermagnetism"
+  author: [{name: "Šmejkal, L. and Sinova, J. and Jungwirth, T."}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review X", volume: "12"}
+  page-range: "040501"
+
+"Betancourt2021":
+  type: article
+  title: "Spontaneous Anomalous Hall Effect Arising from an Unconventional Compensated Magnetic Phase in a Semiconductor"
+  author: [{name: "Gonzalez Betancourt, R. D."}]
+  date: 2023
+  parent: {type: periodical, title: "Physical Review Letters", volume: "130"}
+  page-range: "036702"
+
+"Mazin2023":
+  type: article
+  title: "Altermagnetism in MnTe: origin, predicted manifestations, and routes to detwinning"
+  author: [{name: "Mazin, I. I."}]
+  date: 2023
+  parent: {type: periodical, title: "Physical Review B", volume: "107"}
+  serial-number: "L100418"
+
+"Neel1971":
+  type: article
+  title: "Magnetism and Local Molecular Field"
+  author: [{name: "Néel, L."}]
+  date: 1971
+  parent: {type: periodical, title: "Science", volume: "174"}
+  page-range: "985-992"
+
+"Kunitomi1964":
+  type: article
+  title: "Neutron diffraction study on manganese telluride"
+  author: [{name: "Kunitomi, N. and Hamaguchi, Y. and Anzai, S."}]
+  date: 1964
+  parent: {type: periodical, title: "Journal de Physique", volume: "25"}
+  page-range: "568-574"
+
+"Smejkal2017c":
+  type: article
+  title: "Electric Control of Dirac Quasiparticles by Spin-Orbit Torque in an Antiferromagnet"
+  author: [{name: "Šmejkal, L. and Železný, J. and Sinova, J. and Jungwirth, T."}]
+  date: 2017
+  parent: {type: periodical, title: "Physical Review Letters", volume: "118"}
+  page-range: "106402"
+
+"Naka2019":
+  type: article
+  title: "Spin current generation in organic antiferromagnets"
+  author: [{name: "Naka, M."}]
+  date: 2019
+  parent: {type: periodical, title: "Nature Communications", volume: "10"}
+  page-range: "4305"
+
+"Gonzalez-Hernandez2021":
+  type: article
+  title: "Efficient Electrical Spin Splitter Based on Nonrelativistic Collinear Antiferromagnetism"
+  author: [{name: "González-Hernández, R."}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review Letters", volume: "126"}
+  page-range: "127701"
+
+"Naka2021":
+  type: article
+  title: "Perovskite as a spin current generator"
+  author: [{name: "Naka, M. and Motome, Y. and Seo, H."}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review B", volume: "103"}
+  page-range: "125114"
+
+"Ma2021":
+  type: article
+  title: "Multifunctional antiferromagnetic materials with giant piezomagnetism and noncollinear spin current"
+  author: [{name: "Ma, H.-Y."}]
+  date: 2021
+  parent: {type: periodical, title: "Nature Communications", volume: "12"}
+  page-range: "2846"
+
+"Smejkal2022":
+  type: article
+  title: "Giant and Tunneling Magnetoresistance in Unconventional Collinear Antiferromagnets with Nonrelativistic Spin-Momentum Coupling"
+  author: [{name: "Šmejkal, L. and Hellenes, A. B. and González-Hernández, R. and Sinova, J. and Jungwirth, T."}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review X", volume: "12"}
+  page-range: "011028"
+
+"Smejkal2020":
+  type: article
+  title: "Crystal time-reversal symmetry breaking and spontaneous Hall effect in collinear antiferromagnets"
+  author: [{name: "Šmejkal, L. and González-Hernández, R. and Jungwirth, T. and Sinova, J."}]
+  date: 2020
+  parent: {type: periodical, title: "Science Advances", volume: "6"}
+  serial-number: "eaaz8809"
+
+"Samanta2020":
+  type: article
+  title: "Crystal Hall and crystal magneto-optical effect in thin films of SrRuO3"
+  author: [{name: "Samanta, K."}]
+  date: 2020
+  parent: {type: periodical, title: "Journal of Applied Physics", volume: "127"}
+  page-range: "213904"
+
+"Naka2020":
+  type: article
+  title: "Anomalous Hall effect in κganic antiferromagnets"
+  author: [{name: "Naka, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Physical Review B", volume: "102"}
+  page-range: "075112"
+
+"Hayami2021":
+  type: article
+  title: "Essential role of the anisotropic magnetic dipole in the anomalous Hall effect"
+  author: [{name: "Hayami, S. and Kusunose, H."}]
+  date: 2021
+  parent: {type: periodical, title: "Physical Review B", volume: "103"}
+  serial-number: "L180407"
+
+"Mazin2021":
+  type: article
+  title: "Prediction of unconventional magnetism in doped FeSb2"
+  author: [{name: "Mazin, I. I. and Koepernik, K. and Johannes, M. D. and González-Hernández, R. and Šmejkal, L."}]
+  date: 2021
+  parent: {type: periodical, title: "PNAS", volume: "118"}
+  serial-number: "e2108924118"
+
+"Naka2022":
+  type: article
+  title: "Anomalous Hall effect in antiferromagnetic perovskites"
+  author: [{name: "Naka, M. and Motome, Y. and Seo, H."}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review B", volume: "106"}
+  page-range: "195149"
+
+"Feng2022":
+  type: article
+  title: "An anomalous Hall effect in altermagnetic ruthenium dioxide"
+  author: [{name: "Feng, Z."}]
+  date: 2022
+  parent: {type: periodical, title: "Nature Electronics", volume: "5"}
+  page-range: "735-743"
+
+"Bose2022":
+  type: article
+  title: "Tilted spin current generated by an antiferromagnet"
+  author: [{name: "Bose, A."}]
+  date: 2022
+  parent: {type: periodical, title: "Nature Electronics", volume: "5"}
+  page-range: "263-264"
+
+"Bai2021":
+  type: article
+  title: "Observation of Spin Splitting Torque in a Collinear Antiferromagnet RuO2"
+  author: [{name: "Bai, H."}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review Letters", volume: "128"}
+  page-range: "197202"
+
+"Karube2022":
+  type: article
+  title: "Observation of Spin-Splitter Torque in Collinear Antiferromagnetic RuO2"
+  author: [{name: "Karube, S."}]
+  date: 2022
+  parent: {type: periodical, title: "Physical Review Letters", volume: "129"}
+  page-range: "137201"
+
+"Strocov2010":
+  type: article
+  title: "High-resolution soft x-ray beamline adress at the swiss light source for resonant inelastic x-ray scattering and angle-resolved photoelectron spectroscopies"
+  author: [{name: "Strocov, V. N."}]
+  date: 2010
+  parent: {type: periodical, title: "Journal of Synchrotron Radiation", volume: "17"}
+  page-range: "631-643"
+
+"Strocov2014":
+  type: article
+  title: "Soft-x-ray arpes facility at the adress beamline of the sls: Concepts, technical realisation and scientific applications"
+  author: [{name: "Strocov, V. N."}]
+  date: 2014
+  parent: {type: periodical, title: "Journal of Synchrotron Radiation", volume: "21"}
+  page-range: "32-44"
+
+"Kriegner2016":
+  type: article
+  title: "Multiple-stable anisotropic magnetoresistance memory in antiferromagnetic MnTe"
+  author: [{name: "Kriegner, D."}]
+  date: 2016
+  parent: {type: periodical, title: "Nature Communications", volume: "7"}
+  page-range: "11623"
+
+"Ebert2011a":
+  type: article
+  title: "Calculating condensed matter properties using the KKR-Green’s function method—recent developments and applications"
+  author: [{name: "Ebert, H. and Ködderitzsch, D. and Minár, J."}]
+  date: 2011
+  parent: {type: periodical, title: "Reports on Progress in Physics", volume: "74"}
+  page-range: "096501"
+
+"Braun2018":
+  type: article
+  title: "Correlation, temperature and disorder: Recent developments in the one-step description of angle-resolved photoemission"
+  author: [{name: "Braun, J. and Minár, J. and Ebert, H."}]
+  date: 2018
+  parent: {type: periodical, title: "Physics Reports", volume: "740"}
+  page-range: "1-34"
+
+"Zhang2011b":
+  type: article
+  title: "A precise method for visualizing dispersive features in image plots"
+  author: [{name: "Zhang, P."}]
+  date: 2011
+  parent: {type: periodical, title: "Review of Scientific Instruments", volume: "82"}
+
+"Kriegner2017":
+  type: article
+  title: "Magnetic anisotropy in antiferromagnetic hexagonal MnTe"
+  author: [{name: "Kriegner, D."}]
+  date: 2017
+  parent: {type: periodical, title: "Physical Review B", volume: "96"}
+  page-range: "214418"
+
+"Hoesch2002":
+  type: article
+  title: "Spin-polarized fermi surface mapping"
+  author: [{name: "Hoesch, M."}]
+  date: 2002
+
+"kriegner2013":
+  type: article
+  title: "Xrayutilities: A versatile tool for reciprocal space conversion of scattering data recorded with linear and area detectors"
+  author: [{name: "Kriegner, D. and Wintersberger, E. and Stangl, J."}]
+  date: 2013
+  parent: {type: periodical, title: "Journal of Applied Crystallography", volume: "46"}
+  page-range: "1162"
+
+"Damascelli_2003":
+  type: article
+  title: "Angle-resolved photoemission studies of the cuprate superconductors"
+  author: [{name: "Damascelli, A. and Hussain, Z. and Shen, Z.-X."}]
+  date: 2003
+  parent: {type: periodical, title: "Rev. Mod. Phys.", volume: "75"}
+  page-range: "473-541"
+
+"Strocov_VSe_2012":
+  type: article
+  title: "Three-dimensional electron realm in vse_2 by soft-x-ray photoelectron spectroscopy: Origin of charge-density waves"
+  author: [{name: "Strocov, V. N."}]
+  date: 2012
+  parent: {type: periodical, title: "Phys. Rev. Lett.", volume: "109"}
+  page-range: "086401"
+
+"JK_PRB":
+  type: article
+  title: "Disentangling bulk and surface Rashba effects in ferroelectric α -GeTe"
+  author: [{name: "Krempask, J."}]
+  date: 2016
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "94"}
+  page-range: "205111"
+
+"Weber_PRB_2018":
+  type: article
+  title: "Three-dimensional fermi surface of 2h-NbSe_2: Implications for the mechanism of charge density waves"
+  author: [{name: "Weber, F."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. B", volume: "97"}
+  page-range: "235122"
+
+"Schroeter_2020":
+  type: article
+  title: "Observation and control of maximal chern numbers in a chiral topological semimetal"
+  author: [{name: "Schröter, N."}]
+  date: 2020
+  parent: {type: periodical, title: "Science", volume: "369"}
+  page-range: "179-183"
+
+"Strocov_JSR_2014":
+  type: article
+  title: "Soft-X-ray ARPES facility at the ADRESS beamline of the SLS: concepts, technical realisation and scientific applications"
+  author: [{name: "Strocov, V. N."}]
+  date: 2014
+  parent: {type: periodical, title: "Journal of Synchrotron Radiation", volume: "21"}
+  page-range: "32-44"
+
+"Strocov_JSR_2010":
+  type: article
+  title: "High-resolution soft X-ray beamline ADRESS at the Swiss Light Source for resonant inelastic X-ray scattering and angle-resolved photoelectron spectroscopies"
+  author: [{name: "Strocov, V. N."}]
+  date: 2010
+  parent: {type: periodical, title: "Journal of Synchrotron Radiation", volume: "17"}
+  page-range: "631-643"
+
+"Hoesch:2002":
+  type: article
+  title: "Spin-polarized fermi surface mapping"
+  author: [{name: "Hoesch, M."}]
+  date: 2002
+  parent: {type: periodical, title: "Journal of Electron Spectroscopy and Related Phenomena", volume: "124"}
+  serial-number: "263 - 279"
+
+"Dil_2009":
+  type: article
+  title: "Spin and angle resolved photoemission on non-magnetic low-dimensional systems"
+  author: [{name: "Dil, J. H."}]
+  date: 2009
+  parent: {type: periodical, title: "Journal of Physics: Condensed Matter", volume: "21"}
+  page-range: "403001"
+
+"Kresse1996a":
+  type: article
+  title: "Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set"
+  author: [{name: "Kresse, G. and Furthmüller, J."}]
+  date: 1996
+  parent: {type: periodical, title: "Physical Review B", volume: "54"}
+  page-range: "11169-11186"
+
+"Perdew1997":
+  type: article
+  title: "Generalized gradient approximation made simple"
+  author: [{name: "Perdew, J. P. and Burke, K. and Ernzerhof, M."}]
+  date: 1996
+  parent: {type: periodical, title: "Physical Review Letters", volume: "78"}
+  page-range: "1396-1396"
+
+"Minar_RPP_2011":
+  type: article
+  title: "Calculating condensed matter properties using the KKR-Green’s function method—recent developments and applications"
+  author: [{name: "Ebert, H. and Ködderitzsch, D. and Minár, J."}]
+  date: 2011
+  parent: {type: periodical, title: "Rep. Prog. Phys.", volume: "74"}
+
+"Minar_2011":
+  type: article
+  title: "Correlation effects in transition metals and their alloys studied using the fully self-consistent kkr-based lsda + dmft scheme"
+  author: [{name: "Minár, J."}]
+  date: 2011
+  parent: {type: periodical, title: "Journal of Physics: Condensed Matter", volume: "23"}
+  page-range: "253201"
+
+"Lloyd_1967":
+  type: article
+  title: "Wave propagation through an assembly of spheres: Ii. the density of single-particle eigenstates"
+  author: [{name: "Lloyd, P."}]
+  date: 1967
+  parent: {type: periodical, title: "Proceedings of the Physical Society", volume: "90"}
+  page-range: "207"
+
+"Lloyd_1972":
+  type: article
+  title: "Multiple scattering theory in condensed materials"
+  author: [{name: "Lloyd, P. and Smith, P."}]
+  date: 1972
+  parent: {type: periodical, title: "Advances in Physics", volume: "21"}
+  page-range: "69-142"
+
+"Braun_2018":
+  type: article
+  title: "Correlation, temperature and disorder: Recent developments in the one-step description of angle-resolved photoemission"
+  author: [{name: "Braun, J. and Minár, J. and H., E."}]
+  date: 2018
+  parent: {type: periodical, title: "Physics Reports", volume: "740"}
+  page-range: "1-34"

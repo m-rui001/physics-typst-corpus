@@ -1,0 +1,2373 @@
+"jabref-meta: databaseType:bibtex; @articleWHP2018":
+  type: article
+  title: "Physics-informed machine learning approach for augmenting turbulence models: A compre- hensive framework"
+  author: [{name: "J-L. Wu and H. Xiao and E. Paterson"}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "3"}
+
+"saegusa2005nonlinear":
+  type: article
+  title: "A nonlinear principal component analysis of image data"
+  author: [{name: "Saegusa, R. and Sakano, H. and Hashimoto, S."}]
+  date: 2005
+  parent: {type: periodical, title: "IEICE TRANSACTIONS on Information and Systems", volume: "88"}
+  page-range: "2242-2248"
+
+"di2020synchronization":
+  type: article
+  title: "Synchronization to big data: Nudging the Navier-Stokes equations for data assimilation of turbulent flows"
+  author: [{name: "Di Leoni, P. C. and Mazzino, A. and Biferale, L."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. X", volume: "10"}
+  page-range: "011023"
+
+"di2018inferring":
+  type: article
+  title: "Inferring flow parameters and turbulent configuration with physics-informed data assimilation and spectral nudging"
+  author: [{name: "Di Leoni, P. C. and Mazzino, A. and Biferale, L."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "3"}
+  page-range: "104604"
+
+"yasuda2022spatio":
+  type: article
+  title: "Spatio-temporal Super-Resolution Data Assimilation (SRDA) Utilizing Deep Neural Networks with Domain Generalization Technique Toward Four-Dimensional SRDA"
+  author: [{name: "Yasuda, Y. and Onishi, R."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2212.03656"}
+
+"du2023state":
+  type: article
+  title: "State estimation in minimal turbulent channel flow: A comparative study of 4DVar and PINN"
+  author: [{name: "Du, Y. and Wang, M. and Zaki, T. A."}]
+  date: 2023
+  parent: {type: periodical, title: "Int. J. Heat Fluid Flow", volume: "99"}
+  page-range: "109073"
+
+"THU2020":
+  type: article
+  title: "Modal Analysis of Fluid Flows: Introduction to the Virtual Collection"
+  author: [{name: "K. Taira and M. S. Hemati and L. S. Ukeiley"}]
+  date: 2020
+  parent: {type: periodical, title: "AIAA J.", volume: "58"}
+  page-range: "991-993"
+
+"BEF2019":
+  type: article
+  title: "Perspective on machine learning for advancing fluid mechanics"
+  author: [{name: "Brenner, M. P. and Eldredge, J. D. and Freund, J. B."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "4"}
+  serial-number: "(100501)"
+
+"li2020fourier":
+  type: article
+  title: "Fourier neural operator for parametric partial differential equations"
+  author: [{name: "Li, Z. and Kovachki, N. and Azizzadenesheli, K. and Liu, B. and Bhattacharya, K. and Stuart, A. and Anandkumar, A."}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2010.08895"}
+
+"wu2020enforcing":
+  type: article
+  title: "Enforcing statistical constraints in generative adversarial networks for modeling chaotic dynamical systems"
+  author: [{name: "Wu, J.-L. and Kashinath, K. and Albert, A. and Chirila, D. and Xiao, H."}]
+  date: 2020
+  parent: {type: periodical, title: "J. Comput. Phys.", volume: "406"}
+  page-range: "109209"
+
+"charalampopoulos2022machine":
+  type: article
+  title: "Machine-learning energy-preserving nonlocal closures for turbulent fluid flows and inertial tracers"
+  author: [{name: "Charalampopoulos, A.-T. G. and Sapsis, T. P."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "7"}
+  page-range: "024305"
+
+"towne2022database":
+  type: article
+  title: "A database for reduced-complexity modeling of fluid flows"
+  author: [{name: "Towne, A. and Dawson, S. and Brès, G. A. and Lozano-Durán, A. and Saxton-Fox, T. and Parthasarathy, A. and Jones, A. R. and Biler, H. and Yeh, C.-A. and Patel, H. D. and Taira, K."}]
+  date: 2023
+  parent: {type: periodical, title: "AIAA J."}
+
+"wu2008direct":
+  type: article
+  title: "A direct numerical simulation study on the mean velocity characteristics in turbulent pipe flow"
+  author: [{name: "Wu, X. and Moin, P."}]
+  date: 2008
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "608"}
+  page-range: "81-112"
+
+"stachenfeld2021learned":
+  type: article
+  title: "Learned Coarse Models for Efficient Turbulence Simulation"
+  author: [{name: "Stachenfeld, K. and Fielding, D. B. and Kochkov, D. and Cranmer, M. and Pfaff, T. and Godwin, J. and Cui, C. and Ho, S. and Battaglia, P. and Sanchez-Gonzalez, A."}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv:2112.15275"}
+
+"dresdner2022learning":
+  type: article
+  title: "Learning to correct spectral methods for simulating turbulent flows"
+  author: [{name: "Dresdner, G. and Kochkov, D. and Norgaard, P. and Zepeda-Núñez, L. and Smith, J. A. and Brenner, M. P. and Hoyer, S."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2207.00556"}
+
+"kochkov2021machine":
+  type: article
+  title: "Machine learning--accelerated computational fluid dynamics"
+  author: [{name: "Kochkov, D. and Smith, J. A. and Alieva, A. and Wang, Q. and Brenner, M. P. and Hoyer, S."}]
+  date: 2021
+  parent: {type: periodical, title: "Proc. Natl. Acad. Sci. U.S.A.", volume: "118"}
+  serial-number: "e2101784118"
+
+"MLB2020":
+  type: article
+  title: "Reduced-order modeling of advection-dominated systems with recurrent neural networks and convolutional autoencoders"
+  author: [{name: "R. Maulik and B. Lusch and P. Balaprakash"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv preprint, arXiv:2002.00470v1 [physics.flu-dyn]"}
+
+"liu2020deep":
+  type: article
+  title: "Deep learning methods for super-resolution reconstruction of turbulent flows"
+  author: [{name: "Liu, B. and Tang, J. and Huang, H. and Lu, X.-Y."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Fluids", volume: "32"}
+  page-range: "025105"
+
+"kong2020deep":
+  type: article
+  title: "Deep learning methods for super-resolution reconstruction of temperature fields in a supersonic combustor"
+  author: [{name: "Kong, C. and Chang, J.-T. and Li, Y.-F. and Chen, R.-Y."}]
+  date: 2020
+  parent: {type: periodical, title: "AIP Adv.", volume: "10"}
+  page-range: "115021"
+
+"morimoto2021experimental":
+  type: article
+  title: "Experimental velocity data estimation for imperfect particle images using machine learning"
+  author: [{name: "Morimoto, M. and Fukami, K. and Fukagata, K."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Fluids", volume: "33"}
+  page-range: "087121"
+
+"bode2019deep":
+  type: article
+  title: "Deep learning at scale for subgrid modeling in turbulent flows: regression and reconstruction"
+  author: [{name: "Bode, M. and Gauding, M. and Kleinheinz, K. and Pitsch, H."}]
+  date: 2019
+  parent: {type: proceedings, title: "International Conference on High Performance Computing"}
+  page-range: "541-560"
+
+"bode2018towards":
+  type: article
+  title: "Towards prediction of turbulent flows at high Reynolds numbers using high performance computing data and deep learning"
+  author: [{name: "Bode, M. and Gauding, M. and Göbbert, J. H. and Liao, B. and Jitsev, J. and Pitsch, H."}]
+  date: 2018
+  parent: {type: proceedings, title: "International Conference on High Performance Computing"}
+  page-range: "614-623"
+
+"bode2022applyingA":
+  type: article
+  title: "Applying Physics-Informed Enhanced Super-Resolution Generative Adversarial Networks to Finite-Rate-Chemistry Flows and Predicting Lean Premixed Gas Turbine Combustors"
+  author: [{name: "Bode, M."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2210.16219"}
+
+"bode2022applying":
+  type: article
+  title: "Applying Physics-Informed Enhanced Super-Resolution Generative Adversarial Networks to Turbulent Premixed Combustion and Engine-like Flame Kernel Direct Numerical Simulation Data"
+  author: [{name: "M. Bode and M. Gauding and D. Goeb and T. Falkenstein and H. Pitsch"}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2210.16206"}
+
+"yang2019deep":
+  type: article
+  title: "Deep learning for single image super-resolution: A brief review"
+  author: [{name: "Yang, W. and Zhang, X. and Tian, Y. and Wang, W. and Xue, J.-H. and Liao, Q."}]
+  date: 2019
+  parent: {type: periodical, title: "IEEE Trans. Multimed.", volume: "21"}
+  page-range: "3106-3121"
+
+"dong2014learning":
+  type: article
+  title: "Learning a deep convolutional network for image super-resolution"
+  author: [{name: "Dong, C. and Loy, C. C. and He, K. and Tang, X."}]
+  date: 2014
+  parent: {type: proceedings, title: "European conference on computer vision"}
+  page-range: "184-199"
+
+"dong2016accelerating":
+  type: article
+  title: "Accelerating the super-resolution convolutional neural network"
+  author: [{name: "Dong, C. and Loy, C. C. and Tang, X."}]
+  date: 2016
+  parent: {type: proceedings, title: "European conference on computer vision"}
+  page-range: "391-407"
+
+"bode2021using":
+  type: article
+  title: "Using physics-informed enhanced super-resolution generative adversarial networks for subfilter modeling in turbulent reactive flows"
+  author: [{name: "Bode, M. and Gauding, M. and Lian, Z. and Denker, D. and Davidovic, M. and Kleinheinz, K. and Jitsev, J. and Pitsch, H."}]
+  date: 2021
+  parent: {type: periodical, title: "Proc. Combust. Inst.", volume: "38"}
+  page-range: "2617-2625"
+
+"wang2018esrgan":
+  type: article
+  title: "ESRGAN: Enhanced super-resolution generative adversarial networks"
+  author: [{name: "Wang, X. and Yu, K. and Wu, S. and Gu, J. and Liu, Y. and Dong, C. and Qiao, Y. and Change L., C."}]
+  date: 2018
+  parent: {type: proceedings, title: "Proceedings of the European conference on computer vision (ECCV) workshops"}
+  page-range: "63-79"
+
+"TransFlowNet2022":
+  type: article
+  title: "TransFlowNet: A physics-constrained Transformer framework for spatio-temporal super-resolution of flow simulations"
+  author: [{name: "X. Wang and S. Zhu and Y. Guo and P. Han and Y. Wang and Z. Wei and X. Jin"}]
+  date: 2022
+  parent: {type: periodical, title: "J. Comput. Sci.", volume: "65"}
+
+"esmaeilzadeh2020meshfreeflownet":
+  type: article
+  title: "MeshfreeFlowNet: A physics-constrained deep continuous space-time super-resolution framework"
+  author: [{name: "Esmaeilzadeh, S. and Azizzadenesheli, K. and Kashinath, K. and Mustafa, M. and Tchelepi, H. A. and Marcus, P. and Prabhat, M. and Anandkumar. and others"}]
+  date: 2020
+  parent: {type: proceedings, title: "SC20: International Conference for High Performance Computing, Networking, Storage and Analysis"}
+  page-range: "1-15"
+
+"DQHG2018":
+  type: article
+  title: "Single image super-resolution based on multi-scale competitive convolutional neural network"
+  author: [{name: "Du, X. and Qu, X. and He, Y. and Guo, D."}]
+  date: 2018
+  parent: {type: periodical, title: "Sensors", volume: "789"}
+  page-range: "1-17"
+
+"nista2022influence":
+  type: article
+  title: "The influence of adversarial training on turbulence closure modeling"
+  author: [{name: "Nista, L. and Schumann, C. K. D. and Scialabba, G. and Grenga, T. and Attili, A. and Pitsch, H."}]
+  date: 2022
+  parent: {type: proceedings, title: "AIAA paper, 2022-0185"}
+
+"pathak2020using":
+  type: article
+  title: "Using machine learning to augment coarse-grid computational fluid dynamics simulations"
+  author: [{name: "Pathak, J. and Mustafa, M. and Kashinath, K. and Motheau, E. and Kurth, T. and Day, M."}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2010.00072"}
+
+"yousif2022transformer":
+  type: article
+  title: "A transformer-based synthetic-inflow generator for spatially-developing turbulent boundary layers"
+  author: [{name: "Yousif, M. Z. and Zhang, M. and Yu, L. and Vinuesa, R. and Lim, H. C."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2206.01618"}
+
+"vaswani2017attention":
+  type: article
+  title: "Attention is all you need"
+  author: [{name: "Vaswani, A. and Shazeer, N. and Parmar, N. and Uszkoreit, J. and Jones, L. and Gomez, A. N. and Kaiser, Ł. and Polosukhin, I."}]
+  date: 2017
+  parent: {type: periodical, title: "NeurIPS2017"}
+
+"FT2022b":
+  type: article
+  title: "Learning the nonlinear manifold of extreme aerodynamics"
+  author: [{name: "Fukami, K. and Taira, K."}]
+  date: 2022
+  parent: {type: periodical, title: "NeurIPS2022"}
+
+"ham2006accurate":
+  type: article
+  title: "Accurate and stable finite volume operators for unstructured flow solvers"
+  author: [{name: "Ham, F. and Mattsson, K. and Iaccarino, G."}]
+  date: 2006
+  parent: {type: periodical, title: "Annual Research Briefs (Center for Turbulence Research, Stanford University)"}
+  page-range: "243-261"
+
+"FFT2021b":
+  type: article
+  title: "Machine-learning-based spatio-temporal super resolution reconstruction of turbulent flows"
+  author: [{name: "Fukami, K. and Fukagata, K. and Taira, K."}]
+  date: 2021
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "909"}
+
+"DHLK2019":
+  type: article
+  title: "Super-resolution reconstruction of turbulent velocity fields using a generative adversarial network-based artificial intelligence framework"
+  author: [{name: "Z. Deng and C. He and Y. Liu and K. C. Kim"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Fluids", volume: "31"}
+  page-range: "125111"
+
+"majewski2020developing":
+  type: article
+  title: "Developing particle image velocimetry software based on a deep neural network"
+  author: [{name: "Majewski, W. and Wei, R. and Kumar, V."}]
+  date: 2020
+  parent: {type: periodical, title: "J. Flow Vis. Image Process.", volume: "27"}
+
+"CLKB2019":
+  type: article
+  title: "Data-driven discovery of coordinates and governing equations"
+  author: [{name: "K. Champion and B. Lusch and J. N. Kutz and S. L. Brunton"}]
+  date: 2019
+  parent: {type: periodical, title: "Proc. Natl. Acad. Sci.", volume: "45"}
+  page-range: "116"
+
+"JZV2020":
+  type: article
+  title: "Uncovering dynamically critical regions in near-wall turbulence 3D convolutional neural networks"
+  author: [{name: "Jagodinski, E. and Zhu, X. and Verma, S."}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2004.06187"}
+
+"morimoto2022generalization":
+  type: article
+  title: "Generalization techniques of neural networks for fluid flow estimation"
+  author: [{name: "Morimoto, M. and Fukami, K. and Zhang, K. and Fukagata, K."}]
+  date: 2022
+  parent: {type: periodical, title: "Neural Comput. App.", volume: "34"}
+  page-range: "3647-3669"
+
+"FT2022a":
+  type: article
+  title: "Robust machine learning of turbulence through generalized Buckingham Pi-inspired pre-processing of training data"
+  author: [{name: "Fukami, K. and Taira, K."}]
+  date: 2021
+
+"FT2023":
+  type: article
+  title: "Grasping extreme aerodynamics on a low-dimensional manifold"
+  author: [{name: "Fukami, K. and Taira, K."}]
+  date: 2023
+  parent: {type: periodical, title: "arXiv:2305.08024"}
+
+"FNF2020":
+  type: article
+  title: "Convolutional neural network based hierarchical autoencoder for nonlinear mode decomposition of fluid field data"
+  author: [{name: "K. Fukami and T. Nakamura and K. Fukagata"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Fluids", volume: "32"}
+  page-range: "095110"
+
+"CCB2011":
+  type: article
+  title: "State estimation in wall-bounded flow systems. Part 3. The ensemble Kalman filter"
+  author: [{name: "Colburn, C. H. and Cessna, J. B. and Bewley, T. R."}]
+  date: 2011
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "682"}
+  page-range: "289-303"
+
+"CHBH2006":
+  type: article
+  title: "State estimation in wall-bounded flow systems. Part 2. Turbulent flows"
+  author: [{name: "Chevalier, M. and Hœpffner, J. and Bewley, T. R. and Henningson, D. S."}]
+  date: 2006
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "552"}
+  page-range: "167-187"
+
+"SH2017":
+  type: article
+  title: "Estimation of turbulent channel flow at Reτ = 100 based on the wall measurement using a simple sequential approach"
+  author: [{name: "Suzuki, T. and Hasegawa, Y."}]
+  date: 2006
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "830"}
+  page-range: "760-796"
+
+"ZJZ2022":
+  type: article
+  title: "Deep learning method for the super-resolution reconstruction of small-scale motions in large-eddy simulation"
+  author: [{name: "Zhao, Q. and Jin. G. and Zhou, Z."}]
+  date: 2022
+  parent: {type: periodical, title: "AIP Adv.", volume: "12"}
+  page-range: "125304"
+
+"bi2022flowsrnet":
+  type: article
+  title: "FlowSRNet: A multi-scale integration network for super-resolution reconstruction of fluid flows"
+  author: [{name: "Bi, X. and Liu, A. and Fan, Y. and Yu, C. and Zhang, Z."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Fluids", volume: "34"}
+  page-range: "127104"
+
+"BMT2001":
+  type: article
+  title: "DNS-based predictive control of turbulence: an optimal benchmark for feedback algorithms"
+  author: [{name: "Bewley, T. R. and Moin, P. and Temam, R."}]
+  date: 2001
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "447"}
+  page-range: "179-225"
+
+"nakamura2022identifying":
+  type: article
+  title: "Identifying key differences between linear stochastic estimation and neural networks for fluid flow regressions"
+  author: [{name: "Nakamura, T. and Fukami, K. and Fukagata, K."}]
+  date: 2022
+  parent: {type: periodical, title: "Sci. Rep.", volume: "12"}
+
+"ren2022physics":
+  type: article
+  title: "Physics-informed Deep Super-resolution for Spatiotemporal Data"
+  author: [{name: "Ren, P. and Rao, C. and Liu, Y. and Ma, Z. and Wang, Q. and Wang, J.-X. and Sun, H."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2208.01462"}
+
+"ioffe2015batch":
+  type: article
+  title: "Batch normalization: Accelerating deep network training by reducing internal covariate shift"
+  author: [{name: "Ioffe, S. and Szegedy, C."}]
+  date: 2015
+  parent: {type: proceedings, title: "International conference on machine learning"}
+  page-range: "448-456"
+
+"he2016deep":
+  type: article
+  title: "Deep residual learning for image recognition"
+  author: [{name: "He, K. and Zhang, X. and Ren, S. and Sun, J."}]
+  date: 2016
+  parent: {type: proceedings, title: "Proceedings of the IEEE conference on computer vision and pattern recognition"}
+  page-range: "770-778"
+
+"bieker2020deep":
+  type: article
+  title: "Deep model predictive flow control with limited sensor data and online learning"
+  author: [{name: "Bieker, K. and Peitz, S. and Brunton, S. L. and Kutz, J. N. and Dellnitz, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Theor. Comput. Fluid Dyn.", volume: "34"}
+  page-range: "577-591"
+
+"Nissan":
+  type: article
+  title: "3D Flow Field Estimation around a Vehicle Using Convolutional Neural Networks"
+  author: [{name: "F. Chen and K. Akasaka"}]
+  date: 2021
+  parent: {type: periodical, title: "The 32nd British Machine Vision Conference"}
+
+"Fukamipump2022":
+  type: article
+  title: "Machine-learning-based reconstruction of turbulent vortices from sparse pressure sensors in a pump sump"
+  author: [{name: "Fukami, K. and An, B. and Nohmi, M. and Obuchi, M. and Taira, K."}]
+  date: 2022
+  parent: {type: periodical, title: "J. Fluids Eng.", volume: "144"}
+  page-range: "121501"
+
+"anderson2022fast":
+  type: article
+  title: "Fast and scalable computation of reduced-order nonlinear solutions with application to evolutional neural networks"
+  author: [{name: "Anderson, W. and Farazmand, M."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2207.13828"}
+
+"leer2021fast":
+  type: article
+  title: "Fast Flow Field Estimation for Various Applications with A Universally Applicable Machine Learning Concept"
+  author: [{name: "Leer, M. and Kempf, A."}]
+  date: 2021
+  parent: {type: periodical, title: "Flow, Turbul. Comb.", volume: "107"}
+  page-range: "175-200"
+
+"du2021evolutional":
+  type: article
+  title: "Evolutional deep neural network"
+  author: [{name: "Du, Y. and Zaki, T. A."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "104"}
+  page-range: "045303"
+
+"morimoto2021convolutional":
+  type: article
+  title: "Convolutional neural networks for fluid flow analysis: toward effective metamodeling and low dimensionalization"
+  author: [{name: "Morimoto, M. and Fukami, K. and Zhang, K. and Nair, A. G. and Fukagata, K."}]
+  date: 2021
+  parent: {type: periodical, title: "Theor. Comput. Fluid Dyn.", volume: "35"}
+  page-range: "633-658"
+
+"zhou2020artificial":
+  type: article
+  title: "Artificial intelligence control of a turbulent jet"
+  author: [{name: "Zhou, Y. and Fan, D. and Zhang, B. and Li, R. and Noack, B. R."}]
+  date: 2020
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "897"}
+  serial-number: "A27"
+
+"paris2021robust":
+  type: article
+  title: "Robust flow control and optimal sensor placement using deep reinforcement learning"
+  author: [{name: "Paris, R. and Beneddine, S. and Dandois, J."}]
+  date: 2021
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "913"}
+  serial-number: "A25"
+
+"park2020machine":
+  type: article
+  title: "Machine-learning-based feedback control for drag reduction in a turbulent channel flow"
+  author: [{name: "Park, J. and Choi, H."}]
+  date: 2020
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "904"}
+  serial-number: "A24"
+
+"ghraieb2021single":
+  type: article
+  title: "Single-step deep reinforcement learning for open-loop control of laminar and turbulent flows"
+  author: [{name: "Ghraieb, H. and Viquerat, J. and Larcher, A. and Meliga, P. and Hachem, E."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "6"}
+  page-range: "053902"
+
+"callaham2022empirical":
+  type: article
+  title: "An empirical mean-field model of symmetry-breaking in a turbulent wake"
+  author: [{name: "Callaham, J. L. and Rigas, G. and Loiseau, J.-C. and Brunton, S. L."}]
+  date: 2022
+  parent: {type: periodical, title: "Sci. Adv.", volume: "8"}
+  serial-number: "eabm4786"
+
+"san2018neural":
+  type: article
+  title: "Neural network closures for nonlinear model order reduction"
+  author: [{name: "San, O. and Maulik, R."}]
+  date: 2018
+  parent: {type: periodical, title: "Adv. Comput. Math.", volume: "44"}
+  page-range: "1717-1750"
+
+"matsuo2021supervised":
+  type: article
+  title: "Supervised convolutional network for three-dimensional fluid data reconstruction from sectional flow fields with adaptive super-resolution assistance"
+  author: [{name: "Matsuo, M. and Nakamura, T. and Morimoto, M. and Fukami, K. and Fukagata, K."}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv:2103.09020"}
+
+"vinuesa2022enhancing":
+  type: article
+  title: "Enhancing computational fluid dynamics with machine learning"
+  author: [{name: "Vinuesa, R. and Brunton, S. L."}]
+  date: 2022
+  parent: {type: periodical, title: "Nat. Comput. Sci.", volume: "2"}
+  page-range: "358-366"
+
+"zeng2022data":
+  type: article
+  title: "Data-driven control of spatiotemporal chaos with reduced-order neural ODE-based models and reinforcement learning"
+  author: [{name: "Zeng, K. and Linot, A. J. and Graham, M. D."}]
+  date: 2022
+  parent: {type: periodical, title: "Proc. Roy. Soc. A.", volume: "478"}
+  page-range: "20220297"
+
+"LTHL2020":
+  type: article
+  title: "Deep learning methods for super-resolution reconstruction of turbulent flows"
+  author: [{name: "B. Liu and J. Tang and H. Huang and X.-Y. Lu"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Fluids", volume: "32"}
+  page-range: "025105"
+
+"EMM2019":
+  type: article
+  title: "Physics-informed autoencoders for lypunov-stable fluid flow prediction"
+  author: [{name: "N. B. Erichson and M. Muehlebach and M. W. Mahoney"}]
+  date: 2019
+  parent: {type: periodical, title: "arXiv preprint, arXiv:1905.10866v1 [physics.comp-ph]"}
+
+"XD2019":
+  type: article
+  title: "Multi-level convolutional autoencoder networks for parametric prediction of spatio-temporal dynamics"
+  author: [{name: "J. Xu and K. Duraisamy"}]
+  date: 2019
+  parent: {type: periodical, title: "arXiv preprint, arXiv:1912.11114v1 [physics.comp-ph]"}
+
+"kuehn2022neural":
+  type: article
+  title: "A neural network super-resolution approach for the reconstruction of coastal sea states"
+  author: [{name: "Kuehn, J. F. and Abadie, S. M. and Roeber, V."}]
+  date: 2022
+  parent: {type: periodical, title: "Authorea Preprints"}
+
+"AS2022":
+  type: article
+  title: "Spatio-Temporal Super-Resolution of Dynamical Systems using Physics-Informed Deep-Learning"
+  author: [{name: "R. Arora, A. Shrivastava"}]
+  date: 2022
+  parent: {type: periodical, title: "AAAI 2023: Workshop on AI to Accelerate Science and Engineering (AI2ASE)"}
+
+"raissi2019physics":
+  type: article
+  title: "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations"
+  author: [{name: "Raissi, M. and Perdikaris, P. and Karniadakis, G. E."}]
+  date: 2019
+  parent: {type: periodical, title: "J. Comput. Phys.", volume: "378"}
+  page-range: "686-707"
+
+"lagaris1998artificial":
+  type: article
+  title: "Artificial neural networks for solving ordinary and partial differential equations"
+  author: [{name: "Lagaris, I. E. and Likas, A. and Fotiadis, D. I."}]
+  date: 1998
+  parent: {type: periodical, title: "IEEE Trans. Neural Netw.", volume: "9"}
+  page-range: "987-1000"
+
+"sun2020physics":
+  type: article
+  title: "Physics-constrained Bayesian neural network for fluid flow reconstruction with sparse and noisy data"
+  author: [{name: "Sun, L. and Wang, J.-X."}]
+  date: 2020
+  parent: {type: periodical, title: "Theor. Appl. Mech. Lett.", volume: "10"}
+  page-range: "161-169"
+
+"raissi2020hidden":
+  type: article
+  title: "Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations"
+  author: [{name: "Raissi, M. and Yazdani, A. and Karniadakis, G. E."}]
+  date: 2020
+  parent: {type: periodical, title: "Science", volume: "367"}
+  page-range: "1026-1030"
+
+"LW2019":
+  type: article
+  title: "Construction of reduced-order models for fluid flows using deep feedforward neural networks"
+  author: [{name: "H. F. S. Lui and W. R. Wolf"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "872"}
+  page-range: "963-994"
+
+"MSJC2019":
+  type: article
+  title: "Sub-grid scale model classification and blending through deep learning"
+  author: [{name: "R. Maulik and O. San and J. D. Jacob and C. Crick"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "870"}
+  page-range: "784-812"
+
+"TC2007":
+  type: article
+  title: "The immersed boundary method: A projection approach"
+  author: [{name: "K. Taira and T. Colonius"}]
+  date: 2007
+  parent: {type: periodical, title: "J. Comput. Phys.", volume: "225"}
+  page-range: "2118-2137"
+
+"CT2008":
+  type: article
+  title: "A fast immersed boundary method using a nullspace approach and multi-domain far-field boundary conditions"
+  author: [{name: "T. Colonius and K. Taira"}]
+  date: 2008
+  parent: {type: periodical, title: "Comput. Methods Appl. Mech. Eng.", volume: "197"}
+  page-range: "2131-2146"
+
+"wu2020comprehensive":
+  type: article
+  title: "A comprehensive survey on graph neural networks"
+  author: [{name: "Wu, Z. and Pan, S. and Chen, F. and Long, G. and Zhang, C. and Philip, S. Y."}]
+  date: 2020
+  parent: {type: periodical, title: "IEEE Trans. Neural Netw. Learn. Syst.", volume: "32"}
+  page-range: "4-24"
+
+"chen2021graph":
+  type: article
+  title: "Graph neural networks for laminar flow prediction around random two-dimensional shapes"
+  author: [{name: "Chen, J. and Hachem, E. and Viquerat, J."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Fluids", volume: "33"}
+  page-range: "123607"
+
+"gruber2022comparison":
+  type: article
+  title: "A comparison of neural network architectures for data-driven reduced-order modeling"
+  author: [{name: "Gruber, A. and Gunzburger, M. and Ju, L. and Wang, Z."}]
+  date: 2022
+  parent: {type: periodical, title: "Comput. Methods Appl. Mech. Eng.", volume: "393"}
+  page-range: "114764"
+
+"krishna2020reconstructing":
+  type: article
+  title: "Reconstructing the time evolution of wall-bounded turbulent flows from non-time-resolved PIV measurements"
+  author: [{name: "Vamsi Krishna, C. and Wang, M. and Hemati, M. S. and Luhar, M."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "5"}
+  page-range: "054604"
+
+"ahmed2020long":
+  type: article
+  title: "A long short-term memory embedding for hybrid uplifted reduced order models"
+  author: [{name: "Ahmed, S. E. and San, O. and Rasheed, A. and Iliescu, T."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. D: Nonlinear Phenom.", volume: "409"}
+  page-range: "132471"
+
+"liu2022fluid":
+  type: article
+  title: "Fluid Simulation System Based on Graph Neural Network"
+  author: [{name: "Liu, Q. and Zhu, W. and Jia, X. and Ma, F. and Gao, Y."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2202.12619"}
+
+"carter2021data":
+  type: article
+  title: "Data-driven sparse reconstruction of flow over a stalled aerofoil using experimental data"
+  author: [{name: "Carter, D. W. and De Voogt, F. and Soares, R. and Ganapathisubramani, B."}]
+  date: 2021
+  parent: {type: periodical, title: "Data-Centric Eng.", volume: "2"}
+
+"MS2017":
+  type: article
+  title: "A neural network approach for the blind deconvolution of turbulent flows"
+  author: [{name: "R. Maulik and O. San"}]
+  date: 2017
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "831"}
+  page-range: "151-181"
+
+"LRT2019":
+  type: article
+  title: "From here to there: Video inbetweening using 3D convolutions"
+  author: [{name: "Li, Y. and Roblek, D. and Tagliasacchi, M."}]
+  date: 2019
+  parent: {type: periodical, title: "arXiv:1905.10240"}
+
+"BFK2018":
+  type: article
+  title: "Why deep neural networks: A possible theoretical explanation, In Constraint Programming and Decision Making: Theory and Applications"
+  author: [{name: "C. Baral and O. Fuentes and V. Kreinovich"}]
+  date: 2018
+  parent: {type: periodical, title: "Springer"}
+  page-range: "1-5"
+
+"Cybenko1989":
+  type: article
+  title: "Approximation by superpositions of a sigmoidal function"
+  author: [{name: "G. Cybenko"}]
+  date: 1989
+  parent: {type: periodical, title: "Math. Control Signals Syst.", volume: "2"}
+  page-range: "303-314"
+
+"Hornik1991":
+  type: article
+  title: "Approximation capabilities of multilayer feedforward networks"
+  author: [{name: "K. Hornik"}]
+  date: 1991
+  parent: {type: periodical, title: "Neural Netw.", volume: "4"}
+  page-range: "251-257"
+
+"Kreinovich1991":
+  type: article
+  title: "Arbitrary nonlinearity is sufficient to represent all functions by neural networks: a theorem"
+  author: [{name: "V. Y. Kreinovich"}]
+  date: 1991
+  parent: {type: periodical, title: "Neural Netw.", volume: "4"}
+  page-range: "381-383"
+
+"HS1997":
+  type: article
+  title: "Long short-term memory"
+  author: [{name: "Hochreiter, S. and Schmidhuber, J."}]
+  date: 1997
+  parent: {type: periodical, title: "Neural Comput.", volume: "9"}
+  page-range: "1735-1780"
+
+"MFF2019":
+  type: article
+  title: "Nonlinear mode decomposition with convolutional neural networks for fluid dynamics"
+  author: [{name: "T. Murata and K. Fukami and K. Fukagata"}]
+  date: 2020
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "882"}
+  serial-number: "A13"
+
+"HZS2004":
+  type: article
+  title: "Extreme learning machine: a new learning scheme of feedforward neural networks"
+  author: [{name: "G. Huang and Q. Zhu and C. Siew"}]
+  date: 2004
+  parent: {type: periodical, title: "In IEEE International Joint Conference on Neural Networks"}
+  page-range: "985-990"
+
+"MSRB2019":
+  type: article
+  title: "Sub-grid modelling for two-dimensional turbulence using neural networks"
+  author: [{name: "R. Maulik and O. San and A. Rasheed and P. Vedula"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "858"}
+  page-range: "122-144"
+
+"MPMF2019":
+  type: article
+  title: "Spatio-temporal proper orthogonal decomposition of turbulent channel flow"
+  author: [{name: "Muralidhar, S. D. and Podvin, B. and Mathelin, L. and Fraigneau, Y."}]
+  date: 2019
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "864"}
+  page-range: "614-639"
+
+"RHW1986":
+  type: article
+  title: "Learning representations by back-propagation errors"
+  author: [{name: "D. E. Rumelhart and G. E. Hinton and R. J. Williams"}]
+  date: 1986
+  parent: {type: periodical, title: "Nature", volume: "322"}
+  serial-number: "533--536"
+
+"rumelhart1985feature":
+  type: article
+  title: "Feature discovery by competitive learning"
+  author: [{name: "Rumelhart, D. E. and Zipser, D."}]
+  date: 1985
+  parent: {type: periodical, title: "Cogn. Sci.", volume: "9"}
+  page-range: "75-112"
+
+"goodfellow2020generative":
+  type: article
+  title: "Generative adversarial networks"
+  author: [{name: "Goodfellow, I. and Pouget-Abadie, J. and Mirza, M. and Xu, B. and Warde-Farley, D. and Ozair, S. and Courville, A. and Bengio, Y."}]
+  date: 2020
+  parent: {type: periodical, title: "Commun. ACM", volume: "63"}
+  page-range: "139-144"
+
+"williams2022data":
+  type: article
+  title: "Data-driven sensor placement with shallow decoder networks"
+  author: [{name: "Williams, J. and Zahn, O. and Kutz, J. N."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2202.05330"}
+
+"alfonsi2006":
+  type: article
+  title: "The structure of turbulent boundary layers in the wall region of plane channel flow"
+  author: [{name: "Alfonsi, G. and Primavera, L."}]
+  date: 2007
+  parent: {type: periodical, title: "Proc. R. Soc. A", volume: "463"}
+  page-range: "593-612"
+
+"Lumely1967":
+  type: article
+  title: "The structure of inhomogeneous turbulent flows"
+  author: [{name: "Lumley, J. L."}]
+  date: 1967
+  parent: {type: proceedings, title: "Atmospheric turbulence and radio wave propagation"}
+
+"TBDRCMSGTU2017":
+  type: article
+  title: "Modal analysis of fluid flows: An overview"
+  author: [{name: "Taira, K. and Brunton, S. L. and Dawson, S. T. M. and Rowley, C. W. and Colonius, T. and McKeon, B. J. and Schmidt, O. T. and Gordeyev, S. and Theofilis, V. and Ukeiley, L. S."}]
+  date: 2017
+  parent: {type: periodical, title: "AIAA J.", volume: "55"}
+  page-range: "4013-4041"
+
+"Schmid2010":
+  type: article
+  title: "Dynamic mode decomposition of numerical and experimental data"
+  author: [{name: "Schmid, P. J."}]
+  date: 2010
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "656"}
+  page-range: "5-28"
+
+"Kutz2017":
+  type: article
+  title: "Deep learning in fluid dynamics"
+  author: [{name: "Kutz, J. N."}]
+  date: 2017
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "814"}
+  page-range: "1-4"
+
+"LBBH1998":
+  type: article
+  title: "Gradient-based learning applied to document recognition"
+  author: [{name: "LeCun, Y. and Bottou, L. and Bengio, Y. and Haffner, P."}]
+  date: 1998
+  parent: {type: periodical, title: "Proc. IEEE", volume: "86"}
+  page-range: "2278-2324"
+
+"LBH2015":
+  type: article
+  title: "Deep learning"
+  author: [{name: "LeCun, Y. and Bengio, Y. and Hinton, G."}]
+  date: 2015
+  parent: {type: periodical, title: "Nature", volume: "521"}
+  page-range: "436-444"
+
+"kingma2014":
+  type: article
+  title: "Adam: A method for stochastic optimization"
+  author: [{name: "Kingma, D. P. and Ba, J."}]
+  date: 2014
+  parent: {type: periodical, title: "arXiv:1412.6980"}
+
+"smola2004tutorial":
+  type: article
+  title: "A tutorial on support vector regression"
+  author: [{name: "Smola, A. J. and Schölkopf, B."}]
+  date: 2004
+  parent: {type: periodical, title: "Stat. Comput.", volume: "14"}
+  page-range: "199-222"
+
+"friedman2001greedy":
+  type: article
+  title: "Greedy function approximation: a gradient boosting machine"
+  author: [{name: "Friedman, J. H."}]
+  date: 2001
+  parent: {type: periodical, title: "Ann. Stat."}
+  page-range: "1189-1232"
+
+"rezende2014stochastic":
+  type: article
+  title: "Stochastic backpropagation and approximate inference in deep generative models"
+  author: [{name: "Rezende, D. J. and Mohamed, S. and Wierstra, D."}]
+  date: 2014
+  parent: {type: proceedings, title: "International conference on machine learning"}
+  page-range: "1278-1286"
+
+"HS2006":
+  type: article
+  title: "Reducing the dimensionality of data with neural networks"
+  author: [{name: "Hinton, G. E. and Salakhutdinov, R. R."}]
+  date: 2006
+  parent: {type: periodical, title: "Science", volume: "313"}
+  page-range: "504-507"
+
+"guan2022stable":
+  type: article
+  title: "Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning"
+  author: [{name: "Guan, Y. and Chattopadhyay, A. and Subel, A. and Hassanzadeh, P."}]
+  date: 2022
+  parent: {type: periodical, title: "J. Comput. Phys.", volume: "458"}
+  page-range: "111090"
+
+"BH1989":
+  type: article
+  title: "Neural networks and principal component analysis: Learning from examples without local minima"
+  author: [{name: "Baldi, P. and Hornik, K."}]
+  date: 1989
+  parent: {type: periodical, title: "Neural Netw.", volume: "2"}
+  page-range: "53-58"
+
+"Moore1965":
+  type: article
+  title: "Cramming more components onto integrated circuits"
+  author: [{name: "Moore, G., E."}]
+  date: 1965
+  parent: {type: periodical, title: "Electronics", volume: "38"}
+  page-range: "1-4"
+
+"bergmann2005":
+  type: article
+  title: "Optimal rotary control of the cylinder wake using proper orthogonal decomposition reduced-order model"
+  author: [{name: "Bergmann, M. and Cordier, L. and Brancher, J.-P."}]
+  date: 2005
+  parent: {type: periodical, title: "Phys. Fluids", volume: "17"}
+  page-range: "097101"
+
+"prechelt1998":
+  type: article
+  title: "Automatic early stopping using cross validation: quantifying the criteria"
+  author: [{name: "Prechelt, L."}]
+  date: 1998
+  parent: {type: periodical, title: "Neural Netw.", volume: "11"}
+  page-range: "761-767"
+
+"omata2019":
+  type: article
+  title: "A novel method of low-dimensional representation for temporal behavior of flow fields using deep autoencoder"
+  author: [{name: "Omata,N. and Shirayama,S."}]
+  date: 2019
+  parent: {type: periodical, title: "AIP Adv.", volume: "9"}
+  page-range: "015006"
+  doi: "10.1063/1.5067313"
+
+"kor2017":
+  type: article
+  title: "A unified interpolation stencil for ghost-cell immersed boundary method for flow around complex geometries"
+  author: [{name: "H. Kor and M. Badri Ghomizad and K. Fukagata"}]
+  date: 2017
+  parent: {type: periodical, title: "J. Fluid Sci. Technol.", volume: "12"}
+  serial-number: "JFST0011"
+  doi: "10.1299/jfst.2017jfst0011"
+
+"Kutz2014":
+  type: article
+  title: "On dynamic mode decomposition: Theory and applications"
+  author: [{name: "J. N. Kutz and S. L. Brunton and D. M. Luchtenburg and C. W. Rowley and J. H. Tu"}]
+  date: 2014
+  parent: {type: periodical, title: "Journal of Computational Dynamics", volume: "1"}
+  page-range: "391-421"
+  doi: "10.3934/jcd.2014.1.391"
+
+"Murray2009":
+  type: article
+  title: "Properties of subsonic open cavity flow fields"
+  author: [{name: "N. Murray and E. Sällström and L. Ukeiley"}]
+  date: 2009
+  parent: {type: periodical, title: "Phys. Fluids", volume: "21"}
+  page-range: "095103"
+  doi: "10.1063/1.3210772"
+
+"rabault2019artificial":
+  type: article
+  title: "Artificial neural networks trained through deep reinforcement learning discover control strategies for active flow control"
+  author: [{name: "Rabault, J. and Kuchta, M. and Jensen, A. and Réglade, U. and Cerardi, N."}]
+  date: 2019
+  parent: {type: periodical, title: "J. Fluid Mech,", volume: "865"}
+  page-range: "281-302"
+
+"BPK2016a":
+  type: article
+  title: "Discovering governing equations from data by sparse identification of nonlinear dynamical systems"
+  author: [{name: "S. L. Brunton and J. L. Proctor and J. N. Kutz"}]
+  date: 2016
+  parent: {type: periodical, title: "Proc. Natl. Acad. Sci. U.S.A.", volume: "113"}
+  page-range: "3932-3937"
+
+"callaham2019robust":
+  type: article
+  title: "Robust flow reconstruction from limited measurements via sparse representation"
+  author: [{name: "Callaham, J. L. and Maeda, K. and Brunton, S. L."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "4"}
+  page-range: "103907"
+
+"SAMIMY2007":
+  type: article
+  title: "Feedback control of subsonic cavity flows using reduced-order models"
+  author: [{name: "M. Samimy and M. Debiasi and E. Caraballo and A. Serrani and X. Yuan and J. Little and J. H. Myatt"}]
+  date: 2007
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "579"}
+  page-range: "315-346"
+  doi: "10.1017/s0022112007005204"
+
+"LKT2016":
+  type: article
+  title: "Reynolds averaged turbulence modelling using deep neural networks with embedded invariance"
+  author: [{name: "Ling, J. and Kurzawski, A. and Templeton, J"}]
+  date: 2016
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "807"}
+  page-range: "155-166"
+
+"bae2022scientific":
+  type: article
+  title: "Scientific multi-agent reinforcement learning for wall-models of turbulent flows"
+  author: [{name: "Bae, H. J. and Koumoutsakos, P."}]
+  date: 2022
+  parent: {type: periodical, title: "Nat. Commun.", volume: "13"}
+  page-range: "1-9"
+
+"novati2021automating":
+  type: article
+  title: "Automating turbulence modelling by multi-agent reinforcement learning"
+  author: [{name: "Novati, G. and de Laroussilhe, H. L. and Koumoutsakos, P."}]
+  date: 2021
+  parent: {type: periodical, title: "Nat. Mach. Intell.", volume: "3"}
+  page-range: "87-96"
+
+"LKB2018":
+  type: article
+  title: "Deep learning for universal linear embeddings of nonlinear dynamics"
+  author: [{name: "B. Lusch and J. N. Kutz and S. L. Brunton"}]
+  date: 2018
+  parent: {type: periodical, title: "Nature Commun.", volume: "9"}
+
+"SP2019":
+  type: article
+  title: "Deep learning of mixing by two “atoms” of stratified turbulence"
+  author: [{name: "Salehipour, H. and Peltier, W. R"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "861"}
+  serial-number: "R4"
+
+"SM2018":
+  type: article
+  title: "Extreme learning machine for reduced order modeling of turbulent geophysical flows"
+  author: [{name: "San, O. and Maulik, R."}]
+  date: 2018
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "97"}
+  page-range: "04322"
+
+"guastoni2021convolutional":
+  type: article
+  title: "Convolutional-network models to predict wall-bounded turbulence from wall quantities"
+  author: [{name: "Guastoni, L. and Güemes, A. and Ianiro, A. and Discetti, S. and Schlatter, P. and Azizpour, H. and Vinuesa, R."}]
+  date: 2021
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "928"}
+  serial-number: "A27"
+
+"liao2021multi":
+  type: article
+  title: "Multi-fidelity convolutional neural network surrogate model for aerodynamic optimization based on transfer learning"
+  author: [{name: "Liao, P. and Song, W. and Du, P. and Zhao, H."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Fluids", volume: "33"}
+  page-range: "127121"
+
+"mondal2022multi":
+  type: article
+  title: "Multi-fidelity prediction of spatiotemporal fluid flow"
+  author: [{name: "Mondal, S. and Sarkar, S."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Fluids", volume: "34"}
+  page-range: "087112"
+
+"fukami2020probabilistic":
+  type: article
+  title: "Probabilistic neural network-based reduced-order surrogate for fluid flows"
+  author: [{name: "Fukami, K. and Maulik, R. and Ramachandra, N. and Fukagata, K. and Taira, K."}]
+  date: 2020
+  parent: {type: periodical, title: "Machine Learning and the Physical Sciences, Workshop at the 34th Conference on Neural Information Processing Systems (NeurIPS)"}
+
+"giannopoulos2020data":
+  type: article
+  title: "Data-driven order reduction and velocity field reconstruction using neural networks: The case of a turbulent boundary layer"
+  author: [{name: "Giannopoulos, A. and Aider, J.-L."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Fluids", volume: "32"}
+  page-range: "095117"
+
+"SGASV2019":
+  type: article
+  title: "Predictions of turbulent shear flows using deep neural networks"
+  author: [{name: "Srinivasan, P. A. and Guastoni, L. and Azizpour, H. and Schlatter, P. and Vinuesa, R."}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "4"}
+  page-range: "054603"
+
+"DIX2019":
+  type: article
+  title: "Turbulence modeling in the age of data"
+  author: [{name: "Duraisamy, K. and Iaccarino, G. and Xiao, H."}]
+  date: 2019
+  parent: {type: periodical, title: "Annu. Rev. Fluid Mech.", volume: "51"}
+  page-range: "357-377"
+
+"THBSDBDY2019":
+  type: article
+  title: "Modal Analysis of Fluid Flows: Applications and Outlook"
+  author: [{name: "Taira, K. and Hemati, M. S. and Brunton, S. L. and Sun, Y. and Duraisamy, K. and Bagheri, S. and Dawson, S. and Yeh, C-A."}]
+  date: 2020
+  parent: {type: periodical, title: "AIAA J.", volume: "58"}
+  page-range: "998-1022"
+
+"lee2022predicting":
+  type: article
+  title: "Predicting drag on rough surfaces by transfer learning of empirical correlations"
+  author: [{name: "Lee, S. and Yang, J. and Forooghi, P. and Stroh, A. and Bagheri, S."}]
+  date: 2022
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "933"}
+  serial-number: "A18"
+
+"duraisamy2021perspectives":
+  type: article
+  title: "Perspectives on machine learning-augmented Reynolds-averaged and large eddy simulation models of turbulence"
+  author: [{name: "Duraisamy, K."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "6"}
+  page-range: "050504"
+
+"xu2020data":
+  type: article
+  title: "Data-driven three-dimensional super-resolution imaging of a turbulent jet flame using a generative adversarial network"
+  author: [{name: "Xu, W. and Luo, W. and Wang, Y. and You, Y."}]
+  date: 2020
+  parent: {type: periodical, title: "Appl. Opt.", volume: "59"}
+  page-range: "5729-5736"
+
+"dubois2022machine":
+  type: article
+  title: "Machine learning for fluid flow reconstruction from limited measurements"
+  author: [{name: "Dubois, P. and Gomez, T. and Planckaert, L. and Perret, L."}]
+  date: 2022
+  parent: {type: periodical, title: "J. Comput. Phys.", volume: "448"}
+  page-range: "110733"
+
+"krizhevsky2012":
+  type: article
+  title: "Imagenet classification with deep convolutional neural networks"
+  author: [{name: "Krizhevsky, A. and Sutskever, I. and Hinton, G. E."}]
+  date: 2012
+  parent: {type: proceedings, title: "Adv. Neural Inf. Process. Syst."}
+  page-range: "1097-1105"
+
+"erichson2020shallow":
+  type: article
+  title: "Shallow neural networks for fluid flow reconstruction with limited sensors"
+  author: [{name: "Erichson, N. B. and Mathelin, L. and Yao, Z. and Brunton, S. L. and Mahoney, M. W. and Kutz, J. N."}]
+  date: 2020
+  parent: {type: periodical, title: "Proc. Roy. Soc. A", volume: "476"}
+  page-range: "20200097"
+
+"irani1991improving":
+  type: article
+  title: "Improving resolution by image registration"
+  author: [{name: "Irani, M. and Peleg, S."}]
+  date: 1991
+  parent: {type: periodical, title: "CVGIP: Graphical models and image processing", volume: "53"}
+  page-range: "231-239"
+
+"vandewalle2006frequency":
+  type: article
+  title: "A frequency domain approach to registration of aliased images with application to super-resolution"
+  author: [{name: "Vandewalle, P. and Süsstrunk, S. and Vetterli, M."}]
+  date: 2006
+  parent: {type: periodical, title: "EURASIP J. Adv. Signal Process.", volume: "2006"}
+  page-range: "1-14"
+
+"zontak2013separating":
+  type: article
+  title: "Separating signal from noise using patch recurrence across scales"
+  author: [{name: "Zontak, M. and Mosseri, I. and Irani, M."}]
+  date: 2013
+  parent: {type: proceedings, title: "IEEE conference on computer vision and pattern recognition"}
+  page-range: "1195-1202"
+
+"shahar2011space":
+  type: article
+  title: "Space-time super-resolution from a single video"
+  author: [{name: "Shahar, O and Faktor, A and Irani, M"}]
+  date: 2011
+  parent: {type: proceedings, title: "CVPR 2011"}
+  page-range: "3353-3360"
+
+"baker2002limits":
+  type: article
+  title: "Limits on super-resolution and how to break them"
+  author: [{name: "Baker, S. and Kanade, T."}]
+  date: 2002
+  parent: {type: periodical, title: "IEEE Trans. Pattern Anal. Mach. Intell.", volume: "24"}
+  page-range: "1167-1183"
+
+"lee2006efficient":
+  type: article
+  title: "Efficient sparse coding algorithms"
+  author: [{name: "Lee, H. and Battle, A. and Raina, R. and Ng, A. Y."}]
+  date: 2006
+  parent: {type: proceedings, title: "Proceedings of the 19th International Conference on Neural Information Processing Systems"}
+  page-range: "801-808"
+
+"yang2010image":
+  type: article
+  title: "Image super-resolution via sparse representation"
+  author: [{name: "Yang, J. and Wright, J. and Huang, T. S. and Ma, Y."}]
+  date: 2010
+  parent: {type: periodical, title: "IEEE Trans. Image Process.", volume: "19"}
+  page-range: "2861-2873"
+
+"zhang2012single":
+  type: article
+  title: "Single image super-resolution with non-local means and steering kernel regression"
+  author: [{name: "Zhang, K. and Gao, X. and Tao, D. and Li, X."}]
+  date: 2012
+  parent: {type: periodical, title: "IEEE Trans. Image Process.", volume: "21"}
+  page-range: "4544-4556"
+
+"lu2012geometry":
+  type: article
+  title: "Geometry constrained sparse coding for single image super-resolution"
+  author: [{name: "Lu, X. and Yuan, H. and Yan, P. and Yuan, Y. and Li, X."}]
+  date: 2012
+  parent: {type: proceedings, title: "IEEE Conference on Computer Vision and Pattern Recognition"}
+  page-range: "1648-1655"
+
+"yang2008image":
+  type: article
+  title: "Image super-resolution as sparse representation of raw image patches"
+  author: [{name: "Yang, J. and Wright, J. and Huang, T. and Ma, Y."}]
+  date: 2008
+  parent: {type: proceedings, title: "IEEE conference on computer vision and pattern recognition"}
+  page-range: "1-8"
+
+"freeman2002example":
+  type: article
+  title: "Example-based super-resolution"
+  author: [{name: "Freeman, W. T. and Jones, T. R. and Pasztor, E. C."}]
+  date: 2002
+  parent: {type: periodical, title: "IEEE Comput. Graph. Appl.", volume: "22"}
+  page-range: "56-65"
+
+"freeman2000learning":
+  type: article
+  title: "Learning low-level vision"
+  author: [{name: "Freeman, W. T. and Pasztor, E. C. and Carmichael, O. T."}]
+  date: 2000
+  parent: {type: periodical, title: "Int. J. Comput. Vis.", volume: "40"}
+  page-range: "25-47"
+
+"roweis2000nonlinear":
+  type: article
+  title: "Nonlinear dimensionality reduction by locally linear embedding"
+  author: [{name: "Roweis, S. T. and Saul, L. K."}]
+  date: 2000
+  parent: {type: periodical, title: "Science", volume: "290"}
+  page-range: "2323-2326"
+
+"chang2004super":
+  type: article
+  title: "Super-resolution through neighbor embedding"
+  author: [{name: "Chang, H. and Yeung, D.-Y. and Xiong, Y."}]
+  date: 2004
+  parent: {type: proceedings, title: "IEEE Computer Society Conference on Computer Vision and Pattern Recognition", volume: "1"}
+  serial-number: "I-I"
+
+"bevilacqua2012low":
+  type: article
+  title: "Low-Complexity Single-Image Super-Resolution based on Nonnegative Neighbor Embedding"
+  author: [{name: "Bevilacqua, M. and Roumy, A. and Guillemot, C. and Morel, M.-L. A."}]
+  date: 2012
+  parent: {type: proceedings, title: "British Machine Vision Conference (BMVC)"}
+
+"park2003super":
+  type: article
+  title: "Super-resolution image reconstruction: a technical overview"
+  author: [{name: "Park, S. C. and Park, M. K. and Kang, M. G."}]
+  date: 2003
+  parent: {type: periodical, title: "IEEE Signal Process. Mag.", volume: "20"}
+  page-range: "21-36"
+
+"yang2013fast":
+  type: article
+  title: "Fast image super-resolution based on in-place example regression"
+  author: [{name: "Yang, J. and Lin, Z. and Cohen, S."}]
+  date: 2013
+  parent: {type: proceedings, title: "Proceedings of the IEEE conference on computer vision and pattern recognition"}
+  page-range: "1059-1066"
+
+"freedman2011image":
+  type: article
+  title: "Image and video upscaling from local self-examples"
+  author: [{name: "Freedman, G. and Fattal, R."}]
+  date: 2011
+  parent: {type: periodical, title: "ACM Trans. Graph.", volume: "30"}
+  page-range: "1-11"
+
+"glasner2009super":
+  type: article
+  title: "Super-resolution from a single image"
+  author: [{name: "Glasner, D. and Bagon, S. and Irani, M."}]
+  date: 2009
+  parent: {type: proceedings, title: "IEEE 12th international conference on computer vision"}
+  page-range: "349-356"
+
+"michaeli2013nonparametric":
+  type: article
+  title: "Nonparametric blind super-resolution"
+  author: [{name: "Michaeli, T. and Irani, M."}]
+  date: 2013
+  parent: {type: proceedings, title: "Proceedings of the IEEE International Conference on Computer Vision"}
+  page-range: "945-952"
+
+"lucas1981iterative":
+  type: article
+  title: "An iterative image registration technique with an application to stereo vision"
+  author: [{name: "Lucas, B. D. and Kanade, T."}]
+  date: 1981
+  parent: {type: periodical, title: "Proceedings of the DARPA Image Understanding Workshop", volume: "81"}
+  serial-number: "674–679"
+
+"joshi2008psf":
+  type: article
+  title: "PSF estimation using sharp edge prediction"
+  author: [{name: "Joshi, N. and Szeliski, R. and Kriegman, D. J."}]
+  date: 2008
+  parent: {type: proceedings, title: "IEEE Conference on Computer Vision and Pattern Recognition"}
+  page-range: "1-8"
+
+"keys1981cubic":
+  type: article
+  title: "Cubic convolution interpolation for digital image processing"
+  author: [{name: "Keys, R."}]
+  date: 1981
+  parent: {type: periodical, title: "IEEE Trans. Acoust. Speech Signal Process.", volume: "29"}
+  page-range: "1153-1160"
+
+"bannore2009iterative":
+  type: article
+  title: "Iterative-interpolation super-resolution image reconstruction: a computationally efficient technique"
+  author: [{name: "Bannore, V."}]
+  date: 2009
+
+"Kajishima":
+  type: article
+  title: "Computational Fluid Dynamics: Incompressible Turbulent Flows"
+  author: [{name: "T. Kajishima and K. Taira"}]
+  date: 2017
+
+"salvador2016example":
+  type: article
+  title: "Example-Based super resolution"
+  author: [{name: "Salvador, J."}]
+  date: 2016
+
+"dong2015image":
+  type: article
+  title: "Image super-resolution using deep convolutional networks"
+  author: [{name: "Dong, C. and Loy, C. C. and He, K. and Tang, X."}]
+  date: 2015
+  parent: {type: periodical, title: "IEEE Trans. Pattern Anal. Mach. Intell.", volume: "38"}
+  page-range: "295-307"
+
+"MLPIV2023":
+  type: article
+  title: "Machine learning for flow field measurements: a perspective"
+  author: [{name: "S. Discetti and Y. Liu"}]
+  date: 2023
+  parent: {type: periodical, title: "Meas. Sci. Technol.", volume: "34"}
+  page-range: "021001"
+
+"onishi2019super":
+  type: article
+  title: "Super-resolution simulation for real-time prediction of urban micrometeorology"
+  author: [{name: "Onishi, R. and Sugiyama, D. and Matsuda, K."}]
+  date: 2019
+  parent: {type: periodical, title: "SOLA", volume: "15"}
+  page-range: "178-182"
+
+"romano2016raisr":
+  type: article
+  title: "RAISR: rapid and accurate image super resolution"
+  author: [{name: "Romano, Y. and Isidoro, J. and Milanfar, P."}]
+  date: 2016
+  parent: {type: periodical, title: "IEEE Trans. Comput. Imaging", volume: "3"}
+  page-range: "110-125"
+
+"FHNMF2020":
+  type: article
+  title: "Model order reduction with neural networks: Application to laminar and turbulent flows"
+  author: [{name: "Fukami, K. and Hasegawa, K. and Nakamura, T. and Morimoto, M. and Fukagata, K."}]
+  date: 2021
+  parent: {type: periodical, title: "SN Comput. Sci.", volume: "2"}
+  page-range: "467"
+
+"linot2020deep":
+  type: article
+  title: "Deep learning to discover and predict dynamics on an inertial manifold"
+  author: [{name: "Linot, A. J. and Graham, M. D."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. E", volume: "101"}
+  page-range: "062209"
+
+"Holmes":
+  type: article
+  title: "Turbulence, Coherent Structures, Dynamical Systems and Symmetry"
+  author: [{name: "Holmes, P. and Lumley, J.L. and Berkooz, G. and Rowley, C. W."}]
+  date: 2012
+
+"ricardo_VAE2021":
+  type: article
+  title: "Towards extraction of orthogonal and parsimonious non-linear modes from turbulent flows"
+  author: [{name: "Eivazi, H. and Le Clainche, S. and Hoyas, S. and Vinuesa, R."}]
+  date: 2022
+  parent: {type: periodical, title: "Expert Syst. Appl.", volume: "202"}
+  page-range: "117038"
+
+"FFT2019a":
+  type: article
+  title: "Super-resolution reconstruction of turbulent flows with machine learning"
+  author: [{name: "K. Fukami and K. Fukagata and K. Taira"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "870"}
+  page-range: "106-120"
+  doi: "10.1017/jfm.2019.238"
+
+"FNKF2019":
+  type: article
+  title: "Synthetic turbulent inflow generator using machine learning"
+  author: [{name: "K. Fukami and Y. Nabae and K. Kawai and K. Fukagata"}]
+  date: 2019
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "4"}
+  page-range: "064603"
+
+"ZXCLCPV2020":
+  type: article
+  title: "Convolutional neural network for transition modeling based on linear stability theory"
+  author: [{name: "M. I. Zafar and H. Xiao and M. M. Choudhari and F. Li and C.-L. Chang and P. Paredes and B. Venkatachari"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "5"}
+  page-range: "113903"
+
+"FKK2006":
+  type: article
+  title: "A theoretical prediction of friction drag reduction in turbulent flow by superhydrophobic surfaces"
+  author: [{name: "K. Fukagata and N. Kasagi and P. Koumoutsakos"}]
+  date: 2006
+  parent: {type: periodical, title: "Phys. Fluids", volume: "18"}
+  page-range: "051703"
+
+"simonyan2014very":
+  type: article
+  title: "Very deep convolutional networks for large-scale image recognition"
+  author: [{name: "Simonyan, K. and Zisserman, A."}]
+  date: 2014
+  parent: {type: periodical, title: "arXiv:1409.1556"}
+
+"szegedy2015going":
+  type: article
+  title: "Going deeper with convolutions"
+  author: [{name: "Szegedy, C. and Liu, W. and Jia, Y. and Sermanet, P. and Reed, S. and Anguelov, D. and Erhan, D. and Vanhoucke, V. and Rabinovich, A."}]
+  date: 2015
+  parent: {type: proceedings, title: "Proceedings of the IEEE conference on computer vision and pattern recognition"}
+  page-range: "1-9"
+
+"ogoke2020graph":
+  type: article
+  title: "Graph Convolutional Neural Networks for Body Force Prediction"
+  author: [{name: "Ogoke, F. and Meidani, K. and Hashemi, A. and Farimani, A. B."}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2012.02232"}
+
+"tencer2020enabling":
+  type: article
+  title: "Enabling Nonlinear Manifold Projection Reduced-Order Models by Extending Convolutional Neural Networks to Unstructured Data"
+  author: [{name: "Tencer, J. and Potter, K."}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2006.06154"}
+
+"kashefi2021point":
+  type: article
+  title: "A point-cloud deep learning framework for prediction of fluid flow fields on irregular geometries"
+  author: [{name: "Kashefi, A. and Rempe, D. and Guibas, L. J."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Fluids", volume: "33"}
+  page-range: "027104"
+
+"qi2017pointnet":
+  type: article
+  title: "PointNet: Deep learning on point sets for 3D classification and segmentation"
+  author: [{name: "Qi, C. R. and Su, H. and Mo, K. and Guibas, L. J."}]
+  date: 2017
+  parent: {type: proceedings, title: "Proceedings of the IEEE conference on computer vision and pattern recognition"}
+  page-range: "652-660"
+
+"ogoke2021graph":
+  type: article
+  title: "Graph convolutional networks applied to unstructured flow field data"
+  author: [{name: "Ogoke, F. and Meidani, K. and Hashemi, A. and Farimani, A. B."}]
+  date: 2021
+  parent: {type: periodical, title: "Mach. Learn.: Sci. Technol.", volume: "2"}
+  page-range: "045020"
+
+"fukami2021global":
+  type: article
+  title: "Global field reconstruction from sparse sensors with Voronoi tessellation-assisted deep learning"
+  author: [{name: "Fukami, K. and Maulik, R. and Ramachandra, N. and Fukagata, K. and Taira, K."}]
+  date: 2021
+  parent: {type: periodical, title: "Nat. Mach. Intell.", volume: "3"}
+  page-range: "945-951"
+
+"fathi2020super":
+  type: article
+  title: "Super-resolution and denoising of 4D-flow MRI using physics-informed deep neural nets"
+  author: [{name: "Fathi, M. F. and Perez-Raya, I. and Baghaie, A. and Berg, P. and Janiga, G. and Arzani, A. and D’Souza, R. M."}]
+  date: 2020
+  parent: {type: periodical, title: "Comput. Methods Programs Biomed.", volume: "197"}
+  page-range: "105729"
+
+"pradhan2021variational":
+  type: article
+  title: "Variational Multi-scale Super-resolution: A data-driven approach for reconstruction and predictive modeling of unresolved physics"
+  author: [{name: "Pradhan, A. and Duraisamy, K."}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv:2101.09839"}
+
+"vlasenko2009superresolution":
+  type: article
+  title: "Superresolution and denoising of 3D fluid flow estimates"
+  author: [{name: "Vlasenko, A. and Schnörr, C."}]
+  date: 2009
+  parent: {type: proceedings, title: "Joint Pattern Recognition Symposium"}
+  page-range: "482-491"
+
+"gao2021super":
+  type: article
+  title: "Super-resolution and denoising of fluid flow using physics-informed convolutional neural networks without high-resolution labels"
+  author: [{name: "Gao, H. and Sun, L. and Wang, J.-X."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Fluids", volume: "33"}
+  page-range: "073603"
+
+"wurster2021deep":
+  type: article
+  title: "Deep hierarchical super-resolution for scientific data reduction and visualization"
+  author: [{name: "Wurster, S. W. and Shen, H.-W. and Guo, H. and Peterka, T. and Raj, M. and Xu, J."}]
+  date: 2021
+  parent: {type: periodical, title: "arXiv:2107.00462"}
+
+"li2008public":
+  type: article
+  title: "A public turbulence database cluster and applications to study Lagrangian evolution of velocity increments in turbulence"
+  author: [{name: "Li, Y. and Perlman, E. and Wan, M. and Yang, Y. and Meneveau, C. and Burns, R. and Chen, S. and Szalay, A. and Eyink, G."}]
+  date: 2008
+  parent: {type: periodical, title: "J. Turb"}
+  serial-number: "N31"
+
+"wang2021novel":
+  type: article
+  title: "A novel framework for cost-effectively reconstructing the global flow field by super-resolution"
+  author: [{name: "Wang, L. and Luo, Z. and Xu, J. and Luo, W. and Yuan, J."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Fluids", volume: "33"}
+  page-range: "095105"
+
+"yousif2022deep":
+  type: article
+  title: "A deep-learning approach for reconstructing 3D turbulent flows from 2D observation data"
+  author: [{name: "Yousif, M. Z. and Yu, L. and Hoyas, S. and Vinuesa, R. and Lim, H. C."}]
+  date: 2022
+  parent: {type: periodical, title: "arXiv:2208.05754"}
+
+"yousif2022physics":
+  type: article
+  title: "Physics-guided deep learning for generating turbulent inflow conditions"
+  author: [{name: "Yousif, M. Z. and Yu, L. and Lim, H.-C."}]
+  date: 2022
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "936"}
+  serial-number: "A21"
+
+"yousif2021high":
+  type: article
+  title: "High-fidelity reconstruction of turbulent flow from spatially limited data using enhanced super-resolution generative adversarial network"
+  author: [{name: "Yousif, M. Z. and Yu, L. and Lim, H.-C."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Fluids", volume: "33"}
+  page-range: "125119"
+
+"hassanaly2022adversarial":
+  type: article
+  title: "Adversarial sampling of unknown and high-dimensional conditional distributions"
+  author: [{name: "Hassanaly, M. and Glaws, A. and Stengel, K. and King, R. N."}]
+  date: 2022
+  parent: {type: periodical, title: "J. Comput. Phys.", volume: "450"}
+  page-range: "110853"
+
+"stengel2020adversarial":
+  type: article
+  title: "Adversarial super-resolution of climatological wind and solar data"
+  author: [{name: "Stengel, K. and Glaws, A. and Hettinger, D. and King, R. N."}]
+  date: 2020
+  parent: {type: periodical, title: "Proc. Natl. Acad. Sci. U.S.A.", volume: "117"}
+  page-range: "16805-16815"
+
+"ledig2017photo":
+  type: article
+  title: "Photo-realistic single image super-resolution using a generative adversarial network"
+  author: [{name: "Ledig, C. and Theis, L. and Huszár, F. and Caballero, J. and Cunningham, A. and Acosta, A. and Aitken, A. and Tejani, A. and Totz, J. and Wang, Z. and Shi, W."}]
+  date: 2017
+  parent: {type: proceedings, title: "Proceedings of the IEEE conference on computer vision and pattern recognition"}
+  page-range: "4681-4690"
+
+"yang2019diversity":
+  type: article
+  title: "Diversity-sensitive conditional generative adversarial networks"
+  author: [{name: "Yang, D. and Hong, S. and Jang, Y. and Zhao, T. and Lee, H."}]
+  date: 2019
+  parent: {type: proceedings, title: "7th International Conference on Learning Representations, ICLR 2019"}
+
+"xie2018tempogan":
+  type: article
+  title: "tempogan: A temporally coherent, volumetric GAN for super-resolution fluid flow"
+  author: [{name: "Xie, Y. and Franz, E. and Chu, M. and Thuerey, N."}]
+  date: 2018
+  parent: {type: periodical, title: "ACM Trans. Graph.", volume: "37"}
+  page-range: "1-15"
+
+"domingos2012few":
+  type: article
+  title: "A few useful things to know about machine learning"
+  author: [{name: "Domingos, P."}]
+  date: 2012
+  parent: {type: periodical, title: "Commun. ACM", volume: "55"}
+  page-range: "78-87"
+
+"cai2022physics":
+  type: article
+  title: "Physics-informed neural networks (PINNs) for fluid mechanics: A review"
+  author: [{name: "Cai, S. and Mao, Z. and Wang, Z. and Yin, M. and Karniadakis, G. E."}]
+  date: 2022
+  parent: {type: periodical, title: "Acta Mech. Sin."}
+  page-range: "1-12"
+
+"karniadakis2021physics":
+  type: article
+  title: "Physics-informed machine learning"
+  author: [{name: "Karniadakis, G. E. and Kevrekidis, I. G. and Lu, L. and Perdikaris, P. and Wang, S. and Yang, L."}]
+  date: 2021
+  parent: {type: periodical, title: "Nat. Rev. Phys.", volume: "3"}
+  page-range: "422-440"
+
+"yousif2022super":
+  type: article
+  title: "Super-resolution reconstruction of turbulent flow fields at various Reynolds numbers based on generative adversarial networks"
+  author: [{name: "Yousif, M. Z. and Yu, L. and Lim, H.-C."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Fluids", volume: "34"}
+  page-range: "015130"
+
+"zhou2022neural":
+  type: article
+  title: "Neural network--based pore flow field prediction in porous media using super resolution"
+  author: [{name: "Zhou, X.-H. and McClure, J. E. and Chen, C. and Xiao, H."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "7"}
+  page-range: "074302"
+
+"wurster2022deep":
+  type: article
+  title: "Deep Hierarchical Super Resolution for Scientific Data"
+  author: [{name: "Wurster, S. W. and Guo, H. and Shen, H.-W. and Peterka, T. and Xu, J."}]
+  date: 2022
+  parent: {type: periodical, title: "IEEE Trans. Vis. Comput. Graph."}
+
+"ZFAT2022":
+  type: article
+  title: "Machine-learning-based reconstruction of transient vortex-airfoil wake interaction"
+  author: [{name: "Zhong, Y. and Fukami, K. and An, B. and Taira, K."}]
+  date: 2022
+  parent: {type: periodical, title: "AIAA paper, 2022-3244"}
+
+"MTK2023":
+  type: article
+  title: "Unsupervised machine-learning-based sub-grid scale modeling for coarse-grid LES"
+  author: [{name: "Maejima, S. and Tanino, K. and Kawai, S."}]
+  date: 2023
+  parent: {type: periodical, title: "In review"}
+
+"ZFAT2023":
+  type: article
+  title: "Sparse sensor reconstruction of vortex-impinged airfoil wake with machine learning"
+  author: [{name: "Zhong, Y. and Fukami, K. and An, B. and Taira, K."}]
+  date: 2023
+  parent: {type: periodical, title: "Theor. Comput. Fluid Dyn."}
+
+"pan2009survey":
+  type: article
+  title: "A survey on transfer learning"
+  author: [{name: "Pan, S. J. and Yang, Q."}]
+  date: 2009
+  parent: {type: periodical, title: "IEEE Trans. Knowl. Data Eng.", volume: "22"}
+  page-range: "1345-1359"
+
+"obiols2021surfnet":
+  type: article
+  title: "SURFNet: Super-resolution of Turbulent Flows with Transfer Learning using Small Datasets"
+  author: [{name: "Obiols-Sales, O. and Vishnu, A. and Malaya, N. P. and Chandramowlishwaran, A."}]
+  date: 2021
+  parent: {type: proceedings, title: "IEEE 30th International Conference on Parallel Architectures and Compilation Techniques (PACT)"}
+  page-range: "331-344"
+
+"adrian2005twenty":
+  type: article
+  title: "Twenty years of particle image velocimetry"
+  author: [{name: "Adrian, R. J."}]
+  date: 2005
+  parent: {type: periodical, title: "Exp. Fluids", volume: "39"}
+  page-range: "159-169"
+
+"yasuda2022super":
+  type: article
+  title: "Super-resolution of near-surface temperature utilizing physical quantities for real-time prediction of urban micrometeorology"
+  author: [{name: "Yasuda, Y. and Onishi, R. and Hirokawa, Y. and Kolomenskiy, D. and Sugiyama, D."}]
+  date: 2022
+  parent: {type: periodical, title: "Build. Environ.", volume: "209"}
+  page-range: "108597"
+
+"kong2021data":
+  type: article
+  title: "Data-driven super-resolution reconstruction of supersonic flow field by convolutional neural networks"
+  author: [{name: "Kong, C. and Chang, J. and Wang, Z. and Li, Y. and Bao, W."}]
+  date: 2021
+  parent: {type: periodical, title: "AIP Adv.", volume: "11"}
+  page-range: "065321"
+
+"guemes2021coarse":
+  type: article
+  title: "From coarse wall measurements to turbulent velocity fields through deep learning"
+  author: [{name: "Güemes, A. and Discetti, S. and Ianiro, A. and Sirmacek, B. and Azizpour, H. and Vinuesa, R."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Fluids", volume: "33"}
+  page-range: "075121"
+
+"wang2020predicting":
+  type: article
+  title: "Predicting the near-wall velocity of wall turbulence using a neural network for particle image velocimetry"
+  author: [{name: "Wang, H. and Yang, Z. and Li, B. and Wang, S."}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Fluids", volume: "32"}
+  page-range: "115105"
+
+"zhu2009introduction":
+  type: article
+  title: "Introduction to semi-supervised learning"
+  author: [{name: "Zhu, X. and Goldberg, A. B."}]
+  date: 2009
+  parent: {type: periodical, title: "Synthesis lectures on artificial intelligence and machine learning", volume: "3"}
+  page-range: "1-130"
+
+"zhu2005semi":
+  type: article
+  title: "Semi-supervised learning literature survey"
+  author: [{name: "Zhu, X. J."}]
+  date: 2005
+
+"pant2020deep":
+  type: article
+  title: "Deep learning for efficient reconstruction of high-resolution turbulent DNS data"
+  author: [{name: "Pant, P. and Farimani, A. B."}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2010.11348"}
+
+"guemes2022super":
+  type: article
+  title: "Super-resolution generative adversarial networks of randomly-seeded fields"
+  author: [{name: "Güemes, A. and Vila, C. S. and Discetti, S."}]
+  date: 2022
+  parent: {type: periodical, title: "Nat. Mach. Intell.", volume: "4"}
+  page-range: "1165-1173"
+
+"hu2018squeeze":
+  type: article
+  title: "Squeeze-and-excitation networks"
+  author: [{name: "Hu, J. and Shen, L. and Sun, G."}]
+  date: 2018
+  parent: {type: proceedings, title: "Proceedings of the IEEE conference on computer vision and pattern recognition"}
+  page-range: "7132-7141"
+
+"Loiseau2018":
+  type: article
+  title: "From the POD-Galerkin Method to Sparse Manifold Models"
+  author: [{name: "Loiseau, J.-Ch. and Brunton, S. L. and Noack, B. R."}]
+  date: 2018
+  parent: {type: periodical, title: "m̊ available on ResearchGate"}
+  doi: "10.13140/RG.2.2.27965.31201"
+
+"Rowley2017":
+  type: article
+  title: "Model reduction for flow analysis and control"
+  author: [{name: "Rowley, C. W. and Dawson, S. T. M."}]
+  date: 2017
+  parent: {type: periodical, title: "Annu. Rev. Fluid. Mech.", volume: "49"}
+  page-range: "387-417"
+
+"Milano2002":
+  type: article
+  title: "Neural network modeling for near wall turbulent flow"
+  author: [{name: "Milano, M. and Koumoutsakos, P."}]
+  date: 2002
+  parent: {type: periodical, title: "J. Comput. Phys.", volume: "182"}
+  page-range: "1-26"
+
+"HFMF2020a":
+  type: article
+  title: "Machine-learning-based reduced-order modeling for unsteady flows around bluff bodies of various shapes"
+  author: [{name: "K. Hasegawa and K. Fukami and T. Murata and K. Fukagata"}]
+  date: 2020
+  parent: {type: periodical, title: "Theor. Comput. Fluid Dyn.", volume: "34"}
+  page-range: "367-388"
+
+"BNK2020":
+  type: article
+  title: "Machine learning for fluid mechanincs"
+  author: [{name: "Brunton, S. L. and Noack, B. R. and Koumoutsakos, P."}]
+  date: 2020
+  parent: {type: periodical, title: "Annu. Rev. Fluid Mech.", volume: "52"}
+  page-range: "477-508"
+
+"NF2022":
+  type: article
+  title: "Robust training approach of neural networks for fluid flow state estimations"
+  author: [{name: "Nakamura, T. and Fukagata, K."}]
+  date: 2022
+  parent: {type: periodical, title: "Int. J. Heat Fluid Flow", volume: "96"}
+  page-range: "108997"
+
+"nakamura2020extension":
+  type: article
+  title: "Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow"
+  author: [{name: "Nakamura, T. and Fukami, K. and Hasegawa, K. and Nabae, Y. and Fukagata, K."}]
+  date: 2021
+  parent: {type: periodical, title: "Phys. Fluids", volume: "33"}
+  page-range: "025116"
+
+"manohar2022sparse":
+  type: article
+  title: "Sparse sensor-based cylinder flow estimation using artificial neural networks"
+  author: [{name: "Manohar, K. H. and Morton, C. and Ziadé, P."}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "7"}
+  page-range: "024707"
+
+"MFRFT2020":
+  type: article
+  title: "Probabilistic neural networks for fluid flow surrogate modeling and data recovery"
+  author: [{name: "R. Maulik and K. Fukami and N. Ramachandra and K. Fukagata and K. Taira"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "5"}
+  page-range: "104401"
+
+"MFMVF2022":
+  type: article
+  title: "Assessments of epistemic uncertainty using Gaussian stochastic weight averaging for fluid-flow regression"
+  author: [{name: "M. Morimoto and K. Fukami and R. Maulik and R. Vinuesa and K. Fukagata"}]
+  date: 2022
+  parent: {type: periodical, title: "Phys. D: Nonlinear Phenom.", volume: "440"}
+  page-range: "133454"
+
+"liu2021uncertainty":
+  type: article
+  title: "Uncertainty quantification for Multiphase-CFD simulations of bubbly flows: a machine learning-based Bayesian approach supported by high-resolution experiments"
+  author: [{name: "Liu, Y. and Wang, D. and Sun, X. and Dinh, N. and Hu, R."}]
+  date: 2021
+  parent: {type: periodical, title: "Reliab. Eng. Syst.", volume: "212"}
+  page-range: "107636"
+
+"hammond2022machine":
+  type: article
+  title: "Machine Learning Methods in CFD for Turbomachinery: A Review"
+  author: [{name: "Hammond, J. and Pepper, N. and Montomoli, F. and Michelassi, V."}]
+  date: 2022
+  parent: {type: periodical, title: "Int. J. Turbomach. Propuls.", volume: "7"}
+  page-range: "16"
+
+"HFMF2020b":
+  type: article
+  title: "CNN-LSTM based reduced order modeling of two-dimensional unsteady flows around a circular cylinder at different Reynolds numbers"
+  author: [{name: "Hasegawa, K. and Fukami, K. and Murata, T. and Fukagata, K."}]
+  date: 2020
+  parent: {type: periodical, title: "Fluid Dyn. Res.", volume: "52"}
+  page-range: "065501"
+
+"zhang2022towards":
+  type: article
+  title: "Towards real-time prediction of velocity field around a building using generative adversarial networks based on the surface pressure from sparse sensor networks"
+  author: [{name: "Zhang, B. and Ooka, R. and Kikumoto, H. and Hu, C. and Tim, K. T."}]
+  date: 2022
+  parent: {type: periodical, title: "J. Wind. Eng. Ind.", volume: "231"}
+  page-range: "105243"
+
+"NG2020":
+  type: article
+  title: "Leveraging reduced-order models for state estimation using deep learning"
+  author: [{name: "Nair, N. J. and Goza, A."}]
+  date: 2020
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "897"}
+  serial-number: "R1"
+
+"BDW2004":
+  type: article
+  title: "Aerodynamic Data Reconstruction and Inverse Design Using Proper Orthogonal Decomposition"
+  author: [{name: "Bui-Thanh, T. and Damodaran, M. and Willcox, K."}]
+  date: 2004
+  parent: {type: periodical, title: "AIAA J.", volume: "42"}
+  page-range: "1505-1516"
+
+"adrian1988stochastic":
+  type: article
+  title: "Stochastic estimation of organized turbulent structure: homogeneous shear flow"
+  author: [{name: "Adrian, R. J. and Moin, P."}]
+  date: 1988
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "190"}
+  page-range: "531-559"
+
+"ES1995":
+  type: article
+  title: "Karhunen--Loeve procedure for gappy data"
+  author: [{name: "Everson, R. and Sirovich, L."}]
+  date: 1995
+  parent: {type: periodical, title: "J. Opt. Soc. Am.", volume: "12"}
+  page-range: "1657-1664"
+
+"HFMF2019":
+  type: article
+  title: "Data-driven reduced order modeling of flows around two-dimensional bluff bodies of various shapes"
+  author: [{name: "Hasegawa, K. and Fukami, K. and Murata, T. and Fukagata, K."}]
+  date: 2019
+  parent: {type: periodical, title: "ASME-JSME-KSME Joint Fluids Engineering Conference, San Francisco, USA"}
+
+"stolz2001approximate":
+  type: article
+  title: "An approximate deconvolution model for large-eddy simulation with application to incompressible wall-bounded flows"
+  author: [{name: "Stolz, S. and Adams, N. A. and Kleiser, L."}]
+  date: 2001
+  parent: {type: periodical, title: "Phys. Fluids", volume: "13"}
+  page-range: "997-1015"
+
+"LPBK2020":
+  type: article
+  title: "Multiresolution convolutional autoencoders"
+  author: [{name: "Liu, Y. and Ponce, C. and Brunton, S. L. and Kutz, J. N."}]
+  date: 2022
+  parent: {type: periodical, title: "J. Comput. Phys."}
+  page-range: "111801"
+
+"LY2019b":
+  type: article
+  title: "Mechanisms of a convolutional neural network for learning three-dimensional unsteady wake flow"
+  author: [{name: "Lee, S. and You, D."}]
+  date: 2019
+  parent: {type: periodical, title: "arXiv:1909.06042"}
+
+"LY2019":
+  type: article
+  title: "Data-driven prediction of unsteady flow fields over a circular cylinder using deep learning"
+  author: [{name: "Lee, S. and You, D."}]
+  date: 2019
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "879"}
+  page-range: "217-254"
+
+"KL2020":
+  type: article
+  title: "Prediction of turbulent heat transfer using convolutional neural networks"
+  author: [{name: "Kim, J. and Lee, C."}]
+  date: 2020
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "882"}
+  serial-number: "A18"
+
+"FFT2019tsfp":
+  type: article
+  title: "Super-resolution analysis with machine learning for low-resolution flow data"
+  author: [{name: "Fukami, K. and Fukagata, K. and Taira, K."}]
+  date: 2019
+  parent: {type: proceedings, title: "11th International Symposium on Turbulence and Shear Flow Phenomena (TSFP11), Southampton, UK"}
+
+"maulik2019time":
+  type: article
+  title: "Time-series learning of latent-space dynamics for reduced-order model closure"
+  author: [{name: "Maulik, R. and Mohan, A. and Lusch, B. and Madireddy, S. and Balaprakash, P."}]
+  date: 2020
+  parent: {type: periodical, title: "Physica D: Nonlinear Phenomena", volume: "405"}
+  page-range: "132368"
+
+"zhang2018application":
+  type: article
+  title: "Application of convolutional neural network to predict airfoil lift coefficient"
+  author: [{name: "Zhang, Y. and Sung, W. J. and Mavris, D. N."}]
+  date: 2018
+  parent: {type: proceedings, title: "AIAA paper, 2018-1903"}
+
+"bhatnagar2019prediction":
+  type: article
+  title: "Prediction of aerodynamic flow fields using convolutional neural networks"
+  author: [{name: "Bhatnagar, S. and Afshar, Y. and Pan, S. and Duraisamy, K. and Kaushik, S."}]
+  date: 2019
+  parent: {type: periodical, title: "Comput. Mech.", volume: "64"}
+  page-range: "525-545"
+
+"kim2020deep":
+  type: article
+  title: "Deep unsupervised learning of turbulence for inflow generation at various Reynolds numbers"
+  author: [{name: "Kim, J. and Lee, C."}]
+  date: 2020
+  parent: {type: periodical, title: "J. Comput. Phys.", volume: "406"}
+  page-range: "109216"
+
+"chen2020numerical":
+  type: article
+  title: "Numerical investigation of minimum drag profiles in laminar flow using deep learning surrogates"
+  author: [{name: "Chen, Li-Wei and Cakal, Berkay Alp and Hu, Xiangyu and Thuerey, Nils"}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2009.14339"}
+
+"lund1998generation":
+  type: article
+  title: "Generation of turbulent inflow data for spatially-developing boundary layer simulations"
+  author: [{name: "Lund, T. S. and Wu, X. and Squires, K. D."}]
+  date: 1998
+  parent: {type: periodical, title: "J. Comput. Phys.", volume: "140"}
+  page-range: "233-258"
+
+"wu2017inflow":
+  type: article
+  title: "Inflow turbulence generation methods"
+  author: [{name: "Wu, X."}]
+  date: 2017
+  parent: {type: periodical, title: "Annu. Rev. Fluid Mech", volume: "49"}
+  page-range: "23-49"
+
+"xu2020multi":
+  type: article
+  title: "Multi-level convolutional autoencoder networks for parametric prediction of spatio-temporal dynamics"
+  author: [{name: "Xu, J. and Duraisamy, K."}]
+  date: 2020
+  parent: {type: periodical, title: "Comput. Methods Appl. Mech. Eng.", volume: "372"}
+  page-range: "113379"
+
+"CJKMPW2019":
+  type: article
+  title: "Recovering missing CFD data for high-order discretizations using deep neural networks and dynamics learning"
+  author: [{name: "K. T. Carlberg and A. Jameson and M. J. Kochenderfer and J. Morton and L. Peng and F. D. Witherden"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Comput. Phys.", volume: "395"}
+  serial-number: "105 - 124"
+
+"fukami2020sparse":
+  type: article
+  title: "Sparse identification of nonlinear dynamics with low-dimensionalized flow representations"
+  author: [{name: "Fukami, K. and Murata, T. and Zhang, K. and Fukagata, K."}]
+  date: 2021
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "926"}
+  serial-number: "A10"
+
+"KKL2023":
+  type: article
+  title: "Interpretable deep learning for prediction of Prandtl number effect in turbulent heat transfer"
+  author: [{name: "Kim, H. and Kim, J. and Lee, C."}]
+  date: 2023
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "955"}
+  serial-number: "A14"
+
+"maulik2020reduced":
+  type: article
+  title: "Reduced-order modeling of advection-dominated systems with recurrent neural networks and convolutional autoencoders"
+  author: [{name: "Maulik, R. and Lusch, B. and Balaprakash, P."}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2002.00470"}
+
+"FFT2020":
+  type: article
+  title: "Assessment of supervised machine learning for fluid flows"
+  author: [{name: "K. Fukami and K. Fukagata and K. Taira"}]
+  date: 2020
+  parent: {type: periodical, title: "Theor. Comput. Fluid Dyn.", volume: "34"}
+  page-range: "497-519"
+
+"thuerey2020deep":
+  type: article
+  title: "Deep learning methods for Reynolds-averaged Navier--Stokes simulations of airfoil flows"
+  author: [{name: "Thuerey, N. and Weißenow, K. and Prantl, L. and Hu, X."}]
+  date: 2020
+  parent: {type: periodical, title: "AIAA J.", volume: "58"}
+  page-range: "25-36"
+
+"font2020deep":
+  type: article
+  title: "Deep learning the spanwise-averaged Navier--Stokes equations"
+  author: [{name: "Font, B. and Weymouth, G. D. and Nguyen, V.-T. and Tutty, O. R."}]
+  date: 2020
+  parent: {type: periodical, title: "arXiv:2008.07528"}
+
+"pawar2020priori":
+  type: article
+  title: "A priori analysis on deep learning of subgrid-scale parameterizations for Kraichnan turbulence"
+  author: [{name: "Pawar, S. and San, O. and Rasheed, A. and Vedula, P."}]
+  date: 2020
+  parent: {type: periodical, title: "Theor. Comput. Fluid Dyn.", volume: "34"}
+  page-range: "429-455"
+
+"CZXG2019":
+  type: article
+  title: "Dense motion estimation of particle images via a convolutional neural network"
+  author: [{name: "Cai, S. and Zhou, S. and Xu, C. and Gao, Q."}]
+  date: 2019
+  parent: {type: periodical, title: "Exp. Fluids", volume: "60"}
+  page-range: "60-73"
+
+"kim2021unsupervised":
+  type: article
+  title: "Unsupervised deep learning for super-resolution reconstruction of turbulence"
+  author: [{name: "Kim, H. and Kim, J. and Won, S. and Lee, C."}]
+  date: 2021
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "910"}
+  serial-number: "A29"
+
+"zhu2017unpaired":
+  type: article
+  title: "Unpaired image-to-image translation using cycle-consistent adversarial networks"
+  author: [{name: "Zhu, J.-Y. and Park, T. and Isola, P. and Efros, A. A."}]
+  date: 2017
+  parent: {type: proceedings, title: "Proceedings of the IEEE international conference on computer vision"}
+  page-range: "2223-2232"
+
+"lapeyre2019training":
+  type: article
+  title: "Training convolutional neural networks to estimate turbulent sub-grid scale reaction rates"
+  author: [{name: "Lapeyre, C. J. and Misdariis, A. and Cazard, N. and Veynante, D. and Poinsot, T."}]
+  date: 2019
+  parent: {type: periodical, title: "Combust. Flame", volume: "203"}
+  page-range: "255-264"
+
+"psaros2022meta":
+  type: article
+  title: "Meta-learning PINN loss functions"
+  author: [{name: "Psaros, A. F. and Kawaguchi, K. and Karniadakis, G. E."}]
+  date: 2022
+  parent: {type: periodical, title: "J. Comput. Phys.", volume: "458"}
+  page-range: "111121"
+
+"TNB2016":
+  type: article
+  title: "Network structure of two-dimensional decaying isotropic turbulence"
+  author: [{name: "K. Taira and A. G. Nair and S. L. Brunton"}]
+  date: 2016
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "795"}
+  serial-number: "R2"
+
+"NAMTT2003":
+  type: article
+  title: "A Hierarchy of Low-Dimensional Models for the Transient and Post-Transient Cylinder Wake"
+  author: [{name: "B. R. Noack and K. Afanasiev and M. Morzynski and G. Tadmor and F. Thiele"}]
+  date: 2003
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "497"}
+  serial-number: "335–363"
+
+"NPM2005":
+  type: article
+  title: "The need for a pressure-term representation in empirical Galerkin models of incompressible shear flows"
+  author: [{name: "B. R. Noack and P. Papas and P. A. Monkewitz"}]
+  date: 2005
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "523"}
+  serial-number: "339–365"
+
+"LANOT2018":
+  type: article
+  title: "Core-pressure alleviation for a wall-normal vortex by active flow control"
+  author: [{name: "Q. Liu and B. An and M. Nohmi and M. Obuchi and K. Taira"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "853"}
+  serial-number: "R1"
+
+"Schmid2011":
+  type: article
+  title: "Application of the dynamic mode decomposition to experimental data"
+  author: [{name: "P. J. Schmid"}]
+  date: 2011
+  parent: {type: periodical, title: "Experiments in fluids", volume: "50(4)"}
+  page-range: "1123-1130"
+
+"SSH2004":
+  type: article
+  title: "Nonlinear principal component analysis to preserve the order of principal components"
+  author: [{name: "R. Saegusa and H. Sakano and S. Hashimoto"}]
+  date: 2004
+  parent: {type: periodical, title: "Neurocomputing", volume: "61"}
+  page-range: "57-70"
+
+"TN2018":
+  type: article
+  title: "Phase-response analysis of synchronization for periodic flows"
+  author: [{name: "K. Taira and H. Nakao"}]
+  date: 2018
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "846"}
+  serial-number: "R2"
+
+"NH2010":
+  type: article
+  title: "Rectified linear units improve restricted Boltzmann machines"
+  author: [{name: "V. Nair and G. E. Hinton"}]
+  date: 2010
+  parent: {type: periodical, title: "In Proc. 27th International Conference on Machine Learning"}
+
+"MS2010":
+  type: article
+  title: "A critical-layer framework for turbulent pipe flow"
+  author: [{name: "B. J. Mckeon and A. S. Sharma"}]
+  date: 2010
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "658"}
+  page-range: "336-382"
+
+"BK2019":
+  type: article
+  title: "Data-driven science and engineering: Machine learning, dynamical systems, and control"
+  author: [{name: "S. L. Brunton and J. N. Kutz"}]
+  date: 2019
+
+"turbulence":
+  type: article
+  title: "Turbulence: An Introduction for Scientists and Engineers"
+  author: [{name: "P.A. Davidson"}]
+  date: 2015
+
+"weller1998tensorial":
+  type: article
+  title: "A tensorial approach to computational continuum mechanics using object-oriented techniques"
+  author: [{name: "Weller, H. G. and Tabor, G. and Jasak, H. and Fureby, C."}]
+  date: 1998
+  parent: {type: periodical, title: "Comput. Phys.", volume: "12"}
+  page-range: "620-631"
+
+"VGG16":
+  type: article
+  title: "Very Deep Convolutional Networks for Large-Scale Image Recognition"
+  author: [{name: "Karen Simonyan and Andrew Zisserman"}]
+  date: 2015
+  parent: {type: proceedings, title: "International Conference on Learning Representations"}
+
+"HLC2019":
+  type: article
+  title: "Online in situ prediction of 3-D flame evolution from its history 2-D projections via deep learning"
+  author: [{name: "J. Huang and H. liu and W. Cai"}]
+  date: 2019
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "875"}
+
+"GKO2020":
+  type: article
+  title: "On the surface expression of bottom features in free-surface flow"
+  author: [{name: "S. Gakhar and J. R. Koseff and N. T. Ouellette"}]
+  date: 2020
+  parent: {type: periodical, title: "J. Fluid Mech.", volume: "900"}
+
+"deconv2015":
+  type: article
+  title: "Discriminative unsupervised feature learning with exemplar convolutional neural networks"
+  author: [{name: "A. Dosovitskiy and P. Fischer and J. T. Springenberg and M. Riedmiller and T. Brox"}]
+  date: 2019
+  parent: {type: periodical, title: "IEEE Trans. Pattern Anal. Mach. Intell.", volume: "38"}
+
+"DV2015":
+  type: article
+  title: "A guide to convolution arithmetic for deep learning"
+  author: [{name: "V. Dumoulin and F. Visin"}]
+  date: 2016
+  parent: {type: periodical, title: "arXiv:1603.07285"}
+
+"PLACW2020":
+  type: article
+  title: "Data-Driven Modeling of Geometry-Adaptive Steady Heat Transfer based on Convolutional Neural Networks: Heat Conduction"
+  author: [{name: "J Peng and X. Liu and N. Aubry and Z. Chen and W. T. Wu"}]
+  date: 2020
+  parent: {type: periodical, title: "arxiv:2010.03854"}
+
+"shanker1996effect":
+  type: article
+  title: "Effect of data standardization on neural network training"
+  author: [{name: "Shanker, M. and Hu, M. Y. and Hung, M. S."}]
+  date: 1996
+  parent: {type: periodical, title: "Omega", volume: "24"}
+  page-range: "385-397"
+
+"Domingos2012":
+  type: article
+  title: "A few useful things to know about machine learning"
+  author: [{name: "Domingos, P."}]
+  date: 2012
+  parent: {type: periodical, title: "Communications of the ACM", volume: "55"}
+  page-range: "78-87"
+
+"BHT2020":
+  type: article
+  title: "Special issue on machine learning and data-driven methods in fluid dynamics"
+  author: [{name: "S. L. Brunton and M. S. Hemati and K. Taira"}]
+  date: 2020
+  parent: {type: periodical, title: "Theor. Comput. Fluid Dyn.", volume: "34"}
+  page-range: "333-337"
+
+"RPCA2020":
+  type: article
+  title: "Robust principal component analysis for modal decomposition of corrupt fluid flows"
+  author: [{name: "I. Scherl and B. Strom and J. K. Shang and O. Williams and B. L. Polagye and S. L. Brunton"}]
+  date: 2020
+  parent: {type: periodical, title: "Phys. Rev. Fluids", volume: "5"}
+  page-range: "054401"
+
+"manohar2018data":
+  type: article
+  title: "Data-driven sparse sensor placement for reconstruction: Demonstrating the benefits of exploiting known patterns"
+  author: [{name: "Manohar, K. and Brunton, B. W. and Kutz, J. N. and Brunton, S. L."}]
+  date: 2018
+  parent: {type: periodical, title: "IEEE Control Systems Magazine", volume: "38"}
+  page-range: "63-86"
+
+"PSARK2020":
+  type: article
+  title: "Physics guided machine learning using simplified theories"
+  author: [{name: "S. Pawar and O. San and B. Aksoylu and A. Rasheed and T. Kvamsdal"}]
+  date: 2020
+  parent: {type: periodical, title: "arxiv:2012.13343"}
+
+"GSW2020":
+  type: article
+  title: "PhyGeoNet: Physics-informed geometry-adaptive convolutional neural networks for solving Parameterized Steady-State PDEs on irregular domain"
+  author: [{name: "H. Gao and L. Sun and J.-X. Wang"}]
+  date: 2020
+  parent: {type: periodical, title: "J. Comput. Phys."}
+  page-range: "110079"

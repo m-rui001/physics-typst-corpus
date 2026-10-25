@@ -1,0 +1,11 @@
+{
+ "paper": "2101.08448",
+ "tikz": 0,
+ "bib": true,
+ "last_errors": "error: unclosed delimiter\n    \u250c\u2500 \\\\?\\E:\\phys\\papers\\2101.08448\\main.typ:954:32\n    \u2502\n954 \u2502 #thmbox(\"theorem\", \"Definition\")[ (adapted from @bharti2020iterative) For a given positive integer $K$, a set of unitaries $bb(U) equiv {U_j}_(j = 1)^m$ and a quantum state $| psi chevron.r , K$-moment states is the set of quantum states of the form ${U_(j_K) dots.h.c U_(j_2) U_(j_1) | psi chevron.r}_j$ for $U_(j_l) in bb(U) .$ Let us denote the aforementioned set by $bb(S)_K$. We define the singleton set ${| psi chevron.r}$ as the $0$-moment state (denoted by $bb(S)_0$). Finally, we define the cumulative $K$-moment states $bb(C S)_K$ as $bb(C S)_K equiv union_(i = 0)^K bb(S)_i$.\n    \u2502                                 ^\n\nerror: unclosed label\n    \u250c\u2500 \\\\?\\E:\\phys\\papers\\2101.08448\\main.typ:957:3\n    \u2502\n957 \u2502 \\] <def:cumulant\\_states>\n    \u2502    ^^^^^^^^^^^^^\n\n",
+ "compiled": true,
+ "latexblock": {
+  "before": 12,
+  "after": 0
+ }
+}
